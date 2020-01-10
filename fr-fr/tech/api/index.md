@@ -1,4 +1,4 @@
-# NOS APIS
+# Nos APIs
 
 Vous trouverez dans cette section la description de nos APIs au format REST. Si vous utilisiez nos WebServices SOAP, les points API decrit dans cette partie de l'aide remplacent les méthodes que vous utilisiez.
 
@@ -35,8 +35,6 @@ Accept: */*
 Host: demo-api-simplement-e.azurewebsites.net
 accept-encoding: gzip, deflate
 Connection: keep-alive
-
-
 
 
 HTTP/1.1 200 OK
@@ -132,3 +130,4 @@ Connection: keep-alive
     "MetaType": "Produit"
 }
 ```
+
