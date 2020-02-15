@@ -2,7 +2,7 @@
 
 Dernière révision : 11/09/2017
 
-## 1\. Identification des parties
+## 1. Identification des parties
 
 Le présent contrat est établi entre :
 
@@ -10,7 +10,7 @@ d'une part, Creo Ignem, Société à Responsabilités Limitées, d'un capital de
 
 et d'autre part, tout utilisateur ayant pouvoir d'engager la responsabilité pour l'entité juridique qu'il représente et ayant réalisé l'acquisition de la Solution logicielle mis à disposition par l'Editeur, que ce soit directement ou par l'intermédiaire d'un Revendeur ou d'un Intégrateur, ci-après nommé le Client.
 
-## 2\. Objet
+## 2. Objet
 
 L'Editeur est notoirement connu pour être expert dans le domaine du Commerce Unifié, et édite en son nom propre une Solution Logicielle facilitant la mise en place de processus de commerce omnicanal. L'Editeur opère en son nom propre la solution sous forme :  
  - SaaS que le Client peut utiliser sur les ressources matérielles de l'Editeur  
@@ -18,7 +18,7 @@ L'Editeur est notoirement connu pour être expert dans le domaine du Commerce Un
 
 Le présent contrat a pour objet de définir les conditions dans lesquelles l'Editeur met à disposition la Solution Logicielle pour le Client et aux Utilisateur constituant celui-ci.
 
-## 3\. Elements constitutifs
+## 3. Elements constitutifs
 
 Le présent contrat est formé de plusieurs éléments constitutifs, par ordre de valeur croissante :
 
@@ -41,18 +41,18 @@ Le présent contrat est, en outre, complété par les annexes suivantes :
 
 Les stipulations présentent en annexes sont considérées comme ayant une valeur juridique moindre que celle des éléments constitutifs, sauf mention contraire.
 
-## 4\. Acceptation
+## 4. Acceptation
 
 L'utilisation de toute ou partie de la Solution vaut acceptation pleine, entière et sans aucune restriction, par le Client de toutes les conditions qui lui applicables.
 
 A défaut de pouvoir vérifier le pouvoir d'engager la responsabilité juridique du Client par l'utilisateur ayant procédé à l'acquisition, l'Editeur se reserve le droit de résilier unilatéralement et sans préavis, le présent contrat et de supprimer l'accès ainsi que toutes les données du Client.
 
-## 5\. Conditions d'application
+## 5. Conditions d'application
 
 Chaque élément constitutif du présent Contrat, tels que définit au chapitre 2 du présent document, définit les conditions d'application qui lui sont propres. A défaut de cette définition, les conditions stipulées dans un élément constitutif sont considérées comme s'appliquant au Client.  
 Le présent document ainsi que les Définitions sont applicables au Client quelques soit les conditions d'application des autres éléments.
 
-## 6\. Droit applicable
+## 6. Droit applicable
 
 Le présent contrat est soumis aux lois et réglementations du pays dans lequel le logiciel est utilisé. En cas de conflit manifeste entre les termes du présent contrat et la réglementation, l'Editeur se réserve le droit de suspendre la commercialisation du logiciel dans le pays concerné.  
 A cette date les pays suivants sont considérés comme commercialisés :
@@ -62,13 +62,13 @@ A cette date les pays suivants sont considérés comme commercialisés :
 
 L'utilisation de la Solution dans tout autre pays est réalisée sous l'entière responsabilité du Client. Celui-ci pourra signaler à l'Editeur toute inadéquation de Solution avec la législation et la réglementation du pays dans lequel il exploite la Solution. Ce signalement ne vaut pas accord de l'Editeur de se conformer aux contraintes du pays d'exploitation.
 
-## 7\. Propriété intellectuelle
+## 7. Propriété intellectuelle
 
 L'Editeur conserve tous les droits, titres et intérêts relatifs à la Solution ou incorporés dans celle-ci, y compris tous les droits d’auteur, brevets, secrets de fabrication, marques commerciales et autres droits de propriété intellectuelle. Tous les droits qui ne sont pas expressément concédés sont réservés par l'Editeur. Les présentes conditions ne concèdent, ni n’impliquent, aucun droit sur aucune marque commerciale, ni sur aucun nom de marque de l'éditeur.
 
 L'Editeur conserve aussi tous les droits sur le Code Source de la Solution et déclare l'intégralité de celui-ci comme étant un secret de fabrication. Pour le cas où l'Editeur choisirait de partager une partie du Code Source avec le Client, ce dernier accepte de considérer tous les documents qu'il recevra comme confidentiels et assure à l'Editeur prendre toutes les précautions afin de ne pas divulguer ceux-ci. Le Client accepte de dédommager l'Editeur pour toute perte de chiffre d'affaires, de clientèle ou pour toute action juridique qui pourraient intervenir suite à divulgation de ces documents.
 
-## 8\. Garantie contre la contrefaçon
+## 8. Garantie contre la contrefaçon
 
 L'Editeur garantit au Client que la Solution ne porte pas atteinte à des droits que pourraient revendiquer des Tiers, incluant et sans que cette liste ne soit exhaustive : brevets, droit de propriété intellectuelle, marques, etc.
 
@@ -80,7 +80,7 @@ Le Client prendra à sa charge toute frais normalement couverts par cette garant
 
 L'Editeur s'engage à dédommager le Client de tout frais judiciaires et assimiliés que le Client aurait à engager du fait de l'atteinte aux droits d'un Tiers et ce jusqu'à hauteur des sommes versées par le Client à l'Editeur sur l'année civile dans laquelle une décision de justice condamnant le Client pour des faits couverts par cette garantie.
 
-## 9\. Responsabilité
+## 9. Responsabilité
 
 L'Editeur n'engage sa responsabilité qu'au titre des dommages directs engendrés par l'exploitation de la Solution. Cette responsabilité ne saurait être engagée si l'Utilisateur ne respecte pas les recommandations de l'Editeur, les bonnes pratiques quant à l'utilisation d'un outil informatique ou les règles élémentaires de sécurité. 
 

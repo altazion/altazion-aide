@@ -2,7 +2,7 @@
 
 Dernière mise à jour le 18/08/17
 
-## 1\. CONDITIONS DE MISE A DISPOSITION
+## 1. CONDITIONS DE MISE A DISPOSITION
 
 Pendant la durée de la maintenance évolutive, l'Editeur met à disposition du Client de nouvelles versions selon une planification à sa discrétion. Chaque nouvelle version peut inclure de nouvelles fonctionnalités, des évolutions sur celles existantes ainsi que des correctifs. La mise à disposition d'une nouvelle fonctionnalité n'engage en rien la responsabilité de l'Editeur quant à l'adéquation de celle-ci avec un besoin exprimé par le Client.
 
@@ -12,23 +12,23 @@ Au titre de la maintenance évolutive, l'Editeur s'engage à fournir au Client a
 
 Dans la mesure de ces moyens, l'Editeur mettra à disposition du Client une liste des modifications apportées pour chaque nouvelle version selon un moyen à sa discrétion. Cette liste n'aura pas valeur d'exhausitivité et n'engage en rien l'Editeur quant à l'adéquation entres les évolutions proposées et les besoins du Client. En cas de doute quant aux impacts d'une nouvelle version sur l'utilisation du Logiciel par le Client, ce dernier pourra demander une prestation d'analyse d'impact auprès de l'Editeur.
 
-## 2\. INDIVISIBILITE
+## 2. INDIVISIBILITE
 
 Les versions mise à jour du Logiciel sont réputées comme faisant partie intégrante du Logiciel et ne peuvent pas faire l'objet de conditions d'utilisations différentes.  La non-utilisation d'une fonctionnalité ne peut donner droit à un quelconque dédommagement et notamment à aucune remise sur les tarifs.
 
 Pour le cas où une fonctionnalité serait supprimé, elle sera réputé comme non utilisable à partir de la date à laquelle la version contenant cette suppression sera mis à disposition. Toute utilisation par le Client de cette fonctionnalité après cette date est de son entière responsabilité et ne pourra en aucune manière donner droit à un dédommagement d'aucun type, notamment, et sans que cette liste soit exhaustive : perte de chiffre d'affaires, pénalités, amendes, frais de justice.
 
-## 3\. CONDITIONS POUR INSTALLATION ONPREMISE
+## 3. CONDITIONS POUR INSTALLATION ONPREMISE
 
 La responsabilité de recetter, valider et installer les nouvelles versions sont la responsabilité du Client. Toute demande d'aide ou d'accompagnement sur ces sujets pourront faire l'objet d'une faction de la part de l'Editeur.
 
 La non-acceptation et la non-installation des versions mises à jour entraine, après un délai correspondant à la mise à jour de 3 versions, l'invalidation de toute garantie. Une telle invalidation ne pourra donner droit à quelconque dédommagement.
 
-## 4\. CONDITIONS POUR INSTALLATION SAAS
+## 4. CONDITIONS POUR INSTALLATION SAAS
 
 Les nouvelles versions sont déployées automatiquement par l'Editeur sur l'environnement SaaS, sous sa responsabilité. Le Client peut demander à participer aux tests et à la recette des nouvelles versions selon des conditions qui lui seront détaillées par l'Editeur.
 
-## 5\. RESPONSABILITES
+## 5. RESPONSABILITES
 
 En cas d'introduction d'anomalies au cours d'une mise à jour, l'Editeur s'engage à corriger dans la mesures de ses moyens, la dite anomalie. Cette obligation s'entend en obligation de moyens et non de résultats. Le Client devra notifier l'Editeur d'une telle anomalie en lui fournissant permettant de vérifier l'assertion, faute de quoi l'Editeur se réserve le droit considérer cette anomalie comme non avenue.
 

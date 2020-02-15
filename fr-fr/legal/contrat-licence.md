@@ -2,11 +2,11 @@
 
 Dernière révision : 11/09/2017
 
-## 1\. Objet
+## 1. Objet
 
 Les présents termes de licence autorisent le Client à utiliser une copie du logiciel selon les droits ci-après.
 
-## 2\. Champ d'application
+## 2. Champ d'application
 
 Le logiciel n’est pas vendu mais concédé sous licence. Le présent contrat confère au Client certains droits d’utilisation du logiciel, l'Editeur se réservant tous les autres droits. Sauf contraintes légales, le Client n'est autorisé à utiliser le logicel qu’en conformité avec les termes du présent contrat. Le Client et ses Utilisateurs ne sont, en particulier, pas autorisés à :  
 - contourner les restrictions techniques contenues dans le logiciel ;  
@@ -18,7 +18,7 @@ Le logiciel n’est pas vendu mais concédé sous licence. Le présent contrat c
 - utiliser le logiciel en association avec des services d’hébergement commercial.  
 En cas de non respect de ces conditions, l'éditeur se réserve le droit de révoquer immédiatement tous les droits d'utilisation, de limiter les conditions d'exploitation du logiciel ou d'engager toute procédure judiciaire nécessaire au respect de ses droits.
 
-## 3\. Décompte des utilisations
+## 3. Décompte des utilisations
 
 La présente Solution Logicielle vous est concédé sous réserve d'installation et d'utilisation sur un nombre maximum de dispositifs ou un nombre maximum d'utilisateurs selon les définitions suivantes :  
 - une licence serveur donne le droit d'installation de la fonctionnalité concernée sur 1 (un) serveur accessible via 1 (un) unique nom de domaine, à des fins d'utilisation pour 1 (une) raison sociale. Par dérogation, le Client peut installer la fonctionnalité sur 1 (un) serveur supplémentaire si celui-ci fait office de remplacement à chaud en cas de panne, à l'unique condition que ce serveur supplémentaire ne soit utilisé qu'en cas de défaillance.  
@@ -27,7 +27,7 @@ La présente Solution Logicielle vous est concédé sous réserve d'installation
 Par dérogation à ces règles, il est accordé au Client un droit d'utilisation spécifique dans le cadre des procédures "cross-canal" permettant à toutes ses filliales ou affiliés d'accèder à un certain nombre d'informations en consultation sans disposer de licence affectée.  
 Cette dérogation ne concerne que l'accès aux données enregistrées pour le nom propre de la filliale ou de l'affilié, par exemple dans le cadre du Web-to-store, du transfert de commande entre entités ou celles permettant la bonne marche de procédure de livraison.
 
-## 4\. Adéquation
+## 4. Adéquation
 
 La présente Solution Logicielle est fournie en l'état, et n'engage en rien la responsabilité de l'Editeur quant à son adéquation avec le besoin exprimé par le Client, celui-ci étant seul responsable de la vérification de cette adéquation.  
 Par ailleurs, l'Editeur n'engage en aucune manière sa responsabilité sur l'adéquation de la Solution avec le cadre légal et réglementaire du pays dans lequel elle est utilisé si l'Editeur ne possède aucun bureau, filiale ou comptoir dans ce pays. Dans les pays où l'Editeur est implanté, celui-ci engagera les moyens pour mettre en conformité la Solution avec le cadre légal dans un délai de 6 (six) mois à partir de la date où l'inadéquation aura été relevée ou à terminer l'exploitation de la ou des fonctionnalité(s) correspondante(s). La mise en conformité se fera exclusivement selon les conditions de la maintenance évolutives détailles ci-après.
