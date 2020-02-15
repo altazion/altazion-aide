@@ -1,0 +1,22 @@
+- name: Infos légales
+  href: index.md
+- name: Contrats
+  items:
+    - name: Définitions
+      href: definitions.md
+    - name: Conditions générales
+      href: contrats.md
+    - name: Contrat Licence
+      href: contrat-licence.md
+    - name: Dev spécifiques
+      href: dev-specifique.md
+    - name: Maintenace évolutive
+      href: evolutive.md
+    - name: Maintenace corrective
+      href: maintenance-corrective.md      
+    - name: Annexes
+      href: annexes.md
+- name: Politique confidentialité
+  href: confidentialite.md
+- name: Partenaires
+  href: partenaires.md
