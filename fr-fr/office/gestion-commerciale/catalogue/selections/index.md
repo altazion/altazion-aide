@@ -42,11 +42,11 @@
 <table>
 <tbody>
 <tr>
-<td><a href="/app/gestion-commerciale/catalogue/selections/Edit.aspx">Nouvelle auto</a></td>
+<td><a href="/fr-fr/office/gestion-commerciale/catalogue/selections/Edit.aspx">Nouvelle auto</a></td>
 <td>&nbsp;Cette action va vous permettre de cr&eacute;er une nouvelle s&eacute;lection automatiquement.</td>
 </tr>
 <tr>
-<td><a href="/app/gestion-commerciale/catalogue/selections/selectionmanuelle.aspx">Nouvelle</a></td>
+<td><a href="/fr-fr/office/gestion-commerciale/catalogue/selections/selectionmanuelle.aspx">Nouvelle</a></td>
 <td>&nbsp;Ce lien va vous permettre de cr&eacute;er une nouvelle s&eacute;lection manuellement.</td>
 </tr>
 </tbody>
@@ -62,11 +62,11 @@
 <table>
 <tbody>
 <tr>
-<td><a title="S&eacute;lection automatique" href="/app/gestion-commerciale/catalogue/selections/Edit.aspx">&nbsp;<strong>S&eacute;lection automatique</strong></a></td>
+<td><a title="S&eacute;lection automatique" href="/fr-fr/office/gestion-commerciale/catalogue/selections/Edit.aspx">&nbsp;<strong>S&eacute;lection automatique</strong></a></td>
 <td>&nbsp;Permet de saisir plusieurs articles gr&acirc;ce &agrave; certaines conditions.</td>
 </tr>
 <tr>
-<td><a title="S&eacute;lection manuelle" href="/app/gestion-commerciale/catalogue/selections/selectionmanuelle.aspx"><strong>&nbsp;S&eacute;lection manuelle</strong></a></td>
+<td><a title="S&eacute;lection manuelle" href="/fr-fr/office/gestion-commerciale/catalogue/selections/selectionmanuelle.aspx"><strong>&nbsp;S&eacute;lection manuelle</strong></a></td>
 <td>&nbsp;Permet de cr&eacute;er une s&eacute;lection en saissant un par un les articles que vous souhaitez y mettre.</td>
 </tr>
 <tr>

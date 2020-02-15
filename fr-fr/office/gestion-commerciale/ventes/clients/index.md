@@ -31,7 +31,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/app/gestion-commerciale/ventes/clients/editinfogenerales.aspx">Nouveau client</a> </strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/clients/editinfogenerales.aspx">Nouveau client</a> </strong></td>
 <td>&nbsp;Cette action permet de cr&eacute;er un nouveau client.</td>
 </tr>
 </tbody>
