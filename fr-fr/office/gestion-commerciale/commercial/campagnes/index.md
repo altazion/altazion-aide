@@ -45,7 +45,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/app/gestion-commerciale/commercial/campagnes/campagnes.aspx">G&eacute;rer vos campagnes</a></strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/commercial/campagnes/campagnes.aspx">G&eacute;rer vos campagnes</a></strong></td>
 <td>&nbsp;Cette action permet de g&eacute;rer la totalit&eacute; de vos campagnes</td>
 </tr>
 <tr>
@@ -53,11 +53,11 @@
 <td>&nbsp;Cette action vous permet de cr&eacute;er de nouvelles op&eacute;rations commerciales</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;">- <a title="PUB e-commerce" href="/app/gestion-commerciale/commercial/campagnes/NouvelleIntraSite.aspx"><strong>Pub e-commerce</strong>&nbsp;</a></td>
+<td style="padding-left: 30px;">- <a title="PUB e-commerce" href="/fr-fr/office/gestion-commerciale/commercial/campagnes/NouvelleIntraSite.aspx"><strong>Pub e-commerce</strong>&nbsp;</a></td>
 <td>&nbsp;Cette action vous permet de cr&eacute;er une nouvelle publicit&eacute;</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;">- <strong><a href="/app/gestion-commerciale/commercial/campagnes/CampagneGuid.aspx">Op&eacute;. Commerciale</a></strong></td>
+<td style="padding-left: 30px;">- <strong><a href="/fr-fr/office/gestion-commerciale/commercial/campagnes/CampagneGuid.aspx">Op&eacute;. Commerciale</a></strong></td>
 <td>&nbsp;Cette action vous permet de cr&eacute;er une nouvelle op&eacute;ration commerciale</td>
 </tr>
 </tbody>
@@ -79,7 +79,7 @@
 <table>
 <tbody>
 <tr>
-<td><a title="G&eacute;rer vos campagnes" href="/app/gestion-commerciale/commercial/campagnes/campagnes.aspx"><strong>&nbsp;G&eacute;rer vos campagnes </strong></a></td>
+<td><a title="G&eacute;rer vos campagnes" href="/fr-fr/office/gestion-commerciale/commercial/campagnes/campagnes.aspx"><strong>&nbsp;G&eacute;rer vos campagnes </strong></a></td>
 <td>Cette action permet de g&eacute;rer l'integralit&eacute; de&nbsp;vos actions&nbsp;commerciales&nbsp;</td>
 </tr>
 <tr>
@@ -87,13 +87,13 @@
 <td>Cette action permet de cr&eacute;er une nouvelle op&eacute;ration commerciale</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;">- <a href="/app/gestion-commerciale/commercial/campagnes/NouvelleIntraSite.aspx"><strong>Pub e-commerce</strong> </a></td>
+<td style="padding-left: 30px;">- <a href="/fr-fr/office/gestion-commerciale/commercial/campagnes/NouvelleIntraSite.aspx"><strong>Pub e-commerce</strong> </a></td>
 <td>
 <p>Cette action vous permet de cr&eacute;er une nouvelle publicit&eacute; e-commerce&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td style="padding-left: 30px;">-<a title="Op&eacute;. Commerciale" href="/app/gestion-commerciale/commercial/campagnes/CampagneGuid.aspx"><strong> Op&eacute;. Commerciale</strong>&nbsp;</a></td>
+<td style="padding-left: 30px;">-<a title="Op&eacute;. Commerciale" href="/fr-fr/office/gestion-commerciale/commercial/campagnes/CampagneGuid.aspx"><strong> Op&eacute;. Commerciale</strong>&nbsp;</a></td>
 <td>Cette action vous permet de cr&eacute;er de nouvelle op&eacute;ration commerciale&nbsp;</td>
 </tr>
 </tbody>

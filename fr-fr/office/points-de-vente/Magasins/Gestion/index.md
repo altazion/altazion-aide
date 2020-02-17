@@ -1,4 +1,3 @@
-
 # Recherche et création
 
 
@@ -41,11 +40,11 @@
 <table>
 <tbody>
 <tr>
-<td><a title="Nouveau magasin" href="/app/gestion-commerciale/magasins/Edit.aspx/formulairededition.aspx"><strong>&nbsp;Nouveau magasin</strong></a></td>
+<td><a title="Nouveau magasin" href="/fr-fr/office/gestion-commerciale/magasins/Edit.aspx/formulairededition.aspx"><strong>&nbsp;Nouveau magasin</strong></a></td>
 <td>&nbsp;Cette action vous permet de cr&eacute;er un nouveau magasin</td>
 </tr>
 <tr>
-<td><a title="Modification rapide" href="/app/gestion-commerciale/magasins/Edit.aspx/formulairedemodification.aspx"><strong>&nbsp;Modification rapide</strong></a></td>
+<td><a title="Modification rapide" href="/fr-fr/office/gestion-commerciale/magasins/Edit.aspx/formulairedemodification.aspx"><strong>&nbsp;Modification rapide</strong></a></td>
 <td>
 <p>&nbsp;Cette action permet de modifier rapidement les informations d'un magasin</p>
 </td>
@@ -66,11 +65,11 @@
 <table>
 <tbody>
 <tr>
-<td><a title="Nouveau magasin" href="/app/gestion-commerciale/magasins/Edit.aspx/formulairededition.aspx"><strong>&nbsp;Nouveau magasin</strong></a></td>
+<td><a title="Nouveau magasin" href="/fr-fr/office/gestion-commerciale/magasins/Edit.aspx/formulairededition.aspx"><strong>&nbsp;Nouveau magasin</strong></a></td>
 <td>Cette action vous permettra de cr&eacute;er un nouveau magasin&nbsp;</td>
 </tr>
 <tr>
-<td><a title="Modification rapide" href="/app/gestion-commerciale/magasins/Edit.aspx/formulairedemodification.aspx"><strong>&nbsp;Modification rapide</strong></a></td>
+<td><a title="Modification rapide" href="/fr-fr/office/gestion-commerciale/magasins/Edit.aspx/formulairedemodification.aspx"><strong>&nbsp;Modification rapide</strong></a></td>
 <td>Cette actiohn vous permettra de modifier un magasin d&eacute;j&agrave; existant</td>
 </tr>
 <tr>

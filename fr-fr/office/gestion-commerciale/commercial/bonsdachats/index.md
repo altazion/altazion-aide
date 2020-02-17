@@ -49,7 +49,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/app/gestion-commerciale/commercial/bonsdachats/EditBonAchat.aspx">Nouveau </a></strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/commercial/bonsdachats/EditBonAchat.aspx">Nouveau </a></strong></td>
 <td>&nbsp;Cette action vous&nbsp;permet de cr&eacute;er un nouveau bon d'achat.&nbsp;</td>
 </tr>
 </tbody>

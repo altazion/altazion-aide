@@ -23,7 +23,7 @@
 </ol>
 <p>Vous pouvez aussi voir les diff&eacute;rents abonnements de vos clients &agrave; des newsletters :</p>
 <p style="padding-left: 30px;">c. Listes des diff&eacute;rentes newsletters (partenaire et les votres)</p>
-<p>Pour afficher le d&eacute;tail de l'abonnement, cliquez sur le bouton bleu "<a href="/app/gestion-commerciale/Internet/abonn%C3%A9snewsletters/DetailAbonne.aspx">D&eacute;tail</a>". (D)</p>
+<p>Pour afficher le d&eacute;tail de l'abonnement, cliquez sur le bouton bleu "<a href="/fr-fr/office/gestion-commerciale/Internet/abonn%C3%A9snewsletters/DetailAbonne.aspx">D&eacute;tail</a>". (D)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 

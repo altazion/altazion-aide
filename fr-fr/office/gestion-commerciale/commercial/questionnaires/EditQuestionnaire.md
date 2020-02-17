@@ -17,11 +17,11 @@
 <p>Ce pop-up vous donnera acc&egrave;s &agrave; diff&eacute;rents &eacute;l&eacute;ments que vous pourrez inclure dans votre questionnaire.</p>
 <p>Vous pouvez avoir :</p>
 <ol type="a">
-<li>Un<a href="/app/gestion-commerciale/commercial/questionnaires/EditBlocHtml.aspx"> bloc de r&eacute;daction HTML</a>,</li>
-<li>Un <a href="/app/gestion-commerciale/commercial/questionnaires/EditBlocQcm.aspx">QCM</a>,</li>
+<li>Un<a href="/fr-fr/office/gestion-commerciale/commercial/questionnaires/EditBlocHtml.aspx"> bloc de r&eacute;daction HTML</a>,</li>
+<li>Un <a href="/fr-fr/office/gestion-commerciale/commercial/questionnaires/EditBlocQcm.aspx">QCM</a>,</li>
 <li>Un saut de page,</li>
-<li>Un <a href="/app/gestion-commerciale/commercial/questionnaires/EditBlocAvisProduits.aspx">avis produit</a>,</li>
-<li>Une <a href="/app/gestion-commerciale/commercial/questionnaires/EditBlocTextBlock.aspx">zone de texte libre</a>.</li>
+<li>Un <a href="/fr-fr/office/gestion-commerciale/commercial/questionnaires/EditBlocAvisProduits.aspx">avis produit</a>,</li>
+<li>Une <a href="/fr-fr/office/gestion-commerciale/commercial/questionnaires/EditBlocTextBlock.aspx">zone de texte libre</a>.</li>
 </ol>
 <p>Lorsque vous cliquez sur l'un des &eacute;l&eacute;ments, vous serez redirig&eacute; vers le <strong>formulaire</strong> ad&eacute;quat pour la cr&eacute;ation du nouvel &eacute;l&eacute;ment.</p>
 <p>&nbsp;</p>
