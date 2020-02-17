@@ -1,0 +1,204 @@
+body,
+
+p,
+
+table,
+
+td,
+
+div {
+
+    font-family: 'Exo', sans-serif;
+
+    line-height: 1.4285;
+
+}
+
+
+
+.pageHeader {
+    background: #36274c no-repeat;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 20px 0 20px 24px;
+}
+
+.pageHeader ul { 
+    list-style-type: none;
+    padding:0;
+    margin:0;
+}
+
+.pageHeader ul li { 
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0;
+}
+
+.pageHeader ul li.title img {
+    height: 26px;
+    margin-top: -1px;
+    margin-right: 8px;
+}
+
+.pageHeader ul li.subtitle span {
+    color: #efefef;
+    display: block;
+    padding-right: 20px;
+    border-right: solid 1px #efefef;
+    margin-right: 10px;
+}
+
+.pageHeader ul li.item  {
+    padding:0 10px;
+}
+
+.pageHeader ul li.item a {
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+    opacity: 0.8;
+}
+
+.pageHeader ul li.item a:hover {
+    border-bottom: solid 1px #efefef;
+    opacity: 1;
+}
+
+.pageHeader ul li.item.selected a {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    border-bottom: solid 1px #efefef;
+    opacity: 1;
+}
+
+body {
+
+    margin: 0;
+
+}
+
+
+
+main {
+
+    padding: 0 20px;
+
+}
+
+
+h1 { margin:24px 0 14px 0;}
+
+h2 { font-size:1.4rem; text-overflow: ellipsis; overflow: hidden; white-space: nowrap;}
+
+        .container {
+
+            max-width: 1170px;
+
+            padding-left: 15px;
+
+            padding-right: 15px;
+
+            margin: auto;
+
+        }
+
+
+
+        main .container {
+
+            max-width: 1130px;
+
+            padding-left: 35px;
+
+            padding-right: 35px;
+
+        }
+
+
+
+        .tiers {
+
+    display:inline-block;
+
+            width: calc(33% - 48px);
+
+            border:solid 1px #dcdcdc;
+
+            background:#fcfcfc;
+
+            padding:0 14px 0 14px;
+
+            margin: 10px;
+
+        }
+
+
+
+        .description {
+
+            font-size:small;
+
+            color:#292929;
+
+            height: 112px;
+
+        }
+
+.callToAction {
+
+    text-align:right;
+
+    margin:10px 0;
+
+}
+
+
+
+.callToAction A {
+
+    display:inline-block;
+
+    padding:8px 14px;
+
+    background:#36274c;
+
+    color:#efefef;
+
+    text-decoration: none;
+
+}
+
+
+
+@media (max-width:940px) {
+
+    .tiers {
+
+            width: calc(50% - 54px);
+
+    }
+
+}
+
+
+
+@media (max-width:640px) {
+
+    .tiers {
+
+    display:block;
+
+            width: calc(100% - 24px);
+
+            padding:0 12px 0 12px;
+
+            margin: 10px 0;
+
+    }
+    
+    
+
+
+}

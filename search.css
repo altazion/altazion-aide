@@ -1,0 +1,33 @@
+.altazion-search {
+    display: none;
+    position: absolute;
+    width: 50%;
+    height: 320px;
+    background: white;
+    top: 38px;
+    left: 25%;
+    border: solid 1px #efefef;
+}
+
+.altazion-search .wait {
+    display: none;
+}
+
+.altazion-search .wait.visible, .altazion-search.visible {
+    display: block;
+}
+
+.altazion-search .result {
+    padding: 5px 10px;
+}
+
+.altazion-search .result a {
+    font-weight: 300;
+}
+
+.altazion-search .result a.dev::after {
+    content: "[dev]";
+    font-size: xx-small;
+    color: #b22222;
+    padding-left: 3px;
+}
