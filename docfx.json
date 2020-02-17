@@ -6,6 +6,9 @@
         "files": [
           "**.yml",
           "**.md"
+        ],
+        "exclude": [
+          "azure-pipelines.yml"
         ]
       }
     ],
