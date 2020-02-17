@@ -19,5 +19,5 @@ steps:
     azureSubscription: 'Equihira(f033c3c5-09e9-49c8-97d6-f60a79b20c1d)'
     appType: 'webApp'
     WebAppName: 'altazion-aide'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/_site/*.*'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/**/_site/'
 
