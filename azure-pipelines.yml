@@ -13,11 +13,11 @@ steps:
 - task: DocFxTask@0
   inputs:
     solution: 'docfx.json'
-- task: AzureRmWebAppDeployment@4
+- task: AzureWebApp@1
   inputs:
-    ConnectionType: 'AzureRM'
     azureSubscription: 'Equihira(f033c3c5-09e9-49c8-97d6-f60a79b20c1d)'
     appType: 'webApp'
-    WebAppName: 'altazion-aide'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/_site/'
+    appName: 'altazion-aide'
+    package: '$(System.DefaultWorkingDirectory)/**/_site/'
+    deploymentMethod: 'auto'
 
