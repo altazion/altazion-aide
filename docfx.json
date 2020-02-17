@@ -4,11 +4,8 @@
     "content": [
       {
         "files": [
-          "**.yml",
+          "**/toc.yml",
           "**.md"
-        ],
-        "exclude": [
-          "azure-pipelines.yml"
         ]
       }
     ],
