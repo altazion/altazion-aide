@@ -19,5 +19,5 @@ steps:
     appType: 'webApp'
     appName: 'altazion-aide'
     package: '$(System.DefaultWorkingDirectory)'
-    deploymentMethod: 'auto'
+    deploymentMethod: 'zipDeploy'
 
