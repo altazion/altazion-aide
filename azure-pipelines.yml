@@ -18,6 +18,6 @@ steps:
     azureSubscription: 'Equihira(f033c3c5-09e9-49c8-97d6-f60a79b20c1d)'
     appType: 'webApp'
     appName: 'altazion-aide'
-    package: '$(System.DefaultWorkingDirectory)/**/_site/'
+    package: '$(System.DefaultWorkingDirectory)'
     deploymentMethod: 'auto'
 
