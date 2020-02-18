@@ -1,2 +1,8 @@
 - name: Découvrez Office
-  href: index.md
+  href: /
+- name: Back-Office/Gestion commerciale
+  href: gestion-commerciale/
+- name: Magasins
+  href: points-de-vente/
+- name: Paramètres
+  href: settings/
