@@ -1,0 +1,11 @@
+- name: Administration
+  href: index.md
+- name: On-Premise
+  href: onpremise/index.md
+  items: 
+    - name: Dossiers
+      href: onpremise/dossier.md
+- name: Hebergé (SaaS)
+  href: saas/index.md
+- name: Serveur local magasin
+  href: storeserver/index.md

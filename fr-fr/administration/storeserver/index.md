@@ -1,0 +1,2 @@
+# Serveur local magasin
+
