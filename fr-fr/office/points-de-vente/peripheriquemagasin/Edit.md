@@ -1,20 +1,18 @@
 # Nouveau périphérique
 
 
-![edit-screenshotfionajoupilancom20150812114356](images/edit-screenshotfionajoupilancom20150812114356.png)
+![edit-screenshotfionajoupilancom20150812114356](images/edit-peripherique-1.png)
 
+Cette page vous permet de **créer un nouveau périphérique**.
 
-<p>Cette page vous permet de <strong>cr&eacute;er un nouveau p&eacute;riph&eacute;rique</strong>.</p>
-<p>Pour cr&eacute;er un nouveau poste, vous aurez les informations suivantes :</p>
-<ol>
-<li>Le nom du p&eacute;riph&eacute;rique,</li>
-<li>Son type de poste (caisse ou borne)</li>
-<li>Le magasin,</li>
-<li>Le groupe d'animation,&nbsp; c'est un ensemble de magasin qui peuvent recevoir la m&ecirc;me animation commerciale.</li>
-<li>Monitoring, vous permet de&nbsp;d&eacute;finir les options disponible dans cette liste via les &eacute;cran de configuration des types de p&eacute;riph&eacute;riques.</li>
-</ol>
-<p>Lorsque les crit&egrave;res seront remplis, cliquez sur le bouton <strong>Enregistrer</strong> afin de valider et de cr&eacute;er votre nouveau p&eacute;riph&eacute;rique.</p>
-<blockquote>
-<p>A savoir : pour modifier les options d'un p&eacute;riph&eacute;rique, celui-ci doit &ecirc;tre cr&eacute;&eacute;.</p>
-</blockquote>
+Pour créer un nouveau poste, vous aurez les informations suivantes :
 
+1.  Le nom du périphérique,
+2.  Son type de poste (caisse ou borne)
+3.  Le magasin,
+4.  Le groupe d'animation,  c'est un ensemble de magasin qui peuvent recevoir la même animation commerciale.
+5.  Monitoring, vous permet de définir les options disponible dans cette liste via les écran de configuration des types de périphériques.
+
+Lorsque les critères seront remplis, cliquez sur le bouton **Enregistrer** afin de valider et de créer votre nouveau périphérique.
+
+> A savoir : pour modifier les options d'un périphérique, celui-ci doit être créé.
