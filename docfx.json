@@ -46,7 +46,7 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",  "templates/altazion"
     ],
     "postProcessors": [],
     "noLangKeyword": false,
