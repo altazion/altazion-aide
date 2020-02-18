@@ -8,12 +8,12 @@
 <p>Vous pouvez acc&eacute;der aux diff&eacute;rentes informations d'un p&eacute;riph&eacute;rique.</p>
 <p>Vous pouvez voir dans cette page :</p>
 <ol>
-<li>Le magasin en question,</li>
-<li>Son code,</li>
+<li>Le magasin du péripéhrique,</li>
+<li>Et le code du magasin,</li>
 <li>Son nom,</li>
 <li>Le type de p&eacute;riph&eacute;rique (borne...),</li>
 <li>Son etat (en ligne, offline),</li>
-<li>Certaines informations.</li>
+<li>LA date de dernière réception d'information de ce device.</li>
 </ol>
 <p>La <strong>commande d'action</strong>&nbsp;sur la droite permet de <strong>modifier et d'acc&eacute;der aux informations d'un p&eacute;riph&eacute;rique</strong>.</p>
 <h3>ACTIONS</h3>
@@ -23,7 +23,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/app/points-de-vente/peripheriquemagasin/Edit.aspx">Cr&eacute;ation d'un nouveau poste</a> </strong></td>
+<td><strong><a href="/app/points-de-vente/peripheriquemagasin/Edit.html">Cr&eacute;ation d'un nouveau poste</a> </strong></td>
 <td>Cette action permet de cr&eacute;er un nouveau p&eacute;riph&eacute;rique</td>
 </tr>
 </tbody>

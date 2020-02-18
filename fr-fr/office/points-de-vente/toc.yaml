@@ -1,0 +1,18 @@
+- name: Magasins
+  items:
+    - name: Gestion
+      href: Magasins/index.md
+      items:
+        - name: Edition
+          href: Magasins/Edit.md
+    - name: Evenements
+      href: Magasins/evenements.md
+    - name: Evenements Cross canaux
+      href: Magasins/CrossCanal/evenements/index.md
+- name: Périphériques Magasins
+  items:
+    - name: Gestion
+      href: peripheriquemagasin/index.md
+      items:
+        - name: Edition
+          href: peripheriquemagasin/edit.md
