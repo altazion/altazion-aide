@@ -4,6 +4,6 @@
     <li class="title"><a href="https://aide.altazion.com" ><img src="/logo.png" /></a></li>
     <li class="subtitle"><span>Aide</span></li>
     <li class="item selected"><a href="https://aide.altazion.com">Utilisateurs</a></li>
-    <li class="item"><a href="https://www.altazion.dev">Développeurs & administrateur</a></li>
+    <li class="item"><a href="https://www.altazion.dev">Développeurs</a></li>
     <!--<li class="item"><a href="https://www.altazion-learning.com">e-learning</a></li>-->
 </ul>
