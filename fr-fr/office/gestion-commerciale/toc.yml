@@ -1,0 +1,292 @@
+- name: index
+  href: index.md
+- name: todolist
+  href: todolist.md
+- name: achats
+  items:
+	- name: cataloguefournisseur
+	  items:
+		- name: dossierarticlefournisseur
+		  href: achats/cataloguefournisseur/dossierarticlefournisseur.md
+		- name: index
+		  href: achats/cataloguefournisseur/index.md
+		- name: integrerarticle
+		  href: achats/cataloguefournisseur/integrerarticle.md
+		- name: images
+		  items:
+	- name: commandesfournisseurs
+	  items:
+		- name: formualiredecommandefournisseur
+		  href: achats/commandesfournisseurs/formualiredecommandefournisseur.md
+		- name: index
+		  href: achats/commandesfournisseurs/index.md
+		- name: images
+		  items:
+- name: catalogue
+  items:
+	- name: articles
+	  items:
+		- name: articlesassocier
+		  href: catalogue/articles/articlesassocier.md
+		- name: dossier
+		  href: catalogue/articles/dossier.md
+		- name: EditAssociations
+		  href: catalogue/articles/EditAssociations.md
+		- name: EditECommerce
+		  href: catalogue/articles/EditECommerce.md
+		- name: EditGeneral
+		  href: catalogue/articles/EditGeneral.md
+		- name: EditLogistique
+		  href: catalogue/articles/EditLogistique.md
+		- name: EditPrix
+		  href: catalogue/articles/EditPrix.md
+		- name: index
+		  href: catalogue/articles/index.md
+		- name: modifier
+		  href: catalogue/articles/modifier.md
+		- name: ongletapprovisionnement
+		  href: catalogue/articles/ongletapprovisionnement.md
+		- name: ongletdocument
+		  href: catalogue/articles/ongletdocument.md
+		- name: ongletlogistique
+		  href: catalogue/articles/ongletlogistique.md
+		- name: ongletprincipal
+		  href: catalogue/articles/ongletprincipal.md
+		- name: ongletprix
+		  href: catalogue/articles/ongletprix.md
+		- name: ongletvente
+		  href: catalogue/articles/ongletvente.md
+		- name: images
+		  items:
+	- name: grilledetarifs
+	  items:
+		- name: EditGrille
+		  href: catalogue/grilledetarifs/EditGrille.md
+		- name: index
+		  href: catalogue/grilledetarifs/index.md
+		- name: images
+		  items:
+	- name: selections
+	  items:
+		- name: Edit
+		  href: catalogue/selections/Edit.md
+		- name: index
+		  href: catalogue/selections/index.md
+		- name: selectionmanuelle
+		  href: catalogue/selections/selectionmanuelle.md
+		- name: vosselection
+		  href: catalogue/selections/vosselection.md
+		- name: images
+		  items:
+- name: commercial
+  items:
+	- name: bonsdachats
+	  items:
+		- name: EditBonAchat
+		  href: commercial/bonsdachats/EditBonAchat.md
+		- name: index
+		  href: commercial/bonsdachats/index.md
+		- name: images
+		  items:
+	- name: campagnes
+	  items:
+		- name: CampagneGuid
+		  href: commercial/campagnes/CampagneGuid.md
+		- name: campagnes
+		  href: commercial/campagnes/campagnes.md
+		- name: EditAvantageEComerce
+		  href: commercial/campagnes/EditAvantageEComerce.md
+		- name: editcampagne
+		  href: commercial/campagnes/editcampagne.md
+		- name: EditFraisPort
+		  href: commercial/campagnes/EditFraisPort.md
+		- name: EditIntraSite
+		  href: commercial/campagnes/EditIntraSite.md
+		- name: EditPubBorne
+		  href: commercial/campagnes/EditPubBorne.md
+		- name: EditXemeProduitOffert
+		  href: commercial/campagnes/EditXemeProduitOffert.md
+		- name: index
+		  href: commercial/campagnes/index.md
+		- name: NouvelleIntraSite
+		  href: commercial/campagnes/NouvelleIntraSite.md
+		- name: images
+		  items:
+	- name: coupons
+	  items:
+		- name: EditCoupon
+		  href: commercial/coupons/EditCoupon.md
+		- name: index
+		  href: commercial/coupons/index.md
+		- name: ReactiverCoupon
+		  href: commercial/coupons/ReactiverCoupon.md
+		- name: images
+		  items:
+	- name: DigitalSignage
+	  items:
+		- name: index
+		  href: commercial/DigitalSignage/index.md
+	- name: questionnaires
+	  items:
+		- name: Details
+		  href: commercial/questionnaires/Details.md
+		- name: EditBlocAvisProduits
+		  href: commercial/questionnaires/EditBlocAvisProduits.md
+		- name: EditBlocHtml
+		  href: commercial/questionnaires/EditBlocHtml.md
+		- name: EditBlocQcm
+		  href: commercial/questionnaires/EditBlocQcm.md
+		- name: EditBlocTextBlock
+		  href: commercial/questionnaires/EditBlocTextBlock.md
+		- name: EditQuestionnaire
+		  href: commercial/questionnaires/EditQuestionnaire.md
+		- name: index
+		  href: commercial/questionnaires/index.md
+		- name: NouveauQuestionnaire
+		  href: commercial/questionnaires/NouveauQuestionnaire.md
+		- name: images
+		  items:
+- name: entreprise
+  items:
+	- name: index
+	  href: entreprise/index.md
+- name: Financier
+  items:
+	- name: DepotBanque
+	  items:
+		- name: EditionDepot
+		  href: Financier/DepotBanque/EditionDepot.md
+		- name: index
+		  href: Financier/DepotBanque/index.md
+		- name: NouveauDepot
+		  href: Financier/DepotBanque/NouveauDepot.md
+		- name: images
+		  items:
+	- name: Remboursement
+	  items:
+		- name: index
+		  href: Financier/Remboursement/index.md
+		- name: rbstbasique
+		  href: Financier/Remboursement/rbstbasique.md
+		- name: images
+		  items:
+- name: images
+  items:
+- name: Internet
+  items:
+	- name: abonnésnewsletters
+	  items:
+		- name: DetailAbonne
+		  href: Internet/abonnésnewsletters/DetailAbonne.md
+		- name: index
+		  href: Internet/abonnésnewsletters/index.md
+		- name: images
+		  items:
+	- name: Avis
+	  items:
+		- name: EditerAvis
+		  href: Internet/Avis/EditerAvis.md
+		- name: index
+		  href: Internet/Avis/index.md
+		- name: images
+		  items:
+- name: Litiges
+  items:
+	- name: Litiges
+	  items:
+		- name: AddEvent
+		  href: Litiges/Litiges/AddEvent.md
+		- name: index
+		  href: Litiges/Litiges/index.md
+		- name: View
+		  href: Litiges/Litiges/View.md
+		- name: images
+		  items:
+- name: Logistique
+  items:
+	- name: SaisiedePreparation
+	  items:
+		- name: index
+		  href: Logistique/SaisiedePreparation/index.md
+		- name: saisieprepaexterne
+		  href: Logistique/SaisiedePreparation/saisieprepaexterne.md
+		- name: images
+		  items:
+	- name: Stocks
+	  items:
+		- name: index
+		  href: Logistique/Stocks/index.md
+		- name: images
+		  items:
+- name: Tâches
+  items:
+	- name: Vostaches
+	  items:
+		- name: newtodo
+		  href: Tâches/Vostaches/newtodo.md
+		- name: todohandle
+		  href: Tâches/Vostaches/todohandle.md
+		- name: todolist
+		  href: Tâches/Vostaches/todolist.md
+		- name: todosenttasks
+		  href: Tâches/Vostaches/todosenttasks.md
+		- name: images
+		  items:
+- name: ventes
+  items:
+	- name: clients
+	  items:
+		- name: editinfogenerales
+		  href: ventes/clients/editinfogenerales.md
+		- name: index
+		  href: ventes/clients/index.md
+		- name: images
+		  items:
+	- name: commandes
+	  items:
+		- name: AnnulationCommande
+		  href: ventes/commandes/AnnulationCommande.md
+		- name: ApporteurCommande
+		  href: ventes/commandes/ApporteurCommande.md
+		- name: avoir
+		  href: ventes/commandes/avoir.md
+		- name: changepassword
+		  href: ventes/commandes/changepassword.md
+		- name: CreationImpaye
+		  href: ventes/commandes/CreationImpaye.md
+		- name: dossiercommande
+		  href: ventes/commandes/dossiercommande.md
+		- name: DupliquerCommande
+		  href: ventes/commandes/DupliquerCommande.md
+		- name: EditBagc
+		  href: ventes/commandes/EditBagc.md
+		- name: EnvoiQuestionnaire
+		  href: ventes/commandes/EnvoiQuestionnaire.md
+		- name: EnvoyerMail
+		  href: ventes/commandes/EnvoyerMail.md
+		- name: index
+		  href: ventes/commandes/index.md
+		- name: informationsurleclient
+		  href: ventes/commandes/informationsurleclient.md
+		- name: informationsurletraitementdeslitiges
+		  href: ventes/commandes/informationsurletraitementdeslitiges.md
+		- name: interactionclient
+		  href: ventes/commandes/interactionclient.md
+		- name: litiges
+		  href: ventes/commandes/litiges.md
+		- name: ModificationLivraison
+		  href: ventes/commandes/ModificationLivraison.md
+		- name: modifications
+		  href: ventes/commandes/modifications.md
+		- name: NewTodo
+		  href: ventes/commandes/NewTodo.md
+		- name: ongletpreparation
+		  href: ventes/commandes/ongletpreparation.md
+		- name: ongletprincipal
+		  href: ventes/commandes/ongletprincipal.md
+		- name: origine
+		  href: ventes/commandes/origine.md
+		- name: SaisieReglements
+		  href: ventes/commandes/SaisieReglements.md
+		- name: images
+		  items:
