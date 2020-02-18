@@ -25,7 +25,7 @@
 <table>
 <tbody>
 <tr>
-<td><a title="Nouveau type" href="/app/settings/catalogue/typesarticles/edit.aspx"><strong>Nouveau</strong> <strong>type&nbsp;</strong></a></td>
+<td><a title="Nouveau type" href="/fr-fr/office/settings/catalogue/typesarticles/edit.aspx"><strong>Nouveau</strong> <strong>type&nbsp;</strong></a></td>
 <td>Cette action vous permet de cr&eacute;er un nouveau type d'article</td>
 </tr>
 </tbody>

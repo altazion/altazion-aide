@@ -23,7 +23,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/app/points-de-vente/peripheriquemagasin/Edit.html">Cr&eacute;ation d'un nouveau poste</a> </strong></td>
+<td><strong><a href="/fr-fr/office/points-de-vente/peripheriquemagasin/Edit.html">Cr&eacute;ation d'un nouveau poste</a> </strong></td>
 <td>Cette action permet de cr&eacute;er un nouveau p&eacute;riph&eacute;rique</td>
 </tr>
 </tbody>

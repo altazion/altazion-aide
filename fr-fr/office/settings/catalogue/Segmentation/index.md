@@ -18,7 +18,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/app/settings/catalogue/Segmentation/edit.aspx">Nouveau segment</a> </strong></td>
+<td><strong><a href="/fr-fr/office/settings/catalogue/Segmentation/edit.aspx">Nouveau segment</a> </strong></td>
 <td>&nbsp;Cette action vous permet de cr&eacute;er un nouveau segment</td>
 </tr>
 </tbody>

@@ -22,7 +22,7 @@
 <table>
 <tbody>
 <tr>
-<td><a href="/app/settings/ECommerce/tags/edit.aspx">Cr&eacute;er un tag</a></td>
+<td><a href="/fr-fr/office/settings/ECommerce/tags/edit.aspx">Cr&eacute;er un tag</a></td>
 <td>Cette action vous permet de cr&eacute;er un nouvel attribut personnalis&eacute;.</td>
 </tr>
 </tbody>

@@ -17,7 +17,7 @@
 <li>Les licences (payantes) qu'il d&eacute;tient,</li>
 <li>Le co&ucirc;t de ses licences.</li>
 </ol>
-<p>Pour modifier les droits d'un utilisateur, cliquez sur le bouton bleu "<strong>Modifier</strong>", vous serez redirig&eacute; vers la page de&nbsp;<a href="/app/settings/VotreEntreprise/utilisateursdroitsautorisations/EditUser.aspx">modification d'un utilisateur</a>.</p>
+<p>Pour modifier les droits d'un utilisateur, cliquez sur le bouton bleu "<strong>Modifier</strong>", vous serez redirig&eacute; vers la page de&nbsp;<a href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/EditUser.aspx">modification d'un utilisateur</a>.</p>
 <h3>P&Eacute;RIPH&Eacute;RIQUES</h3>
 <p>Cet &eacute;cran vous permet aussi d'acc&eacute;der aux&nbsp;<strong>p&eacute;riph&eacute;riques</strong>.</p>
 <p>Chaque p&eacute;riph&eacute;rique (borne, tablette...)&nbsp;<strong>poss&egrave;de un acc&egrave;s payant</strong>, vous pouvez voir dans cet &eacute;cran :</p>

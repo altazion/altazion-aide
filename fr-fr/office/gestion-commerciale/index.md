@@ -35,5 +35,5 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. " <strong>Identifiant</strong> "</p>
 <h3>Acc&eacute;der &agrave; vos param&egrave;tres de compte</h3>
 <p>La page d'accueil vous permet aussi d'acc&eacute;der &agrave; vos param&egrave;tres de compte et ainsi modifier vos crit&egrave;res, votre page d'accueil ou encore consulter vos donn&eacute;es personnelles.<br />Pour acc&eacute;der &agrave; cette page, il vous suffit de saisir le lien:&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.&nbsp; &nbsp;"<strong>&nbsp;<a href="/app/settings/">&gt;</a></strong> " vous pourrez acc&eacute;der &agrave; vos param&egrave;tre de compte ou vous d&eacute;connectez.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.&nbsp; &nbsp;"<strong>&nbsp;<a href="/fr-fr/office/settings/">&gt;</a></strong> " vous pourrez acc&eacute;der &agrave; vos param&egrave;tre de compte ou vous d&eacute;connectez.</p>
 

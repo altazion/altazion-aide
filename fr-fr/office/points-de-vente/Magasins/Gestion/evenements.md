@@ -16,7 +16,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong> <a href="/app/points-de-vente/Evenements.aspx/EditEvenment.aspx">Nouvel &eacute;v&eacute;nement</a></strong></td>
+<td><strong> <a href="/fr-fr/office/points-de-vente/Evenements.aspx/EditEvenment.aspx">Nouvel &eacute;v&eacute;nement</a></strong></td>
 <td>Cette action permet d'acc&eacute;der au formulaire vous permettant de cr&eacute;er un nouvel&nbsp;&eacute;v&eacute;nement.&nbsp;</td>
 </tr>
 </tbody>
