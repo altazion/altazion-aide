@@ -1,168 +1,168 @@
 - name: catalogue
   items:
-	- name: articles
-	  items:
-		- name: index
-		  href: catalogue/articles/index.md
-	- name: associations
-	  items:
-		- name: index
-		  href: catalogue/associations/index.md
-	- name: attributs
-	  items:
-		- name: editattribut
-		  href: catalogue/attributs/editattribut.md
-		- name: index
-		  href: catalogue/attributs/index.md
-	- name: EvenementPersonnalise
-	  items:
-		- name: evenementsPerso
-		  href: catalogue/EvenementPersonnalise/evenementsPerso.md
-	- name: marques
-	  items:
-		- name: edit
-		  href: catalogue/marques/edit.md
-		- name: index
-		  href: catalogue/marques/index.md
-	- name: Segmentation
-	  items:
-		- name: Delete
-		  href: catalogue/Segmentation/Delete.md
-		- name: edit
-		  href: catalogue/Segmentation/edit.md
-		- name: index
-		  href: catalogue/Segmentation/index.md
-	- name: typesarticles
-	  items:
-		- name: edit
-		  href: catalogue/typesarticles/edit.md
-		- name: index
-		  href: catalogue/typesarticles/index.md
+    - name: articles
+      items:
+        - name: index
+          href: catalogue/articles/index.md
+    - name: associations
+      items:
+        - name: index
+          href: catalogue/associations/index.md
+    - name: attributs
+      items:
+        - name: editattribut
+          href: catalogue/attributs/editattribut.md
+        - name: index
+          href: catalogue/attributs/index.md
+    - name: EvenementPersonnalise
+      items:
+        - name: evenementsPerso
+          href: catalogue/EvenementPersonnalise/evenementsPerso.md
+    - name: marques
+      items:
+        - name: edit
+          href: catalogue/marques/edit.md
+        - name: index
+          href: catalogue/marques/index.md
+    - name: Segmentation
+      items:
+        - name: Delete
+          href: catalogue/Segmentation/Delete.md
+        - name: edit
+          href: catalogue/Segmentation/edit.md
+        - name: index
+          href: catalogue/Segmentation/index.md
+    - name: typesarticles
+      items:
+        - name: edit
+          href: catalogue/typesarticles/edit.md
+        - name: index
+          href: catalogue/typesarticles/index.md
 - name: commercial
   items:
-	- name: Newsletters
-	  items:
-		- name: index
-		  href: commercial/Newsletters/index.md
+    - name: Newsletters
+      items:
+        - name: index
+          href: commercial/Newsletters/index.md
 - name: communication
   items:
-	- name: mails
-	  items:
-		- name: comptes
-		  href: communication/mails/comptes.md
-		- name: EditCompteSend
-		  href: communication/mails/EditCompteSend.md
-	- name: optionemail
-	  items:
-		- name: index
-		  href: communication/optionemail/index.md
+    - name: mails
+      items:
+        - name: comptes
+          href: communication/mails/comptes.md
+        - name: EditCompteSend
+          href: communication/mails/EditCompteSend.md
+    - name: optionemail
+      items:
+        - name: index
+          href: communication/optionemail/index.md
 - name: ECommerce
   items:
-	- name: Google
-	  items:
-		- name: Analytics
-		  href: ECommerce/Google/Analytics.md
-	- name: tagmanager
-	  items:
-		- name: contenujavascript
-		  href: ECommerce/tagmanager/contenujavascript.md
-		- name: edittag
-		  href: ECommerce/tagmanager/edittag.md
-		- name: index
-		  href: ECommerce/tagmanager/index.md
-	- name: tags
-	  items:
-		- name: edit
-		  href: ECommerce/tags/edit.md
-		- name: EditTagsPourDescente
-		  href: ECommerce/tags/EditTagsPourDescente.md
-		- name: index
-		  href: ECommerce/tags/index.md
+    - name: Google
+      items:
+        - name: Analytics
+          href: ECommerce/Google/Analytics.md
+    - name: tagmanager
+      items:
+        - name: contenujavascript
+          href: ECommerce/tagmanager/contenujavascript.md
+        - name: edittag
+          href: ECommerce/tagmanager/edittag.md
+        - name: index
+          href: ECommerce/tagmanager/index.md
+    - name: tags
+      items:
+        - name: edit
+          href: ECommerce/tags/edit.md
+        - name: EditTagsPourDescente
+          href: ECommerce/tags/EditTagsPourDescente.md
+        - name: index
+          href: ECommerce/tags/index.md
 - name: Facturesetavoirs
   items:
-	- name: clients
-	  items:
-		- name: index
-		  href: Facturesetavoirs/clients/index.md
+    - name: clients
+      items:
+        - name: index
+          href: Facturesetavoirs/clients/index.md
 - name: Internet
   items:
-	- name: blacklist
-	  items:
-		- name: EditBlackList
-		  href: Internet/blacklist/EditBlackList.md
-	- name: blacklistIP
-	  items:
-		- name: index
-		  href: Internet/blacklistIP/index.md
-	- name: settings
-	  items:
-		- name: ECommerce
-		  items:
-			- name: CrossCanal
-			  items:
-				- name: default
-				  items:
-					- name: index
-					  href: Internet/settings/ECommerce/CrossCanal/default.aspx/index.md
+    - name: blacklist
+      items:
+        - name: EditBlackList
+          href: Internet/blacklist/EditBlackList.md
+    - name: blacklistIP
+      items:
+        - name: index
+          href: Internet/blacklistIP/index.md
+    - name: settings
+      items:
+        - name: ECommerce
+          items:
+            - name: CrossCanal
+              items:
+                - name: default
+                  items:
+                    - name: index
+                      href: Internet/settings/ECommerce/CrossCanal/default.aspx/index.md
 - name: PointOfSale
   items:
-	- name: Groupesanimations
-	  items:
-		- name: index
-		  href: PointOfSale/Groupesanimations/index.md
-	- name: zones
-	  items:
-		- name: index
-		  href: PointOfSale/zones/index.md
+    - name: Groupesanimations
+      items:
+        - name: index
+          href: PointOfSale/Groupesanimations/index.md
+    - name: zones
+      items:
+        - name: index
+          href: PointOfSale/zones/index.md
 - name: processus
   items:
-	- name: rails
-	  href: processus/rails.md
+    - name: rails
+      href: processus/rails.md
 - name: Tâches
   items:
-	- name: todos
-	  items:
-		- name: changetodo
-		  href: Tâches/todos/changetodo.md
-		- name: index
-		  href: Tâches/todos/index.md
+    - name: todos
+      items:
+        - name: changetodo
+          href: Tâches/todos/changetodo.md
+        - name: index
+          href: Tâches/todos/index.md
 - name: VotreEntreprise
   items:
-	- name: features
-	  items:
-		- name: index
-		  href: VotreEntreprise/features/index.md
-	- name: Licences
-	  items:
-		- name: index
-		  href: VotreEntreprise/Licences/index.md
-	- name: Message
-	  items:
-		- name: index
-		  href: VotreEntreprise/Message/index.md
-	- name: taxes
-	  items:
-		- name: changevat
-		  href: VotreEntreprise/taxes/changevat.md
-		- name: index
-		  href: VotreEntreprise/taxes/index.md
-	- name: Users
-	  items:
-		- name: EditAutorisation
-		  href: VotreEntreprise/Users/EditAutorisation.md
-		- name: EditUser
-		  href: VotreEntreprise/Users/EditUser.md
-		- name: index
-		  href: VotreEntreprise/Users/index.md
-		- name: InteractionUtilisateur
-		  href: VotreEntreprise/Users/InteractionUtilisateur.md
-		- name: licences
-		  href: VotreEntreprise/Users/licences.md
-		- name: nouveau
-		  href: VotreEntreprise/Users/nouveau.md
-		- name: NouveauGroupe
-		  href: VotreEntreprise/Users/NouveauGroupe.md
-		- name: NouvelUtilisateur
-		  href: VotreEntreprise/Users/NouvelUtilisateur.md
-		- name: ReInitPassword
-		  href: VotreEntreprise/Users/ReInitPassword.md
+    - name: features
+      items:
+        - name: index
+          href: VotreEntreprise/features/index.md
+    - name: Licences
+      items:
+        - name: index
+          href: VotreEntreprise/Licences/index.md
+    - name: Message
+      items:
+        - name: index
+          href: VotreEntreprise/Message/index.md
+    - name: taxes
+      items:
+        - name: changevat
+          href: VotreEntreprise/taxes/changevat.md
+        - name: index
+          href: VotreEntreprise/taxes/index.md
+    - name: Users
+      items:
+        - name: EditAutorisation
+          href: VotreEntreprise/Users/EditAutorisation.md
+        - name: EditUser
+          href: VotreEntreprise/Users/EditUser.md
+        - name: index
+          href: VotreEntreprise/Users/index.md
+        - name: InteractionUtilisateur
+          href: VotreEntreprise/Users/InteractionUtilisateur.md
+        - name: licences
+          href: VotreEntreprise/Users/licences.md
+        - name: nouveau
+          href: VotreEntreprise/Users/nouveau.md
+        - name: NouveauGroupe
+          href: VotreEntreprise/Users/NouveauGroupe.md
+        - name: NouvelUtilisateur
+          href: VotreEntreprise/Users/NouvelUtilisateur.md
+        - name: ReInitPassword
+          href: VotreEntreprise/Users/ReInitPassword.md
