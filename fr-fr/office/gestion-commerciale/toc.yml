@@ -12,16 +12,12 @@
 		  href: achats/cataloguefournisseur/index.md
 		- name: integrerarticle
 		  href: achats/cataloguefournisseur/integrerarticle.md
-		- name: images
-		  items:
 	- name: commandesfournisseurs
 	  items:
 		- name: formualiredecommandefournisseur
 		  href: achats/commandesfournisseurs/formualiredecommandefournisseur.md
 		- name: index
 		  href: achats/commandesfournisseurs/index.md
-		- name: images
-		  items:
 - name: catalogue
   items:
 	- name: articles
@@ -56,16 +52,12 @@
 		  href: catalogue/articles/ongletprix.md
 		- name: ongletvente
 		  href: catalogue/articles/ongletvente.md
-		- name: images
-		  items:
 	- name: grilledetarifs
 	  items:
 		- name: EditGrille
 		  href: catalogue/grilledetarifs/EditGrille.md
 		- name: index
 		  href: catalogue/grilledetarifs/index.md
-		- name: images
-		  items:
 	- name: selections
 	  items:
 		- name: Edit
@@ -76,8 +68,6 @@
 		  href: catalogue/selections/selectionmanuelle.md
 		- name: vosselection
 		  href: catalogue/selections/vosselection.md
-		- name: images
-		  items:
 - name: commercial
   items:
 	- name: bonsdachats
@@ -86,8 +76,6 @@
 		  href: commercial/bonsdachats/EditBonAchat.md
 		- name: index
 		  href: commercial/bonsdachats/index.md
-		- name: images
-		  items:
 	- name: campagnes
 	  items:
 		- name: CampagneGuid
@@ -110,8 +98,6 @@
 		  href: commercial/campagnes/index.md
 		- name: NouvelleIntraSite
 		  href: commercial/campagnes/NouvelleIntraSite.md
-		- name: images
-		  items:
 	- name: coupons
 	  items:
 		- name: EditCoupon
@@ -120,8 +106,6 @@
 		  href: commercial/coupons/index.md
 		- name: ReactiverCoupon
 		  href: commercial/coupons/ReactiverCoupon.md
-		- name: images
-		  items:
 	- name: DigitalSignage
 	  items:
 		- name: index
@@ -144,8 +128,6 @@
 		  href: commercial/questionnaires/index.md
 		- name: NouveauQuestionnaire
 		  href: commercial/questionnaires/NouveauQuestionnaire.md
-		- name: images
-		  items:
 - name: entreprise
   items:
 	- name: index
@@ -160,18 +142,12 @@
 		  href: Financier/DepotBanque/index.md
 		- name: NouveauDepot
 		  href: Financier/DepotBanque/NouveauDepot.md
-		- name: images
-		  items:
 	- name: Remboursement
 	  items:
 		- name: index
 		  href: Financier/Remboursement/index.md
 		- name: rbstbasique
 		  href: Financier/Remboursement/rbstbasique.md
-		- name: images
-		  items:
-- name: images
-  items:
 - name: Internet
   items:
 	- name: abonnésnewsletters
@@ -180,16 +156,12 @@
 		  href: Internet/abonnésnewsletters/DetailAbonne.md
 		- name: index
 		  href: Internet/abonnésnewsletters/index.md
-		- name: images
-		  items:
 	- name: Avis
 	  items:
 		- name: EditerAvis
 		  href: Internet/Avis/EditerAvis.md
 		- name: index
 		  href: Internet/Avis/index.md
-		- name: images
-		  items:
 - name: Litiges
   items:
 	- name: Litiges
@@ -200,8 +172,6 @@
 		  href: Litiges/Litiges/index.md
 		- name: View
 		  href: Litiges/Litiges/View.md
-		- name: images
-		  items:
 - name: Logistique
   items:
 	- name: SaisiedePreparation
@@ -210,14 +180,10 @@
 		  href: Logistique/SaisiedePreparation/index.md
 		- name: saisieprepaexterne
 		  href: Logistique/SaisiedePreparation/saisieprepaexterne.md
-		- name: images
-		  items:
 	- name: Stocks
 	  items:
 		- name: index
 		  href: Logistique/Stocks/index.md
-		- name: images
-		  items:
 - name: Tâches
   items:
 	- name: Vostaches
@@ -230,8 +196,6 @@
 		  href: Tâches/Vostaches/todolist.md
 		- name: todosenttasks
 		  href: Tâches/Vostaches/todosenttasks.md
-		- name: images
-		  items:
 - name: ventes
   items:
 	- name: clients
@@ -240,8 +204,6 @@
 		  href: ventes/clients/editinfogenerales.md
 		- name: index
 		  href: ventes/clients/index.md
-		- name: images
-		  items:
 	- name: commandes
 	  items:
 		- name: AnnulationCommande
@@ -288,5 +250,3 @@
 		  href: ventes/commandes/origine.md
 		- name: SaisieReglements
 		  href: ventes/commandes/SaisieReglements.md
-		- name: images
-		  items:
