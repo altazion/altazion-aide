@@ -19,6 +19,7 @@ Vous pouvez lancer une recherche de magasin avec les critères suivants :
 2.  Son **libellé** (son nom)
 3.  Son **code postal**
 4.  Sa **zone du magasin**
+5. Les services principaux que le magasin doit proposer.
 
 Pour lancer la recherche, cliquez sur le bouton de lancement **Go** (5)
 
@@ -37,7 +38,8 @@ Vous pourrez voir :
 3.  Son **code postal**
 4.  Sa **ville**
 5.  Sa **zone d'activité**
-6.  Son **menu de commande** qui permet **d'archiver** un magasin
+6.  Si vous avez définit des services magasins principaux, vous retrouverez une colonne pour chacun d'entre eux (dans la copie ci-dessus : le service "Click'n'Collect")
+7.  Son **menu de commande** qui permet **d'archiver** un magasin
 
 Pour modifier ou accéder aux informations, cliquez sur le lien bleu **Ouvrir** (G)
 
@@ -45,9 +47,7 @@ Pour modifier ou accéder aux informations, cliquez sur le lien bleu **Ouvrir** 
 
 La **commande d'action** que vous pouvez apercevoir près du titre, correspond au menu de commande.
 
-Ce menu vous permet d'accéder à différentes commande qui vous permettront de gérer vos articles.
-
-_Exemple_ de commande que vous pouvez avoir :
+Ce menu vous permet d'accéder à différentes commandes qui vous permettront de gérer vos articles.
 
 |Action||
 |---|---|

@@ -19,4 +19,4 @@ _Exemple_ de commande dont vous pouvez disposer :
 
 |Action||
 |---|---|
-|**[Nouvel événement](/fr-fr/office/points-de-vente/Evenements.aspx/EditEvenment.aspx)**|Cette action permet d'accéder au formulaire vous permettant de créer un nouvel événement.|
+|**[Nouvel événement](/fr-fr/office/points-de-vente/Evenements.aspx/EditEvenement.md)**|Cette action permet d'accéder au formulaire vous permettant de créer un nouvel événement.|
