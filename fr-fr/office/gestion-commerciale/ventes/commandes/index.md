@@ -48,7 +48,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/NewTodo.aspx">Nouvelle</a></strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/NewTodo.md">Nouvelle</a></strong></td>
 <td>Cette action vous permet de cr&eacute;er une nouvelle&nbsp;commande&nbsp;</td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@
 ![index-screenshotciappsimplemente](images/index-screenshotciappsimplemente.png)
 
 
-<p>Lorsque vous cliquez sur la&nbsp;<strong>commande d'action</strong>&nbsp;et que vous choisissez <a title="Nouvelle" href="/fr-fr/office/gestion-commerciale/ventes/NewTodo.aspx"><strong>Nouvelle</strong></a>, vous serez redirig&eacute; vers un <strong>formulaire</strong> vous permettant de cr&eacute;er une nouvelle commande.</p>
-<p>Vous pouvez aussi <a title="annuler une commande" href="/fr-fr/office/gestion-commerciale/ventes/AnnulationCommande.aspx"><strong>annuler une commande</strong> </a>gr&acirc;ce &agrave; la <strong>commande d'action,</strong> vous serez redirig&eacute; vers un formulaire vous permettant d'annuler une commande.</p>
+<p>Lorsque vous cliquez sur la&nbsp;<strong>commande d'action</strong>&nbsp;et que vous choisissez <a title="Nouvelle" href="/fr-fr/office/gestion-commerciale/ventes/NewTodo.md"><strong>Nouvelle</strong></a>, vous serez redirig&eacute; vers un <strong>formulaire</strong> vous permettant de cr&eacute;er une nouvelle commande.</p>
+<p>Vous pouvez aussi <a title="annuler une commande" href="/fr-fr/office/gestion-commerciale/ventes/AnnulationCommande.md"><strong>annuler une commande</strong> </a>gr&acirc;ce &agrave; la <strong>commande d'action,</strong> vous serez redirig&eacute; vers un formulaire vous permettant d'annuler une commande.</p>
 <p>&nbsp;</p>
 

@@ -1,10 +1,10 @@
 # Créer un Article
 
 
-<h3 style="text-align: center;">LA PREMI&Egrave;RE &Eacute;TAPE DE LA CR&Eacute;ATION DE VOTRE FICHE PRODUIT</h3>
+<h3 >LA PREMI&Egrave;RE &Eacute;TAPE DE LA CR&Eacute;ATION DE VOTRE FICHE PRODUIT</h3>
 
 
-<p><em><span style="font-size: 12pt;">Renseignez les informations de base de votre article (R&eacute;f&eacute;rence, Libell&eacute;, TVA applicable...etc ) avant de lui attribuer une marque, des attributs ou encore un prix</span></em></p>
+<p><em><span >Renseignez les informations de base de votre article (R&eacute;f&eacute;rence, Libell&eacute;, TVA applicable...etc ) avant de lui attribuer une marque, des attributs ou encore un prix</span></em></p>
 <p>&nbsp;</p>
 
 

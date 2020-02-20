@@ -1,11 +1,11 @@
 # Intégrer mon site à Altazion Office
 
 
-<h3 style="text-align: center;">&Eacute;DITEZ LA "CARTE D'IDENTIT&Eacute;" DE VOTRE SITE DE VENTE EN LIGNE</h3>
+<h3 >&Eacute;DITEZ LA "CARTE D'IDENTIT&Eacute;" DE VOTRE SITE DE VENTE EN LIGNE</h3>
 
 
-<p><em><span style="font-size: 12pt;">Renseignez les informations principales (Nom, Type de site, URL...) de votre site en ligne</span></em></p>
-<p><em><span style="font-size: 12pt;">Veillez &agrave; avoir entrepris au pr&eacute;alable les d&eacute;marches n&eacute;c&eacute;ssaires &agrave; la cr&eacute;ation de votre entit&eacute; juridique en ligne</span></em></p>
+<p><em><span >Renseignez les informations principales (Nom, Type de site, URL...) de votre site en ligne</span></em></p>
+<p><em><span >Veillez &agrave; avoir entrepris au pr&eacute;alable les d&eacute;marches n&eacute;c&eacute;ssaires &agrave; la cr&eacute;ation de votre entit&eacute; juridique en ligne</span></em></p>
 <p>&nbsp;</p>
 
 

@@ -1,30 +1,30 @@
 # Créer un Site Ecommerce
 
 
-<h4 style="text-align: center;">&nbsp;</h4>
-<h4 style="text-align: center;"><span style="font-size: 10pt;">APR&Egrave;S AVOIR &Eacute;DIT&Eacute; VOTRE CATALOGUE D'ARTICLES WEB, IL NE VOUS RESTE PLUS QU'&Agrave; ADAPTER VOTRE SITE VITRINE &Agrave; LA VENTE EN LIGNE</span></h4>
+<h4 >&nbsp;</h4>
+<h4 ><span style="font-size: 10pt;">APR&Egrave;S AVOIR &Eacute;DIT&Eacute; VOTRE CATALOGUE D'ARTICLES WEB, IL NE VOUS RESTE PLUS QU'&Agrave; ADAPTER VOTRE SITE VITRINE &Agrave; LA VENTE EN LIGNE</span></h4>
 <p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
-<p><strong><span style="font-size: 12pt;"><em>QU'EST-CE QUE LA CR&Eacute;ATION DE SITE ECOMMERCE ?</em></span></strong></p>
-<p><span style="font-size: 12pt;"><em>Param&eacute;trez&nbsp;les &eacute;l&eacute;ments qui constituent la base de votre site de vente en ligne&nbsp;en quelques &eacute;tapes :</em></span></p>
+<p><strong><span ><em>QU'EST-CE QUE LA CR&Eacute;ATION DE SITE ECOMMERCE ?</em></span></strong></p>
+<p><span ><em>Param&eacute;trez&nbsp;les &eacute;l&eacute;ments qui constituent la base de votre site de vente en ligne&nbsp;en quelques &eacute;tapes :</em></span></p>
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#infosgenerales">Informations G&eacute;n&eacute;rales</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Int&eacute;grer un prestataire de Paiement" href="#configprestapay">Int&eacute;grer un prestataire de Paiement</a></em></span></p>
+<p><span ><em>&bull; <a href="#infosgenerales">Informations G&eacute;n&eacute;rales</a></em></span></p>
+<p><span ><em>&bull; <a title="Int&eacute;grer un prestataire de Paiement" href="#configprestapay">Int&eacute;grer un prestataire de Paiement</a></em></span></p>
 <blockquote>
 <p><span style="font-size: 10pt;"><em>&diams; <span style="color: #0000ff;"><a style="color: #0000ff;" title="Configurer PayPal" href="#instalpaypal">Configurer PayPal</a></span></em></span></p>
 <p><span style="font-size: 10pt;"><em>&diams; <span style="color: #0000ff;"><a style="color: #0000ff;" title="Configurer HiPay" href="#instalhipay">Configurer HiPay</a></span></em></span></p>
 <p><span style="font-size: 10pt;"><em>&diams; <span style="color: #0000ff;"><a style="color: #0000ff;" title="Configurer Atos" href="#instalatos">Configurer Atos</a></span></em></span></p>
 <p><span style="font-size: 10pt;"><em>&diams; <span style="color: #0000ff;"><a style="color: #0000ff;" title="Configurer Adyen" href="#instaladyen">Configurer Adyen</a></span></em></span></p>
 </blockquote>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Ajouter un mode de Paiement" href="#modepaiement">Ajouter un mode de Paiement</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Ajouter un mode de Livraison" href="#modelivraison">Ajouter un mode de Livraison</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Cr&eacute;er&nbsp;une page de Contenu" href="#creerpagecontent">Cr&eacute;er&nbsp;une page de Contenu</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="R&eacute;diger une page de Contenu" href="#redigercontent">R&eacute;diger une page de Contenu</a></em></span></p>
+<p><span ><em>&bull; <a title="Ajouter un mode de Paiement" href="#modepaiement">Ajouter un mode de Paiement</a></em></span></p>
+<p><span ><em>&bull; <a title="Ajouter un mode de Livraison" href="#modelivraison">Ajouter un mode de Livraison</a></em></span></p>
+<p><span ><em>&bull; <a title="Cr&eacute;er&nbsp;une page de Contenu" href="#creerpagecontent">Cr&eacute;er&nbsp;une page de Contenu</a></em></span></p>
+<p><span ><em>&bull; <a title="R&eacute;diger une page de Contenu" href="#redigercontent">R&eacute;diger une page de Contenu</a></em></span></p>
 <p>&nbsp;</p>
-<p><em><strong><span style="font-size: 12pt;">POURQUOI CR&Eacute;ER UN SITE ECOMMERCE ?</span></strong></em></p>
-<p><em><span style="font-size: 12pt;">En ajoutant &agrave; vos fiches produits des modules de paiement ou de livraison, vous transformez votre simple site vitrine en une plateforme de vente cross-canale avec laquelle vous pouvez distribuer des articles en ligne,&nbsp;comme en magasin</span></em></p>
+<p><em><strong><span >POURQUOI CR&Eacute;ER UN SITE ECOMMERCE ?</span></strong></em></p>
+<p><em><span >En ajoutant &agrave; vos fiches produits des modules de paiement ou de livraison, vous transformez votre simple site vitrine en une plateforme de vente cross-canale avec laquelle vous pouvez distribuer des articles en ligne,&nbsp;comme en magasin</span></em></p>
 <p><em>&nbsp;</em></p>
 
 
@@ -89,12 +89,12 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull; Revivre l'intro &agrave; la cr&eacute;ation d'article :</em> <span style="text-decoration: underline;"><em><strong><a title="1. Param&eacute;trer mon Catalogue Web" href="/start/start-sellonline/default.aspx">1. Param&eacute;trer mon Catalogue Web</a></strong></em></span></p>
-<p><em>&bull; Revoir la cr&eacute;ation d'un article en ligne :</em> <span style="text-decoration: underline;"><em><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/start/start-sellonline/article.aspx">2. Cr&eacute;er un Article Ecommerce</a></strong></em></span></p>
-<p>&bull; <em>Repasser sur la validation d'article en ligne : <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Ecommerce" href="/start/start-sellonline/vldartweb.aspx">3. Publier un Article Ecommerce</a></strong></span></em></p>
+<p><em>&bull; Revivre l'intro &agrave; la cr&eacute;ation d'article :</em> <span style="text-decoration: underline;"><em><strong><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.md">1. Param&eacute;trer mon Catalogue Web</a></strong></em></span></p>
+<p><em>&bull; Revoir la cr&eacute;ation d'un article en ligne :</em> <span style="text-decoration: underline;"><em><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.md">2. Cr&eacute;er un Article Ecommerce</a></strong></em></span></p>
+<p>&bull; <em>Repasser sur la validation d'article en ligne : <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Ecommerce" href="/fr-fr/start/start-sellonline/vldartweb.md">3. Publier un Article Ecommerce</a></strong></span></em></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h4 style="text-align: center;"><strong><em><span style="font-size: 12pt;">Bravo, vous avez men&eacute; &agrave; bien les premiers pas de la mission Ecommerce !</span></em></strong></h4>
-<h4 style="text-align: center;"><strong><em><span style="font-size: 12pt;">Acc&eacute;dez maintenant au <a href="/animvente/progress-sellonline/">STAGE 2 - ANIMER LES VENTES EN LIGNE</a></span></em></strong></h4>
-<p style="text-align: center;">&nbsp;</p>
+<h4 ><strong><em><span >Bravo, vous avez men&eacute; &agrave; bien les premiers pas de la mission Ecommerce !</span></em></strong></h4>
+<h4 ><strong><em><span >Acc&eacute;dez maintenant au <a href="/animvente/progress-sellonline/">STAGE 2 - ANIMER LES VENTES EN LIGNE</a></span></em></strong></h4>
+<p >&nbsp;</p>
 

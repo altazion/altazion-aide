@@ -22,7 +22,7 @@
 <table>
 <tbody>
 <tr>
-<td><a title="Nouvelle marque" href="/fr-fr/office/settings/catalogue/marques/edit.aspx"><strong>Nouvelle marque</strong>&nbsp;</a></td>
+<td><a title="Nouvelle marque" href="/fr-fr/office/settings/catalogue/marques/edit.md"><strong>Nouvelle marque</strong>&nbsp;</a></td>
 <td>&nbsp;Cette action vous permet de cr&eacute;er une nouvelle marque qui apparaitra dans votre catalogue.</td>
 </tr>
 </tbody>

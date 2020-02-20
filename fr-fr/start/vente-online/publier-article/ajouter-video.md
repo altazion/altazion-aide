@@ -1,10 +1,10 @@
 # Ajouter une vidéo
 
 
-<h3 style="text-align: center;">AJOUTEZ DU CONTENU VID&Eacute;O &Agrave; VOS FICHES PRODUITS</h3>
+<h3 >AJOUTEZ DU CONTENU VID&Eacute;O &Agrave; VOS FICHES PRODUITS</h3>
 
 
-<p><em><span style="font-size: 12pt;">Dopez le pouvoir de conversion de vos fiches produits en ajoutant un visuel vid&eacute;o &agrave; l'article cr&eacute;&eacute;.&nbsp;&Agrave; l'aide de d&eacute;mos vid&eacute;os, vous proposez des fiches produits plus interactives sur votre site en apportant des suggestions d'utilisation, du conseil...etc</span></em></p>
+<p><em><span >Dopez le pouvoir de conversion de vos fiches produits en ajoutant un visuel vid&eacute;o &agrave; l'article cr&eacute;&eacute;.&nbsp;&Agrave; l'aide de d&eacute;mos vid&eacute;os, vous proposez des fiches produits plus interactives sur votre site en apportant des suggestions d'utilisation, du conseil...etc</span></em></p>
 <p>&nbsp;</p>
 
 

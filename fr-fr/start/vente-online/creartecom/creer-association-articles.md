@@ -1,10 +1,10 @@
 # Définir une association d'articles
 
 
-<h3 style="text-align: center;"><strong>ASSOCIEZ DES ARTICLES ENTRE EUX</strong></h3>
+<h3 ><strong>ASSOCIEZ DES ARTICLES ENTRE EUX</strong></h3>
 
 
-<p><span style="font-size: 12pt;"><em>Associez des articles pour les int&eacute;grer &agrave; vos campagnes commerciales afin de proposer des promotions par lot &agrave; un tarif pr&eacute;f&eacute;rentiel (<span style="text-decoration: underline;">Exemple</span> : Vous vendez 2 articles LEGO au prix de 100&euro; chacun. Vous pouvez associer ces deux articles en un lot que vous proposerez au prix de 150&euro;. Vous vendrez ainsi plus facilement les deux articles et &eacute;coulerez plus simplement vos &eacute;xc&eacute;dents de stocks)</em></span></p>
+<p><span ><em>Associez des articles pour les int&eacute;grer &agrave; vos campagnes commerciales afin de proposer des promotions par lot &agrave; un tarif pr&eacute;f&eacute;rentiel (<span style="text-decoration: underline;">Exemple</span> : Vous vendez 2 articles LEGO au prix de 100&euro; chacun. Vous pouvez associer ces deux articles en un lot que vous proposerez au prix de 150&euro;. Vous vendrez ainsi plus facilement les deux articles et &eacute;coulerez plus simplement vos &eacute;xc&eacute;dents de stocks)</em></span></p>
 <p>&nbsp;</p>
 
 

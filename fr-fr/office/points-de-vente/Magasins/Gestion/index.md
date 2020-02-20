@@ -51,8 +51,8 @@ Ce menu vous permet d'accéder à différentes commandes qui vous permettront de
 
 |Action||
 |---|---|
-|[Nouveau magasin](/fr-fr/office/gestion-commerciale/magasins/Edit.aspx/formulairededition.aspx "Nouveau magasin")|Cette action vous permet de créer un nouveau magasin| 
+|[Nouveau magasin](/fr-fr/office/gestion-commerciale/magasins/Edit.md/formulairededition.md "Nouveau magasin")|Cette action vous permet de créer un nouveau magasin| 
 
-<!-- |[** Modification rapide**](/fr-fr/office/gestion-commerciale/magasins/Edit.aspx/formulairedemodification.aspx "Modification rapide")|Cette action permet de modifier rapidement les informations d'un magasin| -->
+<!-- |[** Modification rapide**](/fr-fr/office/gestion-commerciale/magasins/Edit.md/formulairedemodification.md "Modification rapide")|Cette action permet de modifier rapidement les informations d'un magasin| -->
 
 Après avoir choisis une action, vous serez redirigé vers un **formulaire** vous permettant de débuter la création de votre **nouveau magasin** ou la **modification d'une enseigne déjà existante.**

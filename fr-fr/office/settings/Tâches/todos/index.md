@@ -11,5 +11,5 @@
 <li>Le libell&eacute; des t&acirc;ches,</li>
 <li>Le destinataire pour qui la t&acirc;che a &eacute;t&eacute; cr&eacute;&eacute;.</li>
 </ol>
-<p>&nbsp;Pour modifier une t&acirc;che, cliquez sur le bouton bleu "<a href="/fr-fr/office/settings/T%C3%A2ches/todos/changetodo.aspx">Modifier</a>".</p>
+<p>&nbsp;Pour modifier une t&acirc;che, cliquez sur le bouton bleu "<a href="/fr-fr/office/settings/T%C3%A2ches/todos/changetodo.md">Modifier</a>".</p>
 

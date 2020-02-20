@@ -20,7 +20,7 @@
 <table>
 <tbody>
 <tr>
-<td><a href="/fr-fr/office/settings/catalogue/attributs/editattribut.aspx">Nouvel attribut</a></td>
+<td><a href="/fr-fr/office/settings/catalogue/attributs/editattribut.md">Nouvel attribut</a></td>
 <td>&nbsp;Cette action vous permet de cr&eacute;er un nouvel attribut personnalis&eacute;.</td>
 </tr>
 </tbody>

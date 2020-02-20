@@ -1,10 +1,10 @@
 # Ajouter une image
 
 
-<h3 style="text-align: center;">ASSOCIEZ UN DESCRIPTIF VISUEL &Agrave; VOTRE ARTICLE</h3>
+<h3 >ASSOCIEZ UN DESCRIPTIF VISUEL &Agrave; VOTRE ARTICLE</h3>
 
 
-<p><span style="font-size: 12pt;"><em>D&eacute;finissez les formats d'image que vous voulez appliquer &agrave; votre fiche produit.&nbsp;La vente en ligne est une forme de commerce pour laquelle le visuel est tr&egrave;s important : &agrave; l'aide de fiches produits compl&egrave;tes, vous renforcez la confiance de l'acheteur et augmentez vos chances de conversion&nbsp;de paniers</em></span></p>
+<p><span ><em>D&eacute;finissez les formats d'image que vous voulez appliquer &agrave; votre fiche produit.&nbsp;La vente en ligne est une forme de commerce pour laquelle le visuel est tr&egrave;s important : &agrave; l'aide de fiches produits compl&egrave;tes, vous renforcez la confiance de l'acheteur et augmentez vos chances de conversion&nbsp;de paniers</em></span></p>
 <p>&nbsp;</p>
 
 

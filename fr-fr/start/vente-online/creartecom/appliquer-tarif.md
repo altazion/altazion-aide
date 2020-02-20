@@ -1,10 +1,10 @@
 # Tarifer un article
 
 
-<h3 style="text-align: center;"><strong>APPLIQUEZ UN PRIX DE VENTE &Agrave; VOTRE ARTICLE</strong></h3>
+<h3 ><strong>APPLIQUEZ UN PRIX DE VENTE &Agrave; VOTRE ARTICLE</strong></h3>
 
 
-<p><span style="font-size: 12pt;"><em>Associez &agrave; votre article un prix&nbsp;TTC avant de le mettre en vente. Vous pouvez s&eacute;lectionner le type de prix applicable en fonction du canal de distribution choisi pour votre article</em></span></p>
+<p><span ><em>Associez &agrave; votre article un prix&nbsp;TTC avant de le mettre en vente. Vous pouvez s&eacute;lectionner le type de prix applicable en fonction du canal de distribution choisi pour votre article</em></span></p>
 <p>&nbsp;</p>
 
 

@@ -12,6 +12,6 @@
 <li>La liste des noms de vos op&eacute;rations commerciales,</li>
 <li>Le type d'opp&eacute;ration (pub, promotion...),</li>
 </ol>
-<p>Pour modifier une op&eacute;ration commerciale, cliquez sur le bouton bleu <a href="/fr-fr/office/gestion-commerciale/commercial/campagnes/editcampagne.aspx">Ouvrir</a>. (3)</p>
-<p>Vous serez redirig&eacute; vers un <a href="/fr-fr/office/gestion-commerciale/commercial/campagnes/editcampagne.aspx">formulaire d'&eacute;dition</a>&nbsp;vous permettant de modifier les informations de votre op&eacute;ration commerciale.</p>
+<p>Pour modifier une op&eacute;ration commerciale, cliquez sur le bouton bleu <a href="/fr-fr/office/gestion-commerciale/commercial/campagnes/editcampagne.md">Ouvrir</a>. (3)</p>
+<p>Vous serez redirig&eacute; vers un <a href="/fr-fr/office/gestion-commerciale/commercial/campagnes/editcampagne.md">formulaire d'&eacute;dition</a>&nbsp;vous permettant de modifier les informations de votre op&eacute;ration commerciale.</p>
 

@@ -1,21 +1,21 @@
 # Publier un Article Ecommerce
 
 
-<h4 style="text-align: center;">&nbsp;</h4>
-<h4 style="text-align: center;"><span style="font-size: 10pt;"><strong>FINALISEZ LA CR&Eacute;ATION D'ARTICLE EN LUI ASSOCIANT UNE IMAGE / VID&Eacute;O AVANT DE LE PUBLIER</strong></span></h4>
+<h4 >&nbsp;</h4>
+<h4 ><span style="font-size: 10pt;"><strong>FINALISEZ LA CR&Eacute;ATION D'ARTICLE EN LUI ASSOCIANT UNE IMAGE / VID&Eacute;O AVANT DE LE PUBLIER</strong></span></h4>
 <p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;"><strong><em>QU'EST-CE QUE LA PUBLICATION D'ARTICLE ?</em></strong></span></p>
-<p><span style="font-size: 12pt;"><em>Validez les articles afin de finaliser la cr&eacute;ation de votre catalogue produits</em></span></p>
-<p><span style="font-size: 12pt;">&nbsp;</span></p>
-<p><span style="font-size: 12pt;">&bull; <em><a title="Ajouter une Image &agrave; un Article&nbsp;Ecommerce" href="#addimage">Ajouter une Image &agrave; un Article&nbsp;Ecommerce</a></em></span></p>
-<p><span style="font-size: 12pt;">&bull; <em><a title="Ajouter une Vid&eacute;o &agrave; un Article&nbsp;Ecommerce" href="#addvideo">Ajouter une Vid&eacute;o &agrave; un Article&nbsp;Ecommerce</a></em></span></p>
-<p><span style="font-size: 12pt;">&bull; <em><a title="Publier un Article&nbsp;Ecommerce" href="#validarticle">Publier un Article&nbsp;Ecommerce</a></em></span></p>
+<p><span ><strong><em>QU'EST-CE QUE LA PUBLICATION D'ARTICLE ?</em></strong></span></p>
+<p><span ><em>Validez les articles afin de finaliser la cr&eacute;ation de votre catalogue produits</em></span></p>
+<p><span >&nbsp;</span></p>
+<p><span >&bull; <em><a title="Ajouter une Image &agrave; un Article&nbsp;Ecommerce" href="#addimage">Ajouter une Image &agrave; un Article&nbsp;Ecommerce</a></em></span></p>
+<p><span >&bull; <em><a title="Ajouter une Vid&eacute;o &agrave; un Article&nbsp;Ecommerce" href="#addvideo">Ajouter une Vid&eacute;o &agrave; un Article&nbsp;Ecommerce</a></em></span></p>
+<p><span >&bull; <em><a title="Publier un Article&nbsp;Ecommerce" href="#validarticle">Publier un Article&nbsp;Ecommerce</a></em></span></p>
 <p>&nbsp;</p>
-<p><strong><em><span style="font-size: 12pt;">POURQUOI PUBLIER UN ARTICLE ?</span></em></strong></p>
-<p><em><span style="font-size: 12pt;">Votre article a &eacute;t&eacute; cr&eacute;&eacute; dans votre catalogue mais n'existe encore que d'un point de vue comptable. Vous devez maintenant le valider afin de le rendre commercialisable</span></em></p>
+<p><strong><em><span >POURQUOI PUBLIER UN ARTICLE ?</span></em></strong></p>
+<p><em><span >Votre article a &eacute;t&eacute; cr&eacute;&eacute; dans votre catalogue mais n'existe encore que d'un point de vue comptable. Vous devez maintenant le valider afin de le rendre commercialisable</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -75,11 +75,11 @@
 
 
 <p>&nbsp;</p>
-<p>&bull; <em>Revivez le lancement de votre catalogue : <strong><span style="text-decoration: underline;"><a title="1. Param&eacute;trer mon Catalogue Web" href="/start/start-sellonline/default.aspx">1. Param&eacute;trer mon Catalogue Web</a></span></strong></em></p>
-<p>&bull; <em>Repasser la partie : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/start/start-sellonline/article.aspx">2. Cr&eacute;er un Article Ecommerce</a></strong></span></em></p>
-<p>&bull; <em>Avancer vers le param&eacute;trage du site : <span style="text-decoration: underline;"><strong><a title="4. Cr&eacute;er un Site Ecommerce" href="/start/start-sellonline/editwebsite.aspx">4. Cr&eacute;er un Site Ecommerce</a></strong></span></em></p>
+<p>&bull; <em>Revivez le lancement de votre catalogue : <strong><span style="text-decoration: underline;"><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.md">1. Param&eacute;trer mon Catalogue Web</a></span></strong></em></p>
+<p>&bull; <em>Repasser la partie : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.md">2. Cr&eacute;er un Article Ecommerce</a></strong></span></em></p>
+<p>&bull; <em>Avancer vers le param&eacute;trage du site : <span style="text-decoration: underline;"><strong><a title="4. Cr&eacute;er un Site Ecommerce" href="/fr-fr/start/start-sellonline/editwebsite.md">4. Cr&eacute;er un Site Ecommerce</a></strong></span></em></p>
 <p>&nbsp;</p>
-<h4 style="text-align: center;"><em><strong><span style="font-size: 12pt;">Vous ma&icirc;trisez d&eacute;j&agrave;&nbsp;les premiers pas de la&nbsp;vente en ligne ?</span></strong></em></h4>
-<h4 style="text-align: center;"><em><strong><span style="font-size: 12pt;">Poussez les manettes et acc&eacute;l&eacute;rez vers le <a title="STAGE 2 - ANIMER LES VENTES EN LIGNE" href="/animvente/progress-sellonline/">STAGE 2 - ANIMER LES VENTES EN LIGNE</a></span></strong></em></h4>
+<h4 ><em><strong><span >Vous ma&icirc;trisez d&eacute;j&agrave;&nbsp;les premiers pas de la&nbsp;vente en ligne ?</span></strong></em></h4>
+<h4 ><em><strong><span >Poussez les manettes et acc&eacute;l&eacute;rez vers le <a title="STAGE 2 - ANIMER LES VENTES EN LIGNE" href="/animvente/progress-sellonline/">STAGE 2 - ANIMER LES VENTES EN LIGNE</a></span></strong></em></h4>
 <p>&nbsp;</p>
 

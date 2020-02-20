@@ -103,7 +103,7 @@
                 - name: default
                   items:
                     - name: index
-                      href: Internet/settings/ECommerce/CrossCanal/default.aspx/index.md
+                      href: Internet/settings/ECommerce/CrossCanal/default.md/index.md
 - name: PointOfSale
   items:
     - name: Groupesanimations

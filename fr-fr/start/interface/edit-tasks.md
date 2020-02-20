@@ -1,11 +1,11 @@
 # Créer une tâche
 
 
-<h3 style="text-align: center;"><strong>...ET VISUALISEZ VOTRE TO-DO LIST DEPUIS LE BACK OFFICE</strong></h3>
+<h3 ><strong>...ET VISUALISEZ VOTRE TO-DO LIST DEPUIS LE BACK OFFICE</strong></h3>
 
 
-<p><span style="font-size: 12pt;"><em>Une liste de t&acirc;ches (ou to-do list)&nbsp;vous permet de suivre puis de traiter chaque op&eacute;ration &agrave; r&eacute;aliser dans le back-office de gestion commerciale (GESCOM). <br />Modification d'un lot d'articles, mise en place d'une nouvelle campagne commerciale, correction d'une erreur... chaque t&acirc;che peut &ecirc;tre associ&eacute;e &agrave; un ou plusieurs utilisateurs ayant un droit d'acc&egrave;s&nbsp;&agrave; la GESCOM</em></span></p>
-<p><span style="font-size: 12pt;"><em>Les t&acirc;ches peuvent &ecirc;tre class&eacute;es par ordre de priorit&eacute;, ce qui vous permet de rester organis&eacute; dans la gestion de vos process</em></span></p>
+<p><span ><em>Une liste de t&acirc;ches (ou to-do list)&nbsp;vous permet de suivre puis de traiter chaque op&eacute;ration &agrave; r&eacute;aliser dans le back-office de gestion commerciale (GESCOM). <br />Modification d'un lot d'articles, mise en place d'une nouvelle campagne commerciale, correction d'une erreur... chaque t&acirc;che peut &ecirc;tre associ&eacute;e &agrave; un ou plusieurs utilisateurs ayant un droit d'acc&egrave;s&nbsp;&agrave; la GESCOM</em></span></p>
+<p><span ><em>Les t&acirc;ches peuvent &ecirc;tre class&eacute;es par ordre de priorit&eacute;, ce qui vous permet de rester organis&eacute; dans la gestion de vos process</em></span></p>
 <p>&nbsp;</p>
 
 
@@ -20,23 +20,23 @@
 <h3><strong>DESTINATAIRE</strong></h3>
 <p>Associez la t&acirc;che &agrave; un utilisateur ayant un droit d'acc&egrave;s au back-office</p>
 <h3><strong>CONTENU</strong></h3>
-<ul style="list-style-type: square;">
+<ul >
 <li><strong>Sujet</strong> : Indiquez la th&eacute;matique de la t&acirc;che cr&eacute;&eacute;e (Exemple : "Modification des tailles produits")</li>
 <li><strong>&Eacute;ch&eacute;ance</strong> : S&eacute;lectionnez dans le calendrier la date d'&eacute;ch&eacute;ance de la t&acirc;che &agrave; traiter. Cochez la case "<strong>Urgent</strong>" si la t&acirc;che doit &ecirc;tre trait&eacute;e dans les plus brefs d&eacute;lais</li>
 <li><strong>D&eacute;tails</strong> : Indiquez en d&eacute;tails l'op&eacute;ration &agrave; effectuer pour cette t&acirc;che (Exemple : Modifier les tailles produits "S" en "M" dans le catalogue Homme)</li>
 </ul>
 <p><br />Cliquez sur "<strong>Enregistrer</strong>" pour valider la cr&eacute;ation de la t&acirc;che</p>
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;"><em>Retrouvez&nbsp;votre to-do list depuis la barre des t&acirc;ches de l'Accueil en cliquant sur "Traiter"</em></span></p>
+<p><span ><em>Retrouvez&nbsp;votre to-do list depuis la barre des t&acirc;ches de l'Accueil en cliquant sur "Traiter"</em></span></p>
 
 
 <h2>VOIR AUSSI</h2>
-<p><strong><span style="text-decoration: underline;"><a title="Intro" href="/start/interface/default.aspx">Intro</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Interface" href="/start/interface/first-step-interface.aspx">Interface</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Cr&eacute;er un compte utilisateur" href="/start/interface/creer-compte.aspx">Cr&eacute;er un compte utilisateur</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Ajouter un groupe" href="/start/interface/add-group.aspx">Ajouter un groupe</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Attribuer une t&acirc;che" href="/start/interface/attribuer-task.aspx">Attribuer une t&acirc;che</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Traiter une t&acirc;che" href="/start/interface/use-tasks.aspx">Traiter une t&acirc;che</a></span></strong></p>
+<p><strong><span style="text-decoration: underline;"><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></span></strong></p>
+<p><strong><span style="text-decoration: underline;"><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></span></strong></p>
+<p><strong><span style="text-decoration: underline;"><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></span></strong></p>
+<p><strong><span style="text-decoration: underline;"><a title="Ajouter un groupe" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe</a></span></strong></p>
+<p><strong><span style="text-decoration: underline;"><a title="Attribuer une t&acirc;che" href="/fr-fr/start/interface/attribuer-task.md">Attribuer une t&acirc;che</a></span></strong></p>
+<p><strong><span style="text-decoration: underline;"><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md">Traiter une t&acirc;che</a></span></strong></p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><strong><span style="font-size: 12pt;">Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
+<p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 

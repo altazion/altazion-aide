@@ -38,7 +38,7 @@
 <table>
 <tbody>
 <tr>
-<td><a href="/fr-fr/office/gestion-commerciale/catalogue/grilledetarifs/EditGrille.aspx">Nouvelle grille</a></td>
+<td><a href="/fr-fr/office/gestion-commerciale/catalogue/grilledetarifs/EditGrille.md">Nouvelle grille</a></td>
 <td>Cette action permet de cr&eacute;er une nouvelle grille de tarifs</td>
 </tr>
 </tbody>

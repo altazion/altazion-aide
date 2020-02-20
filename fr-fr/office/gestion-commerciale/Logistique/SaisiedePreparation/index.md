@@ -25,5 +25,5 @@
 <li>Sa date de pr&eacute;paration,</li>
 <li>Son &eacute;tat.</li>
 </ol>
-<p>Pour traiter votre bon de pr&eacute;paration, cliquez sur le bouton bleu "<a href="/fr-fr/office/gestion-commerciale/Logistique/SaisiedePreparation/saisieprepaexterne.aspx">Ouvrir</a>". (J)</p>
+<p>Pour traiter votre bon de pr&eacute;paration, cliquez sur le bouton bleu "<a href="/fr-fr/office/gestion-commerciale/Logistique/SaisiedePreparation/saisieprepaexterne.md">Ouvrir</a>". (J)</p>
 

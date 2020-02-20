@@ -1,12 +1,12 @@
 # Interface
 
 
-<h3 style="text-align: center;"><strong>AVANT DE D&Eacute;COLLER, D&Eacute;COUVREZ VOTRE INTERFACE ALTAZION OFFICE</strong></h3>
+<h3 ><strong>AVANT DE D&Eacute;COLLER, D&Eacute;COUVREZ VOTRE INTERFACE ALTAZION OFFICE</strong></h3>
 <p>&nbsp;</p>
 
 
 <h2>QU'EST-CE QUE L'INTERFACE ?</h2>
-<p><em><span style="font-size: 12pt;">L'interface est le tableau de bord de votre module de gestion commerciale. C'est &agrave; partir de l&agrave; que vous acc&eacute;dez &agrave; toutes les fonctionnalit&eacute;s d'Altazion Office. </span></em><br /><em><span style="font-size: 12pt;">Depuis le&nbsp;Menu, recherchez rapidement un article et disposez d'un check-up des t&acirc;ches &agrave; r&eacute;aliser</span></em></p>
+<p><em><span >L'interface est le tableau de bord de votre module de gestion commerciale. C'est &agrave; partir de l&agrave; que vous acc&eacute;dez &agrave; toutes les fonctionnalit&eacute;s d'Altazion Office. </span></em><br /><em><span >Depuis le&nbsp;Menu, recherchez rapidement un article et disposez d'un check-up des t&acirc;ches &agrave; r&eacute;aliser</span></em></p>
 
 
 <p><img src="https://datasimplemente.blob.core.windows.net/aide/Tuto1%20Compress%C3%A9.gif" alt="Prenez en mains votre interface" width="1100" height="619" /></p>
@@ -26,12 +26,12 @@
 
 <p>&nbsp;</p>
 <h2>VOIR AUSSI</h2>
-<p><span style="text-decoration: underline;"><strong><a title="Intro" href="/start/interface/default.aspx">Intro</a></strong></span></p>
-<p><a title="Cr&eacute;er un compte utilisateur" href="/start/interface/creer-compte.aspx"><strong><span style="text-decoration: underline;">Cr&eacute;er un compte utilisateur</span></strong></a></p>
-<p><a title="Ajouter un groupe" href="/start/interface/add-group.aspx"><strong><span style="text-decoration: underline;">Ajouter un groupe</span></strong></a></p>
-<p><a title="Cr&eacute;er une t&acirc;che" href="/start/interface/edit-tasks.aspx"><strong><span style="text-decoration: underline;">Cr&eacute;er une t&acirc;che</span></strong></a></p>
-<p><a title="Attribuer une t&acirc;che" href="/start/interface/attribuer-task.aspx"><strong><span style="text-decoration: underline;">Attribuer une t&acirc;che</span></strong></a></p>
-<p><a title="Traiter une t&acirc;che" href="/start/interface/use-tasks.aspx"><strong><span style="text-decoration: underline;">Traiter une t&acirc;che</span></strong></a></p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><strong><span style="font-size: 12pt;">Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
+<p><span style="text-decoration: underline;"><strong><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></strong></span></p>
+<p><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md"><strong><span style="text-decoration: underline;">Cr&eacute;er un compte utilisateur</span></strong></a></p>
+<p><a title="Ajouter un groupe" href="/fr-fr/start/interface/add-group.md"><strong><span style="text-decoration: underline;">Ajouter un groupe</span></strong></a></p>
+<p><a title="Cr&eacute;er une t&acirc;che" href="/fr-fr/start/interface/edit-tasks.md"><strong><span style="text-decoration: underline;">Cr&eacute;er une t&acirc;che</span></strong></a></p>
+<p><a title="Attribuer une t&acirc;che" href="/fr-fr/start/interface/attribuer-task.md"><strong><span style="text-decoration: underline;">Attribuer une t&acirc;che</span></strong></a></p>
+<p><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md"><strong><span style="text-decoration: underline;">Traiter une t&acirc;che</span></strong></a></p>
+<p >&nbsp;</p>
+<p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 

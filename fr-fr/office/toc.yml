@@ -1,8 +1,19 @@
 - name: Découvrez Office
   href: index.md
-- name: Back-Office/Gestion commerciale
-  href: gestion-commerciale/
-- name: Magasins
-  href: points-de-vente/
-- name: Paramètres
-  href: settings/
+- name: Vos premiers pas
+  homepage: ../start/index.md
+  items:
+    - name: Découvrez l'interface
+      href: ../start/interface/index.md
+    - name: Vendre en ligne
+      href: ../start/vente-online/index.md
+    - name: Vendre en magasin
+      href: ../start/vente-mag/index.md
+- name: Fonctionnalités
+  items:
+  - name: Back-Office/Gestion commerciale
+    href: gestion-commerciale/
+  - name: Magasins
+    href: points-de-vente/
+  - name: Paramètres
+    href: settings/

@@ -1,11 +1,11 @@
 # Ajouter un groupe
 
 
-<h3 style="text-align: center;">CR&Eacute;EZ DES GROUPES D'UTILISATEURS</h3>
+<h3 >CR&Eacute;EZ DES GROUPES D'UTILISATEURS</h3>
 
 
-<p><span style="font-size: 12pt;"><em>Et simplifiez l'envoi de t&acirc;ches &agrave; destination d'un plus grand nombre de collaborateurs au sein de votre flotte. Vous avez ainsi la possibilit&eacute; de d&eacute;finir des "groupes de travail" dans la gestion commerciale</em></span></p>
-<p><span style="font-size: 12pt;"><em>Apr&egrave;s avoir cr&eacute;&eacute; votre groupe, int&eacute;grez les utilisateurs qui en font partie</em></span></p>
+<p><span ><em>Et simplifiez l'envoi de t&acirc;ches &agrave; destination d'un plus grand nombre de collaborateurs au sein de votre flotte. Vous avez ainsi la possibilit&eacute; de d&eacute;finir des "groupes de travail" dans la gestion commerciale</em></span></p>
+<p><span ><em>Apr&egrave;s avoir cr&eacute;&eacute; votre groupe, int&eacute;grez les utilisateurs qui en font partie</em></span></p>
 <p>&nbsp;</p>
 
 
@@ -20,7 +20,7 @@
 <h3>INFORMATIONS G&Eacute;N&Eacute;RALES</h3>
 <p>Veuillez indiquer le <strong>Libell&eacute;</strong> du groupe avant d'<strong>Enregistrer</strong> afin de finaliser sa cr&eacute;ation</p>
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;">- Pour retrouver un groupe, il vous suffit d'entrer son <strong>Libell&eacute;</strong> dans la barre de recherche de la page de gestion des <strong>Utilisateurs &amp; Groupes</strong></span></p>
+<p><span >- Pour retrouver un groupe, il vous suffit d'entrer son <strong>Libell&eacute;</strong> dans la barre de recherche de la page de gestion des <strong>Utilisateurs &amp; Groupes</strong></span></p>
 
 
 <h3>ASSOCIER UN UTILISATEUR &Agrave; UN GROUPE</h3>
@@ -32,8 +32,8 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><strong><a title="Cr&eacute;er un profil" href="/start/interface/creer-compte.aspx">Cr&eacute;er un profil</a></strong></p>
-<p><strong><a title="Modifier un profil" href="/start/interface/modifier-profil.aspx">Modifier un profil</a> </strong></p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><strong><span style="font-size: 12pt;">Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
+<p><strong><a title="Cr&eacute;er un profil" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un profil</a></strong></p>
+<p><strong><a title="Modifier un profil" href="/fr-fr/start/interface/modifier-profil.md">Modifier un profil</a> </strong></p>
+<p >&nbsp;</p>
+<p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 

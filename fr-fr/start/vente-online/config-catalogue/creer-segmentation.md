@@ -1,10 +1,10 @@
 # Créer une Segmentation
 
 
-<h3 style="text-align: center;">PARAM&Eacute;TREZ DES GROUPES / FAMILLES D'ARTICLES</h3>
+<h3 >PARAM&Eacute;TREZ DES GROUPES / FAMILLES D'ARTICLES</h3>
 
 
-<p><em><span style="font-size: 12pt;">Une segmentation consiste &agrave; proposer plusieurs produits au sein d'une m&ecirc;me gamme. Ces "familles" de produits sont destin&eacute;es &agrave; r&eacute;pondre &agrave; des besoins sp&eacute;cifiques. <span style="text-decoration: underline;">Exemple</span> : Si vous vendez des v&ecirc;tements, vous pouvez segmenter votre offre par &acirc;ge (Adulte / Enfant), sexe (Homme / Femme) ou m&ecirc;me par mati&egrave;re (100% Coton)</span></em></p>
+<p><em><span >Une segmentation consiste &agrave; proposer plusieurs produits au sein d'une m&ecirc;me gamme. Ces "familles" de produits sont destin&eacute;es &agrave; r&eacute;pondre &agrave; des besoins sp&eacute;cifiques. <span style="text-decoration: underline;">Exemple</span> : Si vous vendez des v&ecirc;tements, vous pouvez segmenter votre offre par &acirc;ge (Adulte / Enfant), sexe (Homme / Femme) ou m&ecirc;me par mati&egrave;re (100% Coton)</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -35,9 +35,9 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><span style="text-decoration: underline;"><strong><a title="&Eacute;diter un type d'article" href="/start/vente-online/config-catalogue/edit-type-article.aspx">&Eacute;diter un type d'article</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une marque" href="/start/vente-online/config-catalogue/creer-marque.aspx">Cr&eacute;er une marque</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er un attribut" href="/start/vente-online/config-catalogue/creer-attribut.aspx">Cr&eacute;er un attribut</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="&Eacute;diter un type d'article" href="/fr-fr/start/vente-online/config-catalogue/edit-type-article.md">&Eacute;diter un type d'article</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une marque" href="/fr-fr/start/vente-online/config-catalogue/creer-marque.md">Cr&eacute;er une marque</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er un attribut" href="/fr-fr/start/vente-online/config-catalogue/creer-attribut.md">Cr&eacute;er un attribut</a></strong></span></p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><strong><span style="font-size: 12pt;">Bravo ! Votre vaisseau amiral de vente semble pr&ecirc;t : que diriez-vous &agrave; pr&eacute;sent de piloter vos campagnes commerciales en ligne ?</span></strong></p>
+<p ><strong><span >Bravo ! Votre vaisseau amiral de vente semble pr&ecirc;t : que diriez-vous &agrave; pr&eacute;sent de piloter vos campagnes commerciales en ligne ?</span></strong></p>
 

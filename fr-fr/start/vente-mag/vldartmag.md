@@ -1,21 +1,21 @@
 # 3. Publier un Article Magasin
 
 
-<h4 style="text-align: center;">&nbsp;</h4>
-<h4 style="text-align: center;"><strong><span style="font-size: 10pt;">FINALISEZ LA CR&Eacute;ATION DE VOTRE CATALOGUE ET PUBLIEZ LES ARTICLES AFIN DE&nbsp;POUVOIR LES METTRE EN VENTE</span></strong></h4>
+<h4 >&nbsp;</h4>
+<h4 ><strong><span style="font-size: 10pt;">FINALISEZ LA CR&Eacute;ATION DE VOTRE CATALOGUE ET PUBLIEZ LES ARTICLES AFIN DE&nbsp;POUVOIR LES METTRE EN VENTE</span></strong></h4>
 <p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
-<p><strong><em><span style="font-size: 12pt;">QU'EST-CE QUE LA PUBLICATION D'ARTICLE ?</span></em></strong></p>
-<p><em><span style="font-size: 12pt;">Votre article a &eacute;t&eacute; cr&eacute;&eacute; dans votre catalogue et existe d'un point de vue comptable. Vous devez maintenant le valider afin de le rendre commercialisable</span></em></p>
-<p><em><span style="font-size: 12pt;">&nbsp;</span></em></p>
-<p><em><span style="font-size: 12pt;">&bull; <a title="Ajouter une Image &agrave; un Article" href="#addimage">Ajouter une Image &agrave; un Article</a></span></em></p>
-<p><em><span style="font-size: 12pt;">&bull; <a title="Ajouter une Vid&eacute;o &agrave; un Article" href="#addvideo">Ajouter une Vid&eacute;o &agrave; un Article</a></span></em></p>
-<p><em><span style="font-size: 12pt;">&bull; <a title="Publier un Article Magasin" href="#publiarticle">Publier un Article Magasin</a></span></em></p>
+<p><strong><em><span >QU'EST-CE QUE LA PUBLICATION D'ARTICLE ?</span></em></strong></p>
+<p><em><span >Votre article a &eacute;t&eacute; cr&eacute;&eacute; dans votre catalogue et existe d'un point de vue comptable. Vous devez maintenant le valider afin de le rendre commercialisable</span></em></p>
+<p><em><span >&nbsp;</span></em></p>
+<p><em><span >&bull; <a title="Ajouter une Image &agrave; un Article" href="#addimage">Ajouter une Image &agrave; un Article</a></span></em></p>
+<p><em><span >&bull; <a title="Ajouter une Vid&eacute;o &agrave; un Article" href="#addvideo">Ajouter une Vid&eacute;o &agrave; un Article</a></span></em></p>
+<p><em><span >&bull; <a title="Publier un Article Magasin" href="#publiarticle">Publier un Article Magasin</a></span></em></p>
 <p>&nbsp;</p>
-<p><strong><em><span style="font-size: 12pt;">POURQUOI PUBLIER UN ARTICLE ?</span></em></strong></p>
-<p><em><span style="font-size: 12pt;">Validez des articles avant de les mettre en vente : ajouter des visuels (photos / vid&eacute;os) &agrave; vos produits permettront &agrave; vos vendeurs de les identifier plus rapidement lorsqu'ils les rechercheront depuis le back-office</span></em></p>
+<p><strong><em><span >POURQUOI PUBLIER UN ARTICLE ?</span></em></strong></p>
+<p><em><span >Validez des articles avant de les mettre en vente : ajouter des visuels (photos / vid&eacute;os) &agrave; vos produits permettront &agrave; vos vendeurs de les identifier plus rapidement lorsqu'ils les rechercheront depuis le back-office</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -78,11 +78,11 @@
 
 
 <p>&nbsp;</p>
-<p>&bull; <em>Revoir comment param&eacute;trer mon catalogue : <span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/start/start-sellstore/default.aspx">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
-<p>&bull; <em>D&eacute;couvrir la cr&eacute;ation d'article : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Magasin" href="/start/start-sellstore/createarticle.aspx">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>Passer &agrave; la suite et d&eacute;finir mon Magasin : <span style="text-decoration: underline;"><strong><a title="4. Cr&eacute;er un Magasin" href="/start/start-sellstore/creermag.aspx">4. Cr&eacute;er un Magasin</a></strong></span></em></p>
+<p>&bull; <em>Revoir comment param&eacute;trer mon catalogue : <span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
+<p>&bull; <em>D&eacute;couvrir la cr&eacute;ation d'article : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>Passer &agrave; la suite et d&eacute;finir mon Magasin : <span style="text-decoration: underline;"><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md">4. Cr&eacute;er un Magasin</a></strong></span></em></p>
 <p>&nbsp;</p>
-<h4 style="text-align: center;"><em><span style="font-size: 12pt;">Votre catalogue magasin est d&eacute;j&agrave; pr&ecirc;t ?</span></em></h4>
-<h4 style="text-align: center;"><em><span style="font-size: 12pt;">Passez &agrave; la&nbsp;phase suivante et d&eacute;couvrez comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</span></em></h4>
+<h4 ><em><span >Votre catalogue magasin est d&eacute;j&agrave; pr&ecirc;t ?</span></em></h4>
+<h4 ><em><span >Passez &agrave; la&nbsp;phase suivante et d&eacute;couvrez comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</span></em></h4>
 <p>&nbsp;</p>
 

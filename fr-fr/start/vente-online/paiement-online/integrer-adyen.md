@@ -1,10 +1,10 @@
 # Intégrer ADYEN
 
 
-<h3 style="text-align: center;">CONFIGUREZ ADYEN POUR DES PAIEMENTS&nbsp;PLUS FIABLES</h3>
+<h3 >CONFIGUREZ ADYEN POUR DES PAIEMENTS&nbsp;PLUS FIABLES</h3>
 
 
-<p><em><span style="font-size: 12pt;">Depuis 2006, Adyen simplifie et s&eacute;curise les transactions des grands acteurs du retail et de la vente en ligne. Parmi eux : L'Or&eacute;al, Uber ou encore Spotify pour ne citer qu'eux. Il pr&eacute;sente l'avantage d'int&eacute;grer dans ses services un large &eacute;ventail de <span style="text-decoration: underline;"><strong><a title="Modes de paiement propos&eacute;s par Adyen" href="https://www.adyen.com/fr_FR/moyens-de-paiement">modes de paiement</a></strong></span></span></em></p>
+<p><em><span >Depuis 2006, Adyen simplifie et s&eacute;curise les transactions des grands acteurs du retail et de la vente en ligne. Parmi eux : L'Or&eacute;al, Uber ou encore Spotify pour ne citer qu'eux. Il pr&eacute;sente l'avantage d'int&eacute;grer dans ses services un large &eacute;ventail de <span style="text-decoration: underline;"><strong><a title="Modes de paiement propos&eacute;s par Adyen" href="https://www.adyen.com/fr_FR/moyens-de-paiement">modes de paiement</a></strong></span></span></em></p>
 <p>&nbsp;</p>
 
 

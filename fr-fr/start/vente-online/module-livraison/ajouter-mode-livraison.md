@@ -1,10 +1,10 @@
 # Ajouter un mode de livraison
 
 
-<h3 style="text-align: center;">OFFREZ UNE LARGE GAMME DE MODES DE LIVRAISON &Agrave; VOS CLIENTS</h3>
+<h3 >OFFREZ UNE LARGE GAMME DE MODES DE LIVRAISON &Agrave; VOS CLIENTS</h3>
 
 
-<p><span style="font-size: 12pt;"><em>Apr&egrave;s avoir int&eacute;gr&eacute; des prestataires de paiement et d&eacute;fini vos diff&eacute;rents modes de r&egrave;glement (CB, Virement PayPal...etc), finalisez le parcours d'achat en proposant aux consommateurs des un large &eacute;ventail de possibilit&eacute;s de livraison</em></span></p>
+<p><span ><em>Apr&egrave;s avoir int&eacute;gr&eacute; des prestataires de paiement et d&eacute;fini vos diff&eacute;rents modes de r&egrave;glement (CB, Virement PayPal...etc), finalisez le parcours d'achat en proposant aux consommateurs des un large &eacute;ventail de possibilit&eacute;s de livraison</em></span></p>
 <p>&nbsp;</p>
 
 

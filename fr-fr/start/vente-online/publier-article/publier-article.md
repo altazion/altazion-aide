@@ -1,10 +1,10 @@
 # Publier un article
 
 
-<h3 style="text-align: center;">VALIDEZ VOS ARTICLES AFIN DE LES AFFICHER SUR VOTRE SITE EN LIGNE</h3>
+<h3 >VALIDEZ VOS ARTICLES AFIN DE LES AFFICHER SUR VOTRE SITE EN LIGNE</h3>
 
 
-<p><em><span style="font-size: 12pt;">Finalisez la cr&eacute;ation de votre catalogue en validant vos articles. Vos articles n'existant encore qu'&agrave; titre comptable, vous devez en effet les valider&nbsp;pour les publier sur votre site de vente&nbsp;afin de pouvoir&nbsp;les commercialiser</span></em></p>
+<p><em><span >Finalisez la cr&eacute;ation de votre catalogue en validant vos articles. Vos articles n'existant encore qu'&agrave; titre comptable, vous devez en effet les valider&nbsp;pour les publier sur votre site de vente&nbsp;afin de pouvoir&nbsp;les commercialiser</span></em></p>
 <p>&nbsp;</p>
 
 

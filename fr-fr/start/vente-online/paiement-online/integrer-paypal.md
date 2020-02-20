@@ -1,10 +1,10 @@
 # Intégrer PAYPAL
 
 
-<h3 style="text-align: center;">INT&Eacute;GREZ LE C&Eacute;L&Egrave;BRE PRESTATAIRE DE PAIEMENT PAYPAL SUR VOTRE SITE</h3>
+<h3 >INT&Eacute;GREZ LE C&Eacute;L&Egrave;BRE PRESTATAIRE DE PAIEMENT PAYPAL SUR VOTRE SITE</h3>
 
 
-<p><em><span style="font-size: 12pt;">Utilis&eacute;e par&nbsp;pr&egrave;s de 275 millions d'acheteurs &agrave; travers&nbsp;le monde, PayPal est l'une des plateformes privil&eacute;gi&eacute;es des consommateurs... et des e-commer&ccedil;ants ! Particuliers ou Pros : tout le monde y trouve son compte</span></em></p>
+<p><em><span >Utilis&eacute;e par&nbsp;pr&egrave;s de 275 millions d'acheteurs &agrave; travers&nbsp;le monde, PayPal est l'une des plateformes privil&eacute;gi&eacute;es des consommateurs... et des e-commer&ccedil;ants ! Particuliers ou Pros : tout le monde y trouve son compte</span></em></p>
 <p>&nbsp;</p>
 
 

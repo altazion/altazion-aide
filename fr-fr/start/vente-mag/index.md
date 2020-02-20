@@ -1,24 +1,24 @@
 # 1. Paramétrer mon Catalogue Magasin
 
 
-<h4 style="text-align: center;">&nbsp;</h4>
-<h4 style="text-align: center;"><span style="font-size: 10pt;">PR&Eacute;PAREZ VOTRE CATALOGUE &Agrave; LA VENTE MAGASIN AVANT D'Y INT&Eacute;GRER VOS FICHES PRODUITS</span></h4>
+<h4 >&nbsp;</h4>
+<h4 ><span style="font-size: 10pt;">PR&Eacute;PAREZ VOTRE CATALOGUE &Agrave; LA VENTE MAGASIN AVANT D'Y INT&Eacute;GRER VOS FICHES PRODUITS</span></h4>
 <p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><em><span style="font-size: 12pt;"><strong>QU'EST-CE QUE LE PARAM&Eacute;TRAGE ARTICLE ?</strong> </span></em></p>
-<p><em><span style="font-size: 12pt;">Type, Marque, Attributs, Famille / Groupe... Vous configurez&nbsp;en amont l'ensemble des &eacute;l&eacute;ments qui d&eacute;finissent vos articles afin de les pr&eacute;parer &agrave; la vente en magasin :</span></em></p>
+<p><em><span ><strong>QU'EST-CE QUE LE PARAM&Eacute;TRAGE ARTICLE ?</strong> </span></em></p>
+<p><em><span >Type, Marque, Attributs, Famille / Groupe... Vous configurez&nbsp;en amont l'ensemble des &eacute;l&eacute;ments qui d&eacute;finissent vos articles afin de les pr&eacute;parer &agrave; la vente en magasin :</span></em></p>
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#editeruntype">&Eacute;diter un type d'article</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#creerunemarque">Cr&eacute;er une marque</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#creerunattribut">Cr&eacute;er un attribut d&eacute;clinable</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#creerunesegmentation">Cr&eacute;er une segmentation</a></em></span></p>
+<p><span ><em>&bull; <a href="#editeruntype">&Eacute;diter un type d'article</a></em></span></p>
+<p><span ><em>&bull; <a href="#creerunemarque">Cr&eacute;er une marque</a></em></span></p>
+<p><span ><em>&bull; <a href="#creerunattribut">Cr&eacute;er un attribut d&eacute;clinable</a></em></span></p>
+<p><span ><em>&bull; <a href="#creerunesegmentation">Cr&eacute;er une segmentation</a></em></span></p>
 <p>&nbsp;</p>
-<p><strong><em><span style="font-size: 12pt;">POURQUOI PARAM&Eacute;TRER D'ABORD MES ARTICLES ?</span></em></strong></p>
-<p><em><span style="font-size: 12pt;">Les consommateurs doivent pouvoir disposer d'informations compl&egrave;tes sur vos articles pour savoir&nbsp;s'ils r&eacute;pondent&nbsp;&agrave; leurs besoins.</span></em></p>
-<p><em><span style="font-size: 12pt;">De plus,&nbsp;classer vos articles par type, groupe ou marque simplifie la navigation sur la GESCOM et permet &agrave; vos vendeurs de retrouver plus rapidement un article.</span></em></p>
+<p><strong><em><span >POURQUOI PARAM&Eacute;TRER D'ABORD MES ARTICLES ?</span></em></strong></p>
+<p><em><span >Les consommateurs doivent pouvoir disposer d'informations compl&egrave;tes sur vos articles pour savoir&nbsp;s'ils r&eacute;pondent&nbsp;&agrave; leurs besoins.</span></em></p>
+<p><em><span >De plus,&nbsp;classer vos articles par type, groupe ou marque simplifie la navigation sur la GESCOM et permet &agrave; vos vendeurs de retrouver plus rapidement un article.</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -38,7 +38,7 @@
 <p>&nbsp;</p>
 <p>Si la TVA est d&ucirc;e &agrave; l'encaissement, veuillez cocher la case correspondante</p>
 <p>&nbsp;</p>
-<p><br /><span style="font-size: 12pt;">Enregistrez</span></p>
+<p><br /><span >Enregistrez</span></p>
 
 
 <p>&nbsp;</p>
@@ -59,7 +59,7 @@
 <p>- <strong>Libell&eacute;</strong> : Le Nom de votre URL personnalis&eacute;e</p>
 <p>- <strong>Ent&ecirc;te HTML</strong> : Le contenu SEO de votre URL personnalis&eacute;e</p>
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;">Enregistrez</span></p>
+<p><span >Enregistrez</span></p>
 
 
 <p>&nbsp;</p>
@@ -78,7 +78,7 @@
 <p>- <strong>Recopie Automatique</strong> : Si l'attribut d&eacute;clinable s'applique &agrave; d'autres articles (Ex : Un v&ecirc;tement qui se d&eacute;cline en S, M, L...), s&eacute;lectionnez la valeur "Sur les versions d'un produit g&eacute;n&eacute;rique"</p>
 <p>- <strong>Type d'attribut</strong> : D&eacute;finissez le type d'attribut cr&eacute;&eacute; (Texte, Chiffre...)</p>
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;">Enregistrez</span></p>
+<p><span >Enregistrez</span></p>
 
 
 <p>&nbsp;</p>
@@ -101,16 +101,16 @@
 <p>- <strong>Description publique</strong> : Le contenu descriptif de l'image que vous affichez</p>
 <p>- <strong>Utiliser ce contenu sur les segmentations filles sans Ent&ecirc;te</strong> : Pour appliquer ce contenu aux "sous-segmentations" d&eacute;pendantes du parent que vous &ecirc;tes actuellement en train d'&eacute;diter, veuillez cocher la case correspondante</p>
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;">Enregistrez</span></p>
+<p><span >Enregistrez</span></p>
 <p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
-<p><em>&bull;&nbsp;Et si vous passiez &agrave; l'&eacute;tape suivante ?</em>&nbsp;<strong><a title="Cr&eacute;er un Article Magasin" href="/start/start-sellstore/createarticle.aspx"><span style="text-decoration: underline;"><em>2.</em><em> Cr&eacute;er un Article Magasin</em></span></a></strong></p>
-<p>&bull; <em>D&eacute;couvrez comment valider un article :</em> <span style="text-decoration: underline;"><em><strong><a title="3. Publier un Article Magasin" href="/start/start-sellstore/vldartmag.aspx">3. Publier un Article Magasin</a></strong></em></span></p>
-<p><em>&bull;&nbsp;Ou directement &agrave; la fin du Stage 1 ?&nbsp;<a title="4. Cr&eacute;er un Magasin" href="/start/start-sellstore/creermag.aspx"><strong>4</strong><span style="text-decoration: underline;"><strong>. Cr&eacute;er un Magasin</strong></span></a></em></p>
+<p><em>&bull;&nbsp;Et si vous passiez &agrave; l'&eacute;tape suivante ?</em>&nbsp;<strong><a title="Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md"><span style="text-decoration: underline;"><em>2.</em><em> Cr&eacute;er un Article Magasin</em></span></a></strong></p>
+<p>&bull; <em>D&eacute;couvrez comment valider un article :</em> <span style="text-decoration: underline;"><em><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></em></span></p>
+<p><em>&bull;&nbsp;Ou directement &agrave; la fin du Stage 1 ?&nbsp;<a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md"><strong>4</strong><span style="text-decoration: underline;"><strong>. Cr&eacute;er un Magasin</strong></span></a></em></p>
 <p>&nbsp;</p>
-<h4 style="text-align: center;"><span style="font-size: 12pt;"><em>Vous&nbsp;&ecirc;tes d&eacute;j&agrave; "&eacute;quip&eacute;" pour la vente en magasin ?</em></span></h4>
-<h4 style="text-align: center;"><span style="font-size: 12pt;"><em>Rendez-vous directement au Stage 2 et d&eacute;couvrez comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</em></span></h4>
+<h4 ><span ><em>Vous&nbsp;&ecirc;tes d&eacute;j&agrave; "&eacute;quip&eacute;" pour la vente en magasin ?</em></span></h4>
+<h4 ><span ><em>Rendez-vous directement au Stage 2 et d&eacute;couvrez comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</em></span></h4>
 <p>&nbsp;</p>
 

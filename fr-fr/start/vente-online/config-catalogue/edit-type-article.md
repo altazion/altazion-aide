@@ -1,10 +1,10 @@
 # Éditer un Type d'article
 
 
-<h3 style="text-align: center;">CONFIGUREZ DES TYPES D'ARTICLE</h3>
+<h3 >CONFIGUREZ DES TYPES D'ARTICLE</h3>
 
 
-<p><em><span style="font-size: 12pt;">D&eacute;finissez&nbsp;en amont les diff&eacute;rentes natures d'articles que vous allez cr&eacute;er (d'un point de vue comptable, on parle de "marchandise" ou de "prestation") et indiquez les types d'articles que int&eacute;grerez au catalogue (<span style="text-decoration: underline;">Exemple</span> : Produits secondaires / Compl&eacute;ments...etc)</span></em></p>
+<p><em><span >D&eacute;finissez&nbsp;en amont les diff&eacute;rentes natures d'articles que vous allez cr&eacute;er (d'un point de vue comptable, on parle de "marchandise" ou de "prestation") et indiquez les types d'articles que int&eacute;grerez au catalogue (<span style="text-decoration: underline;">Exemple</span> : Produits secondaires / Compl&eacute;ments...etc)</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -17,13 +17,13 @@
 
 
 <h3>INFORMATIONS G&Eacute;N&Eacute;RALES</h3>
-<ul style="list-style-type: square;">
+<ul >
 <li><strong>Libell&eacute;&nbsp;</strong>: Le Nom de votre nouveau type</li>
 <li><strong>Code&nbsp;</strong>: La R&eacute;f&eacute;rence du type que vous &eacute;ditez</li>
 <li><strong>Description&nbsp;</strong>: R&eacute;digez le Descriptif du type</li>
 </ul>
 <h3><br />COMPTABILIT&Eacute;</h3>
-<ul style="list-style-type: square;">
+<ul >
 <li><strong>Compte de vente</strong>&nbsp;: Le compte bancaire auquel est rattach&eacute; le type&nbsp;</li>
 <li><strong>Compte TVA sp&eacute;cifique</strong>&nbsp;:&nbsp;</li>
 </ul>
@@ -35,9 +35,9 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une marque" href="/start/vente-online/config-catalogue/creer-marque.aspx">Cr&eacute;er une marque</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er un attribut" href="/start/vente-online/config-catalogue/creer-attribut.aspx">Cr&eacute;er un attribut</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une segmentation" href="/start/vente-online/config-catalogue/creer-segmentation.aspx">Cr&eacute;er une segmentation</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une marque" href="/fr-fr/start/vente-online/config-catalogue/creer-marque.md">Cr&eacute;er une marque</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er un attribut" href="/fr-fr/start/vente-online/config-catalogue/creer-attribut.md">Cr&eacute;er un attribut</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une segmentation" href="/fr-fr/start/vente-online/config-catalogue/creer-segmentation.md">Cr&eacute;er une segmentation</a></strong></span></p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><strong><span style="font-size: 12pt;">Bravo ! Votre vaisseau amiral de vente semble pr&ecirc;t : que diriez-vous &agrave; pr&eacute;sent de piloter vos campagnes commerciales en ligne ?</span></strong></p>
+<p ><strong><span >Bravo ! Votre vaisseau amiral de vente semble pr&ecirc;t : que diriez-vous &agrave; pr&eacute;sent de piloter vos campagnes commerciales en ligne ?</span></strong></p>
 

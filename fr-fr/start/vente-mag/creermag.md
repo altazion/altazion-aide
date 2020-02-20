@@ -1,23 +1,23 @@
 # 4. Créer un Magasin
 
 
-<h4 style="text-align: center;">&nbsp;</h4>
-<h4 style="text-align: center;"><span style="font-size: 10pt;">APR&Egrave;S AVOIR &Eacute;DIT&Eacute; UN CATALOGUE D'ARTICLES D&Eacute;DI&Eacute;S &Agrave; LA VENTE EN MAGASIN, ENTREZ LES INFORMATIONS DE VOTRE (OU VOS)&nbsp;BOUTIQUE(S)&nbsp;DANS VOTRE GESTION COMMERCIALE</span></h4>
+<h4 >&nbsp;</h4>
+<h4 ><span style="font-size: 10pt;">APR&Egrave;S AVOIR &Eacute;DIT&Eacute; UN CATALOGUE D'ARTICLES D&Eacute;DI&Eacute;S &Agrave; LA VENTE EN MAGASIN, ENTREZ LES INFORMATIONS DE VOTRE (OU VOS)&nbsp;BOUTIQUE(S)&nbsp;DANS VOTRE GESTION COMMERCIALE</span></h4>
 <p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
-<p><strong><em><span style="font-size: 12pt;">QU'EST-CE QUE LE PARAM&Eacute;TRAGE MAGASINS ?</span></em></strong></p>
-<p><em><span style="font-size: 12pt;">Entrez dans votre base de donn&eacute;es toutes les informations caract&eacute;ristiques de&nbsp;votre / vos point(s) de vente (Zones g&eacute;ographiques, Groupes de vente, Types de p&eacute;riph&eacute;riques..)</span></em></p>
+<p><strong><em><span >QU'EST-CE QUE LE PARAM&Eacute;TRAGE MAGASINS ?</span></em></strong></p>
+<p><em><span >Entrez dans votre base de donn&eacute;es toutes les informations caract&eacute;ristiques de&nbsp;votre / vos point(s) de vente (Zones g&eacute;ographiques, Groupes de vente, Types de p&eacute;riph&eacute;riques..)</span></em></p>
 <p>&nbsp;</p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Cr&eacute;er une Zone de magasins" href="#creerzonemag">Cr&eacute;er une Zone de magasins</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Cr&eacute;er un Groupe de magasins" href="#creergpemag">Cr&eacute;er un Groupe de magasins</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Configurer des Types de P&eacute;riph&eacute;rique en magasin" href="#configtypeperih">Configurer des Types de P&eacute;riph&eacute;rique en magasin</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Ajouter un Magasin" href="#ajoutmag">Ajouter un Magasin</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a title="Ajouter un P&eacute;riph&eacute;rique magasin" href="#ajoutperiphmag">Ajouter un P&eacute;riph&eacute;rique magasin</a></em></span></p>
+<p><span ><em>&bull; <a title="Cr&eacute;er une Zone de magasins" href="#creerzonemag">Cr&eacute;er une Zone de magasins</a></em></span></p>
+<p><span ><em>&bull; <a title="Cr&eacute;er un Groupe de magasins" href="#creergpemag">Cr&eacute;er un Groupe de magasins</a></em></span></p>
+<p><span ><em>&bull; <a title="Configurer des Types de P&eacute;riph&eacute;rique en magasin" href="#configtypeperih">Configurer des Types de P&eacute;riph&eacute;rique en magasin</a></em></span></p>
+<p><span ><em>&bull; <a title="Ajouter un Magasin" href="#ajoutmag">Ajouter un Magasin</a></em></span></p>
+<p><span ><em>&bull; <a title="Ajouter un P&eacute;riph&eacute;rique magasin" href="#ajoutperiphmag">Ajouter un P&eacute;riph&eacute;rique magasin</a></em></span></p>
 <p>&nbsp;</p>
-<p><strong><em><span style="font-size: 12pt;">POURQUOI CR&Eacute;ER MON / MES MAGASIN(S) ?</span></em></strong></p>
-<p><em><span style="font-size: 12pt;">Disposez des informations magasins dans votre base de donn&eacute;es vous permet de mettre en place, puis de suivre plus efficacement des op&eacute;rations commerciales mais aussi de lier votre r&eacute;seau de boutiques &agrave; un site de vente en ligne afin d'accro&icirc;tre la r&eacute;ussite de votre strat&eacute;gie de vente omnicanale</span></em></p>
+<p><strong><em><span >POURQUOI CR&Eacute;ER MON / MES MAGASIN(S) ?</span></em></strong></p>
+<p><em><span >Disposez des informations magasins dans votre base de donn&eacute;es vous permet de mettre en place, puis de suivre plus efficacement des op&eacute;rations commerciales mais aussi de lier votre r&eacute;seau de boutiques &agrave; un site de vente en ligne afin d'accro&icirc;tre la r&eacute;ussite de votre strat&eacute;gie de vente omnicanale</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -101,12 +101,12 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull;&nbsp;Commencez par pr&eacute;parer votre catalogue magasin : <span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer&nbsp;mon Catalogue Magasin" href="/start/start-sellstore/default.aspx">1. Param&eacute;trer&nbsp;mon Catalogue Magasin</a></strong></span></em></p>
-<p><em>&bull;&nbsp;D&eacute;couvrez comment &eacute;diter un article : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Magasin" href="/start/start-sellstore/createarticle.aspx">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>Vous avez rat&eacute; l'&eacute;tape de validation d'un article ? <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Magasin" href="/start/start-sellstore/vldartmag.aspx">3. Publier un Article Magasin</a></strong></span></em></p>
+<p><em>&bull;&nbsp;Commencez par pr&eacute;parer votre catalogue magasin : <span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer&nbsp;mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer&nbsp;mon Catalogue Magasin</a></strong></span></em></p>
+<p><em>&bull;&nbsp;D&eacute;couvrez comment &eacute;diter un article : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>Vous avez rat&eacute; l'&eacute;tape de validation d'un article ? <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></span></em></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h4 style="text-align: center;"><em><span style="font-size: 12pt;">F&eacute;licitations, vous voil&agrave; pr&ecirc;t &agrave; conqu&eacute;rir les ventes en magasin !</span></em></h4>
-<h4 style="text-align: center;"><em><span style="font-size: 12pt;">Passez d&egrave;s maintenant au <strong><a title="STAGE 2 - ANIMER LES VENTES MAGASIN" href="/animvente">STAGE 2 - ANIMER LES VENTES MAGASIN</a></strong></span></em></h4>
+<h4 ><em><span >F&eacute;licitations, vous voil&agrave; pr&ecirc;t &agrave; conqu&eacute;rir les ventes en magasin !</span></em></h4>
+<h4 ><em><span >Passez d&egrave;s maintenant au <strong><a title="STAGE 2 - ANIMER LES VENTES MAGASIN" href="/animvente">STAGE 2 - ANIMER LES VENTES MAGASIN</a></strong></span></em></h4>
 <p>&nbsp;</p>
 

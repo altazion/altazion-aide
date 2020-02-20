@@ -1,10 +1,10 @@
 # Intégrer ATOS
 
 
-<h3 style="text-align: center;">INT&Eacute;GREZ L'EXPERTISE D'ATOS POUR VOS PAIEMENTS EN LIGNE</h3>
+<h3 >INT&Eacute;GREZ L'EXPERTISE D'ATOS POUR VOS PAIEMENTS EN LIGNE</h3>
 
 
-<p><em><span style="font-size: 12pt;">Acteur de longue date dans le secteur des paiements via son ex-filiale Worldline, ATOS dispose d'une expertise solide en mati&egrave;re de r&eacute;glements mobiles et propose des modes de paiement vari&eacute;s</span></em></p>
+<p><em><span >Acteur de longue date dans le secteur des paiements via son ex-filiale Worldline, ATOS dispose d'une expertise solide en mati&egrave;re de r&eacute;glements mobiles et propose des modes de paiement vari&eacute;s</span></em></p>
 <p>&nbsp;</p>
 
 

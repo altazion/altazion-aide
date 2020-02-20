@@ -9,7 +9,7 @@ Nos solutions pour le commerce sont disponibles sous 2 formes :
 
 Il s'agit de la configuration la plus simple à mettre en oeuvre : vous utilisez notre solution directement depuis notre infrastructure en vous connectant sur notre portail Web. Les données et applications sont hébergées sur nos serveurs et, tout en restant totalement privées et sécurisées, utilisent des ressources mutualisées avec d'autres clients. 
 
-Vos applications sont disponibles avec un simple accès Internet, que vous utilisiez un navigateur web, ou l'une de nos applications pour Windows, Mac, iOS ou Android. Si vous accédez à notre solution depuis un réseau d'entreprise, [certains pré-requis seront peut-être nécessaires](/administration/installation/saas-prerequis.aspx) pour fonctionner dans des conditions optimales, en particulier si vous avez des mesures de sécurité spécifiques.
+Vos applications sont disponibles avec un simple accès Internet, que vous utilisiez un navigateur web, ou l'une de nos applications pour Windows, Mac, iOS ou Android. Si vous accédez à notre solution depuis un réseau d'entreprise, [certains pré-requis seront peut-être nécessaires](/administration/installation/saas-prerequis.md) pour fonctionner dans des conditions optimales, en particulier si vous avez des mesures de sécurité spécifiques.
 
 L'utilisation de nos solutions en mode hébergé vous permet de ne pas avoir à vous soucier de la maintenance, des sauvegardes techniques et de l'infrastructure. Nous vous conseillons toutefois **de faire des sauvegardes régulières de vos données** en utilisant les fonctions d'export proposées dans l'interface.
 

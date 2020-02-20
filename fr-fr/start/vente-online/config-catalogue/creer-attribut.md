@@ -1,10 +1,10 @@
 # Créer un Attribut
 
 
-<h3 style="text-align: center;">D&Eacute;FINISSEZ LES CARACT&Eacute;RISTIQUES DE VOS ARTICLES</h3>
+<h3 >D&Eacute;FINISSEZ LES CARACT&Eacute;RISTIQUES DE VOS ARTICLES</h3>
 
 
-<p><em><span style="font-size: 12pt;">Un attribut est une caract&eacute;ristique propre &agrave; chaque article. Personnalisable et d&eacute;clinable, un attribut permet de proposer un article en plusieurs versions / mod&egrave;les diff&eacute;rents (<span style="text-decoration: underline;">Exemple</span> : L'attribut "taille" d'un v&ecirc;tement permet de d&eacute;cliner celui-ci en S, M, L ...etc)<br />Les attributs permettent ainsi aux articles de r&eacute;pondre &agrave; des besoins cibl&eacute;s</span></em></p>
+<p><em><span >Un attribut est une caract&eacute;ristique propre &agrave; chaque article. Personnalisable et d&eacute;clinable, un attribut permet de proposer un article en plusieurs versions / mod&egrave;les diff&eacute;rents (<span style="text-decoration: underline;">Exemple</span> : L'attribut "taille" d'un v&ecirc;tement permet de d&eacute;cliner celui-ci en S, M, L ...etc)<br />Les attributs permettent ainsi aux articles de r&eacute;pondre &agrave; des besoins cibl&eacute;s</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -17,7 +17,7 @@
 
 
 <h3>INFORMATIONS G&Eacute;N&Eacute;RALES</h3>
-<ul style="list-style-type: square;">
+<ul >
 <li><strong>Nom</strong>&nbsp;: Indiquez le libell&eacute; de votre attribut (<span style="text-decoration: underline;">Exemple</span> : "Taille S" est une caract&eacute;ristique propre &agrave;&nbsp;un v&ecirc;tement)</li>
 <li><strong>Groupe&nbsp;d'attribut</strong>&nbsp;: Cr&eacute;ez un groupe d'attributs en entrant simplement le nom de groupe. Indiquez ce m&ecirc;me nom lors de la cr&eacute;ation de futurs attributs pour les int&eacute;grer au groupe.</li>
 <li><strong>URL&nbsp;personnalis&eacute;e</strong>&nbsp;:&nbsp;D&eacute;finissez les termes qui seront utilis&eacute;s dans l'URL afin de mieux r&eacute;f&eacute;rencer l'attribut</li>
@@ -25,7 +25,7 @@
 <li><strong>Recherche&nbsp;</strong>: Cochez la case si l'attribut est utilisable en tant que crit&egrave;re de recherche (Ex : l'attribut "poche zipp&eacute;e" peut &ecirc;tre un crit&egrave;re de recherche pr&eacute;cis pour un pantalon)</li>
 </ul>
 <h3>ATTRIBUTS D&Eacute;CLINABLES</h3>
-<ul style="list-style-type: square;">
+<ul >
 <li>Si l'attribut comporte un <strong>caract&egrave;re diff&eacute;renciant</strong> pour votre article (<span style="text-decoration: underline;">Exemple</span> : une taille de v&ecirc;tement diff&eacute;rente, qui implique donc un changement physique de l'article), veuillez cocher la case correspondante</li>
 <li>Si l'attribut d&eacute;clinable <strong>s'applique &agrave; d'autres articles</strong> (<span style="text-decoration: underline;">Exemple</span> : un v&ecirc;tement qui se d&eacute;cline en S, M, L...), s&eacute;lectionner la valeur "<strong>Sur les&nbsp;versions d'un produit g&eacute;n&eacute;rique</strong>"</li>
 </ul>
@@ -37,9 +37,9 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><span style="text-decoration: underline;"><strong><a title="&Eacute;diter un type d'article" href="/start/vente-online/config-catalogue/edit-type-article.aspx">&Eacute;diter un type d'article</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une marque" href="/start/vente-online/config-catalogue/creer-marque.aspx">Cr&eacute;er une marque</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une segmentation" href="/start/vente-online/config-catalogue/creer-segmentation.aspx">Cr&eacute;er une segmentation</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="&Eacute;diter un type d'article" href="/fr-fr/start/vente-online/config-catalogue/edit-type-article.md">&Eacute;diter un type d'article</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une marque" href="/fr-fr/start/vente-online/config-catalogue/creer-marque.md">Cr&eacute;er une marque</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une segmentation" href="/fr-fr/start/vente-online/config-catalogue/creer-segmentation.md">Cr&eacute;er une segmentation</a></strong></span></p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><strong><span style="font-size: 12pt;">Bravo ! Votre vaisseau amiral de vente semble pr&ecirc;t : que diriez-vous &agrave; pr&eacute;sent de piloter vos campagnes commerciales en ligne ?</span></strong></p>
+<p ><strong><span >Bravo ! Votre vaisseau amiral de vente semble pr&ecirc;t : que diriez-vous &agrave; pr&eacute;sent de piloter vos campagnes commerciales en ligne ?</span></strong></p>
 

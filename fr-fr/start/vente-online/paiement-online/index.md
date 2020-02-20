@@ -1,9 +1,9 @@
 # Intro
 
 
-<h3 style="text-align: center;">INT&Eacute;GREZ DES PRESTATAIRES DE PAIEMENT &Agrave; VOTRE SITE DE VENTE EN LIGNE</h3>
-<p><span style="font-size: 12pt;">ALTAZION OFFICE int&egrave;gre nativement&nbsp;des&nbsp;prestataires&nbsp;de paiement parmi les plus utilis&eacute;s : <strong>Adyen</strong>, <strong>Atos</strong>, <strong>Hipay</strong>, ou encore <strong>PayPal</strong>. Pour qu'ils fonctionnent parfaitement, ces derniers doivent &ecirc;tre <strong>configur&eacute;s</strong>, c'est-&agrave;-dire associ&eacute;s &agrave; votre plateforme de vente</span></p>
-<p><span style="font-size: 12pt;">Pour les associer &agrave; votre plateforme de vente, vous devez r&eacute;aliser quelques rapides <strong>ajustements</strong> non seulement <strong>dans ALTAZION OFFICE</strong>, mais aussi <strong>aupr&egrave;s du ou des prestataire(s)</strong> pr&eacute;c&eacute;demment cit&eacute;(s). Pas de panique ! On vous explique la marche &agrave; suivre :&nbsp;</span></p>
+<h3 >INT&Eacute;GREZ DES PRESTATAIRES DE PAIEMENT &Agrave; VOTRE SITE DE VENTE EN LIGNE</h3>
+<p><span >ALTAZION OFFICE int&egrave;gre nativement&nbsp;des&nbsp;prestataires&nbsp;de paiement parmi les plus utilis&eacute;s : <strong>Adyen</strong>, <strong>Atos</strong>, <strong>Hipay</strong>, ou encore <strong>PayPal</strong>. Pour qu'ils fonctionnent parfaitement, ces derniers doivent &ecirc;tre <strong>configur&eacute;s</strong>, c'est-&agrave;-dire associ&eacute;s &agrave; votre plateforme de vente</span></p>
+<p><span >Pour les associer &agrave; votre plateforme de vente, vous devez r&eacute;aliser quelques rapides <strong>ajustements</strong> non seulement <strong>dans ALTAZION OFFICE</strong>, mais aussi <strong>aupr&egrave;s du ou des prestataire(s)</strong> pr&eacute;c&eacute;demment cit&eacute;(s). Pas de panique ! On vous explique la marche &agrave; suivre :&nbsp;</span></p>
 <p>&nbsp;</p>
 <h3>COMMENT FONCTIONNE UN PRESTATAIRE DE PAIEMENT (PSP) ?</h3>
 <p>Le prestataire de services de paiement, commun&eacute;ment appel&eacute; "PSP", agit comme un&nbsp;<strong>interm&eacute;diaire</strong>&nbsp;aupr&egrave;s des vendeurs en leur&nbsp;permettant d'<strong>accepter les paiements en ligne</strong>, principalement par carte bancaire. En fait, lorsqu'un consommateur paye sur Internet, il est en contact direct avec un PSP et non avec un organisme bancaire :&nbsp;</p>

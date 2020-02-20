@@ -21,7 +21,7 @@
 <table>
 <tbody>
 <tr>
-<td><a href="/fr-fr/office/gestion-commerciale/commercial/questionnaires/NouveauQuestionnaire.aspx">Nouveau&nbsp;</a></td>
+<td><a href="/fr-fr/office/gestion-commerciale/commercial/questionnaires/NouveauQuestionnaire.md">Nouveau&nbsp;</a></td>
 <td>&nbsp;Cette action vous permet de cr&eacute;er un nouveau questionnaire.</td>
 </tr>
 </tbody>

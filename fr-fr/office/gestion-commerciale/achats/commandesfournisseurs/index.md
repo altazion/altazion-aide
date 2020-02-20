@@ -35,7 +35,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/fr-fr/office/gestion-commerciale/achats/commandesfournisseurs/formualiredecommandefournisseur.aspx">Nouvelle commande</a> </strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/achats/commandesfournisseurs/formualiredecommandefournisseur.md">Nouvelle commande</a> </strong></td>
 <td>Cette action vous permet&nbsp;de commander des produits directement chez&nbsp;votre fournisseur.</td>
 </tr>
 </tbody>

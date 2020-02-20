@@ -14,14 +14,14 @@
 <li>Son identifiant,</li>
 <li>Sa licence.</li>
 </ol>
-<p>Vous pouvez <a title="modifier" href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/EditUser.aspx"><strong>modifier</strong></a>, <strong>archiver</strong> ou encore <a title="r&eacute;initialiser le mot de passe" href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/ReInitPassword.aspx"><strong>r&eacute;initialiser le mot de passe</strong> </a>d'un utilisateur via le <strong>menu d'action</strong> &agrave;&nbsp;droite de l'utilisateur.</p>
+<p>Vous pouvez <a title="modifier" href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/EditUser.md"><strong>modifier</strong></a>, <strong>archiver</strong> ou encore <a title="r&eacute;initialiser le mot de passe" href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/ReInitPassword.md"><strong>r&eacute;initialiser le mot de passe</strong> </a>d'un utilisateur via le <strong>menu d'action</strong> &agrave;&nbsp;droite de l'utilisateur.</p>
 <p>Pour modifier les droits d'un utilisateur, cliquer sur le bouton bleu "<strong>G&eacute;rer les droits</strong>".&nbsp;</p>
 <h3>Groupes</h3>
 <p>Cet &eacute;cran vous permet d'acc&eacute;der aux <strong>diff&eacute;rents groupes d'utilisateurs</strong> ainsi qu'&agrave; la <strong>gestion de leurs droits.</strong></p>
 <p>Vous trouverez :</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; Le nom du groupe.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.&nbsp; La licence sp&eacute;cifique &agrave; un groupe.</p>
-<p>Vous pouvez modifier les droits du groupe, pour cela, cliquez sur "<a title="G&eacute;rer les droits" href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/EditAutorisation.aspx"><strong>G&eacute;rer les droits</strong></a>".</p>
+<p>Vous pouvez modifier les droits du groupe, pour cela, cliquez sur "<a title="G&eacute;rer les droits" href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/EditAutorisation.md"><strong>G&eacute;rer les droits</strong></a>".</p>
 <blockquote>
 <p>A savoir : un groupe est un ensemble d'utilisateur</p>
 </blockquote>
@@ -31,7 +31,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/licences.aspx">G&eacute;rer les licences</a> </strong></td>
+<td><strong><a href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/licences.md">G&eacute;rer les licences</a> </strong></td>
 <td>&nbsp;Cette action permet de g&eacute;rer les licences des utilisateurs et p&eacute;riph&eacute;riques&nbsp;</td>
 </tr>
 <tr>
@@ -39,11 +39,11 @@
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><strong>&nbsp;- <a href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/NouveauGroupe.aspx">Groupe</a></strong></td>
+<td style="padding-left: 30px;"><strong>&nbsp;- <a href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/NouveauGroupe.md">Groupe</a></strong></td>
 <td>&nbsp;Cette action permet de cr&eacute;er un nouveau groupe d'utilisateur</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><strong>&nbsp;- <a href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/NouvelUtilisateur.aspx">Utilisateur</a></strong></td>
+<td style="padding-left: 30px;"><strong>&nbsp;- <a href="/fr-fr/office/settings/VotreEntreprise/utilisateursdroitsautorisations/NouvelUtilisateur.md">Utilisateur</a></strong></td>
 <td>&nbsp;Cette action permet de cr&eacute;er un nouvel utilisateur</td>
 </tr>
 </tbody>

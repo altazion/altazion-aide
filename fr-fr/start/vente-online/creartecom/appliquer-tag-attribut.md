@@ -1,10 +1,10 @@
 # Appliquer des tags et attributs à un article
 
 
-<h3 style="text-align: center;"><strong>ENTREZ LES CARACT&Eacute;RISTIQUES PROPRES &Agrave; CHAQUE ARTICLE</strong></h3>
+<h3 ><strong>ENTREZ LES CARACT&Eacute;RISTIQUES PROPRES &Agrave; CHAQUE ARTICLE</strong></h3>
 
 
-<p><span style="font-size: 12pt;"><em>Appliquez &agrave; vos articles les attributs que vous avez param&eacute;tr&eacute; en amont afin de proposer des fiches produits pertinentes et de simplifier la classification de chaque produit dans votre base de donn&eacute;es</em></span></p>
+<p><span ><em>Appliquez &agrave; vos articles les attributs que vous avez param&eacute;tr&eacute; en amont afin de proposer des fiches produits pertinentes et de simplifier la classification de chaque produit dans votre base de donn&eacute;es</em></span></p>
 <p>&nbsp;</p>
 
 

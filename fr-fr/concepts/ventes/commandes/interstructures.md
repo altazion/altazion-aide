@@ -18,7 +18,7 @@
 <li>3 : la commande est enlev&eacute;e</li>
 <li>4 : la commande est archiv&eacute;e</li>
 </ul>
-<p>Les commandes inter-structures supportent des op&eacute;rations d'automatisation simples, en r&eacute;ponse aux changements d'&eacute;tats. Chaque modification d'&eacute;tat d'une commande d&eacute;clenche un <a href="/administration/personnalisation/evenements/ventes/evolcdeinterne.aspx">&eacute;v&egrave;nement de type EvolutionCommandeInterne</a>.</p>
+<p>Les commandes inter-structures supportent des op&eacute;rations d'automatisation simples, en r&eacute;ponse aux changements d'&eacute;tats. Chaque modification d'&eacute;tat d'une commande d&eacute;clenche un <a href="/administration/personnalisation/evenements/ventes/evolcdeinterne.md">&eacute;v&egrave;nement de type EvolutionCommandeInterne</a>.</p>
 <h3>Passage &agrave; l'&eacute;tat 1</h3>
 <p>Le passage &agrave; l'&eacute;tat 1 correspond &agrave; l'acceptation, par le magasin destinataire, de la commande. Elle peut s'effectuer :</p>
 <ul>

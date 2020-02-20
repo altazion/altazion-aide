@@ -24,7 +24,7 @@ Lorsque vous activez le mode bi-directionnel, le serveur local magasin "publie" 
 
 ![architecture-serveurlocalconnexion](images/architecture-serveurlocalconnexion.png)
 
-Pour une liste complète des fonctionnalités mise à disposition via Azure Service Bus Relay, consultez le [détail des communications avec le serveur central](/technique/on-premise/storeserver/fonctionnalites-integration.aspx).
+Pour une liste complète des fonctionnalités mise à disposition via Azure Service Bus Relay, consultez le [détail des communications avec le serveur central](/technique/on-premise/storeserver/fonctionnalites-integration.md).
 
 ### Ouvertures de ports.
 

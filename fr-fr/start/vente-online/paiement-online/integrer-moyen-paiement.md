@@ -1,11 +1,11 @@
 # Ajouter un mode de paiement
 
 
-<h3 style="text-align: center;">PARAM&Eacute;TREZ VOS MODES DE PAIEMENTS (CB, VIREMENTS...ETC) SUR ALTAZION OFFICE</h3>
+<h3 >PARAM&Eacute;TREZ VOS MODES DE PAIEMENTS (CB, VIREMENTS...ETC) SUR ALTAZION OFFICE</h3>
 
 
-<p><em><span style="font-size: 12pt;">Une fois que vous avez choisi&nbsp;votre prestataire de paiement, vous voici pr&ecirc;t &agrave;&nbsp;ajouter des modes de r&eacute;glement s&eacute;curis&eacute;s (Carte bancaire, virements, ch&egrave;ques...). Apr&egrave;s les avoir int&eacute;gr&eacute; au back -office Altazion, vous pourrez piloter les modules de paiement depuis votre gestion commerciale.</span></em></p>
-<p><em><span style="font-size: 12pt;">Int&eacute;grer les modes de paiement s&eacute;curis&eacute;s et automatis&eacute;s les plus populaires vous fera gagner en estime dans l'esprit des clients tout en&nbsp;convertissant en achats un maximum de visites</span></em></p>
+<p><em><span >Une fois que vous avez choisi&nbsp;votre prestataire de paiement, vous voici pr&ecirc;t &agrave;&nbsp;ajouter des modes de r&eacute;glement s&eacute;curis&eacute;s (Carte bancaire, virements, ch&egrave;ques...). Apr&egrave;s les avoir int&eacute;gr&eacute; au back -office Altazion, vous pourrez piloter les modules de paiement depuis votre gestion commerciale.</span></em></p>
+<p><em><span >Int&eacute;grer les modes de paiement s&eacute;curis&eacute;s et automatis&eacute;s les plus populaires vous fera gagner en estime dans l'esprit des clients tout en&nbsp;convertissant en achats un maximum de visites</span></em></p>
 <p>&nbsp;</p>
 
 

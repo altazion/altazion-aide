@@ -2,22 +2,22 @@
 
 
 <h4>&nbsp;</h4>
-<h4 style="text-align: center;"><span style="font-size: 10pt;">VOTRE CATALOGUE EST MAINTENANT PR&Ecirc;T &Agrave; ACCUEILLIR SES PREMIERS ARTICLES : IL NE VOUS RESTE QU'&Agrave; &Eacute;DITER VOS FICHES PRODUITS !</span></h4>
+<h4 ><span style="font-size: 10pt;">VOTRE CATALOGUE EST MAINTENANT PR&Ecirc;T &Agrave; ACCUEILLIR SES PREMIERS ARTICLES : IL NE VOUS RESTE QU'&Agrave; &Eacute;DITER VOS FICHES PRODUITS !</span></h4>
 <p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
-<p><em><strong><span style="font-size: 12pt;">QU'EST-CE QUE LA CR&Eacute;ATION D'ARTICLE ?</span></strong></em></p>
-<p><em><span style="font-size: 12pt;">Apr&egrave;s avoir param&eacute;tr&eacute; en amont les informations de vos articles, vous pouvez d&eacute;sormais cr&eacute;er un catalogue complet d&eacute;di&eacute; &agrave; la vente en magasin</span></em></p>
-<p><span style="font-size: 12pt;"><em>&nbsp;</em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#creerarticle">Cr&eacute;er un article</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#creerarticle">Attribuer une marque &agrave; un article</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#appliattribut">Assigner des attributs d&eacute;clinables &agrave; mon article</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#applitarif">Appliquer un tarif sp&eacute;cifique &agrave; la vente en magasin</a></em></span></p>
-<p><span style="font-size: 12pt;"><em>&bull; <a href="#creerassoarticles">Cr&eacute;er et appliquer une association d'articles</a></em></span></p>
+<p><em><strong><span >QU'EST-CE QUE LA CR&Eacute;ATION D'ARTICLE ?</span></strong></em></p>
+<p><em><span >Apr&egrave;s avoir param&eacute;tr&eacute; en amont les informations de vos articles, vous pouvez d&eacute;sormais cr&eacute;er un catalogue complet d&eacute;di&eacute; &agrave; la vente en magasin</span></em></p>
+<p><span ><em>&nbsp;</em></span></p>
+<p><span ><em>&bull; <a href="#creerarticle">Cr&eacute;er un article</a></em></span></p>
+<p><span ><em>&bull; <a href="#creerarticle">Attribuer une marque &agrave; un article</a></em></span></p>
+<p><span ><em>&bull; <a href="#appliattribut">Assigner des attributs d&eacute;clinables &agrave; mon article</a></em></span></p>
+<p><span ><em>&bull; <a href="#applitarif">Appliquer un tarif sp&eacute;cifique &agrave; la vente en magasin</a></em></span></p>
+<p><span ><em>&bull; <a href="#creerassoarticles">Cr&eacute;er et appliquer une association d'articles</a></em></span></p>
 <p>&nbsp;</p>
-<p><strong><em><span style="font-size: 12pt;">POURQUOI CR&Eacute;ER DES ARTICLES ?</span></em></strong></p>
-<p><em><span style="font-size: 12pt;">Une fiche produit compl&egrave;te informe mais aussi rassure le consommateur et vous permet ainsi d'augmenter votre taux de conversion en magasin. De plus, un catalogue d'articles num&eacute;ris&eacute; permettra &agrave; vos vendeurs d'afficher des d&eacute;monstrations produits en vid&eacute;o sur borne et &eacute;cran interactif &agrave; leurs clients, et ce m&ecirc;me si l'article n'est pas physiquement pr&eacute;sent en magasin.</span></em></p>
+<p><strong><em><span >POURQUOI CR&Eacute;ER DES ARTICLES ?</span></em></strong></p>
+<p><em><span >Une fiche produit compl&egrave;te informe mais aussi rassure le consommateur et vous permet ainsi d'augmenter votre taux de conversion en magasin. De plus, un catalogue d'articles num&eacute;ris&eacute; permettra &agrave; vos vendeurs d'afficher des d&eacute;monstrations produits en vid&eacute;o sur borne et &eacute;cran interactif &agrave; leurs clients, et ce m&ecirc;me si l'article n'est pas physiquement pr&eacute;sent en magasin.</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -33,9 +33,9 @@
 <p>-&nbsp;<strong>R&eacute;f&eacute;rence&nbsp;</strong>: Le num&eacute;ro d'article tel qu'il est r&eacute;f&eacute;renc&eacute; dans vos stocks</p>
 <p>-&nbsp;<strong>Libell&eacute;&nbsp;</strong>: Le nom de l'article tel qu'il existe aux yeux des clients</p>
 <p>-&nbsp;<strong>Taux de TVA</strong>&nbsp;: Appliqu&eacute; selon la nature et la localisation de l'article&nbsp;taxable (Attention &agrave; la TVA de la R&eacute;union/Guadeloupe/Martinique qui est de 8,5% et &agrave; 16% en Polyn&eacute;sie fran&ccedil;aise)</p>
-<p>-&nbsp;<strong>Type d'article</strong>&nbsp;:&nbsp;Choisissez parmi le(s) type(s) d'article que vous avez pr&eacute;c&eacute;demment cr&eacute;&eacute;(s) (Voir "<a href="/start/start-sellstore/default.aspx">CONFIGURER UN ARTICLE</a>")</p>
+<p>-&nbsp;<strong>Type d'article</strong>&nbsp;:&nbsp;Choisissez parmi le(s) type(s) d'article que vous avez pr&eacute;c&eacute;demment cr&eacute;&eacute;(s) (Voir "<a href="/fr-fr/start/start-sellstore/default.md">CONFIGURER UN ARTICLE</a>")</p>
 <p>-&nbsp;<strong>Type de stockage</strong>&nbsp;: FIFO (Premier entr&eacute; - premier sorti) ou PUMP (Les sorties sont calcul&eacute;es au co&ucirc;t unitaire moyen pond&eacute;r&eacute; des entr&eacute;es + stock initial. Le calcul s'effectue pour une p&eacute;riode mensuelle, trimestrielle ou annuelle selon votre choix)</p>
-<p>-&nbsp;<strong>Marque&nbsp;</strong>:&nbsp;Associez&nbsp;l'article &agrave; la marque pr&eacute;c&eacute;demment cr&eacute;&eacute;e (voir "<a href="/start/start-sellstore/default.aspx">CONFIGURER UN ARTICLE</a>")</p>
+<p>-&nbsp;<strong>Marque&nbsp;</strong>:&nbsp;Associez&nbsp;l'article &agrave; la marque pr&eacute;c&eacute;demment cr&eacute;&eacute;e (voir "<a href="/fr-fr/start/start-sellstore/default.md">CONFIGURER UN ARTICLE</a>")</p>
 <p>-&nbsp;<strong>Description&nbsp;</strong>: R&eacute;digez le contenu descriptif de votre fiche produit</p>
 <p>&nbsp;</p>
 <p>Poursuivez vers la phase "APPLIQUER DES ATTRIBUTS (PROPRI&Eacute;T&Eacute;S)"</p>
@@ -53,7 +53,7 @@
 <p>Segment principal : La cat&eacute;gorie &agrave; laquelle appartient votre article (Ex : "Salade" appartient &agrave; la cat&eacute;gorie "L&eacute;gumes")</p>
 <p>&nbsp;</p>
 <h4><strong>ATTRIBUTS PERSONNALIS&Eacute;S</strong></h4>
-<p>Attribuez &agrave; votre article les &eacute;l&eacute;ments personnalis&eacute;s / d&eacute;clinables que vous avez param&eacute;tr&eacute; en amont dans "<a href="/start/start-sellstore/default.aspx">CONFIGURER UN ARTICLE</a>"&nbsp;en cochant et remplissant les cases pr&eacute;vues &agrave; cet effet</p>
+<p>Attribuez &agrave; votre article les &eacute;l&eacute;ments personnalis&eacute;s / d&eacute;clinables que vous avez param&eacute;tr&eacute; en amont dans "<a href="/fr-fr/start/start-sellstore/default.md">CONFIGURER UN ARTICLE</a>"&nbsp;en cochant et remplissant les cases pr&eacute;vues &agrave; cet effet</p>
 <p>&nbsp;</p>
 <p><span style="font-size: 13.3333px;">Enregistrez votre progression</span></p>
 
@@ -69,7 +69,7 @@
 <p>-&nbsp;<strong>Taux de TVA</strong>&nbsp;: S&eacute;lectionnez ou non quel taux de TVA appliquer sur l'article</p>
 <p>-&nbsp;<strong>Tarif normal TTC</strong>&nbsp;:</p>
 <p>Si votre article b&eacute;n&eacute;ficie d'une Promotion, veuillez cocher la case correspondante et indiquer le Tarif TTC apr&egrave;s application de la promotion ainsi que les dates pendant lesquelles la promotion s'applique.</p>
-<h4><br />PRIX E-COMMERCE (<a href="/start/start-sellonline/">Si vous vendez en ligne</a>)</h4>
+<h4><br />PRIX E-COMMERCE (<a href="/fr-fr/start/start-sellonline/">Si vous vendez en ligne</a>)</h4>
 <p>-&nbsp;<strong>Prix TTC</strong>&nbsp;: Le prix TTC de l'article vendu en ligne</p>
 <p>-&nbsp;<strong>Prix promotion TTC</strong>&nbsp;: Indiquez le prix TTC de l'article apr&egrave;s application de la promotion ainsi que les dates d'application de ladite promotion</p>
 <p>&nbsp;</p>
@@ -104,11 +104,11 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull; Vous souhaitez revoir l'&eacute;tape&nbsp;<span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/start/start-sellstore/default.aspx">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
-<p><em>&bull; Ou passer &agrave; l'&eacute;tape suivante ? <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Magasin" href="/start/start-sellstore/vldartmag.aspx">3. Publier un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>D&eacute;couvrir la derni&egrave;re &eacute;tape des 1ers Pas Magasin :</em> <span style="text-decoration: underline;"><em><strong><a title="4. Cr&eacute;er un Magasin" href="/start/start-sellstore/creermag.aspx">4. Cr&eacute;er un Magasin</a></strong></em></span></p>
+<p><em>&bull; Vous souhaitez revoir l'&eacute;tape&nbsp;<span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
+<p><em>&bull; Ou passer &agrave; l'&eacute;tape suivante ? <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>D&eacute;couvrir la derni&egrave;re &eacute;tape des 1ers Pas Magasin :</em> <span style="text-decoration: underline;"><em><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md">4. Cr&eacute;er un Magasin</a></strong></em></span></p>
 <p>&nbsp;</p>
-<h4 style="text-align: center;"><span style="font-size: 12pt;"><em>Votre magasin est pr&ecirc;t &agrave; d&eacute;coller ?</em></span></h4>
-<h4 style="text-align: center;"><span style="font-size: 12pt;"><em>Passez &agrave; la vitesse sup&eacute;rieure : on vous montre comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</em></span></h4>
+<h4 ><span ><em>Votre magasin est pr&ecirc;t &agrave; d&eacute;coller ?</em></span></h4>
+<h4 ><span ><em>Passez &agrave; la vitesse sup&eacute;rieure : on vous montre comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</em></span></h4>
 <p>&nbsp;</p>
 

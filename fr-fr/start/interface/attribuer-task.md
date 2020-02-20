@@ -1,11 +1,11 @@
 # Attribuer une tâche
 
 
-<h3 style="text-align: center;">CONFIEZ DES T&Acirc;CHES &Agrave; VOS COLLABORATEURS DEPUIS LE BACK OFFICE</h3>
+<h3 >CONFIEZ DES T&Acirc;CHES &Agrave; VOS COLLABORATEURS DEPUIS LE BACK OFFICE</h3>
 
 
-<p><em><span style="font-size: 12pt;">Une liste de t&acirc;ches (ou to-do list)&nbsp;vous permet de suivre puis de traiter chaque op&eacute;ration &agrave; r&eacute;aliser dans le back-office de gestion commerciale (GESCOM).&nbsp;</span></em><br /><em><span style="font-size: 12pt;">Modification d'un lot d'articles, mise en place d'une nouvelle campagne commerciale, correction d'une erreur... chaque t&acirc;che peut &ecirc;tre associ&eacute;e &agrave;&nbsp;un ou plusieurs utilisateurs ayant un droit d'acc&egrave;s&nbsp;&agrave; la GESCOM</span></em></p>
-<p><em><span style="font-size: 12pt;">Les t&acirc;ches peuvent &ecirc;tre class&eacute;es par ordre de priorit&eacute;, ce qui vous permet de rester organis&eacute; dans la gestion de vos process</span></em></p>
+<p><em><span >Une liste de t&acirc;ches (ou to-do list)&nbsp;vous permet de suivre puis de traiter chaque op&eacute;ration &agrave; r&eacute;aliser dans le back-office de gestion commerciale (GESCOM).&nbsp;</span></em><br /><em><span >Modification d'un lot d'articles, mise en place d'une nouvelle campagne commerciale, correction d'une erreur... chaque t&acirc;che peut &ecirc;tre associ&eacute;e &agrave;&nbsp;un ou plusieurs utilisateurs ayant un droit d'acc&egrave;s&nbsp;&agrave; la GESCOM</span></em></p>
+<p><em><span >Les t&acirc;ches peuvent &ecirc;tre class&eacute;es par ordre de priorit&eacute;, ce qui vous permet de rester organis&eacute; dans la gestion de vos process</span></em></p>
 <p>&nbsp;</p>
 
 
@@ -28,12 +28,12 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><span style="text-decoration: underline;"><strong><a title="Intro" href="/start/interface/default.aspx">Intro</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Interface" href="/start/interface/first-step-interface.aspx">Interface</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er un compte utilisateur" href="/start/interface/creer-compte.aspx">Cr&eacute;er un compte utilisateur</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Ajouter un groupe d'utilisateurs" href="/start/interface/add-group.aspx">Ajouter un groupe</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une t&acirc;che" href="/start/interface/edit-tasks.aspx">Cr&eacute;er une t&acirc;che</a></strong></span></p>
-<p><a title="Traiter une t&acirc;che" href="/start/interface/use-tasks.aspx"><span style="text-decoration: underline;"><strong>Traiter une t&acirc;che</strong></span></a></p>
+<p><span style="text-decoration: underline;"><strong><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Ajouter un groupe d'utilisateurs" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une t&acirc;che" href="/fr-fr/start/interface/edit-tasks.md">Cr&eacute;er une t&acirc;che</a></strong></span></p>
+<p><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md"><span style="text-decoration: underline;"><strong>Traiter une t&acirc;che</strong></span></a></p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><strong><span style="font-size: 12pt;">Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
+<p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 
