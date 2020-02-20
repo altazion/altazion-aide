@@ -7,6 +7,9 @@
           href: Magasins/Gestion/Edit.md
     - name: Evenements
       href: Magasins/Gestion/evenements.md
+      items:
+        - name: Edition
+          href: Magasins/Gestion/EditEvenement.md
     - name: Evenements Cross canaux
       href: Magasins/Gestion/CrossCanal/evenements/index.md
 - name: Périphériques Magasins

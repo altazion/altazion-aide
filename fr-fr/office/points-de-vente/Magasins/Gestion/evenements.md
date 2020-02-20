@@ -1,22 +1,17 @@
 # Vos événements
 
-
 ![index-vnementpng](images/index-vnementpng.png)
 
-Un **événement** permet d'informer la clientèle qu'une **action exceptionnelle se déroulera dans votre magasin**.
+Un **événement** permet d'informer la clientèle qu'une **action exceptionnelle se déroulera dans votre magasin**. Vous pouvez déclarer des ouvertures ou fermetures exceptionnelles ou des évènements commerciaux.
 
-L'annonce d'un événement exceptionnel sera **directement publiée sur le site e-commerce du magasin**.
+En utilisant le module de pages magasins, cette annonce sera **directement publiée sur le site e-commerce du magasin**. Si vous synchronisez vos informations magasins avec un système tiers (comme par exemple Google My Business), ces informations y seront automatiquement envoyées.
 
-> A savoir : seul un utilisateur du magasin peut publier un événement exceptionnel
+>[!NOTE] A savoir : seul un utilisateur du magasin peut publier un événement exceptionnel. Pour publier des évènements depuis une service central, vous pouvez utiliser les [évènements cross-canaux](CrossCanal/Evenements/index.md)
 
-### Actions
+## Actions
 
-La **commande d'action** que vous pouvez apercevoir près du titre, correspond au menu de commande.
-
-Il vous permet d'accéder à différentes actions qui vous permettront de gérer vos articles.
-
-_Exemple_ de commande dont vous pouvez disposer :
+La **barre d'action** en haut de la page vous permet d'accéder à différentes opérations qui vous permettront de gérer vos évènements magasins.
 
 |Action||
 |---|---|
-|**[Nouvel événement](/fr-fr/office/points-de-vente/Evenements.aspx/EditEvenement.md)**|Cette action permet d'accéder au formulaire vous permettant de créer un nouvel événement.|
+|**[Nouvel événement](EditEvenement.md)**|Cette action permet d'accéder au formulaire vous permettant de créer un nouvel événement.|
