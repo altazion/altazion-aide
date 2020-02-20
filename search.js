@@ -81,5 +81,3 @@ function showSearch(data) {
 function hideSearch(){
     
 }
-
-setupSearch("searchBox", "t eq 'dev'");
