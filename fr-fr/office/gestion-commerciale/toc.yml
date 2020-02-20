@@ -1,31 +1,37 @@
-- name: index
+- name: Accueil
   href: index.md
-- name: todolist
+- name: Vos tâches
   href: todolist.md
-- name: achats
   items:
-    - name: cataloguefournisseur
+    - name: Créer/envoyer une tâche
+      href: newtodo.md
+    - name: Traiter une tâche
+      href: todohandle.md
+    - name: Voir les tâches envoyées
+      href: todosenttasks.md
+- name: Achats & charges
+  items:
+    - name: Catalogue Fournisseur
+      href: achats/cataloguefournisseur/index.md
       items:
-        - name: dossierarticlefournisseur
+        - name: Détails
           href: achats/cataloguefournisseur/dossierarticlefournisseur.md
-        - name: index
-          href: achats/cataloguefournisseur/index.md
-        - name: integrerarticle
+        - name: Intégrer un article
           href: achats/cataloguefournisseur/integrerarticle.md
-    - name: commandesfournisseurs
+    - name: Commandes Fournisseurs
+      href: achats/commandesfournisseurs/index.md
       items:
         - name: formualiredecommandefournisseur
           href: achats/commandesfournisseurs/formualiredecommandefournisseur.md
-        - name: index
-          href: achats/commandesfournisseurs/index.md
-- name: catalogue
+- name: Catalogue
   items:
-    - name: articles
+    - name: Articles
+      href: catalogue/articles/index.md
       items:
+        - name: Dossier Produit
+          href: catalogue/articles/dossier.md
         - name: articlesassocier
           href: catalogue/articles/articlesassocier.md
-        - name: dossier
-          href: catalogue/articles/dossier.md
         - name: EditAssociations
           href: catalogue/articles/EditAssociations.md
         - name: EditECommerce
@@ -36,8 +42,6 @@
           href: catalogue/articles/EditLogistique.md
         - name: EditPrix
           href: catalogue/articles/EditPrix.md
-        - name: index
-          href: catalogue/articles/index.md
         - name: modifier
           href: catalogue/articles/modifier.md
         - name: ongletapprovisionnement
@@ -52,13 +56,13 @@
           href: catalogue/articles/ongletprix.md
         - name: ongletvente
           href: catalogue/articles/ongletvente.md
-    - name: grilledetarifs
+    - name: Grilles de tarif
       items:
         - name: EditGrille
           href: catalogue/grilledetarifs/EditGrille.md
         - name: index
           href: catalogue/grilledetarifs/index.md
-    - name: selections
+    - name: Sélections (vitrines)
       items:
         - name: Edit
           href: catalogue/selections/Edit.md
@@ -68,7 +72,7 @@
           href: catalogue/selections/selectionmanuelle.md
         - name: vosselection
           href: catalogue/selections/vosselection.md
-- name: commercial
+- name: Commercial
   items:
     - name: bonsdachats
       items:
@@ -128,7 +132,7 @@
           href: commercial/questionnaires/index.md
         - name: NouveauQuestionnaire
           href: commercial/questionnaires/NouveauQuestionnaire.md
-- name: entreprise
+- name: Entreprise
   items:
     - name: index
       href: entreprise/index.md
@@ -184,19 +188,7 @@
       items:
         - name: index
           href: Logistique/Stocks/index.md
-- name: Tâches
-  items:
-    - name: Vostaches
-      items:
-        - name: newtodo
-          href: Tâches/Vostaches/newtodo.md
-        - name: todohandle
-          href: Tâches/Vostaches/todohandle.md
-        - name: todolist
-          href: Tâches/Vostaches/todolist.md
-        - name: todosenttasks
-          href: Tâches/Vostaches/todosenttasks.md
-- name: ventes
+- name: Ventes
   items:
     - name: clients
       items:
