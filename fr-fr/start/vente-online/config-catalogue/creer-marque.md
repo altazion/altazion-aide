@@ -38,9 +38,9 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><span ><strong><a title="&Eacute;diter un type d'article" href="/fr-fr/start/vente-online/config-catalogue/edit-type-article.md">&Eacute;diter un type d'article</a></strong></span></p>
-<p><span ><strong><a title="Cr&eacute;er un attribut" href="/fr-fr/start/vente-online/config-catalogue/creer-attribut.md">Cr&eacute;er un attribut</a></strong></span></p>
-<p><span ><strong><a title="Cr&eacute;er une segmentation" href="/fr-fr/start/vente-online/config-catalogue/creer-segmentation.md">Cr&eacute;er une segmentation</a></strong></span></p>
+<p><span ><strong><a title="&Eacute;diter un type d'article" href="/fr-fr/start/vente-online/config-catalogue/edit-type-article.html">&Eacute;diter un type d'article</a></strong></span></p>
+<p><span ><strong><a title="Cr&eacute;er un attribut" href="/fr-fr/start/vente-online/config-catalogue/creer-attribut.html">Cr&eacute;er un attribut</a></strong></span></p>
+<p><span ><strong><a title="Cr&eacute;er une segmentation" href="/fr-fr/start/vente-online/config-catalogue/creer-segmentation.html">Cr&eacute;er une segmentation</a></strong></span></p>
 <p>&nbsp;</p>
 <p ><span ><strong>Bravo ! Votre vaisseau amiral de vente semble pr&ecirc;t : que diriez-vous &agrave; pr&eacute;sent de piloter vos campagnes commerciales en ligne ?</strong></span></p>
 

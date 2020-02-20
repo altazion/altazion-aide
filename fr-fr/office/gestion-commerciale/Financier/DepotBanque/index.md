@@ -34,7 +34,7 @@
 <table>
 <tbody>
 <tr>
-<td><a href="/fr-fr/office/gestion-commerciale/Financier/DepotBanque/NouveauDepot.md">Nouveau</a></td>
+<td><a href="/fr-fr/office/gestion-commerciale/Financier/DepotBanque/NouveauDepot.html">Nouveau</a></td>
 <td>&nbsp;Cette action vous permet de cr&eacute;er une nouvelle remise en banque</td>
 </tr>
 </tbody>

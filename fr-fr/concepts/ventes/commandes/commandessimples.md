@@ -20,7 +20,7 @@
 <ul>
 <li>En caisse : en cliquant sur l'option valider dans l'&eacute;dition de la commande</li>
 <li>En gestion commerciale&nbsp;: en utilisant l'action "Valider" et en choisissant le mode "pr&eacute;paration manuelle".</li>
-<li>Via l'Api Phygitale, avec <a href="/technique/api/phygital/Panieretcommande/Terminer.md">la m&eacute;thode Terminer</a></li>
+<li>Via l'Api Phygitale, avec <a href="/technique/api/phygital/Panieretcommande/Terminer.html">la m&eacute;thode Terminer</a></li>
 <li>En validant un r&egrave;glement (ou en cliquant sur le bouton valider si le total est &agrave; 0) sur le module e-commerce.</li>
 </ul>
 <p>Dans le cadre d'un r&egrave;glement e-commerce, il est possible de voir appara&icirc;tre un &eacute;tat 127 si le paiement n'est pas imm&eacute;diat (par exemple dans le cadre d'un paiement CB via un prestataire externe, paypal, etc.).</p>
@@ -61,7 +61,7 @@
 <p>Le passage entre 1 et 2 peut &ecirc;tre configur&eacute; pour &ecirc;tre :</p>
 <ul>
 <li>soit automatique, sans intervention humaine</li>
-<li>soit d&eacute;clench&eacute; par le paiement d'un ticket associ&eacute; &agrave; la commande (en caisse, ou via l'API <a href="/technique/api/main/servers/cross-canals/validerpaiementsimple.md">magasin</a> ou centrale)</li>
+<li>soit d&eacute;clench&eacute; par le paiement d'un ticket associ&eacute; &agrave; la commande (en caisse, ou via l'API <a href="/technique/api/main/servers/cross-canals/validerpaiementsimple.html">magasin</a> ou centrale)</li>
 </ul>
 <p>La progression entre 2 et 3 correspond &agrave; l'envoi de la commande dans le syst&egrave;me externe et est, &agrave; ce titre, automatique.</p>
 <p>L'archivage se fait selon les m&ecirc;mes conditions que ci-dessus : lors de la cloture de la caisse ou d'une p&eacute;riode comptable.</p>

@@ -1,9 +1,9 @@
 # Formulaire d'édition d'un tag de tracking
 
 
-<p>Ce formulaire va vous permettre de cr&eacute;er ou modifier un <a href="default.md">tag de tracking personnalis&eacute;</a>.</p>
+<p>Ce formulaire va vous permettre de cr&eacute;er ou modifier un <a href="default.html">tag de tracking personnalis&eacute;</a>.</p>
 <blockquote>
-<p>Les tags Google Analytics sont g&eacute;r&eacute;s directement par notre moteur, vous n'avez pas besoin de les param&egrave;trer via cette interface : activez simplement le module <a href="../Google/Analytics.md">Google Analytics</a> pour commencer &agrave; les utiliser.</p>
+<p>Les tags Google Analytics sont g&eacute;r&eacute;s directement par notre moteur, vous n'avez pas besoin de les param&egrave;trer via cette interface : activez simplement le module <a href="../Google/Analytics.html">Google Analytics</a> pour commencer &agrave; les utiliser.</p>
 </blockquote>
 
 
@@ -124,6 +124,6 @@
 <li>&lt;%#ArticlesPrix:,%&gt;</li>
 <li><span style="color: #ff0000;">La chaine &lt;%#ArticlesPrix : ,%&gt;</span> <span style="color: #ff0000;">n'est pas valide</span></li>
 </ul>
-<p>Si vous avez besoin de plus de possibilit&eacute;s de remplacement, nous mettons &agrave; votre disposition <a href="/helpadmin/contenujavascript.md">des objets javascripts que vous pouvez utiliser pour composer vos tags</a>.</p>
+<p>Si vous avez besoin de plus de possibilit&eacute;s de remplacement, nous mettons &agrave; votre disposition <a href="/helpadmin/contenujavascript.html">des objets javascripts que vous pouvez utiliser pour composer vos tags</a>.</p>
 <h2>&nbsp;</h2>
 

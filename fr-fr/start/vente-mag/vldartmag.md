@@ -78,9 +78,9 @@
 
 
 <p>&nbsp;</p>
-<p>&bull; <em>Revoir comment param&eacute;trer mon catalogue : <span ><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
-<p>&bull; <em>D&eacute;couvrir la cr&eacute;ation d'article : <span ><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>Passer &agrave; la suite et d&eacute;finir mon Magasin : <span ><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md">4. Cr&eacute;er un Magasin</a></strong></span></em></p>
+<p>&bull; <em>Revoir comment param&eacute;trer mon catalogue : <span ><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.html">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
+<p>&bull; <em>D&eacute;couvrir la cr&eacute;ation d'article : <span ><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.html">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>Passer &agrave; la suite et d&eacute;finir mon Magasin : <span ><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.html">4. Cr&eacute;er un Magasin</a></strong></span></em></p>
 <p>&nbsp;</p>
 <h4 ><em><span >Votre catalogue magasin est d&eacute;j&agrave; pr&ecirc;t ?</span></em></h4>
 <h4 ><em><span >Passez &agrave; la&nbsp;phase suivante et d&eacute;couvrez comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</span></em></h4>

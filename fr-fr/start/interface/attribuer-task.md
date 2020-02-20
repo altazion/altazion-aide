@@ -28,12 +28,12 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><span ><strong><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></strong></span></p>
-<p><span ><strong><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></strong></span></p>
-<p><span ><strong><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></strong></span></p>
-<p><span ><strong><a title="Ajouter un groupe d'utilisateurs" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe</a></strong></span></p>
-<p><span ><strong><a title="Cr&eacute;er une t&acirc;che" href="/fr-fr/start/interface/edit-tasks.md">Cr&eacute;er une t&acirc;che</a></strong></span></p>
-<p><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md"><span ><strong>Traiter une t&acirc;che</strong></span></a></p>
+<p><span ><strong><a title="Intro" href="/fr-fr/start/interface/default.html">Intro</a></strong></span></p>
+<p><span ><strong><a title="Interface" href="/fr-fr/start/interface/first-step-interface.html">Interface</a></strong></span></p>
+<p><span ><strong><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.html">Cr&eacute;er un compte utilisateur</a></strong></span></p>
+<p><span ><strong><a title="Ajouter un groupe d'utilisateurs" href="/fr-fr/start/interface/add-group.html">Ajouter un groupe</a></strong></span></p>
+<p><span ><strong><a title="Cr&eacute;er une t&acirc;che" href="/fr-fr/start/interface/edit-tasks.html">Cr&eacute;er une t&acirc;che</a></strong></span></p>
+<p><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.html"><span ><strong>Traiter une t&acirc;che</strong></span></a></p>
 <p>&nbsp;</p>
 <p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 

@@ -33,9 +33,9 @@
 <p>-&nbsp;<strong>R&eacute;f&eacute;rence&nbsp;</strong>: Le num&eacute;ro d'article tel qu'il est r&eacute;f&eacute;renc&eacute; dans vos stocks</p>
 <p>-&nbsp;<strong>Libell&eacute;&nbsp;</strong>: Le nom de l'article tel qu'il existe aux yeux des clients</p>
 <p>-&nbsp;<strong>Taux de TVA</strong>&nbsp;: Appliqu&eacute; selon la nature et la localisation de l'article&nbsp;taxable (Attention &agrave; la TVA de la R&eacute;union/Guadeloupe/Martinique qui est de 8,5% et &agrave; 16% en Polyn&eacute;sie fran&ccedil;aise)</p>
-<p>-&nbsp;<strong>Type d'article</strong>&nbsp;:&nbsp;Choisissez parmi le(s) type(s) d'article que vous avez pr&eacute;c&eacute;demment cr&eacute;&eacute;(s) (Voir "<a href="/fr-fr/start/start-sellstore/default.md">CONFIGURER UN ARTICLE</a>")</p>
+<p>-&nbsp;<strong>Type d'article</strong>&nbsp;:&nbsp;Choisissez parmi le(s) type(s) d'article que vous avez pr&eacute;c&eacute;demment cr&eacute;&eacute;(s) (Voir "<a href="/fr-fr/start/start-sellstore/default.html">CONFIGURER UN ARTICLE</a>")</p>
 <p>-&nbsp;<strong>Type de stockage</strong>&nbsp;: FIFO (Premier entr&eacute; - premier sorti) ou PUMP (Les sorties sont calcul&eacute;es au co&ucirc;t unitaire moyen pond&eacute;r&eacute; des entr&eacute;es + stock initial. Le calcul s'effectue pour une p&eacute;riode mensuelle, trimestrielle ou annuelle selon votre choix)</p>
-<p>-&nbsp;<strong>Marque&nbsp;</strong>:&nbsp;Associez&nbsp;l'article &agrave; la marque pr&eacute;c&eacute;demment cr&eacute;&eacute;e (voir "<a href="/fr-fr/start/start-sellstore/default.md">CONFIGURER UN ARTICLE</a>")</p>
+<p>-&nbsp;<strong>Marque&nbsp;</strong>:&nbsp;Associez&nbsp;l'article &agrave; la marque pr&eacute;c&eacute;demment cr&eacute;&eacute;e (voir "<a href="/fr-fr/start/start-sellstore/default.html">CONFIGURER UN ARTICLE</a>")</p>
 <p>-&nbsp;<strong>Description&nbsp;</strong>: R&eacute;digez le contenu descriptif de votre fiche produit</p>
 <p>&nbsp;</p>
 <p>Poursuivez vers la phase "APPLIQUER DES ATTRIBUTS (PROPRI&Eacute;T&Eacute;S)"</p>
@@ -53,7 +53,7 @@
 <p>Segment principal : La cat&eacute;gorie &agrave; laquelle appartient votre article (Ex : "Salade" appartient &agrave; la cat&eacute;gorie "L&eacute;gumes")</p>
 <p>&nbsp;</p>
 <h4><strong>ATTRIBUTS PERSONNALIS&Eacute;S</strong></h4>
-<p>Attribuez &agrave; votre article les &eacute;l&eacute;ments personnalis&eacute;s / d&eacute;clinables que vous avez param&eacute;tr&eacute; en amont dans "<a href="/fr-fr/start/start-sellstore/default.md">CONFIGURER UN ARTICLE</a>"&nbsp;en cochant et remplissant les cases pr&eacute;vues &agrave; cet effet</p>
+<p>Attribuez &agrave; votre article les &eacute;l&eacute;ments personnalis&eacute;s / d&eacute;clinables que vous avez param&eacute;tr&eacute; en amont dans "<a href="/fr-fr/start/start-sellstore/default.html">CONFIGURER UN ARTICLE</a>"&nbsp;en cochant et remplissant les cases pr&eacute;vues &agrave; cet effet</p>
 <p>&nbsp;</p>
 <p><span style="font-size: 13.3333px;">Enregistrez votre progression</span></p>
 
@@ -104,9 +104,9 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull; Vous souhaitez revoir l'&eacute;tape&nbsp;<span ><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
-<p><em>&bull; Ou passer &agrave; l'&eacute;tape suivante ? <span ><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>D&eacute;couvrir la derni&egrave;re &eacute;tape des 1ers Pas Magasin :</em> <span ><em><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md">4. Cr&eacute;er un Magasin</a></strong></em></span></p>
+<p><em>&bull; Vous souhaitez revoir l'&eacute;tape&nbsp;<span ><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.html">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
+<p><em>&bull; Ou passer &agrave; l'&eacute;tape suivante ? <span ><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.html">3. Publier un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>D&eacute;couvrir la derni&egrave;re &eacute;tape des 1ers Pas Magasin :</em> <span ><em><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.html">4. Cr&eacute;er un Magasin</a></strong></em></span></p>
 <p>&nbsp;</p>
 <h4 ><span ><em>Votre magasin est pr&ecirc;t &agrave; d&eacute;coller ?</em></span></h4>
 <h4 ><span ><em>Passez &agrave; la vitesse sup&eacute;rieure : on vous montre comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</em></span></h4>

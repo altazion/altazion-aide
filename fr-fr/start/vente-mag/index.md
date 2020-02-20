@@ -106,9 +106,9 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull;&nbsp;Et si vous passiez &agrave; l'&eacute;tape suivante ?</em>&nbsp;<strong><a title="Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md"><span ><em>2.</em><em> Cr&eacute;er un Article Magasin</em></span></a></strong></p>
-<p>&bull; <em>D&eacute;couvrez comment valider un article :</em> <span ><em><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></em></span></p>
-<p><em>&bull;&nbsp;Ou directement &agrave; la fin du Stage 1 ?&nbsp;<a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md"><strong>4</strong><span ><strong>. Cr&eacute;er un Magasin</strong></span></a></em></p>
+<p><em>&bull;&nbsp;Et si vous passiez &agrave; l'&eacute;tape suivante ?</em>&nbsp;<strong><a title="Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.html"><span ><em>2.</em><em> Cr&eacute;er un Article Magasin</em></span></a></strong></p>
+<p>&bull; <em>D&eacute;couvrez comment valider un article :</em> <span ><em><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.html">3. Publier un Article Magasin</a></strong></em></span></p>
+<p><em>&bull;&nbsp;Ou directement &agrave; la fin du Stage 1 ?&nbsp;<a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.html"><strong>4</strong><span ><strong>. Cr&eacute;er un Magasin</strong></span></a></em></p>
 <p>&nbsp;</p>
 <h4 ><span ><em>Vous&nbsp;&ecirc;tes d&eacute;j&agrave; "&eacute;quip&eacute;" pour la vente en magasin ?</em></span></h4>
 <h4 ><span ><em>Rendez-vous directement au Stage 2 et d&eacute;couvrez comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</em></span></h4>

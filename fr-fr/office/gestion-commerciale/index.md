@@ -22,7 +22,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; " <strong>Accueil </strong>"</p>
 <h3>Acc&eacute;der aux t&acirc;ches</h3>
 <p>De cette page, vous avez aussi acc&egrave;s aux t&acirc;ches que vous avez &agrave; accomplir. Pour les consulter, il vous suffit de cliquer sur l'ic&ocirc;ne:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp; " <a title="T&acirc;ches" href="/fr-fr/office/gestion-commerciale/todolist.md"><strong>T&acirc;ches</strong> </a>"</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp; " <a title="T&acirc;ches" href="/fr-fr/office/gestion-commerciale/todolist.html"><strong>T&acirc;ches</strong> </a>"</p>
 <p>Cet ic&ocirc;ne vous permettra d'acc&eacute;der &agrave; vos t&acirc;ches et ainsi de conna&icirc;tre l'importance et la dur&eacute;e de celle-ci, gr&acirc;ce notamment &agrave; votre "<strong>todo-list</strong>".</p>
 <h3>Rechercher un &eacute;l&eacute;ment et affiner vos recherches</h3>
 <p>Vous disposez d'une <strong>barre de recherche</strong> qui vous permettra de <strong>rechercher</strong> un article que vous souhaitez trouver rapidement.<br />Pour ce faire, il vous suffit de vous rendre sur l'ic&ocirc;ne :</p>

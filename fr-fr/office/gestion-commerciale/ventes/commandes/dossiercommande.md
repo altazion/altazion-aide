@@ -9,11 +9,11 @@
 <p>Les <strong>blocs</strong> (visible sur votre gauche) vont vous permettre de <strong>visualiser les d&eacute;tails de la commande,&nbsp;</strong>en cliquant sur l'un des th&egrave;mes.</p>
 <p>Vous y trouvez :&nbsp;</p>
 <ol>
-<li><a title="L'&eacute;tat de la commande" href="/fr-fr/office/gestion-commerciale/ventes/ongletprincipal.md"><strong>L'&eacute;tat de la commande</strong> </a>(annul&eacute;, valid&eacute;, termin&eacute; ou encour de pr&eacute;paration)</li>
-<li>Les <a title="informations de la pr&eacute;paration" href="/fr-fr/office/gestion-commerciale/ventes/ongletpreparation.md"><strong>informations de pr&eacute;paration</strong> </a>du produit</li>
-<li><a title="L'origine" href="/fr-fr/office/gestion-commerciale/ventes/origine.md"><strong>L'origine&nbsp;</strong></a>de la commande</li>
-<li>Les <strong><a href="/fr-fr/office/gestion-commerciale/ventes/informationsurleclient.md">informations sur le client</a></strong></li>
-<li>Les <strong><a href="/fr-fr/office/gestion-commerciale/ventes/informationsurletraitementdeslitiges.md">informations sur le traitement des litiges</a></strong></li>
+<li><a title="L'&eacute;tat de la commande" href="/fr-fr/office/gestion-commerciale/ventes/ongletprincipal.html"><strong>L'&eacute;tat de la commande</strong> </a>(annul&eacute;, valid&eacute;, termin&eacute; ou encour de pr&eacute;paration)</li>
+<li>Les <a title="informations de la pr&eacute;paration" href="/fr-fr/office/gestion-commerciale/ventes/ongletpreparation.html"><strong>informations de pr&eacute;paration</strong> </a>du produit</li>
+<li><a title="L'origine" href="/fr-fr/office/gestion-commerciale/ventes/origine.html"><strong>L'origine&nbsp;</strong></a>de la commande</li>
+<li>Les <strong><a href="/fr-fr/office/gestion-commerciale/ventes/informationsurleclient.html">informations sur le client</a></strong></li>
+<li>Les <strong><a href="/fr-fr/office/gestion-commerciale/ventes/informationsurletraitementdeslitiges.html">informations sur le traitement des litiges</a></strong></li>
 </ol>
 <blockquote>
 <p>A savoir : pour les informations compl&eacute;mentaires, le bloc devient rouge lorsque la commande et une commande &agrave; risque</p>
@@ -35,15 +35,15 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/interactionclient.md">Client </a></strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/interactionclient.html">Client </a></strong></td>
 <td>Permet d'avoir des informations sur le client&nbsp;</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/EnvoyerMail.md">- Envoyer un e-mail</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/EnvoyerMail.html">- Envoyer un e-mail</a></td>
 <td>Permet d'envoyer un e-mail au client</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/DupliquerCommande.md">- Dupliquer la commande</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/DupliquerCommande.html">- Dupliquer la commande</a></td>
 <td>Permet de dupliquer la commande</td>
 </tr>
 <tr>
@@ -51,47 +51,47 @@
 <td>Permet de vous connecter au site d'ou le produit vient</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/changepassword.md">- Changer de mot de passe</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/changepassword.html">- Changer de mot de passe</a></td>
 <td>Permet de changer de mot de pass</td>
 </tr>
 <tr>
-<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/litiges.md">Litige </a></strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/litiges.html">Litige </a></strong></td>
 <td>Permet de connaitre les litiges&nbsp;</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/avoir.md">- Etablir un avoir</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/avoir.html">- Etablir un avoir</a></td>
 <td>Permet d'&eacute;tablir un avoir sur une commande&nbsp;</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/CreationImpaye.md">- Commande impay&eacute;e</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/CreationImpaye.html">- Commande impay&eacute;e</a></td>
 <td>Permet de d&eacute;clarer&nbsp;une commande impay&eacute;e</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/EditBagc.md">- Cr&eacute;er un bon d'achat</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/EditBagc.html">- Cr&eacute;er un bon d'achat</a></td>
 <td>Permet de cr&eacute;er un bon d'achat pour un client</td>
 </tr>
 <tr>
-<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/modifications.md">Modifier</a></strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/modifications.html">Modifier</a></strong></td>
 <td>Permet de modifier une information</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/SaisieReglements.md">- Saisie r&eacute;glement</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/SaisieReglements.html">- Saisie r&eacute;glement</a></td>
 <td>Permet de modifier un moyen de paiement</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/ApporteurCommande.md">- Apporteur d'affaire</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/ApporteurCommande.html">- Apporteur d'affaire</a></td>
 <td>Permet de conna&icirc;tre le recruteur de clients</td>
 </tr>
 <tr>
-<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/ModificationLivraison.md">- Modifier mode de livraison</a></td>
+<td style="padding-left: 30px;"><a href="/fr-fr/office/gestion-commerciale/ventes/ModificationLivraison.html">- Modifier mode de livraison</a></td>
 <td>Permet de modifier une adresse de livraison ou un moyen</td>
 </tr>
 <tr>
-<td><a title="Nouvelle t&acirc;che" href="/fr-fr/office/gestion-commerciale/ventes/NewTodo.md"><strong>Nouvelle t&acirc;che</strong></a></td>
+<td><a title="Nouvelle t&acirc;che" href="/fr-fr/office/gestion-commerciale/ventes/NewTodo.html"><strong>Nouvelle t&acirc;che</strong></a></td>
 <td>Permet de cr&eacute;er une nouvelle t&acirc;che</td>
 </tr>
 <tr>
-<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/AnnulationCommande.md">Annuler</a></strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/ventes/AnnulationCommande.html">Annuler</a></strong></td>
 <td>Permet d'annuler une commande</td>
 </tr>
 </tbody>

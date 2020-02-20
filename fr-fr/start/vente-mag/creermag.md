@@ -101,9 +101,9 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull;&nbsp;Commencez par pr&eacute;parer votre catalogue magasin : <span ><strong><a title="1. Param&eacute;trer&nbsp;mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer&nbsp;mon Catalogue Magasin</a></strong></span></em></p>
-<p><em>&bull;&nbsp;D&eacute;couvrez comment &eacute;diter un article : <span ><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>Vous avez rat&eacute; l'&eacute;tape de validation d'un article ? <span ><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></span></em></p>
+<p><em>&bull;&nbsp;Commencez par pr&eacute;parer votre catalogue magasin : <span ><strong><a title="1. Param&eacute;trer&nbsp;mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.html">1. Param&eacute;trer&nbsp;mon Catalogue Magasin</a></strong></span></em></p>
+<p><em>&bull;&nbsp;D&eacute;couvrez comment &eacute;diter un article : <span ><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.html">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>Vous avez rat&eacute; l'&eacute;tape de validation d'un article ? <span ><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.html">3. Publier un Article Magasin</a></strong></span></em></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4 ><em><span >F&eacute;licitations, vous voil&agrave; pr&ecirc;t &agrave; conqu&eacute;rir les ventes en magasin !</span></em></h4>

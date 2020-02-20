@@ -31,12 +31,12 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><strong><span ><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></span></strong></p>
-<p><strong><span ><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></span></strong></p>
-<p><strong><span ><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></span></strong></p>
-<p><strong><span ><a title="Ajouter un groupe" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe</a></span></strong></p>
-<p><strong><span ><a title="Attribuer une t&acirc;che" href="/fr-fr/start/interface/attribuer-task.md">Attribuer une t&acirc;che</a></span></strong></p>
-<p><strong><span ><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md">Traiter une t&acirc;che</a></span></strong></p>
+<p><strong><span ><a title="Intro" href="/fr-fr/start/interface/default.html">Intro</a></span></strong></p>
+<p><strong><span ><a title="Interface" href="/fr-fr/start/interface/first-step-interface.html">Interface</a></span></strong></p>
+<p><strong><span ><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.html">Cr&eacute;er un compte utilisateur</a></span></strong></p>
+<p><strong><span ><a title="Ajouter un groupe" href="/fr-fr/start/interface/add-group.html">Ajouter un groupe</a></span></strong></p>
+<p><strong><span ><a title="Attribuer une t&acirc;che" href="/fr-fr/start/interface/attribuer-task.html">Attribuer une t&acirc;che</a></span></strong></p>
+<p><strong><span ><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.html">Traiter une t&acirc;che</a></span></strong></p>
 <p>&nbsp;</p>
 <p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 

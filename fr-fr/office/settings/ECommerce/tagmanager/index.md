@@ -5,7 +5,7 @@
 <p>Ce sont ces <em>tags</em> que vous pourrez g&eacute;rer par la fonctionnalit&eacute; <em>Tracking Tag Central</em>.</p>
 <p>Vous retrouverez dans cette liste, l'int&eacute;gralit&eacute; des tags de tracking&nbsp;personnalis&eacute;s qui sont en place sur votre (ou vos) site(s).</p>
 <blockquote>
-<p>Les tags Google Analytics sont g&eacute;r&eacute;s directement par notre moteur, vous n'avez pas besoin de les param&egrave;trer via cette interface : activez simplement le module <a href="../google/analytics.md">Google Analytics</a> pour commencer &agrave; les utiliser.</p>
+<p>Les tags Google Analytics sont g&eacute;r&eacute;s directement par notre moteur, vous n'avez pas besoin de les param&egrave;trer via cette interface : activez simplement le module <a href="../google/analytics.html">Google Analytics</a> pour commencer &agrave; les utiliser.</p>
 </blockquote>
 <p>Le bouton <strong>(+)</strong> vous permettra les actions suivantes :</p>
 <table style="width: 100%;">
@@ -27,7 +27,7 @@
 <li>Le libell&eacute; du tag</li>
 <li>La ou les page(s) sur lesquelles le tag sera affich&eacute; (cf formulaire d'&eacute;dition d'un tag)</li>
 <li>L'emplacement du tag dans la page (cf formulaire d'&eacute;dition d'un tag)</li>
-<li>Des boutons&nbsp;de <a href="edittag.md">modification</a> et de suppression.</li>
+<li>Des boutons&nbsp;de <a href="edittag.html">modification</a> et de suppression.</li>
 </ol>
 
 

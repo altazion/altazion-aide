@@ -8,7 +8,7 @@
 <p>Vous y retrouverez vos <strong>s&eacute;lections</strong> d&eacute;j&agrave; cr&eacute;&eacute;es ainsi que le reste de celles-ci.</p>
 <p>De cette page, vous pouvez <strong>rechercher une s&eacute;lection</strong> rapidement gr&acirc;ce &agrave; la <em>barre de recherche</em> situ&eacute; sur le haut de la page.</p>
 <p>Vous pouvez aussi <strong>cr&eacute;er</strong> une nouvelle s&eacute;lection via la commande d'action <strong>(+)</strong>.</p>
-<p><em>Cf : <a href="/fr-fr/start/default.md">premiers pas s&eacute;lections</a></em></p>
+<p><em>Cf : <a href="/fr-fr/start/default.html">premiers pas s&eacute;lections</a></em></p>
 <h3>Recherche d'une s&eacute;lection</h3>
 <p>Vous pouvez lancer une recherche avec les crit&egrave;res suivants :</p>
 <ol>
@@ -42,11 +42,11 @@
 <table>
 <tbody>
 <tr>
-<td><a href="/fr-fr/office/gestion-commerciale/catalogue/selections/Edit.md">Nouvelle auto</a></td>
+<td><a href="/fr-fr/office/gestion-commerciale/catalogue/selections/Edit.html">Nouvelle auto</a></td>
 <td>&nbsp;Cette action va vous permettre de cr&eacute;er une nouvelle s&eacute;lection automatiquement.</td>
 </tr>
 <tr>
-<td><a href="/fr-fr/office/gestion-commerciale/catalogue/selections/selectionmanuelle.md">Nouvelle</a></td>
+<td><a href="/fr-fr/office/gestion-commerciale/catalogue/selections/selectionmanuelle.html">Nouvelle</a></td>
 <td>&nbsp;Ce lien va vous permettre de cr&eacute;er une nouvelle s&eacute;lection manuellement.</td>
 </tr>
 </tbody>
@@ -62,11 +62,11 @@
 <table>
 <tbody>
 <tr>
-<td><a title="S&eacute;lection automatique" href="/fr-fr/office/gestion-commerciale/catalogue/selections/Edit.md">&nbsp;<strong>S&eacute;lection automatique</strong></a></td>
+<td><a title="S&eacute;lection automatique" href="/fr-fr/office/gestion-commerciale/catalogue/selections/Edit.html">&nbsp;<strong>S&eacute;lection automatique</strong></a></td>
 <td>&nbsp;Permet de saisir plusieurs articles gr&acirc;ce &agrave; certaines conditions.</td>
 </tr>
 <tr>
-<td><a title="S&eacute;lection manuelle" href="/fr-fr/office/gestion-commerciale/catalogue/selections/selectionmanuelle.md"><strong>&nbsp;S&eacute;lection manuelle</strong></a></td>
+<td><a title="S&eacute;lection manuelle" href="/fr-fr/office/gestion-commerciale/catalogue/selections/selectionmanuelle.html"><strong>&nbsp;S&eacute;lection manuelle</strong></a></td>
 <td>&nbsp;Permet de cr&eacute;er une s&eacute;lection en saissant un par un les articles que vous souhaitez y mettre.</td>
 </tr>
 <tr>

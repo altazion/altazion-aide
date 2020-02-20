@@ -11,13 +11,13 @@
 <p>Les blocs (visible sur votre gauche) vont vous permettre de visualiser <strong>les d&eacute;tails de votre article </strong>en cliquant sur l'un des th&egrave;mes.</p>
 <p>Vous y trouvez :&nbsp;</p>
 <ol>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletprincipal.md">L'&eacute;tat</a>,</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletvente.md">Vente</a>,</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletdocument.md">Documents </a>(photos),</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/articlesassocier.md">Articles associ&eacute;s</a>,</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletapprovisionnement.md">Pr&eacute;paration </a>(approvisionnement de l'article, stock etc...),</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletlogistique.md">Logistique </a>(dimensions de l'article, poids etc...),</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletprix.md">Prix</a>.</li>
+<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletprincipal.html">L'&eacute;tat</a>,</li>
+<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletvente.html">Vente</a>,</li>
+<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletdocument.html">Documents </a>(photos),</li>
+<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/articlesassocier.html">Articles associ&eacute;s</a>,</li>
+<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletapprovisionnement.html">Pr&eacute;paration </a>(approvisionnement de l'article, stock etc...),</li>
+<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletlogistique.html">Logistique </a>(dimensions de l'article, poids etc...),</li>
+<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletprix.html">Prix</a>.</li>
 </ol>
 <p>A c&ocirc;t&eacute; de ces onglets vous trouverez un rectangle gris clair (sur votre droite)&nbsp;qui contient <strong>les informations principales de l'article.</strong></p>
 <p>Vous y trouverez :&nbsp;</p>

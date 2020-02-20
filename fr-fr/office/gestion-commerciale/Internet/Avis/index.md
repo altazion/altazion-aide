@@ -34,5 +34,5 @@
 <li>Le message expliquant la note.</li>
 </ol>
 <p>Par la m&ecirc;me occasion, vous pouvez <strong>refuser</strong> un avis en expliquant dans un e-mail pourquoi il ne sera pas publi&eacute;, ou <strong>approuver</strong> via la <strong>commande d'action &agrave; droite d'un avis.</strong></p>
-<p>Vous &ecirc;tes en mesure de <strong>modifier</strong> un avis selon les normes en vigueur, pour cela, il vous suffit de cliquer sur <a href="/fr-fr/office/gestion-commerciale/Internet/Avis/EditerAvis.md">Ouvrir</a>.</p>
+<p>Vous &ecirc;tes en mesure de <strong>modifier</strong> un avis selon les normes en vigueur, pour cela, il vous suffit de cliquer sur <a href="/fr-fr/office/gestion-commerciale/Internet/Avis/EditerAvis.html">Ouvrir</a>.</p>
 

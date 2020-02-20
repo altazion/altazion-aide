@@ -75,9 +75,9 @@
 
 
 <p>&nbsp;</p>
-<p>&bull; <em>Revivez le lancement de votre catalogue : <strong><span ><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.md">1. Param&eacute;trer mon Catalogue Web</a></span></strong></em></p>
-<p>&bull; <em>Repasser la partie : <span ><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.md">2. Cr&eacute;er un Article Ecommerce</a></strong></span></em></p>
-<p>&bull; <em>Avancer vers le param&eacute;trage du site : <span ><strong><a title="4. Cr&eacute;er un Site Ecommerce" href="/fr-fr/start/start-sellonline/editwebsite.md">4. Cr&eacute;er un Site Ecommerce</a></strong></span></em></p>
+<p>&bull; <em>Revivez le lancement de votre catalogue : <strong><span ><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.html">1. Param&eacute;trer mon Catalogue Web</a></span></strong></em></p>
+<p>&bull; <em>Repasser la partie : <span ><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.html">2. Cr&eacute;er un Article Ecommerce</a></strong></span></em></p>
+<p>&bull; <em>Avancer vers le param&eacute;trage du site : <span ><strong><a title="4. Cr&eacute;er un Site Ecommerce" href="/fr-fr/start/start-sellonline/editwebsite.html">4. Cr&eacute;er un Site Ecommerce</a></strong></span></em></p>
 <p>&nbsp;</p>
 <h4 ><em><strong><span >Vous ma&icirc;trisez d&eacute;j&agrave;&nbsp;les premiers pas de la&nbsp;vente en ligne ?</span></strong></em></h4>
 <h4 ><em><strong><span >Poussez les manettes et acc&eacute;l&eacute;rez vers le <a title="STAGE 2 - ANIMER LES VENTES EN LIGNE" href="/animvente/progress-sellonline/">STAGE 2 - ANIMER LES VENTES EN LIGNE</a></span></strong></em></h4>

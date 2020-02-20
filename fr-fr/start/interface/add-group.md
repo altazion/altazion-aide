@@ -32,8 +32,8 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><strong><a title="Cr&eacute;er un profil" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un profil</a></strong></p>
-<p><strong><a title="Modifier un profil" href="/fr-fr/start/interface/modifier-profil.md">Modifier un profil</a> </strong></p>
+<p><strong><a title="Cr&eacute;er un profil" href="/fr-fr/start/interface/creer-compte.html">Cr&eacute;er un profil</a></strong></p>
+<p><strong><a title="Modifier un profil" href="/fr-fr/start/interface/modifier-profil.html">Modifier un profil</a> </strong></p>
 <p >&nbsp;</p>
 <p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 

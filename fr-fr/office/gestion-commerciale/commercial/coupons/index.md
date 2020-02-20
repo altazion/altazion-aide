@@ -29,7 +29,7 @@
 <li>Le <strong>menu de commande</strong> vous permettant de r&eacute;activer un coupon,</li>
 <li><strong>Coupon utilis&eacute;.</strong></li>
 </ol>
-<p>La <strong>commande d'action</strong> sur la droite d'un coupon, vous <strong>permet de <a href="/fr-fr/office/gestion-commerciale/commercial/coupons/ReactiverCoupon.md">r&eacute;activer </a>un coupon qui &eacute;tait d&eacute;sactiver</strong>.</p>
+<p>La <strong>commande d'action</strong> sur la droite d'un coupon, vous <strong>permet de <a href="/fr-fr/office/gestion-commerciale/commercial/coupons/ReactiverCoupon.html">r&eacute;activer </a>un coupon qui &eacute;tait d&eacute;sactiver</strong>.</p>
 <h3>&nbsp;Actions</h3>
 <p>La&nbsp;<strong>commande d'action</strong>&nbsp;que vous pouvez apercevoir pr&egrave;s du titre, correspond au menu de commande.</p>
 <p>Ce menu vous permet d'acc&eacute;der &agrave; diff&eacute;rentes commande qui vous permettront de g&eacute;rer vos articles.</p>
@@ -37,7 +37,7 @@
 <table>
 <tbody>
 <tr>
-<td><strong><a href="/fr-fr/office/gestion-commerciale/commercial/coupons/EditCoupon.md">Cr&eacute;er </a></strong></td>
+<td><strong><a href="/fr-fr/office/gestion-commerciale/commercial/coupons/EditCoupon.html">Cr&eacute;er </a></strong></td>
 <td>Cette action vous permet de cr&eacute;er un nouveau coupon&nbsp;&nbsp;</td>
 </tr>
 </tbody>

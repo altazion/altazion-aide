@@ -37,9 +37,9 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><span ><strong><a title="&Eacute;diter un type d'article" href="/fr-fr/start/vente-online/config-catalogue/edit-type-article.md">&Eacute;diter un type d'article</a></strong></span></p>
-<p><span ><strong><a title="Cr&eacute;er une marque" href="/fr-fr/start/vente-online/config-catalogue/creer-marque.md">Cr&eacute;er une marque</a></strong></span></p>
-<p><span ><strong><a title="Cr&eacute;er une segmentation" href="/fr-fr/start/vente-online/config-catalogue/creer-segmentation.md">Cr&eacute;er une segmentation</a></strong></span></p>
+<p><span ><strong><a title="&Eacute;diter un type d'article" href="/fr-fr/start/vente-online/config-catalogue/edit-type-article.html">&Eacute;diter un type d'article</a></strong></span></p>
+<p><span ><strong><a title="Cr&eacute;er une marque" href="/fr-fr/start/vente-online/config-catalogue/creer-marque.html">Cr&eacute;er une marque</a></strong></span></p>
+<p><span ><strong><a title="Cr&eacute;er une segmentation" href="/fr-fr/start/vente-online/config-catalogue/creer-segmentation.html">Cr&eacute;er une segmentation</a></strong></span></p>
 <p>&nbsp;</p>
 <p ><strong><span >Bravo ! Votre vaisseau amiral de vente semble pr&ecirc;t : que diriez-vous &agrave; pr&eacute;sent de piloter vos campagnes commerciales en ligne ?</span></strong></p>
 
