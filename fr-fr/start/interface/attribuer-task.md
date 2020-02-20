@@ -10,7 +10,7 @@
 
 
 <h2>COMMENT&nbsp;ATTRIBUER UNE T&Acirc;CHE ?</h2>
-<p>S&eacute;lectionner une t&acirc;che et indiquez &agrave; quel utilisateur vous souhaitez l'attribuer. Vous avez aussi la possibilit&eacute; de confier simultan&eacute;ment des t&acirc;ches &agrave; plusieurs utilisateurs apr&egrave;s avoir cr&eacute;&eacute; des groupes de collaborateurs (<span style="text-decoration: underline;">Exemple</span> : confiez la t&acirc;che "Modifier la campagne" &agrave; votre groupe "Commerciaux")</p>
+<p>S&eacute;lectionner une t&acirc;che et indiquez &agrave; quel utilisateur vous souhaitez l'attribuer. Vous avez aussi la possibilit&eacute; de confier simultan&eacute;ment des t&acirc;ches &agrave; plusieurs utilisateurs apr&egrave;s avoir cr&eacute;&eacute; des groupes de collaborateurs (<span >Exemple</span> : confiez la t&acirc;che "Modifier la campagne" &agrave; votre groupe "Commerciaux")</p>
 <p>Depuis la page des <strong>Param&egrave;tres</strong>, cliquez sur le lien "<strong>Destinataires t&acirc;ches</strong>" de la partie "<strong>Votre Entreprise</strong>"</p>
 
 
@@ -28,12 +28,12 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><span style="text-decoration: underline;"><strong><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Ajouter un groupe d'utilisateurs" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe</a></strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a title="Cr&eacute;er une t&acirc;che" href="/fr-fr/start/interface/edit-tasks.md">Cr&eacute;er une t&acirc;che</a></strong></span></p>
-<p><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md"><span style="text-decoration: underline;"><strong>Traiter une t&acirc;che</strong></span></a></p>
+<p><span ><strong><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></strong></span></p>
+<p><span ><strong><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></strong></span></p>
+<p><span ><strong><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></strong></span></p>
+<p><span ><strong><a title="Ajouter un groupe d'utilisateurs" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe</a></strong></span></p>
+<p><span ><strong><a title="Cr&eacute;er une t&acirc;che" href="/fr-fr/start/interface/edit-tasks.md">Cr&eacute;er une t&acirc;che</a></strong></span></p>
+<p><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md"><span ><strong>Traiter une t&acirc;che</strong></span></a></p>
 <p>&nbsp;</p>
 <p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 

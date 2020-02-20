@@ -1,20 +1,16 @@
 # Intro
 
+### BIENVENUE DANS LE MODULE DE PILOTAGE ALTAZION OFFICE
 
-<h3 >BIENVENUE&nbsp;DANS LE MODULE DE PILOTAGE ALTAZION OFFICE</h3>
-<p ><span >D&eacute;couvrez d&egrave;s maintenant votre <strong>interface</strong> et&nbsp;</span><span >apprenez &agrave; <strong>cr&eacute;er des t&acirc;ches</strong> afin de les administrer manuellement ou automatiquement &agrave; des utilisateurs et ma&icirc;trisez le <strong>traitement de t&acirc;ches&nbsp;</strong>:</span></p>
-<ul >
-<li><span ><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></span></li>
-<li><span ><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></span></li>
-<li><span ><a title="Ajouter un groupe d'utilisateurs" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe d'utilisateurs</a></span></li>
-<li><span ><a title="Cr&eacute;er une t&acirc;che" href="/fr-fr/start/interface/edit-tasks.md">Cr&eacute;er une t&acirc;che</a></span></li>
-<li><span ><a title="Attribuer une t&acirc;che" href="/fr-fr/start/interface/attribuer-task.md">Attribuer une t&acirc;che</a></span></li>
-<li><span ><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md">Traiter une t&acirc;che</a></span></li>
-</ul>
+Découvrez dès maintenant votre **interface** et apprenez à **créer des tâches** afin de les administrer manuellement ou automatiquement à des utilisateurs et maîtrisez le **traitement de tâches **:
 
+*   [Interface](/fr-fr/start/interface/first-step-interface.md "Interface")
+*   [Créer un compte utilisateur](/fr-fr/start/interface/creer-compte.md "Créer un compte utilisateur")
+*   [Ajouter un groupe d'utilisateurs](/fr-fr/start/interface/add-group.md "Ajouter un groupe d'utilisateurs")
+*   [Créer une tâche](/fr-fr/start/interface/edit-tasks.md "Créer une tâche")
+*   [Attribuer une tâche](/fr-fr/start/interface/attribuer-task.md "Attribuer une tâche")
+*   [Traiter une tâche](/fr-fr/start/interface/use-tasks.md "Traiter une tâche")
 
-<p ><strong><span >Apr&egrave;s avoir pris en mains votre interface, vous pourrez acc&eacute;der &agrave; la mise &agrave; feu de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a>&nbsp;et au lancement de la VENTE EN MAGASIN</span></strong></p>
+**Après avoir pris en mains votre interface, vous pourrez accéder à la mise à feu de la [VENTE EN LIGNE](/fr-fr/start/vente-online/ "VENTE EN LIGNE") et au lancement de la VENTE EN MAGASIN**
 
-
-<p><img src="https://datasimplemente.blob.core.windows.net/aide/altazionoffice.png" alt="Pr&eacute;sentation du back office Altazion" width="1250" height="550" /></p>
-
+![Présentation du back office Altazion](https://datasimplemente.blob.core.windows.net/aide/altazionoffice.png)

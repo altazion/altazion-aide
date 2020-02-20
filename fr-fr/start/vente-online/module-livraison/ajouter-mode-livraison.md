@@ -13,7 +13,7 @@
 
 
 <h3>INFORMATIONS G&Eacute;N&Eacute;RALES</h3>
-<p>-&nbsp;<strong>R&eacute;f&eacute;rence&nbsp;</strong>: Entrez la R&eacute;f&eacute;rence du mode de livraison (<span style="text-decoration: underline;">Exemple</span> : CHRONOFR pour des livrasions Chronopost France)</p>
+<p>-&nbsp;<strong>R&eacute;f&eacute;rence&nbsp;</strong>: Entrez la R&eacute;f&eacute;rence du mode de livraison (<span >Exemple</span> : CHRONOFR pour des livrasions Chronopost France)</p>
 <p>-&nbsp;<strong>Libell&eacute;&nbsp;</strong>: Entrez le Nom du mode de livraison</p>
 <p>- Cochez la case "<strong>Actif</strong>" si ce mode est pr&ecirc;t &agrave; &ecirc;tre utilis&eacute;</p>
 <h3>LIBELL&Eacute; ET TARIF CLIENT</h3>

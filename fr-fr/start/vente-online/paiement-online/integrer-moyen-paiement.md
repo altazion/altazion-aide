@@ -28,7 +28,7 @@
 <p>Cochez les cases corrsespondantes &agrave; l'utilisation du mode de paiement que vous cr&eacute;ez (Ecommerce, en Magasin, sur Borne, Marketplace...)</p>
 <p>D&eacute;finissez ensuite l'autorisation de montant minimum / maximum pour ce mode de paiement en pr&eacute;cisant si ce dernier est actif sur le site auquel vous l'avez identifi&eacute; en cochant "<strong>Est Actif</strong>"</p>
 <h3>SOUS-MODES</h3>
-<p>Vous pouvez int&eacute;grer des modes de paiement d&eacute;riv&eacute;s du mode principal (<span style="text-decoration: underline;">Exemple</span> : Pour le paiement en carte bancaire, le sous-mode pourrait correspondre &agrave; un paiement par&nbsp;carte cadeau) en cochant la case&nbsp;"<strong>Ajouter des Sous-Modes</strong>".</p>
+<p>Vous pouvez int&eacute;grer des modes de paiement d&eacute;riv&eacute;s du mode principal (<span >Exemple</span> : Pour le paiement en carte bancaire, le sous-mode pourrait correspondre &agrave; un paiement par&nbsp;carte cadeau) en cochant la case&nbsp;"<strong>Ajouter des Sous-Modes</strong>".</p>
 <p>Apr&egrave;s avoir entr&eacute; son&nbsp;Libell&eacute;, identifiez le&nbsp;Compte Comptable&nbsp;auquel il est rattach&eacute; avant de cliquer sur "<strong>Ajouter</strong>".</p>
 <p>&nbsp;</p>
 <p>Sauvegardez vos modifications en cliquant sur le bouton "<strong>Enregistrer</strong>"</p>

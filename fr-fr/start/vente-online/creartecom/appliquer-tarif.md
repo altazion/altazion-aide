@@ -9,7 +9,7 @@
 
 
 <h2>COMMENT TARIFER MON ARTICLE ?</h2>
-<p>Un article sans un prix clair et identifiable n'est bien &eacute;videmment pas vendable. Apr&egrave;s avoir indiqu&eacute; les informations d'ordre g&eacute;n&eacute;ral (Taux de TVA applicable..etc), renseignez les sp&eacute;cificit&eacute;s de votre prix pour la vente en ligne (<span style="text-decoration: underline;">Exemple</span> : Quel prix TTC appliquer apr&egrave;s remise sur les achats ecommerce ?).</p>
+<p>Un article sans un prix clair et identifiable n'est bien &eacute;videmment pas vendable. Apr&egrave;s avoir indiqu&eacute; les informations d'ordre g&eacute;n&eacute;ral (Taux de TVA applicable..etc), renseignez les sp&eacute;cificit&eacute;s de votre prix pour la vente en ligne (<span >Exemple</span> : Quel prix TTC appliquer apr&egrave;s remise sur les achats ecommerce ?).</p>
 <p>Apr&egrave;s avoir rempli les informations g&eacute;n&eacute;rales et appliqu&eacute; les attributs &agrave; votre article, vous serez redirig&eacute; vers l'&eacute;tape de tarification.&nbsp;</p>
 <p>ATTENTION : Si vous aviez enregistr&eacute; votre progression puis quitt&eacute; le module de cr&eacute;ation d'article, vous pouvez n&eacute;anmoins reprendre votre article l&agrave; o&ugrave; vous l'aviez laiss&eacute;.&nbsp;<br />Depuis l'Accueil, entrez donc le <strong>Libell&eacute;</strong> ou la <strong>R&eacute;f&eacute;rence</strong> de votre article dans la&nbsp;barre de Recherche.&nbsp;<br />Vous retrouverez alors le r&eacute;capitulatif des propri&eacute;t&eacute;s, attributs...etc de l'article que vous avez cr&eacute;&eacute;. Cliquez sur "<strong>Modifier&nbsp;</strong>/&nbsp;<strong>Prix</strong>" pour appliquer un tarif &agrave; votre article et compl&eacute;tez les informations suivantes :</p>
 

@@ -20,8 +20,8 @@
 
 
 <h3><strong>AJOUTER UNE IMAGE &Agrave; UN ARTICLE ECOMMERCE</strong></h3>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>:&nbsp;Compl&eacute;tez votre fiche produit en ajoutant un visuel photo &agrave; l'article cr&eacute;&eacute;</em></span></p>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">POURQUOI AJOUTER UNE IMAGE</span>&nbsp;: La vente en ligne est une forme de commerce pour laquelle le visuel est tr&egrave;s important : &agrave; l'aide de fiches produits compl&egrave;tes, vous renforcez la confiance de l'acheteur et augmentez vos chances de conversion&nbsp;de paniers</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >D&Eacute;FINITION&nbsp;</span>:&nbsp;Compl&eacute;tez votre fiche produit en ajoutant un visuel photo &agrave; l'article cr&eacute;&eacute;</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >POURQUOI AJOUTER UNE IMAGE</span>&nbsp;: La vente en ligne est une forme de commerce pour laquelle le visuel est tr&egrave;s important : &agrave; l'aide de fiches produits compl&egrave;tes, vous renforcez la confiance de l'acheteur et augmentez vos chances de conversion&nbsp;de paniers</em></span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 10pt;">Retrouvez l'article &agrave; modifier depuis la Barre de Recherche sur la Page d'Accueil en entrant son&nbsp;<strong>Libell&eacute;&nbsp;</strong>ou sa&nbsp;<strong>R&eacute;f&eacute;rence</strong>.</span><br /><span style="font-size: 10pt;">Vous acc&egrave;derez alors au r&eacute;capitulatif des propri&eacute;t&eacute;s, attributs...etc de l'article que vous avez cr&eacute;&eacute;. En haut de page, s&eacute;lectionnez la cat&eacute;gorie "<strong>Documents</strong>" puis cliquez sur "<strong>Ajouter une Image</strong>" et compl&eacute;tez les informations suivantes :</span></p>
 <p><span style="font-size: 10pt;">&nbsp;</span></p>
@@ -39,8 +39,8 @@
 
 
 <h3><strong>AJOUTER UNE VID&Eacute;O &Agrave; UN ARTICLE ECOMMERCE</strong></h3>
-<p><em><span style="font-size: 10pt;"><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>:&nbsp;Dopez le pouvoir de conversion de&nbsp;vos fiches produits en ajoutant un visuel vid&eacute;o &agrave; l'article cr&eacute;&eacute;</span></em></p>
-<p><em><span style="font-size: 10pt;"><span style="text-decoration: underline;">POURQUOI AJOUTER UNE IMAGE</span>&nbsp;: &Agrave; l'aide de d&eacute;mos vid&eacute;os, vous proposez des fiches produits plus interactives sur&nbsp;votre site en apportant des suggestions d'utilisation, du conseil...etc</span></em></p>
+<p><em><span style="font-size: 10pt;"><span >D&Eacute;FINITION&nbsp;</span>:&nbsp;Dopez le pouvoir de conversion de&nbsp;vos fiches produits en ajoutant un visuel vid&eacute;o &agrave; l'article cr&eacute;&eacute;</span></em></p>
+<p><em><span style="font-size: 10pt;"><span >POURQUOI AJOUTER UNE IMAGE</span>&nbsp;: &Agrave; l'aide de d&eacute;mos vid&eacute;os, vous proposez des fiches produits plus interactives sur&nbsp;votre site en apportant des suggestions d'utilisation, du conseil...etc</span></em></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 10pt;">Retrouvez l'article &agrave; modifier depuis la Barre de Recherche sur la Page d'Accueil en entrant son&nbsp;<strong>Libell&eacute;&nbsp;</strong>ou sa&nbsp;<strong>R&eacute;f&eacute;rence</strong>.</span><br /><span style="font-size: 10pt;">Vous acc&egrave;derez alors au r&eacute;capitulatif des propri&eacute;t&eacute;s, attributs...etc de l'article que vous avez cr&eacute;&eacute;. En haut de page, s&eacute;lectionnez la cat&eacute;gorie "<strong>Documents</strong>" puis cliquez sur "<strong>Ajouter une Vid&eacute;o</strong>" et compl&eacute;tez les informations suivantes :</span></p>
 <p><span style="font-size: 10pt;">&nbsp;</span></p>
@@ -59,8 +59,8 @@
 
 
 <h3><strong>PUBLIER&nbsp;UN ARTICLE ECOMMERCE</strong></h3>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>: Finalisez la cr&eacute;ation de votre catalogue en validant vos articles</em></span></p>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">POURQUOI AJOUTER UNE IMAGE</span>&nbsp;:&nbsp;Vos articles n'existant encore qu'&agrave; titre comptable, vous devez les valider afin de les publier et de les commercialiser</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >D&Eacute;FINITION&nbsp;</span>: Finalisez la cr&eacute;ation de votre catalogue en validant vos articles</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >POURQUOI AJOUTER UNE IMAGE</span>&nbsp;:&nbsp;Vos articles n'existant encore qu'&agrave; titre comptable, vous devez les valider afin de les publier et de les commercialiser</em></span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 10pt;">Retrouvez l'article &agrave; modifier depuis la Barre de Recherche sur la Page d'Accueil en entrant son <strong>Libell&eacute;</strong> ou sa <strong>R&eacute;f&eacute;rence</strong>.</span><br /><span style="font-size: 10pt;">Vous acc&egrave;derez alors au r&eacute;capitulatif des propri&eacute;t&eacute;s, attributs...etc de l'article que vous avez cr&eacute;&eacute;. En haut de page, cliquez la cat&eacute;gorie "<strong>Publier</strong>" avant de rempl&nbsp;les informations suivantes :</span></p>
 <p><span style="font-size: 10pt;">&nbsp;</span></p>
@@ -75,9 +75,9 @@
 
 
 <p>&nbsp;</p>
-<p>&bull; <em>Revivez le lancement de votre catalogue : <strong><span style="text-decoration: underline;"><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.md">1. Param&eacute;trer mon Catalogue Web</a></span></strong></em></p>
-<p>&bull; <em>Repasser la partie : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.md">2. Cr&eacute;er un Article Ecommerce</a></strong></span></em></p>
-<p>&bull; <em>Avancer vers le param&eacute;trage du site : <span style="text-decoration: underline;"><strong><a title="4. Cr&eacute;er un Site Ecommerce" href="/fr-fr/start/start-sellonline/editwebsite.md">4. Cr&eacute;er un Site Ecommerce</a></strong></span></em></p>
+<p>&bull; <em>Revivez le lancement de votre catalogue : <strong><span ><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.md">1. Param&eacute;trer mon Catalogue Web</a></span></strong></em></p>
+<p>&bull; <em>Repasser la partie : <span ><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.md">2. Cr&eacute;er un Article Ecommerce</a></strong></span></em></p>
+<p>&bull; <em>Avancer vers le param&eacute;trage du site : <span ><strong><a title="4. Cr&eacute;er un Site Ecommerce" href="/fr-fr/start/start-sellonline/editwebsite.md">4. Cr&eacute;er un Site Ecommerce</a></strong></span></em></p>
 <p>&nbsp;</p>
 <h4 ><em><strong><span >Vous ma&icirc;trisez d&eacute;j&agrave;&nbsp;les premiers pas de la&nbsp;vente en ligne ?</span></strong></em></h4>
 <h4 ><em><strong><span >Poussez les manettes et acc&eacute;l&eacute;rez vers le <a title="STAGE 2 - ANIMER LES VENTES EN LIGNE" href="/animvente/progress-sellonline/">STAGE 2 - ANIMER LES VENTES EN LIGNE</a></span></strong></em></h4>

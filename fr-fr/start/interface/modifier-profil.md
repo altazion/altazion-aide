@@ -28,7 +28,7 @@ Entrez votre **nouveau mot de passe** dans la barre correspondante avant de le r
 
 <span >- Choisissez "**Modifier**" pour si vous souhaitez changer les informations de profil préalablement enregistrées</span>
 
-Vous avez la possibilité d'apporter des modifications aux **Informations Générales** d'un profil ainsi que d'inclure un utilisateur à un **Groupe** (<span style="text-decoration: underline;">Exemple</span> : Ici, on inclut le profil au groupe "Service Client").
+Vous avez la possibilité d'apporter des modifications aux **Informations Générales** d'un profil ainsi que d'inclure un utilisateur à un **Groupe** (<span >Exemple</span> : Ici, on inclut le profil au groupe "Service Client").
 
 En parallèle, vous pouvez changer le statut du profil dans "**Type de Compte**" ainsi que d'ajouter / supprimer des **Licences** afin de paramétrer les droits d'utilsation du compte.
 
@@ -40,7 +40,7 @@ En parallèle, vous pouvez changer le statut du profil dans "**Type de Compte**"
 
 ### GÉRER LES DROITS D'UTILISATION
 
-À côté du bouton d'accès à la modification des infos se situe le **bouton jaune** de paramétrage des droits d'accès du profil. Cliquez dessus puis **cochez les cases** correspondantes aux fonctionnalités auxquelles vous souhaitez que ce profil accède (<span style="text-decoration: underline;">Exemple</span> : _CRM > Litiges permet au profil d'accéder à l'outil de traitement des litiges clients_)
+À côté du bouton d'accès à la modification des infos se situe le **bouton jaune** de paramétrage des droits d'accès du profil. Cliquez dessus puis **cochez les cases** correspondantes aux fonctionnalités auxquelles vous souhaitez que ce profil accède (<span >Exemple</span> : _CRM > Litiges permet au profil d'accéder à l'outil de traitement des litiges clients_)
 
 **Enregistrez** vos modifications
 

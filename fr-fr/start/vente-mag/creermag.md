@@ -23,8 +23,8 @@
 
 <p>&nbsp;</p>
 <h3><strong>CR&Eacute;ER UNE ZONE DE MAGASINS</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Cr&eacute;ez une zone g&eacute;ographique qui permettra de localiser votre magasin</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI CR&Eacute;ER UNE ZONE DE MAGASINS</span> : Laissez &agrave; vos clients la possibilit&eacute; de localiser vos diff&eacute;rents magasins (ou des enseignes partenaires) afin qu'ils se rendent en boutique la plus proche&nbsp;</em></p>
+<p><em><span >D&Eacute;FINITION</span> : Cr&eacute;ez une zone g&eacute;ographique qui permettra de localiser votre magasin</em></p>
+<p><em><span >POURQUOI CR&Eacute;ER UNE ZONE DE MAGASINS</span> : Laissez &agrave; vos clients la possibilit&eacute; de localiser vos diff&eacute;rents magasins (ou des enseignes partenaires) afin qu'ils se rendent en boutique la plus proche&nbsp;</em></p>
 <p>&nbsp;</p>
 <p>Dans les&nbsp;<strong>Param&egrave;tres</strong>, acc&eacute;dez &agrave; la partie "<strong>Points de Vente</strong>" puis cliquez sur "<strong>Zones de Magasins</strong>". Pour &eacute;diter une zone, cliquez sur "<strong>Nouvelle Zone</strong>" avant de renseigner les informations suivantes :</p>
 <p>&nbsp;</p>
@@ -39,8 +39,8 @@
 
 
 <h3><strong>CR&Eacute;ER UN GROUPE DE MAGASINS</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : D&eacute;finissez un groupe commun de magasins en fonction de leurs sp&eacute;cialit&eacute;s, tailles...etc</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI CR&Eacute;ER UN GROUPE DE MAGASINS</span> :&nbsp;S&eacute;lectionnez les points de vente que vous souhaitez regrouper dans le cadre d'une op&eacute;ration commerciale ou d'un &eacute;v&egrave;nement particulier (Exemple : Cr&eacute;ez un groupe de magasins incluant tous les points de vente de la r&eacute;gion Nord pour une op&eacute;ration commerciale "Bienvenue chez les Ch'tis")</em></p>
+<p><em><span >D&Eacute;FINITION</span> : D&eacute;finissez un groupe commun de magasins en fonction de leurs sp&eacute;cialit&eacute;s, tailles...etc</em></p>
+<p><em><span >POURQUOI CR&Eacute;ER UN GROUPE DE MAGASINS</span> :&nbsp;S&eacute;lectionnez les points de vente que vous souhaitez regrouper dans le cadre d'une op&eacute;ration commerciale ou d'un &eacute;v&egrave;nement particulier (Exemple : Cr&eacute;ez un groupe de magasins incluant tous les points de vente de la r&eacute;gion Nord pour une op&eacute;ration commerciale "Bienvenue chez les Ch'tis")</em></p>
 <p>&nbsp;</p>
 <p>Dans les&nbsp;<strong>Param&egrave;tres&nbsp;</strong>(Partie "<strong>Points de Vente</strong>"), cliquez sur "<strong>Groupes d'Animation</strong>". Une fois sur la page d'&eacute;dition de groupe, s&eacute;lectionnez le bouton "<strong>Nouveau Groupe</strong>" pour cr&eacute;er un Groupe.</p>
 <p>Indiquez le&nbsp;<strong>Libell&eacute;&nbsp;</strong>du Groupe que vous souhaitez cr&eacute;er</p>
@@ -50,8 +50,8 @@
 
 
 <h3><strong>CONFIGURER DES TYPES DE P&Eacute;RIPH&Eacute;RIQUE EN MAGASIN</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Pr&eacute;parez le point de vente &agrave; l'int&eacute;gration de caisses, bornes, tablettes...</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI PARAM&Eacute;TRER DES TYPES DE P&Eacute;RIPH&Eacute;RIQUES</span> : D&eacute;finir les diff&eacute;rents types de p&eacute;riph&eacute;riques en amont de leur installation en magasin vous permettra par la suite d'am&eacute;liorer le suivi de leurs r&eacute;sultats</em></p>
+<p><em><span >D&Eacute;FINITION</span> : Pr&eacute;parez le point de vente &agrave; l'int&eacute;gration de caisses, bornes, tablettes...</em></p>
+<p><em><span >POURQUOI PARAM&Eacute;TRER DES TYPES DE P&Eacute;RIPH&Eacute;RIQUES</span> : D&eacute;finir les diff&eacute;rents types de p&eacute;riph&eacute;riques en amont de leur installation en magasin vous permettra par la suite d'am&eacute;liorer le suivi de leurs r&eacute;sultats</em></p>
 <p>&nbsp;</p>
 <p>Dans les&nbsp;<strong>Param&egrave;tres&nbsp;</strong>(Partie "<strong>Points de Vente</strong>"), cliquez sur "<strong>Types de P&eacute;riph&eacute;riques</strong>" puis sur "<strong>Nouveau Type</strong>" avant de remplir les informations suivantes :</p>
 <p>&nbsp;</p>
@@ -62,8 +62,8 @@
 
 
 <h3><strong>AJOUTER UN MAGASIN</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Cr&eacute;ez un point de vente en entrant ses informations en base de donn&eacute;es</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI AJOUTER UN MAGASIN</span> : Ajoutez des magasins et mettez en place votre r&eacute;seau de points de ventes</em></p>
+<p><em><span >D&Eacute;FINITION</span> : Cr&eacute;ez un point de vente en entrant ses informations en base de donn&eacute;es</em></p>
+<p><em><span >POURQUOI AJOUTER UN MAGASIN</span> : Ajoutez des magasins et mettez en place votre r&eacute;seau de points de ventes</em></p>
 <p>&nbsp;</p>
 <p>Dans le&nbsp;Menu principal&nbsp;(Partie&nbsp;Magasins), cliquez sur "<strong>Magasins</strong>" puis sur le bouton "<strong>Nouveau Magasin</strong>" et renseignez les donn&eacute;es suivantes :&nbsp;</p>
 <p>&nbsp;</p>
@@ -86,8 +86,8 @@
 
 
 <h3><strong>AJOUTER UN P&Eacute;RIPH&Eacute;RIQUE EN MAGASIN</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Caisse, Borne, Tablette... Installez vos p&eacute;riph&eacute;riques en point de vente</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI AJOUTER DES P&Eacute;RIPH&Eacute;RIQUES MAGASIN</span> : Digitalisez votre magasin et optimisez vos performances de vente en impl&eacute;mentant des caisses connect&eacute;es, des solutions de paiement sur borne ou encore en armant vos &eacute;quipes de smartphones et tablettes d'aide &agrave; la vente</em></p>
+<p><em><span >D&Eacute;FINITION</span> : Caisse, Borne, Tablette... Installez vos p&eacute;riph&eacute;riques en point de vente</em></p>
+<p><em><span >POURQUOI AJOUTER DES P&Eacute;RIPH&Eacute;RIQUES MAGASIN</span> : Digitalisez votre magasin et optimisez vos performances de vente en impl&eacute;mentant des caisses connect&eacute;es, des solutions de paiement sur borne ou encore en armant vos &eacute;quipes de smartphones et tablettes d'aide &agrave; la vente</em></p>
 <p>&nbsp;</p>
 <p>Depuis le&nbsp;Menu principal, acc&eacute;dez &agrave; la cat&eacute;gorie "<strong>Magasins</strong>" puis cliquez sur "<strong>P&eacute;riph&eacute;riques Magasins</strong>". Pour ajouter un nouveau p&eacute;riph&eacute;rique, cliquez sur "<strong>Nouveau Poste</strong>" et renseignez les informations suivantes :</p>
 <p>&nbsp;</p>
@@ -101,9 +101,9 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull;&nbsp;Commencez par pr&eacute;parer votre catalogue magasin : <span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer&nbsp;mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer&nbsp;mon Catalogue Magasin</a></strong></span></em></p>
-<p><em>&bull;&nbsp;D&eacute;couvrez comment &eacute;diter un article : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>Vous avez rat&eacute; l'&eacute;tape de validation d'un article ? <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></span></em></p>
+<p><em>&bull;&nbsp;Commencez par pr&eacute;parer votre catalogue magasin : <span ><strong><a title="1. Param&eacute;trer&nbsp;mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer&nbsp;mon Catalogue Magasin</a></strong></span></em></p>
+<p><em>&bull;&nbsp;D&eacute;couvrez comment &eacute;diter un article : <span ><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>Vous avez rat&eacute; l'&eacute;tape de validation d'un article ? <span ><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></span></em></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4 ><em><span >F&eacute;licitations, vous voil&agrave; pr&ecirc;t &agrave; conqu&eacute;rir les ventes en magasin !</span></em></h4>

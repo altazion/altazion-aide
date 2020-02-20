@@ -11,10 +11,10 @@
 
 <h2>COMMENT INT&Eacute;GRER MON SITE AU BACK-OFFICE ?</h2>
 <p>Dans la page des <strong>Param&egrave;tres</strong>, rendez-vous sur la partie "<strong>Internet</strong>" puis cliquez sur le lien "<strong>Sites Web</strong>" pour acc&eacute;der au menu des fonctionnalit&eacute;s de votre site afin de remplir les <strong>Informations G&eacute;n&eacute;rales</strong></p>
-<p>- <strong>Nom</strong> du Site (<span style="text-decoration: underline;">Exemple</span> : "miam-miam.corp")</p>
+<p>- <strong>Nom</strong> du Site (<span >Exemple</span> : "miam-miam.corp")</p>
 <p>- <strong>Titre</strong> du site (Veuillez indiquer si vous cr&eacute;ez un simple site vitrine ou une plateforme de vente en ligne)</p>
 <p>- <strong>Type</strong> de site (S&eacute;lectionnez "ecommerce" si vous proposez un site de vente en ligne)</p>
 <p>- <strong>URL</strong> principale (Copiez-collez l'URL de votre site)</p>
 <p>- <strong>Description</strong> courte du contenu du site</p>
-<p>- <strong>Th&egrave;me</strong> du site (<span style="text-decoration: underline;">Exemple</span> : Mode, Joaillerie...)</p>
+<p>- <strong>Th&egrave;me</strong> du site (<span >Exemple</span> : Mode, Joaillerie...)</p>
 

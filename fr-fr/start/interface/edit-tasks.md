@@ -10,7 +10,7 @@
 
 
 <h2>COMMENT CR&Eacute;ER UNE T&Acirc;CHE ?</h2>
-<p>S&eacute;lectionnez la th&eacute;matique de l'op&eacute;ration &agrave; effectuer et attribuez-en le traitement &agrave; un utilisateur ou &agrave; un groupe d'utilisateurs pr&eacute;cis (<span style="text-decoration: underline;">Exemple</span> : Si une simple modification de catalogue intervient &agrave; la derni&egrave;re minute dans la GESCOM, confiez le traitement de cette t&acirc;che ponctuelle &agrave; un collaborateur qualifi&eacute;)</p>
+<p>S&eacute;lectionnez la th&eacute;matique de l'op&eacute;ration &agrave; effectuer et attribuez-en le traitement &agrave; un utilisateur ou &agrave; un groupe d'utilisateurs pr&eacute;cis (<span >Exemple</span> : Si une simple modification de catalogue intervient &agrave; la derni&egrave;re minute dans la GESCOM, confiez le traitement de cette t&acirc;che ponctuelle &agrave; un collaborateur qualifi&eacute;)</p>
 <p>Depuis la page d'Accueil, cliquez sur la barre des t&acirc;ches ("<strong>Traiter</strong>") pour cr&eacute;er une "<strong>Nouvelle T&acirc;che</strong>" et remplissez les informations suivantes :</p>
 
 
@@ -31,12 +31,12 @@
 
 
 <h2>VOIR AUSSI</h2>
-<p><strong><span style="text-decoration: underline;"><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Ajouter un groupe" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Attribuer une t&acirc;che" href="/fr-fr/start/interface/attribuer-task.md">Attribuer une t&acirc;che</a></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md">Traiter une t&acirc;che</a></span></strong></p>
+<p><strong><span ><a title="Intro" href="/fr-fr/start/interface/default.md">Intro</a></span></strong></p>
+<p><strong><span ><a title="Interface" href="/fr-fr/start/interface/first-step-interface.md">Interface</a></span></strong></p>
+<p><strong><span ><a title="Cr&eacute;er un compte utilisateur" href="/fr-fr/start/interface/creer-compte.md">Cr&eacute;er un compte utilisateur</a></span></strong></p>
+<p><strong><span ><a title="Ajouter un groupe" href="/fr-fr/start/interface/add-group.md">Ajouter un groupe</a></span></strong></p>
+<p><strong><span ><a title="Attribuer une t&acirc;che" href="/fr-fr/start/interface/attribuer-task.md">Attribuer une t&acirc;che</a></span></strong></p>
+<p><strong><span ><a title="Traiter une t&acirc;che" href="/fr-fr/start/interface/use-tasks.md">Traiter une t&acirc;che</a></span></strong></p>
 <p>&nbsp;</p>
 <p ><strong><span >Si vous vous &ecirc;tes d&eacute;j&agrave; familiaris&eacute; avec l'interface et la cr&eacute;ation des t&acirc;ches, nous vous invitons &agrave; embarquer pour les 1ers pas de la <a title="VENTE EN LIGNE" href="/fr-fr/start/vente-online/">VENTE EN LIGNE</a> et de la&nbsp;VENTE EN MAGASIN</span></strong></p>
 

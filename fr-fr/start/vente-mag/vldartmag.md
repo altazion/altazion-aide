@@ -21,8 +21,8 @@
 
 <h3>&nbsp;</h3>
 <h3><strong>AJOUTER UNE IMAGE &Agrave; UN ARTICLE</strong></h3>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Apportez la touche finale &agrave; votre fiche produit en ajoutant un visuel photo &agrave; l'article cr&eacute;&eacute;</em></span></p>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">POURQUOI AJOUTER UNE IMAGE</span> : En plus de d'&ecirc;tre un &eacute;l&eacute;ment majeur&nbsp;de la fiche produit affich&eacute;e sur borne / mobile en magasin, l'image permet au vendeur d'identifier plus rapidement un article lorsqu'il le recherche depuis le back-office de gestion commerciale</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >D&Eacute;FINITION</span> : Apportez la touche finale &agrave; votre fiche produit en ajoutant un visuel photo &agrave; l'article cr&eacute;&eacute;</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >POURQUOI AJOUTER UNE IMAGE</span> : En plus de d'&ecirc;tre un &eacute;l&eacute;ment majeur&nbsp;de la fiche produit affich&eacute;e sur borne / mobile en magasin, l'image permet au vendeur d'identifier plus rapidement un article lorsqu'il le recherche depuis le back-office de gestion commerciale</em></span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 10pt;">Retrouvez l'article &agrave; modifier depuis la Barre de Recherche sur la Page d'Accueil en entrant son <strong>Libell&eacute;</strong> ou sa <strong>R&eacute;f&eacute;rence</strong>.</span><br /><span style="font-size: 10pt;">Vous acc&egrave;derez alors au r&eacute;capitulatif des propri&eacute;t&eacute;s, attributs...etc de l'article que vous avez cr&eacute;&eacute;. En haut de page, s&eacute;lectionnez la cat&eacute;gorie "<strong>Documents</strong>" puis cliquez sur "<strong>Ajouter une Image</strong>" et compl&eacute;tez les informations suivantes :</span></p>
 <p>&nbsp;</p>
@@ -40,8 +40,8 @@
 
 
 <h3><strong>AJOUTER UNE VID&Eacute;O &Agrave; UN ARTICLE</strong></h3>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>:&nbsp;Dynamisez la pr&eacute;sentation de&nbsp;votre fiche produit en ajoutant un visuel vid&eacute;o &agrave; l'article cr&eacute;&eacute;</em></span></p>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">POURQUOI AJOUTER UNE IMAGE</span>&nbsp;: &Agrave; l'aide de d&eacute;mos vid&eacute;os, vous proposez des fiches produits plus interactives sur borne et mobile en magasin</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >D&Eacute;FINITION&nbsp;</span>:&nbsp;Dynamisez la pr&eacute;sentation de&nbsp;votre fiche produit en ajoutant un visuel vid&eacute;o &agrave; l'article cr&eacute;&eacute;</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >POURQUOI AJOUTER UNE IMAGE</span>&nbsp;: &Agrave; l'aide de d&eacute;mos vid&eacute;os, vous proposez des fiches produits plus interactives sur borne et mobile en magasin</em></span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="font-size: 10pt;">Retrouvez l'article &agrave; modifier depuis la Barre de Recherche sur la Page d'Accueil en entrant son&nbsp;<strong>Libell&eacute;&nbsp;</strong>ou sa&nbsp;<strong>R&eacute;f&eacute;rence</strong>.</span><br /><span style="font-size: 10pt;">Vous acc&egrave;derez alors au r&eacute;capitulatif des propri&eacute;t&eacute;s, attributs...etc de l'article que vous avez cr&eacute;&eacute;. En haut de page, s&eacute;lectionnez la cat&eacute;gorie "<strong>Documents</strong>" puis cliquez sur "<strong>Ajouter une Vid&eacute;o</strong>" et compl&eacute;tez les informations suivantes :</span></p>
@@ -61,8 +61,8 @@
 
 
 <h3><strong>PUBLIER&nbsp;UN ARTICLE&nbsp;MAGASIN</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>: Finalisez la cr&eacute;ation de votre catalogue en ligne en validant vos articles</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI AJOUTER UNE IMAGE</span>&nbsp;:&nbsp;Vos articles n'existant encore qu'&agrave; titre comptable, vous devez les valider afin de les publier pour les commercialiser</em></p>
+<p><em><span >D&Eacute;FINITION&nbsp;</span>: Finalisez la cr&eacute;ation de votre catalogue en ligne en validant vos articles</em></p>
+<p><em><span >POURQUOI AJOUTER UNE IMAGE</span>&nbsp;:&nbsp;Vos articles n'existant encore qu'&agrave; titre comptable, vous devez les valider afin de les publier pour les commercialiser</em></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 10pt;">Retrouvez l'article &agrave; modifier depuis la Barre de Recherche sur la Page d'Accueil en entrant son Libell&eacute; ou sa R&eacute;f&eacute;rence.</span><br /><span style="font-size: 10pt;">Vous acc&egrave;derez alors au r&eacute;capitulatif des propri&eacute;t&eacute;s, attributs...etc de l'article que vous avez cr&eacute;&eacute;. En haut de page, cliquez la cat&eacute;gorie "<strong>Publier</strong>" avant de rempl&nbsp;les informations suivantes :</span></p>
 <p>&nbsp;</p>
@@ -78,9 +78,9 @@
 
 
 <p>&nbsp;</p>
-<p>&bull; <em>Revoir comment param&eacute;trer mon catalogue : <span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
-<p>&bull; <em>D&eacute;couvrir la cr&eacute;ation d'article : <span style="text-decoration: underline;"><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>Passer &agrave; la suite et d&eacute;finir mon Magasin : <span style="text-decoration: underline;"><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md">4. Cr&eacute;er un Magasin</a></strong></span></em></p>
+<p>&bull; <em>Revoir comment param&eacute;trer mon catalogue : <span ><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
+<p>&bull; <em>D&eacute;couvrir la cr&eacute;ation d'article : <span ><strong><a title="2. Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md">2. Cr&eacute;er un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>Passer &agrave; la suite et d&eacute;finir mon Magasin : <span ><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md">4. Cr&eacute;er un Magasin</a></strong></span></em></p>
 <p>&nbsp;</p>
 <h4 ><em><span >Votre catalogue magasin est d&eacute;j&agrave; pr&ecirc;t ?</span></em></h4>
 <h4 ><em><span >Passez &agrave; la&nbsp;phase suivante et d&eacute;couvrez comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</span></em></h4>

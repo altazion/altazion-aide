@@ -23,8 +23,8 @@
 
 <h3>&nbsp;</h3>
 <h3><strong>CR&Eacute;ER UN ARTICLE</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Renseignez les informations de base de votre article (R&eacute;f&eacute;rence, Libell&eacute;, TVA applicable...etc) et attribuez-lui une marque propre ou une marque fournisseur</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI CR&Eacute;ER UN ARTICLE</span> : Renseigner les &eacute;l&eacute;ments comptables et logistiques de votre article vous permet d'&ecirc;tre par la suite plus efficace sur l'ordonnancement des process de commande (Exemple : Optimisez la gestion de vos stocks en indiquant d&egrave;s sa cr&eacute;ation le r&eacute;gime de stockage de votre article) et donc de traiter plus rapidement les prises de commande</em></p>
+<p><em><span >D&Eacute;FINITION</span> : Renseignez les informations de base de votre article (R&eacute;f&eacute;rence, Libell&eacute;, TVA applicable...etc) et attribuez-lui une marque propre ou une marque fournisseur</em></p>
+<p><em><span >POURQUOI CR&Eacute;ER UN ARTICLE</span> : Renseigner les &eacute;l&eacute;ments comptables et logistiques de votre article vous permet d'&ecirc;tre par la suite plus efficace sur l'ordonnancement des process de commande (Exemple : Optimisez la gestion de vos stocks en indiquant d&egrave;s sa cr&eacute;ation le r&eacute;gime de stockage de votre article) et donc de traiter plus rapidement les prises de commande</em></p>
 <p>&nbsp;</p>
 <p>Depuis le Menu principal, cliquez sur "<strong>CATALOGUE</strong>" puis "<strong>Articles</strong>". Appuyez ensuite sur le bouton "<strong>Nouvel Article</strong>" en haut de page.</p>
 <p>Vous aurez le choix entre cr&eacute;er un article physique ("Article e-commerce", qui vaut aussi pour la vente en magasin) ou une prestation (Service). Apr&egrave;s avoir choisi le type de votre article, veuillez remplir les informations suivantes :&nbsp;</p>
@@ -43,8 +43,8 @@
 
 
 <h3><strong>APPLIQUER DES ATTRIBUTS (PROPRI&Eacute;T&Eacute;S)</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Associez les attributs pr&eacute;c&eacute;demment cr&eacute;&eacute;s (voir "Cr&eacute;er un attribut d&eacute;clinable") &agrave; vos articles</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI APPLIQUER DES ATTRIBUTS</span> :&nbsp;Apr&egrave;s avoir cr&eacute;&eacute; des attributs, il vous faut les associer aux articles correspondants pour que ces derniers soient commercialisables en magasin mais aussi pour optimiser le travail de vos vendeurs&nbsp;(Exemple : Des pulls en laine rouge sont en vente dans votre boutique mais vous n'y avez pas associ&eacute; les attributs "Couleur" et "Mati&egrave;re" dans la GESCOM. Il sera alors plus compliqu&eacute; pour vos vendeurs de les trouver parmi vos r&eacute;f&eacute;rences s'ils filtrent leur recherche par les attributs "Couleur : Rouge" et "Mati&egrave;re : Laine")</em></p>
+<p><em><span >D&Eacute;FINITION</span> : Associez les attributs pr&eacute;c&eacute;demment cr&eacute;&eacute;s (voir "Cr&eacute;er un attribut d&eacute;clinable") &agrave; vos articles</em></p>
+<p><em><span >POURQUOI APPLIQUER DES ATTRIBUTS</span> :&nbsp;Apr&egrave;s avoir cr&eacute;&eacute; des attributs, il vous faut les associer aux articles correspondants pour que ces derniers soient commercialisables en magasin mais aussi pour optimiser le travail de vos vendeurs&nbsp;(Exemple : Des pulls en laine rouge sont en vente dans votre boutique mais vous n'y avez pas associ&eacute; les attributs "Couleur" et "Mati&egrave;re" dans la GESCOM. Il sera alors plus compliqu&eacute; pour vos vendeurs de les trouver parmi vos r&eacute;f&eacute;rences s'ils filtrent leur recherche par les attributs "Couleur : Rouge" et "Mati&egrave;re : Laine")</em></p>
 <p>&nbsp;</p>
 <p>En cr&eacute;ant un article e-commerce, la case "e-commerce/cross-canal" est coch&eacute;e par d&eacute;faut afin de l'adapter &agrave; la vente cross-canal (M&ecirc;me si vous ne vendez pas encore en ligne).</p>
 <p>Cochez la case "G&eacute;n&eacute;rique (d&eacute;clinable)" si l'article se d&eacute;cline en plusieurs mod&egrave;les / versions (Ex : Un v&ecirc;tement se d&eacute;cline en tailles S, M, L...)</p>
@@ -59,8 +59,8 @@
 
 
 <h3><strong>APPLIQUER UN TARIF</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Appliquez un tarif TTC &agrave; votre article avant de le mettre en vente</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI TARIFER MON ARTICLE</span> : Votre article ne peut &ecirc;tre commercialis&eacute; en magasin sans un prix clair et identifiable par le consommateur. Si vous vendez en cross-canal, vous pouvez aussi indiquer le prix e-commerce de votre article</em></p>
+<p><em><span >D&Eacute;FINITION</span> : Appliquez un tarif TTC &agrave; votre article avant de le mettre en vente</em></p>
+<p><em><span >POURQUOI TARIFER MON ARTICLE</span> : Votre article ne peut &ecirc;tre commercialis&eacute; en magasin sans un prix clair et identifiable par le consommateur. Si vous vendez en cross-canal, vous pouvez aussi indiquer le prix e-commerce de votre article</em></p>
 <p><br />Apr&egrave;s avoir rempli les informations g&eacute;n&eacute;rales et appliqu&eacute; les attributs &agrave; votre article, vous serez redirig&eacute; vers l'&eacute;tape de tarification.&nbsp;</p>
 <p>Si vous aviez enregistr&eacute; votre progression puis quitt&eacute; le module de cr&eacute;ation d'article, vous pouvez n&eacute;anmoins reprendre votre article l&agrave; o&ugrave; vous l'aviez laiss&eacute; :&nbsp;<br />Depuis l'<strong>Accueil</strong>, entrez le Libell&eacute; ou la R&eacute;f&eacute;rence de votre article dans la <strong>barre de Recherche</strong>. <br />Vous retrouverez alors le r&eacute;capitulatif des propri&eacute;t&eacute;s, attributs...etc de l'article que vous avez cr&eacute;&eacute;. Cliquez sur "<strong>Modifier</strong> / <strong>Prix</strong>" pour appliquer un tarif &agrave; votre article en compl&eacute;tant les informations suivantes :</p>
 <p>&nbsp;</p>
@@ -78,8 +78,8 @@
 
 
 <h3><strong>CR&Eacute;ER UNE ASSOCIATION D'ARTICLES</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> :&nbsp;Associez des articles dans le cadre de vos campagnes commerciales</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI ASSOCIER MES ARTICLES</span> : Associer des articles vous permet d'animer vos promotions et de proposer des "packs" d'articles lors de vos campagnes (Exemple : Si vous vendez des articles de jardin, vous pouvez lancer l'op&eacute;ration commerciale "Jardin d'&eacute;t&eacute;" pour laquelle vous proposez un "pack" complet d'articles incluant un salon de jardin et 2 transats &agrave; un prix normalis&eacute;)</em></p>
+<p><em><span >D&Eacute;FINITION</span> :&nbsp;Associez des articles dans le cadre de vos campagnes commerciales</em></p>
+<p><em><span >POURQUOI ASSOCIER MES ARTICLES</span> : Associer des articles vous permet d'animer vos promotions et de proposer des "packs" d'articles lors de vos campagnes (Exemple : Si vous vendez des articles de jardin, vous pouvez lancer l'op&eacute;ration commerciale "Jardin d'&eacute;t&eacute;" pour laquelle vous proposez un "pack" complet d'articles incluant un salon de jardin et 2 transats &agrave; un prix normalis&eacute;)</em></p>
 <p>&nbsp;</p>
 <p>Dans la page des&nbsp;<strong>Param&egrave;tres</strong>, cliquez sur "<strong>Types Associations Articles</strong>" de la partie "<strong>Catalogue</strong>", puis utilisez le bouton "<strong>Nouveau Type</strong>" pour param&eacute;trer une association d'articles :</p>
 <p>&nbsp;</p>
@@ -104,9 +104,9 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull; Vous souhaitez revoir l'&eacute;tape&nbsp;<span style="text-decoration: underline;"><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
-<p><em>&bull; Ou passer &agrave; l'&eacute;tape suivante ? <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></span></em></p>
-<p>&bull; <em>D&eacute;couvrir la derni&egrave;re &eacute;tape des 1ers Pas Magasin :</em> <span style="text-decoration: underline;"><em><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md">4. Cr&eacute;er un Magasin</a></strong></em></span></p>
+<p><em>&bull; Vous souhaitez revoir l'&eacute;tape&nbsp;<span ><strong><a title="1. Param&eacute;trer mon Catalogue Magasin" href="/fr-fr/start/start-sellstore/default.md">1. Param&eacute;trer mon Catalogue Magasin</a></strong></span></em></p>
+<p><em>&bull; Ou passer &agrave; l'&eacute;tape suivante ? <span ><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></span></em></p>
+<p>&bull; <em>D&eacute;couvrir la derni&egrave;re &eacute;tape des 1ers Pas Magasin :</em> <span ><em><strong><a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md">4. Cr&eacute;er un Magasin</a></strong></em></span></p>
 <p>&nbsp;</p>
 <h4 ><span ><em>Votre magasin est pr&ecirc;t &agrave; d&eacute;coller ?</em></span></h4>
 <h4 ><span ><em>Passez &agrave; la vitesse sup&eacute;rieure : on vous montre comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</em></span></h4>

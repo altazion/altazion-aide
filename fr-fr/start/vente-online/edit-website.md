@@ -29,8 +29,8 @@
 
 
 <h3><strong>AJOUTER UN MODE DE LIVRAISON</strong></h3>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Proposez &agrave; vos clients des services de livraison adapt&eacute;s &agrave; leurs commandes</em></span></p>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">POURQUOI AJOUTER UN MODE DE LIVRAISON</span> : Int&eacute;grer plusieurs modes de livraison diff&eacute;rents vous permet d'assurer un service total apr&egrave;s l'acte d'achat. La qualit&eacute; d'acheminement est un point essentiel de la satisfaction client</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >D&Eacute;FINITION</span> : Proposez &agrave; vos clients des services de livraison adapt&eacute;s &agrave; leurs commandes</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >POURQUOI AJOUTER UN MODE DE LIVRAISON</span> : Int&eacute;grer plusieurs modes de livraison diff&eacute;rents vous permet d'assurer un service total apr&egrave;s l'acte d'achat. La qualit&eacute; d'acheminement est un point essentiel de la satisfaction client</em></span></p>
 <p><em><br /></em>&Agrave; l'instar du Mode de Paiement, param&eacute;trez le Mode de Livraison selon le m&ecirc;me proc&eacute;d&eacute; en cliquant sur le bouton "<strong>Nouveau Module</strong>" dans la partie "<strong>Mode de Livraison</strong>" et renseignez les informations suivantes :</p>
 <h4><br /><strong>INFORMATIONS G&Eacute;N&Eacute;RALES</strong></h4>
 <p>- <strong>R&eacute;f&eacute;rence</strong> : Entrez la R&eacute;f&eacute;rence du mode de livraison (Ex : CHRONOFR pour des livrasions Chronopost France)</p>
@@ -54,8 +54,8 @@
 
 
 <h3><strong>CR&Eacute;ER UNE PAGE DE CONTENU</strong></h3>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> :&nbsp;Param&eacute;trez la cr&eacute;ation de landing pages afin de booster la qualit&eacute; de contenu de votre site</em></span></p>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">POURQUOI R&Eacute;DIGER UNE PAGE DE CONTENU</span> : Cr&eacute;er et publier des landing pages vous permet de ramener plus de trafic sur votre site&nbsp;</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >D&Eacute;FINITION</span> :&nbsp;Param&eacute;trez la cr&eacute;ation de landing pages afin de booster la qualit&eacute; de contenu de votre site</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >POURQUOI R&Eacute;DIGER UNE PAGE DE CONTENU</span> : Cr&eacute;er et publier des landing pages vous permet de ramener plus de trafic sur votre site&nbsp;</em></span></p>
 <p>&nbsp;</p>
 <p>Depuis le Menu de la page d'Accueil, rendez-vous sur la cat&eacute;gorie "<strong>Internet</strong>" et cliquez sur "<strong>Gestion de contenus</strong>". Acc&eacute;dez au lien "<strong>Nouvelle Page</strong>" pour cr&eacute;er votre page web et remplissez les informations suivantes :</p>
 <p>- <strong>Site</strong> : S&eacute;lectionnez le site web auquel vous souhaitez rattacher cette page</p>
@@ -68,8 +68,8 @@
 
 
 <h3><strong>R&Eacute;DIGER LE CONTENU D'UNE PAGE</strong></h3>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">D&Eacute;FINITION</span> : Apr&egrave;s avoir cr&eacute;&eacute; votre landing page, laissez parler votre imagination&nbsp;et&nbsp;proposez un contenu de qualit&eacute;</em></span></p>
-<p><span style="font-size: 10pt;"><em><span style="text-decoration: underline;">POURQUOI CONFIGURER MA PAGE DE CONTENU</span> : Avec un contenu de qualit&eacute;, vos landing pages attirent plus efficacement les leads sur votre site et permettent de g&eacute;n&eacute;rer davantage de ventes</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >D&Eacute;FINITION</span> : Apr&egrave;s avoir cr&eacute;&eacute; votre landing page, laissez parler votre imagination&nbsp;et&nbsp;proposez un contenu de qualit&eacute;</em></span></p>
+<p><span style="font-size: 10pt;"><em><span >POURQUOI CONFIGURER MA PAGE DE CONTENU</span> : Avec un contenu de qualit&eacute;, vos landing pages attirent plus efficacement les leads sur votre site et permettent de g&eacute;n&eacute;rer davantage de ventes</em></span></p>
 <p>&nbsp;</p>
 <p>Apr&egrave;s avoir enregistr&eacute; votre page web, vous pouvez configurer son contenu en cliquant sur "<strong>Modifier</strong>" (&Agrave; l'aide du bouton illustr&eacute; par une feuille et un stylo), puis compl&eacute;tez les informations suivantes :</p>
 <h4><br /><strong>INFOS G&Eacute;N&Eacute;RALES ET PUBLICATION</strong></h4>
@@ -89,9 +89,9 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull; Revivre l'intro &agrave; la cr&eacute;ation d'article :</em> <span style="text-decoration: underline;"><em><strong><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.md">1. Param&eacute;trer mon Catalogue Web</a></strong></em></span></p>
-<p><em>&bull; Revoir la cr&eacute;ation d'un article en ligne :</em> <span style="text-decoration: underline;"><em><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.md">2. Cr&eacute;er un Article Ecommerce</a></strong></em></span></p>
-<p>&bull; <em>Repasser sur la validation d'article en ligne : <span style="text-decoration: underline;"><strong><a title="3. Publier un Article Ecommerce" href="/fr-fr/start/start-sellonline/vldartweb.md">3. Publier un Article Ecommerce</a></strong></span></em></p>
+<p><em>&bull; Revivre l'intro &agrave; la cr&eacute;ation d'article :</em> <span ><em><strong><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.md">1. Param&eacute;trer mon Catalogue Web</a></strong></em></span></p>
+<p><em>&bull; Revoir la cr&eacute;ation d'un article en ligne :</em> <span ><em><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.md">2. Cr&eacute;er un Article Ecommerce</a></strong></em></span></p>
+<p>&bull; <em>Repasser sur la validation d'article en ligne : <span ><strong><a title="3. Publier un Article Ecommerce" href="/fr-fr/start/start-sellonline/vldartweb.md">3. Publier un Article Ecommerce</a></strong></span></em></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4 ><strong><em><span >Bravo, vous avez men&eacute; &agrave; bien les premiers pas de la mission Ecommerce !</span></em></strong></h4>

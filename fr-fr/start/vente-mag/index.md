@@ -24,8 +24,8 @@
 
 <h3>&nbsp;</h3>
 <h3><strong>&Eacute;DITER UN TYPE D'ARTICLE</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>: Un type d'article correspond &agrave; la nature de votre article d'un point de vue comptable. Ainsi, votre article peut &ecirc;tre de type "marchandise" ou de type "prestation".</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI &Eacute;DITER UN TYPE D'ARTICLE</span>&nbsp;: Vous devez tout d'abord indiquer si l'article que vous allez cr&eacute;er est un Bien physique ou une prestation de Service, avant de l'associer &agrave; un compte comptable en renseignant son libell&eacute;, sa r&eacute;f&eacute;rence, et le compte de TVA auquel il est affili&eacute;. D&eacute;finir un type est important pour &eacute;valuer les conditions de stockage, mais aussi de vente d'un article en magasin (Exemple : les conditions de stockage d'une prestation de voyage en agence sont diff&eacute;rentes de celles d'un v&eacute;hicule en concession)</em></p>
+<p><em><span >D&Eacute;FINITION&nbsp;</span>: Un type d'article correspond &agrave; la nature de votre article d'un point de vue comptable. Ainsi, votre article peut &ecirc;tre de type "marchandise" ou de type "prestation".</em></p>
+<p><em><span >POURQUOI &Eacute;DITER UN TYPE D'ARTICLE</span>&nbsp;: Vous devez tout d'abord indiquer si l'article que vous allez cr&eacute;er est un Bien physique ou une prestation de Service, avant de l'associer &agrave; un compte comptable en renseignant son libell&eacute;, sa r&eacute;f&eacute;rence, et le compte de TVA auquel il est affili&eacute;. D&eacute;finir un type est important pour &eacute;valuer les conditions de stockage, mais aussi de vente d'un article en magasin (Exemple : les conditions de stockage d'une prestation de voyage en agence sont diff&eacute;rentes de celles d'un v&eacute;hicule en concession)</em></p>
 <p><br />Dans les Param&egrave;tres (Partie "<strong>Catalogue</strong>"), cliquez sur le lien "<strong>Types d'articles</strong>" puis sur "<strong>Nouveau Type</strong>" et compl&eacute;tez les informations suivantes :</p>
 <p>&nbsp;</p>
 <h4>INFORMATIONS G&Eacute;N&Eacute;RALES</h4>
@@ -43,8 +43,8 @@
 
 <p>&nbsp;</p>
 <h3><strong>CR&Eacute;ER UNE MARQUE</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>: Une marque permet au consommateur de distinguer votre article de ceux de la concurrence. Point de rep&egrave;re, la marque constitue aussi une garantie de qualit&eacute; et de service</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI CR&Eacute;ER UNE MARQUE</span>&nbsp;: Pour &ecirc;tre commercialisable, un article doit &ecirc;tre associ&eacute; &agrave; une marque. Identifiez votre article en marque propre ou associez-le &agrave; une marque fournisseur (Exemple : Ferrero, Nutella...etc si vous vendez les c&eacute;l&egrave;bres p&acirc;tes &agrave; tartiner). De plus, vous avez la possibilit&eacute; de r&eacute;diger du contenu descriptif et d'int&eacute;grer un visuel si vous affichez votre catalogue sur borne ou partagez vos fiches produits sur publicit&eacute;s digitalis&eacute;es en magasin. Vos clients cross-canaux auront quant &agrave; eux la possibilit&eacute; d'identifier les produits sur le Web avant d'effectuer leurs achats en magasin</em></p>
+<p><em><span >D&Eacute;FINITION&nbsp;</span>: Une marque permet au consommateur de distinguer votre article de ceux de la concurrence. Point de rep&egrave;re, la marque constitue aussi une garantie de qualit&eacute; et de service</em></p>
+<p><em><span >POURQUOI CR&Eacute;ER UNE MARQUE</span>&nbsp;: Pour &ecirc;tre commercialisable, un article doit &ecirc;tre associ&eacute; &agrave; une marque. Identifiez votre article en marque propre ou associez-le &agrave; une marque fournisseur (Exemple : Ferrero, Nutella...etc si vous vendez les c&eacute;l&egrave;bres p&acirc;tes &agrave; tartiner). De plus, vous avez la possibilit&eacute; de r&eacute;diger du contenu descriptif et d'int&eacute;grer un visuel si vous affichez votre catalogue sur borne ou partagez vos fiches produits sur publicit&eacute;s digitalis&eacute;es en magasin. Vos clients cross-canaux auront quant &agrave; eux la possibilit&eacute; d'identifier les produits sur le Web avant d'effectuer leurs achats en magasin</em></p>
 <p>&nbsp;</p>
 <p>Depuis les <strong>Param&egrave;tres</strong>, rendez-vous sur la partie "<strong>Catalogue</strong>" puis cliquez sur "<strong>Marques</strong>". Utilisez le bouton "<strong>Nouvelle Marque</strong>" pour cr&eacute;er une marque et compl&eacute;tez les informations suivantes :&nbsp;</p>
 <p><br />- <strong>Libell&eacute;</strong> : Le Nom de la marque cr&eacute;&eacute;e</p>
@@ -64,8 +64,8 @@
 
 <p>&nbsp;</p>
 <h3><strong>CR&Eacute;ER UN ATTRIBUT</strong></h3>
-<p><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>: Un attribut est une caract&eacute;ristique propre &agrave; chaque article, est personnalisable et peut se d&eacute;cliner en plusieurs versions (Exemple&nbsp;: la taille d'un v&ecirc;tement&nbsp;est un attribut d&eacute;clinable en S, M, L ...)</p>
-<p><span style="text-decoration: underline;">POURQUOI CR&Eacute;ER UN ATTRIBUT</span>&nbsp;: Les attributs sont les caract&eacute;ristiques qui d&eacute;terminent en quoi vos articles r&eacute;pondent &agrave; des besoins pr&eacute;cis. Pour les vendeurs en magasin, un attribut permet &eacute;galement de simplifier la recherche d'article face &agrave; un besoin client (Exemple : Un consommateur en magasin veut acheter un pull en laine rouge, mais ce dernier n'est plus en stock. Il sollicite un vendeur qui, arm&eacute; de sa tablette ou de son smartphone, pourra lui proposer plusieurs alternatives en filtrant sa recherche produits depuis la GESCOM &agrave; l'aide des attributs "Composition : Laine" et "Couleur : Rouge")</p>
+<p><span >D&Eacute;FINITION&nbsp;</span>: Un attribut est une caract&eacute;ristique propre &agrave; chaque article, est personnalisable et peut se d&eacute;cliner en plusieurs versions (Exemple&nbsp;: la taille d'un v&ecirc;tement&nbsp;est un attribut d&eacute;clinable en S, M, L ...)</p>
+<p><span >POURQUOI CR&Eacute;ER UN ATTRIBUT</span>&nbsp;: Les attributs sont les caract&eacute;ristiques qui d&eacute;terminent en quoi vos articles r&eacute;pondent &agrave; des besoins pr&eacute;cis. Pour les vendeurs en magasin, un attribut permet &eacute;galement de simplifier la recherche d'article face &agrave; un besoin client (Exemple : Un consommateur en magasin veut acheter un pull en laine rouge, mais ce dernier n'est plus en stock. Il sollicite un vendeur qui, arm&eacute; de sa tablette ou de son smartphone, pourra lui proposer plusieurs alternatives en filtrant sa recherche produits depuis la GESCOM &agrave; l'aide des attributs "Composition : Laine" et "Couleur : Rouge")</p>
 <p>&nbsp;</p>
 <p>Dans les <strong>Param&egrave;tres</strong> (Partie "<strong>Catalogue</strong>"), acc&eacute;dez au lien "<strong>Attributs personnalis&eacute;s</strong>" puis cliquez sur "<strong>Nouvel Attribut</strong>".&nbsp;<br />Renseignez les informations suivantes :</p>
 <p><br />- <strong>Nom</strong> de l'attribut</p>
@@ -83,8 +83,8 @@
 
 <p>&nbsp;</p>
 <h3><strong>CR&Eacute;ER UNE SEGMENTATION</strong></h3>
-<p><em><span style="text-decoration: underline;">D&Eacute;FINITION&nbsp;</span>: Segmenter vos produits au sein d'une m&ecirc;me gamme vous permet de r&eacute;pondre &agrave; des besoins sp&eacute;cifiques (Exemple&nbsp;: si vous segmentez votre offre v&ecirc;tement pour adulte/enfant/senior)</em></p>
-<p><em><span style="text-decoration: underline;">POURQUOI CR&Eacute;ER UNE SEGMENTATION</span>&nbsp;: En plus de mieux cat&eacute;goriser la r&eacute;ponse au besoin, la segmentation produit vous permet &eacute;galement de classer vos articles par familles et donc d'optimiser pour vos vendeurs la navigation sur catalogue</em></p>
+<p><em><span >D&Eacute;FINITION&nbsp;</span>: Segmenter vos produits au sein d'une m&ecirc;me gamme vous permet de r&eacute;pondre &agrave; des besoins sp&eacute;cifiques (Exemple&nbsp;: si vous segmentez votre offre v&ecirc;tement pour adulte/enfant/senior)</em></p>
+<p><em><span >POURQUOI CR&Eacute;ER UNE SEGMENTATION</span>&nbsp;: En plus de mieux cat&eacute;goriser la r&eacute;ponse au besoin, la segmentation produit vous permet &eacute;galement de classer vos articles par familles et donc d'optimiser pour vos vendeurs la navigation sur catalogue</em></p>
 <p>&nbsp;</p>
 <p>Depuis les <strong>Param&egrave;tres</strong>, acc&eacute;dez &agrave; la partie "<strong>Catalogue</strong>" avant de vous rendre sur le lien "<strong>Segmentation Produits</strong>".<br />Cliquez sur "<strong>Nouveau Seg.</strong>" pour cr&eacute;er votre segmentation en remplissant les informations suivantes :</p>
 <p><br />- <strong>Libell&eacute;</strong> : Le nom de votre segmentation</p>
@@ -106,9 +106,9 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull;&nbsp;Et si vous passiez &agrave; l'&eacute;tape suivante ?</em>&nbsp;<strong><a title="Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md"><span style="text-decoration: underline;"><em>2.</em><em> Cr&eacute;er un Article Magasin</em></span></a></strong></p>
-<p>&bull; <em>D&eacute;couvrez comment valider un article :</em> <span style="text-decoration: underline;"><em><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></em></span></p>
-<p><em>&bull;&nbsp;Ou directement &agrave; la fin du Stage 1 ?&nbsp;<a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md"><strong>4</strong><span style="text-decoration: underline;"><strong>. Cr&eacute;er un Magasin</strong></span></a></em></p>
+<p><em>&bull;&nbsp;Et si vous passiez &agrave; l'&eacute;tape suivante ?</em>&nbsp;<strong><a title="Cr&eacute;er un Article Magasin" href="/fr-fr/start/start-sellstore/createarticle.md"><span ><em>2.</em><em> Cr&eacute;er un Article Magasin</em></span></a></strong></p>
+<p>&bull; <em>D&eacute;couvrez comment valider un article :</em> <span ><em><strong><a title="3. Publier un Article Magasin" href="/fr-fr/start/start-sellstore/vldartmag.md">3. Publier un Article Magasin</a></strong></em></span></p>
+<p><em>&bull;&nbsp;Ou directement &agrave; la fin du Stage 1 ?&nbsp;<a title="4. Cr&eacute;er un Magasin" href="/fr-fr/start/start-sellstore/creermag.md"><strong>4</strong><span ><strong>. Cr&eacute;er un Magasin</strong></span></a></em></p>
 <p>&nbsp;</p>
 <h4 ><span ><em>Vous&nbsp;&ecirc;tes d&eacute;j&agrave; "&eacute;quip&eacute;" pour la vente en magasin ?</em></span></h4>
 <h4 ><span ><em>Rendez-vous directement au Stage 2 et d&eacute;couvrez comment <strong><a title="ANIMER VOS VENTES" href="/animvente">ANIMER VOS VENTES</a></strong> !</em></span></h4>
