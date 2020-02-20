@@ -30,32 +30,34 @@
       items:
         - name: Dossier Produit
           href: catalogue/articles/dossier.md
-        - name: articlesassocier
-          href: catalogue/articles/articlesassocier.md
-        - name: EditAssociations
-          href: catalogue/articles/EditAssociations.md
-        - name: EditECommerce
-          href: catalogue/articles/EditECommerce.md
-        - name: EditGeneral
-          href: catalogue/articles/EditGeneral.md
-        - name: EditLogistique
-          href: catalogue/articles/EditLogistique.md
-        - name: EditPrix
-          href: catalogue/articles/EditPrix.md
+          items:
+          - name: Info générales
+            href: catalogue/articles/ongletprincipal.md
+          - name: Conditions de ventes
+            href: catalogue/articles/ongletvente.md
+          - name: Prix
+            href: catalogue/articles/ongletprix.md
+          - name: Approvisionnement
+            href: catalogue/articles/ongletapprovisionnement.md
+          - name: Documents, Images & videos
+            href: catalogue/articles/ongletdocument.md
+          - name: Logistique
+            href: catalogue/articles/ongletlogistique.md
+          - name: Articles associés
+            href: catalogue/articles/articlesassocier.md
         - name: modifier
           href: catalogue/articles/modifier.md
-        - name: ongletapprovisionnement
-          href: catalogue/articles/ongletapprovisionnement.md
-        - name: ongletdocument
-          href: catalogue/articles/ongletdocument.md
-        - name: ongletlogistique
-          href: catalogue/articles/ongletlogistique.md
-        - name: ongletprincipal
-          href: catalogue/articles/ongletprincipal.md
-        - name: ongletprix
-          href: catalogue/articles/ongletprix.md
-        - name: ongletvente
-          href: catalogue/articles/ongletvente.md
+          items:
+          - name: EditAssociations
+            href: catalogue/articles/EditAssociations.md
+          - name: EditECommerce
+            href: catalogue/articles/EditECommerce.md
+          - name: EditGeneral
+            href: catalogue/articles/EditGeneral.md
+          - name: EditLogistique
+            href: catalogue/articles/EditLogistique.md
+          - name: EditPrix
+            href: catalogue/articles/EditPrix.md
     - name: Grilles de tarif
       items:
         - name: EditGrille
@@ -196,7 +198,8 @@
           href: ventes/clients/editinfogenerales.md
         - name: index
           href: ventes/clients/index.md
-    - name: commandes
+    - name: Commandes
+      href: ventes/commandes/index.md
       items:
         - name: AnnulationCommande
           href: ventes/commandes/AnnulationCommande.md
@@ -208,18 +211,21 @@
           href: ventes/commandes/changepassword.md
         - name: CreationImpaye
           href: ventes/commandes/CreationImpaye.md
-        - name: dossiercommande
+        - name: Dossier commande
           href: ventes/commandes/dossiercommande.md
+          items:
+            - name: ongletpreparation
+              href: ventes/commandes/ongletpreparation.md
+            - name: ongletprincipal
+              href: ventes/commandes/ongletprincipal.md
         - name: DupliquerCommande
           href: ventes/commandes/DupliquerCommande.md
-        - name: EditBagc
+        - name: Créer un bon d'achat
           href: ventes/commandes/EditBagc.md
         - name: EnvoiQuestionnaire
           href: ventes/commandes/EnvoiQuestionnaire.md
         - name: EnvoyerMail
           href: ventes/commandes/EnvoyerMail.md
-        - name: index
-          href: ventes/commandes/index.md
         - name: informationsurleclient
           href: ventes/commandes/informationsurleclient.md
         - name: informationsurletraitementdeslitiges
@@ -234,10 +240,6 @@
           href: ventes/commandes/modifications.md
         - name: NewTodo
           href: ventes/commandes/NewTodo.md
-        - name: ongletpreparation
-          href: ventes/commandes/ongletpreparation.md
-        - name: ongletprincipal
-          href: ventes/commandes/ongletprincipal.md
         - name: origine
           href: ventes/commandes/origine.md
         - name: SaisieReglements

@@ -1,6 +1,6 @@
 - name: Vos premiers pas
   href: index.md
 - name: Découvrez l'interface
-  homepage: interface/index.md
+  href: interface/index.md
   items:
     - 

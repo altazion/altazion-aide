@@ -1,7 +1,7 @@
 - name: Découvrez Office
   href: index.md
 - name: Vos premiers pas
-  homepage: ../start/index.md
+  href: ../start/index.md
   items:
     - name: Découvrez l'interface
       href: ../start/interface/index.md
