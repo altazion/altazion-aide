@@ -1,46 +1,61 @@
 # Sélection automatique 
 
+![selectionmanuelle-screenshotfionajoupilancom20150810143541png](images/selectionmanuelle-screenshotfionajoupilancom20150810143541png.png)
 
-![edit-screenshotfionajoupilancom20150810144326](images/edit-screenshotfionajoupilancom20150810144326.png)
+### Sélection manuelle
 
+En choisissant une **sélection manuelle**, vous serez redirigé vers un **formulaire** permettant la création d'une nouvelle action commerciale.
 
-<h3>S&eacute;lection automatique</h3>
-<p>Si vous choisissez de <strong>cr&eacute;er une s&eacute;lection automatique</strong>, vous serez redirig&eacute; vers un <strong>formulaire</strong> vous permettant de d&eacute;buter la cr&eacute;ation de la nouvelle s&eacute;lection.</p>
-<p>Une <strong>s&eacute;lection automatique</strong> cr&eacute;&eacute;e une action commerciale gr&acirc;ce aux <strong>crit&egrave;res d'appartenances</strong> (marque, r&eacute;f&eacute;rence...), ceci permet d'introduire tout les articles d'une m&ecirc;me famille (r&eacute;f&eacute;rence, marque...) dans une nouvelle s&eacute;lection.</p>
-<p><em>Par exemple</em>, en rentrant la marque Ferrero dans les conditions d'appartenance &agrave; l'op&eacute;ration, tout les produits Ferrero seront inclus dans une s&eacute;lection.</p>
-<p>Vous pouvez trouver les crit&egrave;res suivant dans un formulaire :</p>
-<ol>
-<li><strong>Code</strong> de la s&eacute;lection (r&eacute;f&eacute;rence),</li>
-<li>Le <strong>titre</strong>,</li>
-<li>Le <strong>groupe d'appartenance</strong> (publicit&eacute;, solde..),</li>
-<li>Le <strong>site e-commerce</strong> ou la vitrine se trouve,</li>
-<li><strong>L'URL personnalis&eacute;</strong> (optimisation de la recherche via les moteurs de recherche),</li>
-<li><strong>La fr&eacute;quence de mise &agrave; jour de la vitrine.</strong></li>
-<li><strong>Conditions d'appartenance</strong> &agrave; la vitrine.</li>
-</ol>
-<h3>Ajout d'un autre jeu de conditions</h3>
-<p>&nbsp;Vous pouvez aussi ajouter un autre jeu de condition ou une condition.</p>
+Afin de **créer** une opération commerciale via une sélection manuelle, vous devez rentrer un par un les articles que vous souhaitez mettre dans celle-ci.
 
+Pour cela, vous devez cliquer sur le lien " **Ajouter des produits** ".
 
-![edit-screenshotfionajoupilancom20150810144354](images/edit-screenshotfionajoupilancom20150810144354.png)
+Vous trouverez dans ce formulaire :
 
+1.  Le **code** de la sélection,
+2.  Son **titre**,
+3.  Son **groupe d'appartenance** (publicité, solde...),
+4.  Le **site e-commerce** sur lequel l'opération est publiée,
+5.  **URL personnalisé**,
+6.  **Ajout d'un article**,
+7.  **Barre déroulante** permettant des **actions** (suppression d'un article) ou des **modifications** (mise en avant...).
 
-<p>Le fait <strong>d'ajouter une condition va vous permettre de rajouter une ligne de crit&egrave;res</strong> qui vous permettront de <strong>rajouter un produit suppl&eacute;mentaire</strong> dans votre s&eacute;lection.</p>
-<p>Vous pouvez voir par exemple :</p>
-<ol>
-<li>Les <strong>crit&egrave;res d'appartenances</strong> (r&eacute;f&eacute;rences, disponibilit&eacute;, marque...),</li>
-<li><strong>L'op&eacute;ration</strong> (en stock, &eacute;gal...),</li>
-<li>La <strong>valeur du produit</strong>,</li>
-<li>Un <strong>bouton de suppression</strong> de la condition,</li>
-<li>Un <strong>bouton d'ajout</strong> d'une condition.</li>
-</ol>
-<blockquote>
-<p>A savoir : vous pouvez ajouter autant de ligne de condition que vous le souhaitez</p>
-</blockquote>
-<p>Les conditions vont&nbsp;vous permettre de <strong>choisir les produits que vous souhaitez mettre dans votre s&eacute;lection&nbsp;</strong>de fa&ccedil;on &agrave; ce que tout les articles, <em>par exemple</em>, d'une <strong>m&ecirc;me marque soit mis dans celle-ci</strong>.</p>
-<p>Un des crit&egrave;res les plus important correspond &agrave;<strong> ajouter un autre jeu de conditions</strong> (B), &ccedil;a va vous permettre de <strong>cr&eacute;er un nouveau bloc de crit&egrave;res d'appartenance</strong>. (A)</p>
-<p><em>Par exemple</em>, ceci vous permettra de varier votre s&eacute;lection avec des produits similaires mais de diff&eacute;rentes marques.</p>
-<p>&nbsp;Cet ajout vous permettra de cr&eacute;er de nouvelles conditions &agrave; la vitrine.</p>
-<p>Vous pouvez aussi supprimer un bloc de condition, pour cela cliquez sur " <strong>Supprimer le groupe</strong> ". (C)</p>
-<p>&nbsp;</p>
+### Ajout d'un article
 
+Pour ajouter un article à une sélection, cliquez sur le bouton : "**Ajouter des produits**".
+
+![selectionmanuelle-1png](images/selectionmanuelle-1png.png)
+
+**L'ajout d'un article** vous permet d'insérer un nouveau produit dans une **sélection déjà existante** ou en **cour de création**. (1)
+
+Vous pouvez aussi **retirer de la sélection** un article que vous ne souhaitez plus voir dans celle-ci, ou encore **modifier la pertinence de l'article** (mise en avant...). (2)
+
+> A savoir : Cette méthode s'applique uniquement pour une sélection manuelle ou déjà créée.
+
+Pour **ajouter un produit à une sélection**, vous disposez de plusieurs critères qui vous permettront d'insérer un article à une sélection.
+
+Pour trouver un produit que vous souhaitez mettre dans la sélection, vous devez mettre dans la sélection, vous devez rentrer les critères suivant dans la barre de recherche :
+
+1.  La **référence de l'article**,
+2.  Son **libellé**,
+3.  Sa **famille**,
+4.  Son **état** (en cour d'élaboration, validé...),
+5.  Ses **canaux de commercialisation** (sites e-commerces, magasins...).
+
+Afin de lancer la recherche, cliquez sur le bouton : **GO** (6)
+
+> A savoir : tout les critères ne sont pas obligatoires pour lancer une recherche.
+
+Les produits sont triés selon leur référence, chaque ligne représente un article issu de votre catalogue et vous donne accès à certaines informations :
+
+1.  Le **libellé de l'article**,
+2.  Sa **référence**,
+3.  Sa **famille**,
+4.  Son **canal** **de commercialisation** (site e-commerce, magasin...),
+5.  Sa **marque** (Ferrero, Haribo...).
+
+Pour ajouter un produit à votre sélection, **cochez la case** à gauche de l'article (F) puis cliquez sur **OK** sur le bas de la page (G) pour **valider l'ajout**.
+
+> A savoir : vous pouvez cochez plusieurs cases lorsque vous souhaitez ajouter plusieurs articles dans une sélection.
+> 
+> A savoir : dans la barre de recherche, vous pouvez mettre autant de référence que vous le souhaitez tant qu'elles sont séparées par un espacement.

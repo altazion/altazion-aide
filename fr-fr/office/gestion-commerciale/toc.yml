@@ -45,44 +45,40 @@
             href: catalogue/articles/ongletlogistique.md
           - name: Articles associés
             href: catalogue/articles/articlesassocier.md
-        - name: modifier
+        - name: Modifier
           href: catalogue/articles/modifier.md
           items:
-          - name: EditAssociations
-            href: catalogue/articles/EditAssociations.md
-          - name: EditECommerce
-            href: catalogue/articles/EditECommerce.md
-          - name: EditGeneral
+          - name: Nomenclature/infos générales
             href: catalogue/articles/EditGeneral.md
-          - name: EditLogistique
+          - name: Vente en ligne
+            href: catalogue/articles/EditECommerce.md
+          - name: Logistique
             href: catalogue/articles/EditLogistique.md
-          - name: EditPrix
+          - name: Prix
             href: catalogue/articles/EditPrix.md
+          - name: Produits associés
+            href: catalogue/articles/EditAssociations.md
     - name: Grilles de tarif
+      href: catalogue/grilledetarifs/index.md
       items:
-        - name: EditGrille
+        - name: Grilles "catalogue"
           href: catalogue/grilledetarifs/EditGrille.md
-        - name: index
-          href: catalogue/grilledetarifs/index.md
     - name: Sélections (vitrines)
+      href: catalogue/selections/index.md
       items:
-        - name: Edit
+        - name: Modifier
           href: catalogue/selections/Edit.md
-        - name: index
-          href: catalogue/selections/index.md
-        - name: selectionmanuelle
-          href: catalogue/selections/selectionmanuelle.md
-        - name: vosselection
-          href: catalogue/selections/vosselection.md
+        - name: Sélection automatique
+          href: catalogue/selections/selectionautomatique.md          
 - name: Commercial
   items:
-    - name: bonsdachats
+    - name: Bons d'achats
+      href: commercial/bonsdachats/index.md
       items:
         - name: EditBonAchat
           href: commercial/bonsdachats/EditBonAchat.md
-        - name: index
-          href: commercial/bonsdachats/index.md
-    - name: campagnes
+    - name: Campagnes
+      href: commercial/campagnes/index.md
       items:
         - name: CampagneGuid
           href: commercial/campagnes/CampagneGuid.md
@@ -100,8 +96,6 @@
           href: commercial/campagnes/EditPubBorne.md
         - name: EditXemeProduitOffert
           href: commercial/campagnes/EditXemeProduitOffert.md
-        - name: index
-          href: commercial/campagnes/index.md
         - name: NouvelleIntraSite
           href: commercial/campagnes/NouvelleIntraSite.md
     - name: coupons
