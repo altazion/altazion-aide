@@ -110,8 +110,8 @@
         - name: index
           href: commercial/DigitalSignage/index.md
     - name: Questionnaires
-      items:
       href: commercial/questionnaires/index.md
+      items:
         - name: Créer un questionnaire
           href: commercial/questionnaires/NouveauQuestionnaire.md
         - name: Modifier
