@@ -2,10 +2,9 @@
 
 **AVANT DE DÉCOLLER, DÉCOUVREZ VOTRE INTERFACE ALTAZION OFFICE**
 
-## QU'EST-CE QUE L'INTERFACE ?
+## QU'EST-CE QUE ALTAZION OFFICE ?
 
-_L'interface est le tableau de bord de votre module de gestion commerciale. C'est à partir de là que vous accédez à toutes les fonctionnalités d'Altazion Office._  
-_Depuis le Menu, recherchez rapidement un article et disposez d'un check-up des tâches à réaliser_
+_L'interface *Altazion Office* est le tableau de bord de votre module de gestion commerciale. C'est à partir de là que vous accédez à toutes les fonctionnalités de nos différents modules._  
 
 ![Prenez en mains votre interface](https://datasimplemente.blob.core.windows.net/aide/Tuto1%20Compress%C3%A9.gif)
 
