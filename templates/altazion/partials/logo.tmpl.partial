@@ -3,7 +3,29 @@
 <ul>
     <li class="title"><a href="/" ><img src="/logo.png" /></a></li>
     <li class="subtitle"><span>Aide</span></li>
-    <li class="item selected"><a href="https://aide.altazion.com">Utilisateurs</a></li>
-    <li class="item"><a href="https://www.altazion.dev">Développeurs</a></li>
-    <!--<li class="item"><a href="https://www.altazion-learning.com">e-learning</a></li>-->
+    <li class="item" id="lnkSiteAide"><a href="https://aide.altazion.com">Utilisateurs</a></li>
+    <li class="item" id="lnkSiteDev"><a href="https://www.altazion.dev">Développeurs</a></li>
+    <li class="item" id="lnkSiteLearning" style="display:none"><a href="https://www.altazion-learning.com">e-learning</a></li>
+    <li class="item" id="lnkSiteInterne" style="display:none"><a href="https://www.altazion-learning.com">e-learning</a></li>
 </ul>
+
+<script type="text/javascript">
+
+var loc = document.location.hostname;
+loc = loc.toLowerCase();
+
+if(loc == "aide.altazion.com")
+    lnkSiteAide.classList.add("selected");
+else if(loc == "www.altazion.dev") 
+    lnkSiteDev.classList.add("selected");
+else if(loc == "www.altazion-learning.com") {
+    lnkSiteLearning.style.display = null;
+    lnkSiteLearning.classList.add("selected");
+}
+else if(loc == "e-doc-dev.azurewebsites.net") {
+    lnkSiteInterne.style.display = null;
+    lnkSiteInterne.classList.add("selected");
+}
+
+</script>
+
