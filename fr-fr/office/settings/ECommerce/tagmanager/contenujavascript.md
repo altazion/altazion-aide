@@ -11,12 +11,10 @@ Si les remplacements automatiques ne sont pas suffisants, vous pouvez aussi ins�
 |ProductsList|Sur une descente produit, les produits affich&eacute;s sous la forme d'un array d'ArticleData|
 
 
-<h2>Panier</h2>
-<p>En utilisant la syntaxe E.Panier.Data, vous obtiendrez un objet javascript&nbsp;qui correspond &agrave; la structure :</p>
+## Panier
 
+En utilisant la syntaxe E.Panier.Data, vous obtiendrez un objet javascript qui correspond à la structure :
 
-<script src='https://gist.github.com/simplement-e/12e2b76d1ab6d5196bd0.js'></script>
-<h3>Exemple</h3>
 
 ```csharp
 class Panier
@@ -79,6 +77,9 @@ class ErreurPanier
 }
 ```
 
+### Exemple
+
+
 ```javascript
 // Récupère le montant TTC du panier
 var mntTTc = E.Panier.Data.MontantTTC;
@@ -90,8 +91,10 @@ else {
   var err = E.Panier.Data.ErreurPanier.Message;
 }
 ```
-<h2>Process de commande</h2>
-<p>A partir de la page panier et dans toutes les pages du process de commande, l'objet E.Process.Data est d&eacute;fini comme ceci :</p>
+
+## Process de commande
+
+A partir de la page panier et dans toutes les pages du process de commande, l'objet E.Process.Data est défini comme ceci :
 
 
 ```csharp
@@ -171,13 +174,12 @@ class PointLivraisonDetailProcess : PointLivraisonProcess
     string Commentaires { get; set; }
 }
 ```
+## Articles
 
-<h2>Articles</h2>
-<p>Vous pouvez r&eacute;cup&eacute;rer des informations&nbsp;sur les articles affich&eacute;s en utilisant :</p>
-<ul>
-<li>dans une page de descente produit E.ProductsList (vous obtiendrez alors un Array de la classe ci-dessous)</li>
-<li>dans une fiche produit via E.ProductDetails</li>
-</ul>
+Vous pouvez récupérer des informations sur les articles affichés en utilisant :
+
+*   dans une page de descente produit E.ProductsList (vous obtiendrez alors un Array de la classe ci-dessous)
+*   dans une fiche produit via E.ProductDetails
 
 
 ```csharp
