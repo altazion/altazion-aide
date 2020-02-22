@@ -4,17 +4,17 @@
   href: interface/index.md
   items:
   - name: Prendre en mains l'interface
-      href: interface/first-step-interface.md
+    href: interface/first-step-interface.md
   - name: Créer un compte utilisateur
-      href: interface/creer-compte.md
+    href: interface/creer-compte.md
   - name: Ajouter un groupe d'utilisateurs
-      href: interface/add-group.md
+    href: interface/add-group.md
   - name: Créer une tâche
-      href: interface/edit-tasks.md
+    href: interface/edit-tasks.md
   - name: Attribuer une tâche
-      href: interface/attribuer-task.md
+    href: interface/attribuer-task.md
   - name: Traiter une tâche
-      href: interface/use-tasks.md
+    href: interface/use-tasks.md
 - name: Vendre en ligne
   href: vente-online/index.md
 - name: Vendre en magasin
