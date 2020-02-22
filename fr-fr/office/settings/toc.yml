@@ -152,5 +152,4 @@
           href: VotreEntreprise/Users/NouvelUtilisateur.md
         - name: ReInitPassword
           href: VotreEntreprise/Users/ReInitPassword.md
-- name: Back-Office/Gestion commerciale
-  href: ../gestion-commerciale/
+          
