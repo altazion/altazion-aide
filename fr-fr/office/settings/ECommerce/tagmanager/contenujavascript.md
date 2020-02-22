@@ -1,7 +1,8 @@
 # Contenu Javascript
 
+Si les remplacements automatiques ne sont pas suffisants, vous pouvez aussi insérer tout code javascript nécessaire dans votre tag. Pour obtenir des informations concernant la navigation de l'utilisateur, vous pouvez utiliser l'object javascript E.
 
-Si les remplacements automatiques ne sont pas suffisants, vous pouvez aussi insérer tout code javascript nécessaire dans votre tag. Pour obtenir des informations concernant la navigation de l'utilisateur, vous pouvez utiliser l'object javascript E. Celui-ci contient des propriétés vous permettant de récupérer :
+Celui-ci contient des propriétés vous permettant de récupérer :
 
 |Objet|Contenu|
 |---|---|
@@ -10,11 +11,9 @@ Si les remplacements automatiques ne sont pas suffisants, vous pouvez aussi ins�
 |ProductDetails|Sur une fiche produit, les donn&eacute;es de l'article, sous la forme d'un ArticleData|
 |ProductsList|Sur une descente produit, les produits affich&eacute;s sous la forme d'un array d'ArticleData|
 
-
 ## Panier
 
 En utilisant la syntaxe E.Panier.Data, vous obtiendrez un objet javascript qui correspond à la structure :
-
 
 ```csharp
 class Panier
@@ -79,7 +78,6 @@ class ErreurPanier
 
 ### Exemple
 
-
 ```javascript
 // Récupère le montant TTC du panier
 var mntTTc = E.Panier.Data.MontantTTC;
@@ -95,7 +93,6 @@ else {
 ## Process de commande
 
 A partir de la page panier et dans toutes les pages du process de commande, l'objet E.Process.Data est défini comme ceci :
-
 
 ```csharp
 class ResumeProcess
@@ -174,13 +171,13 @@ class PointLivraisonDetailProcess : PointLivraisonProcess
     string Commentaires { get; set; }
 }
 ```
+
 ## Articles
 
 Vous pouvez récupérer des informations sur les articles affichés en utilisant :
 
-*   dans une page de descente produit E.ProductsList (vous obtiendrez alors un Array de la classe ci-dessous)
-*   dans une fiche produit via E.ProductDetails
-
+- dans une page de descente produit E.ProductsList (vous obtiendrez alors un Array de la classe ci-dessous)
+- dans une fiche produit via E.ProductDetails
 
 ```csharp
 class ArticleBase

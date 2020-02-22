@@ -1,49 +1,37 @@
-- name: catalogue
+- name: Catalogue
   items:
-    - name: articles
+    - name: Articles (options générales)
+      href: catalogue/articles/index.md         
+    - name: Associations
+      href: catalogue/associations/index.md
+    - name: Attributs personnalisés
+      href: catalogue/attributs/index.md
       items:
-        - name: index
-          href: catalogue/articles/index.md
-    - name: associations
-      items:
-        - name: index
-          href: catalogue/associations/index.md
-    - name: attributs
-      items:
-        - name: editattribut
+        - name: Edition
           href: catalogue/attributs/editattribut.md
-        - name: index
-          href: catalogue/attributs/index.md
-    - name: EvenementPersonnalise
-      items:
-        - name: evenementsPerso
-          href: catalogue/EvenementPersonnalise/evenementsPerso.md
+    - name: Evènements personnalisés
+      href: catalogue/EvenementPersonnalise/evenementsPerso.md
     - name: marques
+      href: catalogue/marques/index.md
       items:
-        - name: edit
+        - name: Edition
           href: catalogue/marques/edit.md
-        - name: index
-          href: catalogue/marques/index.md
     - name: Segmentation
+      href: catalogue/Segmentation/index.md
       items:
-        - name: Delete
-          href: catalogue/Segmentation/Delete.md
-        - name: edit
+        - name: Edition
           href: catalogue/Segmentation/edit.md
-        - name: index
-          href: catalogue/Segmentation/index.md
-    - name: typesarticles
+        - name: Suppression
+          href: catalogue/Segmentation/Delete.md
+    - name: Types d'articles
+      href: catalogue/typesarticles/index.md
       items:
-        - name: edit
+        - name: Edition
           href: catalogue/typesarticles/edit.md
-        - name: index
-          href: catalogue/typesarticles/index.md
-- name: commercial
+- name: Commercial
   items:
     - name: Newsletters
-      items:
-        - name: index
-          href: commercial/Newsletters/index.md
+      href: commercial/Newsletters/index.md
 - name: communication
   items:
     - name: mails
@@ -140,29 +128,29 @@
       items:
         - name: index
           href: VotreEntreprise/Message/index.md
-    - name: taxes
+    - name: Taxes
+      href: VotreEntreprise/taxes/index.md
       items:
-        - name: changevat
+        - name: Modifier la TVA
           href: VotreEntreprise/taxes/changevat.md
-        - name: index
-          href: VotreEntreprise/taxes/index.md
-    - name: Users
+    - name: Utilisateur & droits
+      href: VotreEntreprise/Users/index.md
       items:
-        - name: EditAutorisation
-          href: VotreEntreprise/Users/EditAutorisation.md
-        - name: EditUser
+        - name: Créer un utilisateur
+          href: VotreEntreprise/Users/nouveau.md
+        - name: Modifier
           href: VotreEntreprise/Users/EditUser.md
-        - name: index
-          href: VotreEntreprise/Users/index.md
+        - name: Modifier les droits
+          href: VotreEntreprise/Users/EditAutorisation.md
         - name: InteractionUtilisateur
           href: VotreEntreprise/Users/InteractionUtilisateur.md
         - name: licences
           href: VotreEntreprise/Users/licences.md
-        - name: nouveau
-          href: VotreEntreprise/Users/nouveau.md
         - name: NouveauGroupe
           href: VotreEntreprise/Users/NouveauGroupe.md
         - name: NouvelUtilisateur
           href: VotreEntreprise/Users/NouvelUtilisateur.md
         - name: ReInitPassword
           href: VotreEntreprise/Users/ReInitPassword.md
+- name: Back-Office/Gestion commerciale
+  href: ../gestion-commerciale/

@@ -19,3 +19,6 @@
       items:
         - name: Edition
           href: peripheriquemagasin/edit.md
+
+- name: Paramètres
+  href: ../settings/
