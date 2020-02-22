@@ -77,28 +77,34 @@
       items:
         - name: EditBonAchat
           href: commercial/bonsdachats/EditBonAchat.md
-    - name: Campagnes
+    - name: Opérations commerciales
       href: commercial/campagnes/index.md
       items:
-        - name: CampagneGuid
-          href: commercial/campagnes/CampagneGuid.md
-        - name: campagnes
+        - name: Campagnes
           href: commercial/campagnes/campagnes.md
-        - name: EditAvantageEComerce
-          href: commercial/campagnes/EditAvantageEComerce.md
-        - name: editcampagne
-          href: commercial/campagnes/editcampagne.md
-        - name: EditFraisPort
-          href: commercial/campagnes/EditFraisPort.md
-        - name: EditIntraSite
-          href: commercial/campagnes/EditIntraSite.md
-        - name: EditPubBorne
-          href: commercial/campagnes/EditPubBorne.md
-        - name: EditXemeProduitOffert
-          href: commercial/campagnes/EditXemeProduitOffert.md
-        - name: NouvelleIntraSite
-          href: commercial/campagnes/NouvelleIntraSite.md
-    - name: coupons
+          items:
+            - name: Edition
+              href: commercial/campagnes/editcampagne.md
+        - name: Promotions & avantages
+          items:
+          - name: Créer une promotion
+            href: commercial/campagnes/CampagneGuid.md
+          - name: Editer avantage générique
+            href: commercial/campagnes/EditAvantageEComerce.md
+          - name: Franco de port
+            href: commercial/campagnes/EditFraisPort.md
+          - name: Offrir le Xème produit
+            href: commercial/campagnes/EditXemeProduitOffert.md
+        - name: Publicités & animation visuelle
+          items:
+          - name: EditPubBorne
+            href: commercial/campagnes/EditPubBorne.md
+          - name: Bandeau du site e-commerce
+            href: commercial/campagnes/NouvelleIntraSite.md
+            items:
+            - name: Editer
+              href: commercial/campagnes/EditIntraSite.md
+    - name: Coupons
       href: commercial/coupons/index.md
       items:
         - name: Editer/Créer
@@ -106,9 +112,7 @@
         - name: Réactiver un coupon
           href: commercial/coupons/ReactiverCoupon.md
     - name: DigitalSignage
-      items:
-        - name: index
-          href: commercial/DigitalSignage/index.md
+      href: commercial/DigitalSignage/index.md
     - name: Questionnaires
       href: commercial/questionnaires/index.md
       items:
@@ -235,3 +239,5 @@
           href: ventes/commandes/origine.md
         - name: SaisieReglements
           href: ventes/commandes/SaisieReglements.md
+- name: Paramètres
+  href: ../settings/
