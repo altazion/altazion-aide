@@ -99,39 +99,36 @@
         - name: NouvelleIntraSite
           href: commercial/campagnes/NouvelleIntraSite.md
     - name: coupons
+      href: commercial/coupons/index.md
       items:
-        - name: EditCoupon
+        - name: Editer/Créer
           href: commercial/coupons/EditCoupon.md
-        - name: index
-          href: commercial/coupons/index.md
-        - name: ReactiverCoupon
+        - name: Réactiver un coupon
           href: commercial/coupons/ReactiverCoupon.md
     - name: DigitalSignage
       items:
         - name: index
           href: commercial/DigitalSignage/index.md
-    - name: questionnaires
+    - name: Questionnaires
+      href: commercial/questionnaires/index.md
       items:
-        - name: Details
-          href: commercial/questionnaires/Details.md
-        - name: EditBlocAvisProduits
-          href: commercial/questionnaires/EditBlocAvisProduits.md
-        - name: EditBlocHtml
-          href: commercial/questionnaires/EditBlocHtml.md
-        - name: EditBlocQcm
-          href: commercial/questionnaires/EditBlocQcm.md
-        - name: EditBlocTextBlock
-          href: commercial/questionnaires/EditBlocTextBlock.md
-        - name: EditQuestionnaire
-          href: commercial/questionnaires/EditQuestionnaire.md
-        - name: index
-          href: commercial/questionnaires/index.md
-        - name: NouveauQuestionnaire
+        - name: Créer un questionnaire
           href: commercial/questionnaires/NouveauQuestionnaire.md
+        - name: Modifier
+          href: commercial/questionnaires/EditQuestionnaire.md
+          items:
+          - name: Bloc rédactionnel
+            href: commercial/questionnaires/EditBlocHtml.md
+          - name: QCM
+            href: commercial/questionnaires/EditBlocQcm.md
+          - name: Question texte libre
+            href: commercial/questionnaires/EditBlocTextBlock.md
+          - name: Avis produits
+            href: commercial/questionnaires/EditBlocAvisProduits.md
+        - name: Statistiques
+          href: commercial/questionnaires/Details.md
 - name: Entreprise
-  items:
-    - name: index
-      href: entreprise/index.md
+  href: entreprise/index.md
 - name: Financier
   items:
     - name: DepotBanque
