@@ -59,10 +59,10 @@
           - name: Produits associés
             href: catalogue/articles/EditAssociations.md
     - name: Grilles de tarif
-      href: catalogue/grilledetarifs/index.md
+      href: catalogue/tarifs/index.md
       items:
         - name: Grilles "catalogue"
-          href: catalogue/grilledetarifs/EditGrille.md
+          href: catalogue/tarifs/EditGrille.md
     - name: Sélections (vitrines)
       href: catalogue/selections/index.md
       items:
@@ -135,20 +135,18 @@
   href: entreprise/index.md
 - name: Financier
   items:
-    - name: DepotBanque
+    - name: Remise en banque
+      href: Financier/DepotBanque/index.md
       items:
-        - name: EditionDepot
-          href: Financier/DepotBanque/EditionDepot.md
-        - name: index
-          href: Financier/DepotBanque/index.md
-        - name: NouveauDepot
+        - name: Créer
           href: Financier/DepotBanque/NouveauDepot.md
-    - name: Remboursement
+        - name: Editer
+          href: Financier/DepotBanque/EditionDepot.md    
+    - name: Centre de remboursements
+      href: Financier/Remboursements/index.md
       items:
-        - name: index
-          href: Financier/Remboursement/index.md
-        - name: rbstbasique
-          href: Financier/Remboursement/rbstbasique.md
+        - name: Remboursement e-commerce
+          href: Financier/Remboursements/rbstbasique.md
 - name: Internet
   items:
     - name: abonnésnewsletters
