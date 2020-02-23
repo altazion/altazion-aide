@@ -3,44 +3,55 @@
 
 ![index-screenshotdemosimplementecom20150806145938](images/index-screenshotdemosimplementecom20150806145938.png)
 
+L'écran de configuration des newsletters vous permet de **gérer vos différents bulletins d'information.**
 
-<p>L'&eacute;cran de configuration des newsletters&nbsp;vous permet de <strong>g&eacute;rer vos diff&eacute;rents bulletins d'information.</strong></p>
-<p>Dans cette page, vous trouverez <strong>l'ensemble de vos newsletters actives</strong>.</p>
-<p>Vous pouvez voir :</p>
-<ol>
-<li>Le <strong>libell&eacute;</strong> de la newsletter,</li>
-<li>Une coche pr&eacute;cisant s'il est <strong>possible de se d&eacute;sabonner</strong>,</li>
-<li>une coche&nbsp;d&eacute;finissant si <strong>l'abonnement est automatique&nbsp;pour les clients</strong>.</li>
-</ol>
-<blockquote>
-<p>Attention, ce principe d'opt-out actif ne peut &ecirc;tre utilis&eacute; que sous certaines conditions pr&eacute;cis&eacute;es dans l'article <a href="http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=CC4017ADEF5861BF009DFD5C31A036CF.tpdjo07v_3?idArticle=LEGIARTI000024506081&amp;cidTexte=LEGITEXT000006070987&amp;dateTexte=20120104" target="_blank">34-5 du code des postes et t&eacute;l&eacute;communications</a></p>
-</blockquote>
-<p>Pour supprimer une newsletter, cliquez sur "<strong>Supprimer</strong>".</p>
-<h3>ACTION</h3>
-<p>La&nbsp;<strong>commande d'action&nbsp;</strong>que vous pouvez apercevoir pr&egrave;s du titre, correspond au menu de commande.<br />Il vous&nbsp;permet d'acc&eacute;der &agrave; diff&eacute;rentes actions qui vous permettront de g&eacute;rer vos articles.</p>
-<p><em>Exemple&nbsp;</em>de commande dont vous pouvez disposer :</p>
+Dans cette page, vous trouverez **l'ensemble de vos newsletters actives**.
+
+Vous pouvez voir :
+
+1.  Le **libellé** de la newsletter,
+2.  Une coche précisant s'il est **possible de se désabonner**,
+3.  une coche définissant si **l'abonnement est automatique pour les clients**.
+
+> Attention, ce principe d'opt-out actif ne peut être utilisé que sous certaines conditions précisées dans l'article [34-5 du code des postes et télécommunications](http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=CC4017ADEF5861BF009DFD5C31A036CF.tpdjo07v_3?idArticle=LEGIARTI000024506081&cidTexte=LEGITEXT000006070987&dateTexte=20120104)
+
+Pour supprimer une newsletter, cliquez sur "**Supprimer**".
+
+### ACTION
+
+La **commande d'action **que vous pouvez apercevoir près du titre, correspond au menu de commande.  
+Il vous permet d'accéder à différentes actions qui vous permettront de gérer vos articles.
+
+_Exemple _de commande dont vous pouvez disposer :
+
 <table>
-<tbody>
-<tr>
-<td><strong>Nouvelle newsletter&nbsp;</strong></td>
-<td>&nbsp;Cette action permet de cr&eacute;er une nouvelle newsletter&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<h3>Nouvelle newsletter</h3>
 
+<tbody>
+
+<tr>
+
+<td>**Nouvelle newsletter **</td>
+
+<td> Cette action permet de créer une nouvelle newsletter </td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### Nouvelle newsletter
 
 ![index-2](images/index-2.png)
 
+Ce pop-up vous permet de **créer une nouvelle newsletter**.
 
-<p>Ce&nbsp;pop-up&nbsp;vous permet de&nbsp;<strong>cr&eacute;er une nouvelle newsletter</strong>.</p>
-<p>Pour acc&eacute;der &agrave; ce pop-up, vous devez cliquer sur le <strong>menu d'action</strong>&nbsp;<strong>&gt; Nouvelle newsletter</strong>.</p>
-<p>Afin de cr&eacute;er votre nouvel &eacute;v&eacute;nement, remplissez les donn&eacute;es suivantes :</p>
-<ol type="a">
-<li>Le <strong>libell&eacute;</strong> de la nouvelle newsletter,</li>
-<li>D&eacute;cochez cette case si le <strong>d&eacute;sabonnement &agrave;&nbsp;cette newsletter ne peut &ecirc;tre r&eacute;alis&eacute;&nbsp;sur votre site</strong> (par exemple l'inscription &agrave; une newsletter d'un partenaire).</li>
-<li>Cochez cette case si <strong>l'abonnement est automatique pour vos clients</strong></li>
-</ol>
-<p>Pour terminer votre cr&eacute;ation, cliquez sur "<strong>Ins&eacute;rer</strong>", la nouvelle newsletter se joindra &agrave; celles d&eacute;j&agrave; cr&eacute;&eacute;es.</p>
-<p>&nbsp;</p>
+Pour accéder à ce pop-up, vous devez cliquer sur le **menu d'action** **> Nouvelle newsletter**.
 
+Afin de créer votre nouvel événement, remplissez les données suivantes :
+
+1.  Le **libellé** de la nouvelle newsletter,
+2.  Décochez cette case si le **désabonnement à cette newsletter ne peut être réalisé sur votre site** (par exemple l'inscription à une newsletter d'un partenaire).
+3.  Cochez cette case si **l'abonnement est automatique pour vos clients**
+
+Pour terminer votre création, cliquez sur "**Insérer**", la nouvelle newsletter se joindra à celles déjà créées.

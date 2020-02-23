@@ -1,9 +1,7 @@
 # Nouveau
 
+![Nouveau](images/nouveau-screenshotdemosimplementecom20150806110947.png)
 
-![nouveau-screenshotdemosimplementecom20150806110947](images/nouveau-screenshotdemosimplementecom20150806110947.png)
+Ce menu d'action permet de **créer** un **nouveau utilisateur** ou un **nouveau groupe**.
 
-
-<p>Ce menu d'action permet de <strong>cr&eacute;er</strong> un <strong>nouveau utilisateur</strong> ou un <strong>nouveau groupe</strong>.</p>
-<p>En cliquant sur le <strong>menu d'action</strong>&nbsp;pr&egrave;s du libell&eacute;, vous aurez acc&egrave;s aux th&egrave;mes ci-dessous.</p>
-
+En cliquant sur le **menu d'action** près du libellé, vous aurez accès aux thèmes ci-dessous.

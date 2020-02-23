@@ -3,11 +3,14 @@
 
 ![index-1](images/index-1.jpg)
 
+Cette page vous permet de **visualiser toutes les options liées à vos e-mails**.
 
-<p>Cette page vous permet de <strong>visualiser toutes les options li&eacute;es &agrave; vos e-mails</strong>.</p>
-<p>Cet &eacute;cran de configuration vous permet de <strong>tracer des mails</strong> en les enregistrants dans votre base de donn&eacute;e.</p>
-<p>Pour cela, vous disposez de deux crit&egrave;res de tra&ccedil;ages :</p>
-<p style="padding-left: 30px;">-&nbsp;D'un <strong>enregistrement des mails automatiques sortant</strong>,</p>
-<p style="padding-left: 30px;">- D'un<strong> enregistrement des mails sortant envoy&eacute;s de votre gestion commerciale</strong>.</p>
-<p>Pour activer ces enregistrement, il vous suffit de <strong>cocher les cases</strong>.</p>
+Cet écran de configuration vous permet de **tracer des mails** en les enregistrants dans votre base de donnée.
 
+Pour cela, vous disposez de deux critères de traçages :
+
+- D'un **enregistrement des mails automatiques sortant**,
+
+- D'un **enregistrement des mails sortant envoyés de votre gestion commerciale**.
+
+Pour activer ces enregistrement, il vous suffit de **cocher les cases**.
