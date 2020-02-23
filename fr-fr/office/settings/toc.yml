@@ -139,13 +139,11 @@
           href: Systeme/Users/NouvelUtilisateur.md
         - name: ReInitPassword
           href: Systeme/Users/ReInitPassword.md
-      - name: Tâches
-          href: index.md
-          items:
-            - name: Modifier
-              href: Systeme/todos/changetodo.md
-      - name: Licences
-        items:
-        - name: index
-          href: Administration/Licences/index.md
+    - name: Tâches
+      href: Systeme/todos/index.md
+      items:
+        - name: Définir les destinataires
+          href: Systeme/todos/changetodo.md
+    - name: Licences
+      href: Administration/Licences/index.md
                       
