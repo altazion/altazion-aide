@@ -175,24 +175,20 @@
           href: Litiges/Litiges/View.md
 - name: Logistique
   items:
-    - name: SaisiedePreparation
+    - name: Saisie de préparation
+      href: Logistique/Preparation/index.md
       items:
-        - name: index
-          href: Logistique/SaisiedePreparation/index.md
-        - name: saisieprepaexterne
-          href: Logistique/SaisiedePreparation/saisieprepaexterne.md
+        - name: Saisie préparation externe
+          href: Logistique/Preparation/saisieprepaexterne.md
     - name: Stocks
-      items:
-        - name: index
-          href: Logistique/Stocks/index.md
+      href: Logistique/Stocks/index.md
 - name: Ventes
   items:
-    - name: clients
+    - name: Clients
+      href: ventes/clients/index.md
       items:
-        - name: editinfogenerales
+        - name: Edition infos générales
           href: ventes/clients/editinfogenerales.md
-        - name: index
-          href: ventes/clients/index.md
     - name: Commandes
       href: ventes/commandes/index.md
       items:

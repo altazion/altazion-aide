@@ -28,21 +28,25 @@
       items:
         - name: Edition
           href: catalogue/typesarticles/edit.md
+    - name: Taxes
+      href: Entreprise/taxes/index.md
+      items:
+        - name: Modifier la TVA
+          href: Entreprise/taxes/changevat.md
 - name: Commercial
   items:
     - name: Newsletters
       href: commercial/Newsletters/index.md
 - name: communication
   items:
-    - name: mails
+    - name: E-Mails
       items:
-        - name: comptes
+        - name: Comptes
           href: communication/mails/comptes.md
-        - name: EditCompteSend
-          href: communication/mails/EditCompteSend.md
-    - name: optionemail
-      items:
-        - name: index
+          items:
+          - name: Modifier
+            href: communication/mails/EditCompteSend.md
+        - name: Options Générales
           href: communication/optionemail/index.md
 - name: ECommerce
   items:
@@ -106,50 +110,42 @@
   items:
     - name: rails
       href: processus/rails.md
-- name: Tâches
+- name: Votre Entreprise
   items:
-    - name: todos
-      items:
-        - name: changetodo
-          href: Tâches/todos/changetodo.md
-        - name: index
-          href: Tâches/todos/index.md
-- name: VotreEntreprise
-  items:
-    - name: features
+    - name: Fonctionnalités
       items:
         - name: index
-          href: VotreEntreprise/features/index.md
-    - name: Licences
-      items:
-        - name: index
-          href: VotreEntreprise/Licences/index.md
+          href: Systeme/features/index.md
     - name: Message
       items:
         - name: index
           href: VotreEntreprise/Message/index.md
-    - name: Taxes
-      href: VotreEntreprise/taxes/index.md
-      items:
-        - name: Modifier la TVA
-          href: VotreEntreprise/taxes/changevat.md
     - name: Utilisateur & droits
-      href: VotreEntreprise/Users/index.md
+      href: Systeme/Users/index.md
       items:
         - name: Créer un utilisateur
-          href: VotreEntreprise/Users/nouveau.md
+          href: Systeme/Users/nouveau.md
         - name: Modifier
-          href: VotreEntreprise/Users/EditUser.md
+          href: Systeme/Users/EditUser.md
         - name: Modifier les droits
-          href: VotreEntreprise/Users/EditAutorisation.md
+          href: Systeme/Users/EditAutorisation.md
         - name: InteractionUtilisateur
-          href: VotreEntreprise/Users/InteractionUtilisateur.md
+          href: Systeme/Users/InteractionUtilisateur.md
         - name: licences
-          href: VotreEntreprise/Users/licences.md
+          href: Systeme/Users/licences.md
         - name: NouveauGroupe
-          href: VotreEntreprise/Users/NouveauGroupe.md
+          href: Systeme/Users/NouveauGroupe.md
         - name: NouvelUtilisateur
-          href: VotreEntreprise/Users/NouvelUtilisateur.md
+          href: Systeme/Users/NouvelUtilisateur.md
         - name: ReInitPassword
-          href: VotreEntreprise/Users/ReInitPassword.md
-          
+          href: Systeme/Users/ReInitPassword.md
+      - name: Tâches
+          href: index.md
+          items:
+            - name: Modifier
+              href: Systeme/todos/changetodo.md
+      - name: Licences
+        items:
+        - name: index
+          href: Administration/Licences/index.md
+                      
