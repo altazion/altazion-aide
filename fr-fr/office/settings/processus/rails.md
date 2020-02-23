@@ -1,28 +1,26 @@
 # Rails
 
 
-<h2>Libell&eacute;s rails</h2>
-<p>Les libell&eacute;s de rails sont les noms des diff&eacute;rentes &eacute;tapes d'un process et peuvent &ecirc;tre modifi&eacute;s dans l'outil de gestion.</p>
+## Libellés rails
 
+Les libellés de rails sont les noms des différentes étapes d'un process et peuvent être modifiés dans l'outil de gestion.
 
 ![rails-libelle0](images/rails-libelle0.png)
 
+Cette page vous permet de visualiser l'ensemble des libellés affichés par type de rails et par origines.
 
-<p>Cette page vous permet de visualiser l'ensemble des libell&eacute;s affich&eacute;s par type de rails et par origines.</p>
-<p>Pour chaque origine, vous pouvez modifier les libell&eacute;s ind&eacute;pendamment des autres en cliquant sur le bouton "<strong>Modifier</strong>".</p>
-
+Pour chaque origine, vous pouvez modifier les libellés indépendamment des autres en cliquant sur le bouton "**Modifier**".
 
 ![rails-libelleedit](images/rails-libelleedit.png)
 
+La page d'édition vous permet de changer les noms des différents libellés et de leur attribuer un nom simplifié pour certains affichages.
 
-<p>La page d'&eacute;dition vous permet de changer les noms des diff&eacute;rents libell&eacute;s et de leur attribuer un nom simplifi&eacute; pour certains affichages.</p>
-<p>Les termes des libell&eacute;s appliqu&eacute;s par d&eacute;faut sont affich&eacute;s en masque&nbsp;dans les zones de saisie.</p>
-<p>Vous pouvez &eacute;galement modifier les libell&eacute;s dans d'autre langue, pour cela il vous suffie de s&eacute;lectionner la langue voulue et de cliquer sur le bouton "<strong>Ajouter</strong>".&nbsp;</p>
-<p>Pour finaliser vos modifications, cliquez sur "<strong>Enregistrer</strong>". <em>(Les libell&eacute;s modifi&eacute;s seront enregistr&eacute; dans la table 'sysparams_libellesrails')</em></p>
+Les termes des libellés appliqués par défaut sont affichés en masque dans les zones de saisie.
 
+Vous pouvez également modifier les libellés dans d'autre langue, pour cela il vous suffit de sélectionner la langue voulue et de cliquer sur le bouton "**Ajouter**". 
+
+Pour finaliser vos modifications, cliquez sur "**Enregistrer**". _(Les libellés modifiés seront enregistré dans la table 'sysparams_libellesrails')_
 
 ![rails-libelle1](images/rails-libelle1.png)
 
-
-<p>Une fois enregistr&eacute;, les nouveaux libell&eacute;s sont affich&eacute; &agrave; la place de ceux par defaut.</p>
-
+Une fois enregistrés, les nouveaux libellés sont affiché à la place de ceux par défaut.

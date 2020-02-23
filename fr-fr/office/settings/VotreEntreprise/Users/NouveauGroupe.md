@@ -3,7 +3,6 @@
 
 ![nouveaugroupe-5](images/nouveaugroupe-5.png)
 
+Cet écran vous permet de **créer un nouveau groupe**.
 
-<p>Cet &eacute;cran vous permet de <strong>cr&eacute;er un nouveau groupe</strong>.</p>
-<p>Pour cela, vous devez rentrer le <strong>libell&eacute;</strong> que vous souhaitez lui donner puis cliquez sur le bouton bleu "<strong>Enregistrer</strong>".</p>
-
+Pour cela, vous devez rentrer le **libellé** que vous souhaitez lui donner puis cliquez sur le bouton bleu "**Enregistrer**".

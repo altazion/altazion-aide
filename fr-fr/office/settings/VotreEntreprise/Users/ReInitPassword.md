@@ -3,14 +3,13 @@
 
 ![reinitpassword-21](images/reinitpassword-21.png)
 
+Cette page vous permet de **modifier le mot de passe d'un utilisateur**.
 
-<p>Cette page vous permet de<strong> modifier le mot de passe d'un utilisateur</strong>.</p>
-<p>Pour acc&eacute;der &agrave; ce formulaire, il vous suffit de cliquez sur le <strong>menu d'action</strong> <strong>&gt;RE-INIT MOT DE PASSE.</strong></p>
-<p>Vous verrez :</p>
-<ol>
-<li>Emplacement pour <strong>saisir votre nouveau mot de passe</strong>,</li>
-<li><strong>Confirmation de ce mot de passe</strong>.</li>
-</ol>
-<p>Lorsque vous aurez terminer la saisie de votre nouveau mot de passe, cliquez sur <strong>Enregistrer</strong>.</p>
-<p>&nbsp;</p>
+Pour accéder à ce formulaire, il vous suffit de cliquez sur le **menu d'action** **>RE-INIT MOT DE PASSE.**
 
+Vous verrez :
+
+1.  Emplacement pour **saisir votre nouveau mot de passe**,
+2.  **Confirmation de ce mot de passe**.
+
+Lorsque vous aurez terminer la saisie de votre nouveau mot de passe, cliquez sur **Enregistrer**.
