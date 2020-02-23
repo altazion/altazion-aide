@@ -12,17 +12,17 @@
 - name: Achats & charges
   items:
     - name: Catalogue Fournisseur
-      href: achats/cataloguefournisseur/index.md
+      href: achats/Fournisseurs/catalogue.md
       items:
         - name: Détails
-          href: achats/cataloguefournisseur/dossierarticlefournisseur.md
+          href: achats/Fournisseurs/dossierarticlefournisseur.md
         - name: Intégrer un article
-          href: achats/cataloguefournisseur/integrerarticle.md
+          href: achats/Fournisseurs/integrerarticle.md
     - name: Commandes Fournisseurs
-      href: achats/commandesfournisseurs/index.md
+      href: achats/Commandes/index.md
       items:
         - name: formualiredecommandefournisseur
-          href: achats/commandesfournisseurs/formualiredecommandefournisseur.md
+          href: achats/Commandes/edit.md
 - name: Catalogue
   items:
     - name: Articles
@@ -88,22 +88,22 @@
         - name: Promotions & avantages
           items:
           - name: Créer une promotion
-            href: commercial/campagnes/CampagneGuid.md
+            href: commercial/campagnes/creeropecom.md
           - name: Editer avantage générique
-            href: commercial/campagnes/EditAvantageEComerce.md
+            href: commercial/campagnes/opecom/EditAvantageEComerce.md
           - name: Franco de port
-            href: commercial/campagnes/EditFraisPort.md
+            href: commercial/campagnes/opecom/EditFrancoPort.md
           - name: Offrir le Xème produit
-            href: commercial/campagnes/EditXemeProduitOffert.md
+            href: commercial/campagnes/opecom/EditXemeProduitOffert.md
         - name: Publicités & animation visuelle
           items:
           - name: EditPubBorne
-            href: commercial/campagnes/EditPubBorne.md
+            href: commercial/campagnes/publicite/ecommerce/EditBornes.md
           - name: Bandeau du site e-commerce
-            href: commercial/campagnes/NouvelleIntraSite.md
+            href: commercial/campagnes/publicite/ecommerce/NouvelleIntraSite.md
             items:
             - name: Editer
-              href: commercial/campagnes/EditIntraSite.md
+              href: commercial/campagnes/publicite/ecommerce/EditIntraSite.md
     - name: Coupons
       href: commercial/coupons/index.md
       items:
