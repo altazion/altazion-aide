@@ -146,7 +146,7 @@
       href: Financier/Remboursements/index.md
       items:
         - name: Remboursement e-commerce
-          href: Financier/Remboursements/rbstbasique.md
+          href: Financier/Remboursements/ecommerce/rbstbasique.md
 - name: Internet
   items:
     - name: abonnésnewsletters
