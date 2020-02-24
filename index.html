@@ -5,11 +5,11 @@
 <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-17974923-7"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-  
-      gtag('config', 'UA-17974923-7');
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-17974923-7');
     </script>
     <meta charset="UTF-8">
 
@@ -18,128 +18,130 @@
     <link href="https://fonts.googleapis.com/css?family=Exo:300,400" rel="stylesheet">
     <link href="aide.css" rel="stylesheet">
     <style>
+        .main-header {
 
-       
-    .main-header {
+            background: url(fond-vaisseau.jpg) no-repeat center center;
 
-        background:url(fond-vaisseau.jpg) no-repeat center center;
-
-        background-size:cover;
-    }
+            background-size: cover;
+        }
 
         .main-header .fond {
-            height:400px;
-            margin:0;
-            padding:0;
+            height: 400px;
+            margin: 0;
+            padding: 0;
         }
-    
 
-     .main-header .vaisseau {
 
-         background:url(vaisseau.png) no-repeat center center;
-         height:400px;
+        .main-header .vaisseau {
 
-    }
+            background: url(vaisseau.png) no-repeat center center;
+            height: 400px;
 
-        
+        }
 
-.searchbox {
-    background: #ffffff;
-    width: 600px;
-    position: absolute;
-    top: 360px;
-    left: 50%;
-    margin-left: -300px;
-    border-radius: 20px;
-}
 
-        
-        .searchbox svg { width:70% }
 
-#searchBox {
-    border: none;
-    margin: 0 30px 0 30px;
-    padding: 10px;
-    vertical-align: middle;
-    font-size: 24px;
-    width: 475px;
-}
+        .searchbox {
+            background: #ffffff;
+            width: 600px;
+            position: absolute;
+            top: 360px;
+            left: 50%;
+            margin-left: -300px;
+            border-radius: 20px;
+        }
 
-        
+
+        .searchbox svg {
+            width: 70%
+        }
+
+        #searchBox {
+            border: none;
+            margin: 0 30px 0 30px;
+            padding: 10px;
+            vertical-align: middle;
+            font-size: 24px;
+            width: 475px;
+        }
+
+
         #searchButton {
-            
+
             background: #efefef;
             border: none;
             margin: 0 0 1 0;
             vertical-align: middle;
             border-radius: 0 20px 20px 0;
-            width:60px;
+            width: 60px;
 
         }
-        
-.searchbox ::placeholder, .searchbox :placeholder  {
-    font-size:smaller; 
-    vertical-align:text-bottom;
-    color: #b7b7b7;
-}        
-        
+
+        .searchbox ::placeholder,
+        .searchbox :placeholder {
+            font-size: smaller;
+            vertical-align: text-bottom;
+            color: #b7b7b7;
+        }
     </style>
 
-<style>
-    a {
-        color:#292929;
-        text-decoration: none;
-    }
-    
+    <style>
+        a {
+            color: #292929;
+            text-decoration: none;
+        }
+
         div.items {
-            margin:0 -10px;
-            padding:0;
+            margin: 0 -10px;
+            padding: 0;
             vertical-align: top;
-            display:flex;
+            display: flex;
         }
-        
+
         div.items ul {
-            padding-left:20px;
+            padding-left: 20px;
         }
-    
+
         div.items .item {
-            margin:10px 6px;
+            margin: 10px 6px;
             width: calc(33% - 14px);
         }
-    
+
         div.header {
-            margin:0; padding:0;
+            margin: 0;
+            padding: 0;
         }
-    
-    div.header .title {
-        font-size:24px;
-        display: block;
-    }
-    
-    div.header .desc {
-        font-size:16px;
-        display: block;
-        font-weight: 100;
-    }
-    
+
+        div.header .title {
+            font-size: 24px;
+            display: block;
+        }
+
+        div.header .desc {
+            font-size: 16px;
+            display: block;
+            font-weight: 100;
+        }
+
         div.header a {
-            color:aliceblue;
-            text-decoration: none;    
-            display:block;    
+            color: aliceblue;
+            text-decoration: none;
+            display: block;
             height: 70px;
-            padding:20px 10px 10px 10px;
+            padding: 20px 10px 10px 10px;
         }
-    
+
         div.header.altazion-commerce {
-            background:#36274c;
+            background: #36274c;
         }
+
         div.header.altazion-office {
-            background:#e1465b;
+            background: #e1465b;
         }
+
         div.header.altazion-signage {
-            background:#646B7B;
+            background: #646B7B;
         }
-        
     </style>
 
 </head>
@@ -150,39 +152,53 @@
 
     <div class="pageHeader">
 
-        
+
         <div class="container">
             <ul>
-                <li class="title"><a href="/" ><img src="https://aide.altazion.com/logo.png" /></a></li>
+                <li class="title"><a href="/"><img src="https://aide.altazion.com/logo.png" /></a></li>
                 <li class="subtitle"><span>Aide</span></li>
                 <li class="item" id="lnkSiteAide"><a href="https://aide.altazion.com">Utilisateurs</a></li>
                 <li class="item" id="lnkSiteDev"><a href="https://www.altazion.dev">Développeurs</a></li>
-                <li class="item" id="lnkSiteLearning" style="display:none"><a href="https://www.altazion-learning.com">e-learning</a></li>
-                <li class="item" id="lnkSiteInterne" style="display:none"><a href="https://e-doc-dev.azurewebsites.net">doc interne</a></li>
+                <li class="item" id="lnkSiteInterne" style="display:none"><a
+                    href="https://e-doc-dev.azurewebsites.net">Doc interne</a></li>
+                <li class="item" id="lnkSiteLearning" style="display:none"><a
+                        href="https://www.altazion-learning.com">e-learning</a></li>
             </ul>
-            
+
             <script type="text/javascript">
-            
-            var loc = document.location.hostname;
-            loc = loc.toLowerCase();
-            
-            if(loc == "aide.altazion.com")
-                lnkSiteAide.classList.add("selected");
-            else if(loc == "www.altazion.dev") 
-                lnkSiteDev.classList.add("selected");
-            else if(loc == "www.altazion-learning.com") {
-                lnkSiteLearning.style.display = null;
-                lnkSiteLearning.classList.add("selected");
-            }
-            else if(loc == "e-doc-dev.azurewebsites.net") {
-                lnkSiteInterne.style.display = null;
-                lnkSiteInterne.classList.add("selected");
-            }
-            
+
+                function checkAndActivate(domain, ctl) {
+                    fetch("https://" + domain).then(function (data) {
+                        ctl.style.display = null;
+                    }).catch(function (e) {
+                        return;
+                    });
+                }
+
+                var loc = document.location.hostname;
+                loc = loc.toLowerCase();
+
+                if (loc == "aide.altazion.com") {
+                    lnkSiteAide.classList.add("selected");
+                }
+                else if (loc == "www.altazion.dev")
+                    lnkSiteDev.classList.add("selected");
+                else if (loc == "www.altazion-learning.com") {
+                    lnkSiteLearning.style.display = null;
+                    lnkSiteLearning.classList.add("selected");
+                }
+                else if (loc == "e-doc-dev.azurewebsites.net") {
+                    lnkSiteInterne.style.display = null;
+                    lnkSiteInterne.classList.add("selected");
+                }
+
+                checkAndActivate("www.altazion-learning.com", lnkSiteLearning);
+                checkAndActivate("e-doc-dev.azurewebsites.net", lnkSiteInterne);
+
             </script>
-                
+
         </div>
-    
+
     </div>
 
     <header class="main-header">
@@ -192,7 +208,22 @@
                 <div class="searchbox">
                     <input type='text' id='searchBox' placeholder="Recherchez dans la documentation" />
                     <button id="searchButton">
-                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" viewBox="0 0 48 48" width="48" height="48"><title>Exported from Streamline App (https://app.streamlineicons.com)</title><g transform="matrix(2,0,0,2,0,0)"><path d="M 12,0.75c6.213,0,11.25,5.037,11.25,11.25S18.213,23.25,12,23.25S0.75,18.213,0.75,12S5.787,0.75,12,0.75z " stroke="#494949" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M 11.125,6.75c2.416,0,4.375,1.959,4.375,4.375S13.541,15.5,11.125,15.5S6.75,13.541,6.75,11.125S8.709,6.75,11.125,6.75z " stroke="#494949" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M 14.219,14.218l3.031,3.032" stroke="#494949" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xmlns:svgjs="http://svgjs.com/svgjs" viewBox="0 0 48 48" width="48" height="48">
+                            <title>Exported from Streamline App (https://app.streamlineicons.com)</title>
+                            <g transform="matrix(2,0,0,2,0,0)">
+                                <path
+                                    d="M 12,0.75c6.213,0,11.25,5.037,11.25,11.25S18.213,23.25,12,23.25S0.75,18.213,0.75,12S5.787,0.75,12,0.75z "
+                                    stroke="#494949" fill="none" stroke-width="1.5" stroke-linecap="round"
+                                    stroke-linejoin="round"></path>
+                                <path
+                                    d="M 11.125,6.75c2.416,0,4.375,1.959,4.375,4.375S13.541,15.5,11.125,15.5S6.75,13.541,6.75,11.125S8.709,6.75,11.125,6.75z "
+                                    stroke="#494949" fill="none" stroke-width="1.5" stroke-linecap="round"
+                                    stroke-linejoin="round"></path>
+                                <path d="M 14.219,14.218l3.031,3.032" stroke="#494949" fill="none" stroke-width="1.5"
+                                    stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                        </svg>
                     </button>
                 </div>
             </div>
@@ -203,11 +234,11 @@
 
         <div class="container">
 
-          
 
-    
-    <div class="items">
-        <!-- <div class="item">
+
+
+            <div class="items">
+                <!-- <div class="item">
             <div class="header altazion-commerce"><a href="/ecommerce/">
                 <h2><span class="title">Altazion</span><span class="desc">Commerce</span></h2></a>
             </div>
@@ -226,15 +257,17 @@
                 <li><a href="/signage/">Présentation du module</a></li>
             </ul>
         </div> -->
-        <div class="item">
-            <div class="header altazion-office">
-                <a href="/fr-fr/office/"><h2><span class="title">Altazion</span><span class="desc">Office</span></h2></a>
+                <div class="item">
+                    <div class="header altazion-office">
+                        <a href="/fr-fr/office/">
+                            <h2><span class="title">Altazion</span><span class="desc">Office</span></h2>
+                        </a>
+                    </div>
+                    <ul>
+                        <li><a href="/fr-fr/office/">Découvrez Office</a></li>
+                    </ul>
+                </div>
             </div>
-            <ul>
-                <li><a href="/fr-fr/office/">Découvrez Office</a></li>
-            </ul>
-        </div>
-    </div>
 
         </div>
 

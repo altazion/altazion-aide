@@ -1,32 +1,44 @@
 {{!Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. See LICENSE file in the project root for full license information.}}
 
 <ul>
-    <li class="title"><a href="/" ><img src="https://aide.altazion.com/logo.png" /></a></li>
+    <li class="title"><a href="/"><img src="https://aide.altazion.com/logo.png" /></a></li>
     <li class="subtitle"><span>Aide</span></li>
     <li class="item" id="lnkSiteAide"><a href="https://aide.altazion.com">Utilisateurs</a></li>
     <li class="item" id="lnkSiteDev"><a href="https://www.altazion.dev">Développeurs</a></li>
-    <li class="item" id="lnkSiteLearning" style="display:none"><a href="https://www.altazion-learning.com">e-learning</a></li>
-    <li class="item" id="lnkSiteInterne" style="display:none"><a href="https://e-doc-dev.azurewebsites.net">doc interne</a></li>
-
+    <li class="item" id="lnkSiteInterne" style="display:none"><a
+        href="https://e-doc-dev.azurewebsites.net">Doc interne</a></li>
+    <li class="item" id="lnkSiteLearning" style="display:none"><a
+            href="https://www.altazion-learning.com">e-learning</a></li>
 </ul>
 
 <script type="text/javascript">
 
-var loc = document.location.hostname;
-loc = loc.toLowerCase();
+    function checkAndActivate(domain, ctl) {
+        fetch("https://" + domain).then(function (data) {
+            ctl.style.display = null;
+        }).catch(function (e) {
+            return;
+        });
+    }
 
-if(loc == "aide.altazion.com")
-    lnkSiteAide.classList.add("selected");
-else if(loc == "www.altazion.dev") 
-    lnkSiteDev.classList.add("selected");
-else if(loc == "www.altazion-learning.com") {
-    lnkSiteLearning.style.display = null;
-    lnkSiteLearning.classList.add("selected");
-}
-else if(loc == "e-doc-dev.azurewebsites.net") {
-    lnkSiteInterne.style.display = null;
-    lnkSiteInterne.classList.add("selected");
-}
+    var loc = document.location.hostname;
+    loc = loc.toLowerCase();
+
+    if (loc == "aide.altazion.com") {
+        lnkSiteAide.classList.add("selected");
+    }
+    else if (loc == "www.altazion.dev")
+        lnkSiteDev.classList.add("selected");
+    else if (loc == "www.altazion-learning.com") {
+        lnkSiteLearning.style.display = null;
+        lnkSiteLearning.classList.add("selected");
+    }
+    else if (loc == "e-doc-dev.azurewebsites.net") {
+        lnkSiteInterne.style.display = null;
+        lnkSiteInterne.classList.add("selected");
+    }
+
+    checkAndActivate("www.altazion-learning.com", lnkSiteLearning);
+    checkAndActivate("e-doc-dev.azurewebsites.net", lnkSiteInterne);
 
 </script>
-

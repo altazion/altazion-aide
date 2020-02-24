@@ -12,17 +12,17 @@
 - name: Achats & charges
   items:
     - name: Catalogue Fournisseur
-      href: achats/cataloguefournisseur/index.md
+      href: achats/Fournisseurs/catalogue.md
       items:
         - name: Détails
-          href: achats/cataloguefournisseur/dossierarticlefournisseur.md
+          href: achats/Fournisseurs/dossierarticlefournisseur.md
         - name: Intégrer un article
-          href: achats/cataloguefournisseur/integrerarticle.md
+          href: achats/Fournisseurs/integrerarticle.md
     - name: Commandes Fournisseurs
-      href: achats/commandesfournisseurs/index.md
+      href: achats/Commandes/index.md
       items:
         - name: formualiredecommandefournisseur
-          href: achats/commandesfournisseurs/formualiredecommandefournisseur.md
+          href: achats/Commandes/edit.md
 - name: Catalogue
   items:
     - name: Articles
@@ -59,10 +59,10 @@
           - name: Produits associés
             href: catalogue/articles/EditAssociations.md
     - name: Grilles de tarif
-      href: catalogue/grilledetarifs/index.md
+      href: catalogue/tarifs/index.md
       items:
         - name: Grilles "catalogue"
-          href: catalogue/grilledetarifs/EditGrille.md
+          href: catalogue/tarifs/EditGrille.md
     - name: Sélections (vitrines)
       href: catalogue/selections/index.md
       items:
@@ -88,22 +88,22 @@
         - name: Promotions & avantages
           items:
           - name: Créer une promotion
-            href: commercial/campagnes/CampagneGuid.md
+            href: commercial/campagnes/creeropecom.md
           - name: Editer avantage générique
-            href: commercial/campagnes/EditAvantageEComerce.md
+            href: commercial/campagnes/opecom/EditAvantageEComerce.md
           - name: Franco de port
-            href: commercial/campagnes/EditFraisPort.md
+            href: commercial/campagnes/opecom/EditFrancoPort.md
           - name: Offrir le Xème produit
-            href: commercial/campagnes/EditXemeProduitOffert.md
+            href: commercial/campagnes/opecom/EditXemeProduitOffert.md
         - name: Publicités & animation visuelle
           items:
           - name: EditPubBorne
-            href: commercial/campagnes/EditPubBorne.md
+            href: commercial/campagnes/publicite/ecommerce/EditBornes.md
           - name: Bandeau du site e-commerce
-            href: commercial/campagnes/NouvelleIntraSite.md
+            href: commercial/campagnes/publicite/ecommerce/NouvelleIntraSite.md
             items:
             - name: Editer
-              href: commercial/campagnes/EditIntraSite.md
+              href: commercial/campagnes/publicite/ecommerce/EditIntraSite.md
     - name: Coupons
       href: commercial/coupons/index.md
       items:
@@ -135,20 +135,18 @@
   href: entreprise/index.md
 - name: Financier
   items:
-    - name: DepotBanque
+    - name: Remise en banque
+      href: Financier/DepotBanque/index.md
       items:
-        - name: EditionDepot
-          href: Financier/DepotBanque/EditionDepot.md
-        - name: index
-          href: Financier/DepotBanque/index.md
-        - name: NouveauDepot
+        - name: Créer
           href: Financier/DepotBanque/NouveauDepot.md
-    - name: Remboursement
+        - name: Editer
+          href: Financier/DepotBanque/EditionDepot.md    
+    - name: Centre de remboursements
+      href: Financier/Remboursements/index.md
       items:
-        - name: index
-          href: Financier/Remboursement/index.md
-        - name: rbstbasique
-          href: Financier/Remboursement/rbstbasique.md
+        - name: Remboursement e-commerce
+          href: Financier/Remboursements/ecommerce/rbstbasique.md
 - name: Internet
   items:
     - name: abonnésnewsletters
@@ -175,24 +173,20 @@
           href: Litiges/Litiges/View.md
 - name: Logistique
   items:
-    - name: SaisiedePreparation
+    - name: Saisie de préparation
+      href: Logistique/Preparation/index.md
       items:
-        - name: index
-          href: Logistique/SaisiedePreparation/index.md
-        - name: saisieprepaexterne
-          href: Logistique/SaisiedePreparation/saisieprepaexterne.md
+        - name: Saisie préparation externe
+          href: Logistique/Preparation/saisieprepaexterne.md
     - name: Stocks
-      items:
-        - name: index
-          href: Logistique/Stocks/index.md
+      href: Logistique/Stocks/index.md
 - name: Ventes
   items:
-    - name: clients
+    - name: Clients
+      href: ventes/clients/index.md
       items:
-        - name: editinfogenerales
+        - name: Edition infos générales
           href: ventes/clients/editinfogenerales.md
-        - name: index
-          href: ventes/clients/index.md
     - name: Commandes
       href: ventes/commandes/index.md
       items:
