@@ -2,6 +2,12 @@
   href: index.md
 - name: Installation
   href: installation.md
+- name: Tâches d'administration courantes
+  items:
+    - name: Gérer les utiliateurs
+      href: common/users.md
+    - name: Echanges EDI (médiations)
+      href: common/mediations.md
 - name: On-Premise
   href: onpremise/index.md
   items: 
