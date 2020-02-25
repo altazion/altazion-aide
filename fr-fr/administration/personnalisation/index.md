@@ -4,4 +4,4 @@ La personnalisation de vos modèles de documents peut se faire en choisissant l'
 
 Vous pouvez récupérer les modèles actifs dans l'espace "paramètres" et les éditer avec des logiciels comme [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") (dans ce cas, nous vous conseillons [d'installer XmlTools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)) ou [Oxygen Xml](https://www.oxygenxml.com/).
 
-Si vous utilisez notre solution _OnPremise_ (sur vos propres serveurs), vous trouverez les modèles dans le dossier {ROOT}\bin\services\modeles de votre serveur. Ces modèles suivent le même principe de fonctionnement que les modèles de l'espace paramètres.
+Si vous utilisez notre solution _OnPremise_ (sur vos propres serveurs), vous trouverez les modèles dans le dossier `{ROOT}\bin\services\modeles` de votre serveur (cf [Dossiers](../onpremise/dossier.md)). Ces modèles suivent le même principe de fonctionnement que les modèles de l'espace paramètres.
