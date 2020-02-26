@@ -36,31 +36,38 @@
 
 ![ongletprincipal-screenshotciappsimplementecom20150810113006](images/ongletprincipal-screenshotciappsimplementecom20150810113006.png)
 
+### Produits associés
 
-<h3>Produits associ&eacute;s</h3>
-<p>Cette partie correspond aux <strong>articles qui peuvent &ecirc;tre associ&eacute;s</strong> &agrave; votre produit via une association <strong>manuelle</strong> ou <strong>automatique</strong>.</p>
-<p>Vous pouvez visualiser les informations suivantes :</p>
-<ol>
-<li><strong>Articles associ&eacute;s " Parents</strong> <strong>",</strong> article mod&egrave;le.</li>
-<li><strong>Articles associ&eacute;s " Compl&eacute;mentaires ".</strong></li>
-<li><strong>Articles associ&eacute;s compl&eacute;mentaires " Standard ",</strong> <em>upselling</em> ou <em>cross selling</em>.</li>
-</ol>
-<p>&nbsp;Pour voir l'int&eacute;gralit&eacute; des articles, cliquez sur : <a href="/fr-fr/office/gestion-commerciale/catalogue/articles/articlesassocier.html">Onglet article associ&eacute;s</a></p>
-<h3>&nbsp;Logistique</h3>
-<p>&nbsp;Cette partie va vous permettre de visualiser les <strong>informations logistiques</strong> de votre article.</p>
-<p>Vous pourrez visualiser les informations suivantes :</p>
-<ol type="a">
-<li>Les <strong>dimensions</strong> du produit (hauteur, largeur, profondeur) ainsi que son <strong>poids</strong> et <strong>volume</strong>.</li>
-<li>Son <strong>mode de livraison autoris&eacute;s </strong>ou<strong> non</strong>.</li>
-<li>Les <strong>conditions d'import/export</strong> et sa <strong>cat&eacute;gorisation douani&egrave;re</strong>.</li>
-</ol>
-<p>Vous pouvez acc&egrave;der &agrave; plus d'informations : <a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletlogistique.html">Onglet logistique</a></p>
-<h3>E-commerce</h3>
-<p>Les crit&egrave;res e-commerce correspondent aux informations sur la <strong>mise en avant</strong> de votre article ainsi que sur sa <strong>segmentation</strong>.</p>
-<p>Vous retrouvez dans cette partie :</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d.&nbsp; La <strong>mise en avant</strong> de l'article, qui correspond aux tags (promotion) et aux labels (fabriqu&eacute; en...).</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.&nbsp; La <strong>segmentation principale</strong>, mots cl&eacute;s de recherche.</p>
-<p>Afin de visualiser plus d'informations, cliquez sur : <a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletvente.html">Onglet vente</a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+Cette partie correspond aux **articles qui peuvent être associés** à votre produit via une association **manuelle** ou **automatique**.
 
+Vous pouvez visualiser les informations suivantes :
+
+1.  **Articles associés " Parents** **",** article modèle.
+2.  **Articles associés " Complémentaires ".**
+3.  **Articles associés complémentaires " Standard ",** _upselling_ ou _cross selling_.
+
+ Pour voir l'intégralité des articles, cliquez sur : [Onglet article associés](/fr-fr/office/gestion-commerciale/catalogue/articles/articlesassocier.html)
+
+###  Logistique
+
+ Cette partie va vous permettre de visualiser les **informations logistiques** de votre article.
+
+Vous pourrez visualiser les informations suivantes :
+
+1.  Les **dimensions** du produit (hauteur, largeur, profondeur) ainsi que son **poids** et **volume**.
+2.  Son **mode de livraison autorisés** ou **non**.
+3.  Les **conditions d'import/export** et sa **catégorisation douanière**.
+
+Vous pouvez accèder à plus d'informations : [Onglet logistique](/fr-fr/office/gestion-commerciale/catalogue/articles/ongletlogistique.html)
+
+### E-commerce
+
+Les critères e-commerce correspondent aux informations sur la **mise en avant** de votre article ainsi que sur sa **segmentation**.
+
+Vous retrouvez dans cette partie :
+
+      d.  La **mise en avant** de l'article, qui correspond aux tags (promotion) et aux labels (fabriqué en...).
+
+      e.  La **segmentation principale**, mots clés de recherche.
+
+Afin de visualiser plus d'informations, cliquez sur : [Onglet vente](/fr-fr/office/gestion-commerciale/catalogue/articles/ongletvente.html)

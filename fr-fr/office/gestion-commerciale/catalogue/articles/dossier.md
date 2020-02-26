@@ -3,103 +3,92 @@
 
 ![dossier-screenshotciappsimplementecom20150810134139](images/dossier-screenshotciappsimplementecom20150810134139.png)
 
+Le **dossier article** présente toute les informations de votre produit regroupées par thème.
 
-<p>Le <strong>dossier article</strong> pr&eacute;sente toute les informations de votre produit regroup&eacute;es par th&egrave;me.</p>
-<p>&nbsp;En t&ecirc;te de page vous trouverez un r&eacute;sum&eacute; de la description de l'article.</p>
+ En tête de page vous trouverez un résumé de la description de l'article.
 
+Les blocs (visible sur votre gauche) vont vous permettre de visualiser **les détails de votre article** en cliquant sur l'un des thèmes.
 
-<p>Les blocs (visible sur votre gauche) vont vous permettre de visualiser <strong>les d&eacute;tails de votre article </strong>en cliquant sur l'un des th&egrave;mes.</p>
-<p>Vous y trouvez :&nbsp;</p>
-<ol>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletprincipal.html">L'&eacute;tat</a>,</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletvente.html">Vente</a>,</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletdocument.html">Documents </a>(photos),</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/articlesassocier.html">Articles associ&eacute;s</a>,</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletapprovisionnement.html">Pr&eacute;paration </a>(approvisionnement de l'article, stock etc...),</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletlogistique.html">Logistique </a>(dimensions de l'article, poids etc...),</li>
-<li><a href="/fr-fr/office/gestion-commerciale/catalogue/articles/ongletprix.html">Prix</a>.</li>
-</ol>
-<p>A c&ocirc;t&eacute; de ces onglets vous trouverez un rectangle gris clair (sur votre droite)&nbsp;qui contient <strong>les informations principales de l'article.</strong></p>
-<p>Vous y trouverez :&nbsp;</p>
-<ol type="a">
-<li>Le libell&eacute;,</li>
-<li>La r&eacute;f&eacute;rence,</li>
-<li>Le prix HT du produit,</li>
-<li>La TVA,</li>
-<li>Le prix conseiller par le fournisseur,</li>
-<li>Les informations logistique (stock disponible, approvisionnement en cour, disponibilit&eacute; chez le fournisseur),</li>
-<li>Le prix TTC (en promotion si il y a une promotion),</li>
-<li>Le site e-commerce ou l'article est en ligne.</li>
-</ol>
+Vous y trouvez : 
 
+1.  [L'état](/fr-fr/office/gestion-commerciale/catalogue/articles/ongletprincipal.html),
+2.  [Vente](/fr-fr/office/gestion-commerciale/catalogue/articles/ongletvente.html),
+3.  [Documents](/fr-fr/office/gestion-commerciale/catalogue/articles/ongletdocument.html) (photos),
+4.  [Articles associés](/fr-fr/office/gestion-commerciale/catalogue/articles/articlesassocier.html),
+5.  [Préparation](/fr-fr/office/gestion-commerciale/catalogue/articles/ongletapprovisionnement.html) (approvisionnement de l'article, stock etc...),
+6.  [Logistique](/fr-fr/office/gestion-commerciale/catalogue/articles/ongletlogistique.html) (dimensions de l'article, poids etc...),
+7.  [Prix](/fr-fr/office/gestion-commerciale/catalogue/articles/ongletprix.html).
 
-<h2>Listes d'actions disponible</h2>
-<p><br />Le menu d'action&nbsp;pr&egrave;s du titre, vous donnera acc&egrave;s aux actions suivantes :</p>
+A côté de ces onglets vous trouverez un rectangle gris clair (sur votre droite) qui contient **les informations principales de l'article.**
 
+Vous y trouverez : 
 
-![dossier-cercle1](images/dossier-cercle1.png)
+1.  Le libellé,
+2.  La référence,
+3.  Le prix HT du produit,
+4.  La TVA,
+5.  Le prix conseiller par le fournisseur,
+6.  Les informations logistique (stock disponible, approvisionnement en cour, disponibilité chez le fournisseur),
+7.  Le prix TTC (en promotion si il y a une promotion),
+8.  Le site e-commerce ou l'article est en ligne.
 
+Listes d'actions disponible
+---------------------------
 
-![dossier-cercle2](images/dossier-cercle2.png)
+  
+Le menu d'action près du titre, vous donnera accès aux actions suivantes :
 
+![dossier-cercle1](images/dossier-cercle1.png) ![dossier-cercle2](images/dossier-cercle2.png)
 
-<table style="width: 100%;">
-<tbody>
-<tr>
-<td style="width: 150px;"><strong>Archiver</strong></td>
-<td>Permet d'archiver l'article: celui-ci ne sera plus disponible pour la vente.</td>
-</tr>
-<tr>
-<td style="width: 150px;"><strong>Modifier</strong></td>
-<td>Permet de modifier le contenu de votre article.</td>
-</tr>
-<tr>
-<td style="width: 150px;">&nbsp;-&nbsp; Informations g&eacute;n&eacute;rales</td>
-<td>Permet de modifier les informations principales d'un article : libell&eacute;, description, informations comptables, attributs, tags &amp; labels.</td>
-</tr>
-<tr>
-<td style="width: 150px;">&nbsp;-&nbsp; Prix</td>
-<td>Permet de d&eacute;finir les tarifs de vente de votre produit.</td>
-</tr>
-<tr>
-<td style="width: 150px;">&nbsp;-&nbsp; Logistique</td>
-<td>Permet de changer la dimension et le poids, modifier les quantit&eacute;s du stock, etc...</td>
-</tr>
-<tr>
-<td style="width: 150px;">&nbsp;-&nbsp; Articles associ&eacute;s</td>
-<td>Permet d'ajouter ou de supprimer des articles compl&eacute;mentaires, des versions.</td>
-</tr>
-<tr>
-<td style="width: 150px;">&nbsp;-&nbsp; Edition e-commerce</td>
-<td>Permet de modifier les information sp&eacute;cifique&nbsp;e-commerce : le prix , les options e-commerce et cross-canal, etc...</td>
-</tr>
-<tr>
-<td style="width: 150px;"><strong>Nouvelle t&acirc;che</strong></td>
-<td>Permet de cr&eacute;er une nouvelle t&acirc;che.</td>
-</tr>
-<tr>
-<td style="width: 150px;"><strong>Publier</strong></td>
-<td>Permet de g&eacute;rer la pr&eacute;sence de votre article sur vos sites e-commerce et cross-canal.</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+**Archiver**
 
+Permet d'archiver l'article: celui-ci ne sera plus disponible pour la vente.
 
-<h2>Ev&eacute;nements</h2>
+**Modifier**
 
+Permet de modifier le contenu de votre article.
 
-<p>A la suite de cette liste d'action, vous pouvez trouver un <strong>historique des &eacute;v&eacute;nements survenus</strong> sur l'article :</p>
+ -  Informations générales
 
+Permet de modifier les informations principales d'un article : libellé, description, informations comptables, attributs, tags & labels.
+
+ -  Prix
+
+Permet de définir les tarifs de vente de votre produit.
+
+ -  Logistique
+
+Permet de changer la dimension et le poids, modifier les quantités du stock, etc...
+
+ -  Articles associés
+
+Permet d'ajouter ou de supprimer des articles complémentaires, des versions.
+
+ -  Edition e-commerce
+
+Permet de modifier les information spécifique e-commerce : le prix , les options e-commerce et cross-canal, etc...
+
+**Nouvelle tâche**
+
+Permet de créer une nouvelle tâche.
+
+**Publier**
+
+Permet de gérer la présence de votre article sur vos sites e-commerce et cross-canal.
+
+Evénements
+----------
+
+A la suite de cette liste d'action, vous pouvez trouver un **historique des événements survenus** sur l'article :
 
 ![dossier-4](images/dossier-4.png)
 
+Cet historique présente les **événements** survenus sur l'article, les **modifications** importantes, _manuelles_ ou _informatiques_ y seront signalées.
 
-<p>Cet historique pr&eacute;sente les <strong>&eacute;v&eacute;nements</strong> survenus sur l'article, les <strong>modifications</strong> importantes, <em>manuelles</em> ou <em>informatiques</em> y seront signal&eacute;es.</p>
-<p>Chaque &eacute;v&eacute;nement correspond &agrave; une modification survenu sur l'article.</p>
-<p>Par exemple :</p>
-<p><strong>1</strong> - Publication du produit sur le site e-commerce.</p>
+Chaque événement correspond à une modification survenu sur l'article.
 
+Par exemple :
 
-<p><strong>2</strong> - La modification du prix de l'article.</p>
+**1** - Publication du produit sur le site e-commerce.
 
+**2** - La modification du prix de l'article.
