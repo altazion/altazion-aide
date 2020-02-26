@@ -1,6 +1,6 @@
-# Intro
+# Découvrez le back-office
 
-### BIENVENUE DANS LE MODULE DE PILOTAGE ALTAZION OFFICE
+## Bienvenue dans le module de pilotage Altazion Office
 
 Découvrez dès maintenant votre **interface** et apprenez à **créer des tâches** afin de les administrer manuellement ou automatiquement à des utilisateurs et maîtrisez le **traitement de tâches **:
 
