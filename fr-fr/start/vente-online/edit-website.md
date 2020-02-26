@@ -89,9 +89,9 @@
 
 
 <p>&nbsp;</p>
-<p><em>&bull; Revivre l'intro &agrave; la cr&eacute;ation d'article :</em> <span ><em><strong><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/start-sellonline/default.html">1. Param&eacute;trer mon Catalogue Web</a></strong></em></span></p>
-<p><em>&bull; Revoir la cr&eacute;ation d'un article en ligne :</em> <span ><em><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/start-sellonline/article.html">2. Cr&eacute;er un Article Ecommerce</a></strong></em></span></p>
-<p>&bull; <em>Repasser sur la validation d'article en ligne : <span ><strong><a title="3. Publier un Article Ecommerce" href="/fr-fr/start/start-sellonline/vldartweb.html">3. Publier un Article Ecommerce</a></strong></span></em></p>
+<p><em>&bull; Revivre l'intro &agrave; la cr&eacute;ation d'article :</em> <span ><em><strong><a title="1. Param&eacute;trer mon Catalogue Web" href="/fr-fr/start/vente-online/default.html">1. Param&eacute;trer mon Catalogue Web</a></strong></em></span></p>
+<p><em>&bull; Revoir la cr&eacute;ation d'un article en ligne :</em> <span ><em><strong><a title="2. Cr&eacute;er un Article Ecommerce" href="/fr-fr/start/vente-online/article.html">2. Cr&eacute;er un Article Ecommerce</a></strong></em></span></p>
+<p>&bull; <em>Repasser sur la validation d'article en ligne : <span ><strong><a title="3. Publier un Article Ecommerce" href="/fr-fr/start/vente-online/vldartweb.html">3. Publier un Article Ecommerce</a></strong></span></em></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4 ><strong><em><span >Bravo, vous avez men&eacute; &agrave; bien les premiers pas de la mission Ecommerce !</span></em></strong></h4>

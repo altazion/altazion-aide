@@ -3,15 +3,12 @@
 
 ![newtodo-crerpng](images/newtodo-crerpng.png)
 
+Ce formulaire vous permet de **créer une tâche**, pour en éditer une nouvelle, vous devrez saisir les informations suivantes :
 
-<p>Ce formulaire vous permet de <strong>cr&eacute;er une t&acirc;che</strong>, pour en &eacute;diter une nouvelle, vous devrez saisir les informations suivantes :</p>
-<ol>
-<li>Destinataire.</li>
-<li>Sujet sur lequel traite la t&acirc;che.</li>
-<li>Case permettant de pr&eacute;ciser si la t&acirc;che est urgente &agrave; traiter ou non.</li>
-<li>La date d'&eacute;ch&eacute;ance.</li>
-<li>Les d&eacute;tails de la t&acirc;che.</li>
-</ol>
-<p>Pour terminer votre cr&eacute;ation, cliquez sur <strong>Enregistrer</strong>, votre t&acirc;che sera cr&eacute;&eacute;e et envoy&eacute;e au destinataire.</p>
-<p>&nbsp;</p>
+1.  Destinataire.
+2.  Sujet sur lequel traite la tâche.
+3.  Case permettant de préciser si la tâche est urgente à traiter ou non.
+4.  La date d'échéance.
+5.  Les détails de la tâche.
 
+Pour terminer votre création, cliquez sur **Enregistrer**, votre tâche sera créée et envoyée au destinataire.

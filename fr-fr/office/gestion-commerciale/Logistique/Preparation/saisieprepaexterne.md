@@ -3,19 +3,18 @@
 
 ![saisieprepaexterne-0](images/saisieprepaexterne-0.png)
 
+Cette page vous permet de** traiter un bon de préparation**.
 
-<p>Cette page vous permet de<strong>&nbsp;traiter un bon de pr&eacute;paration</strong>.</p>
-<p>Ce formulaire vous permet de modifier une saisie d'un bon.</p>
-<p>Vous pourrez trouver les informations suivantes :</p>
-<ol>
-<li>Le num&eacute;ro du bon de pr&eacute;paration,</li>
-<li>Sa r&eacute;f&eacute;rence et son noim,</li>
-<li>La quantit&eacute; &agrave; pr&eacute;parer,</li>
-<li>La quantit&eacute; pr&eacute;par&eacute;,</li>
-<li>Le prix de revient HT.</li>
-</ol>
-<p>Lorsque vous aurez termin&eacute; vos modifications, cliquez sur le bouton bleu&nbsp;<strong>Enregistrer</strong>.</p>
-<blockquote>
-<p>Cet &eacute;cran ne permet pas de saisir des pr&eacute;parations partielles : les produits enregistr&eacute;s avec une quantit&eacute; inf&eacute;rieure &agrave; celle "command&eacute;e" seront consid&eacute;r&eacute;s comme non pr&eacute;par&eacute;s.</p>
-</blockquote>
+Ce formulaire vous permet de modifier une saisie d'un bon.
 
+Vous pourrez trouver les informations suivantes :
+
+1.  Le numéro du bon de préparation,
+2.  Sa référence et son noim,
+3.  La quantité à préparer,
+4.  La quantité préparé,
+5.  Le prix de revient HT.
+
+Lorsque vous aurez terminé vos modifications, cliquez sur le bouton bleu **Enregistrer**.
+
+> Cet écran ne permet pas de saisir des préparations partielles : les produits enregistrés avec une quantité inférieure à celle "commandée" seront considérés comme non préparés.

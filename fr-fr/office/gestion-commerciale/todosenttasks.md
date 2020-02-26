@@ -3,13 +3,12 @@
 
 ![todosenttasks-envoipng](images/todosenttasks-envoipng.png)
 
+Dans cette page, vous trouverez **l'intégralité des tâches que vous avez envoyées à vos collaborateurs**.
 
-<p>Dans cette page, vous trouverez<strong> l'int&eacute;gralit&eacute; des t&acirc;ches que vous avez envoy&eacute;es &agrave; vos collaborateurs</strong>.</p>
-<p>Les t&acirc;ches sont tri&eacute;es selon trois cat&eacute;gories :</p>
-<ol>
-<li>Leur libell&eacute;,</li>
-<li>Leur destinataire,</li>
-<li>Leur date de cr&eacute;ation.</li>
-</ol>
-<p>Pour visualiser l'intitul&eacute; de la t&acirc;che, cliquez sur le bouton bleu <strong>Ouvrir</strong> &agrave; droite de la t&acirc;che, vous serez en mesure <strong>d'acc&eacute;der &agrave; ces informations</strong>&nbsp;et de <strong>visualiser son avancement</strong>.</p>
+Les tâches sont triées selon trois catégories :
 
+1.  Leur libellé,
+2.  Leur destinataire,
+3.  Leur date de création.
+
+Pour visualiser l'intitulé de la tâche, cliquez sur le bouton bleu **Ouvrir** à droite de la tâche, vous serez en mesure **d'accéder à ces informations** et de **visualiser son avancement**.
