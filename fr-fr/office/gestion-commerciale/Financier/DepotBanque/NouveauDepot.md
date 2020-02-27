@@ -3,13 +3,13 @@
 
 ![nouveaudepot-screenshotfionajoupilancom20150812100718](images/nouveaudepot-screenshotfionajoupilancom20150812100718.png)
 
+Pour créer une nouvelle remise en banque, cliquez sur la **commande d'action **puis sur **Nouveau**.
 
-<p>Pour cr&eacute;er une nouvelle remise en banque, cliquez sur la&nbsp;<strong>commande d'action&nbsp;</strong>puis sur <strong>Nouveau</strong>.</p>
-<p>Vous serez redirig&eacute; vers un <strong>formulaire d'&eacute;dition</strong> vous permettant de cr&eacute;er une nouvelle remise.</p>
-<p>Vous trouverez dans ce formulaire les crit&egrave;res suivant :</p>
-<ol>
-<li>Le num&eacute;ro de la nouvelle remise,</li>
-<li>Le compte destinataire (banque b&eacute;n&eacute;ficiare).</li>
-</ol>
-<p>Afin de valider votre cr&eacute;ation, cliquez sur le bouton bleu <strong>Enregistrer</strong>.</p>
+Vous serez redirigé vers un **formulaire d'édition** vous permettant de créer une nouvelle remise.
 
+Vous trouverez dans ce formulaire les critères suivant :
+
+1.  Le numéro de la nouvelle remise,
+2.  Le compte destinataire (banque bénéficiare).
+
+Afin de valider votre création, cliquez sur le bouton bleu **Enregistrer**.

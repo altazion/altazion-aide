@@ -3,40 +3,42 @@
 
 ![index-screenshotfionajoupilancom20150812100518](images/index-screenshotfionajoupilancom20150812100518.png)
 
+Une remise vous **permet de faire un dépot dans une banque**.
 
-<p>Une remise vous <strong>permet de faire un d&eacute;pot dans une banque</strong>.</p>
-<p>Dans cette page, vous retrouverez l'int&eacute;gralit&eacute; de vos d&eacute;pots.</p>
-<p>Vous y trouverez :</p>
-<ol>
-<li>Cette case vous permet d'inclure dans la recherche les remises termin&eacute;es ou non.</li>
-<li>La date de cr&eacute;ation,</li>
-<li>Les banques b&eacute;n&eacute;ficiaire,</li>
-<li>Le num&eacute;ro de remise du d&eacute;pot.</li>
-</ol>
-<p>Afin de valider votre recherche, cliquez sur le bouton <strong>GO</strong>. (5)</p>
-<p>Vous retrouverez tout les d&eacute;pots &eacute;mis &agrave; vos banques.</p>
-<p>Vous pourrez voir dans cette page :</p>
-<ol type="a">
-<li>Le num&eacute;ro de remise,</li>
-<li>La date d'enregistrement,</li>
-<li>La date du d&eacute;pot,</li>
-<li>Le compte b&eacute;n&eacute;ficaire,</li>
-<li>L'&eacute;tat de la remise (Nouveau...),</li>
-<li>Le nombre de r&eacute;glement,</li>
-<li>Le montant de la remise,</li>
-<li>Commande d'action vous permettant d'imprimer une remise.</li>
-</ol>
-<p>Vous pouvez aussi modifier votre remise pour cela, vous devez cliquer sur le lien bleu <strong>Modifier</strong>. (I)</p>
-<h3>Actions</h3>
-<p>La&nbsp;<strong>commande d'action&nbsp;</strong>que vous pouvez apercevoir pr&egrave;s du titre, correspond au menu de commande.</p>
-<p>Il vous permet d'acc&eacute;der &agrave; diff&eacute;rentes actions qui vous permettront de g&eacute;rer votre activit&eacute;.</p>
-<p><em>Exemple&nbsp;</em>de commande que vous pouvez avoir :</p>
-<table>
-<tbody>
-<tr>
-<td><a href="/fr-fr/office/gestion-commerciale/Financier/DepotBanque/NouveauDepot.html">Nouveau</a></td>
-<td>&nbsp;Cette action vous permet de cr&eacute;er une nouvelle remise en banque</td>
-</tr>
-</tbody>
-</table>
+Dans cette page, vous retrouverez l'intégralité de vos dépots.
 
+Vous y trouverez :
+
+1.  Cette case vous permet d'inclure dans la recherche les remises terminées ou non.
+2.  La date de création,
+3.  Les banques bénéficiaire,
+4.  Le numéro de remise du dépot.
+
+Afin de valider votre recherche, cliquez sur le bouton **GO**. (5)
+
+Vous retrouverez tout les dépots émis à vos banques.
+
+Vous pourrez voir dans cette page :
+
+1.  Le numéro de remise,
+2.  La date d'enregistrement,
+3.  La date du dépot,
+4.  Le compte bénéficaire,
+5.  L'état de la remise (Nouveau...),
+6.  Le nombre de réglement,
+7.  Le montant de la remise,
+8.  Commande d'action vous permettant d'imprimer une remise.
+
+Vous pouvez aussi modifier votre remise pour cela, vous devez cliquer sur le lien bleu **Modifier**. (I)
+
+### Actions
+
+La **commande d'action **que vous pouvez apercevoir près du titre, correspond au menu de commande.
+
+Il vous permet d'accéder à différentes actions qui vous permettront de gérer votre activité.
+
+_Exemple _de commande que vous pouvez avoir :
+
+[Nouveau](/fr-fr/office/gestion-commerciale/Financier/DepotBanque/NouveauDepot.html)
+
+ Cette action vous permet de créer une nouvelle remise en banque
