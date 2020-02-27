@@ -6,8 +6,8 @@ Vous trouverez dans cette catégorie les différentes informations légales, tel
 
 Ce site est édité par  
 Creo Ignem  
-22 rue du Dr CLERCQ  
-02260 LA CAPELLE  
+80 av. Roland MORENO
+59410 Anzin
 France
 
 Sàrl au capital de 7500€  
