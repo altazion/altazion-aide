@@ -1,5 +1,7 @@
-# Urls internes
+# Urls & SEO
 
+
+## Urls Internes
 
 <p>A de nombreux emplacement, dans votre site e-commerce, vous serez amen&eacute;s &agrave; vouloir pointer vers une page dynamique telle qu'une descente produit, un produit, un catalogue interactif, etc.</p>
 <p>Si vos liens ont besoin d'&ecirc;tre lus sur d'autre support que votre site web (telle qu'une application mobile, une borne ou un totem tactile, ...) l'utilisation de l'url "rewrit&eacute;e"&nbsp;ne sera probablement pas id&eacute;ale, puisqu'elle redirigera l'utilisateur vers le site. Vous pouvez, dans ce cadre, utiliser les urls internes&nbsp;&agrave; notre moteur e-commerce.</p>
