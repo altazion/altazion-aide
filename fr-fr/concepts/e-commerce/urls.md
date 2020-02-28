@@ -1,61 +1,56 @@
 # Urls & SEO
 
-
 ## Urls Internes
 
-<p>A de nombreux emplacement, dans votre site e-commerce, vous serez amen&eacute;s &agrave; vouloir pointer vers une page dynamique telle qu'une descente produit, un produit, un catalogue interactif, etc.</p>
-<p>Si vos liens ont besoin d'&ecirc;tre lus sur d'autre support que votre site web (telle qu'une application mobile, une borne ou un totem tactile, ...) l'utilisation de l'url "rewrit&eacute;e"&nbsp;ne sera probablement pas id&eacute;ale, puisqu'elle redirigera l'utilisateur vers le site. Vous pouvez, dans ce cadre, utiliser les urls internes&nbsp;&agrave; notre moteur e-commerce.</p>
-<p>Ces urls sont de la forme :&nbsp;<em>smple-commerce://</em> et permettent de d&eacute;finir un lien vers :</p>
-<ul>
-<li>une descente produit</li>
-<li>une fiche article</li>
-<li>une page de contenu personnalis&eacute;e</li>
-<li>un catalogue interactif</li>
-</ul>
-<p>&nbsp;</p>
+A de nombreux emplacement, dans votre site e-commerce, vous serez amenés à vouloir pointer vers une page dynamique telle qu'une descente produit, un produit, un catalogue interactif, etc.
 
+Si vos liens ont besoin d'être lus sur d'autre support que votre site web (telle qu'une application mobile, une borne ou un totem tactile, ...) l'utilisation de l'url "rewritée" ne sera probablement pas idéale, puisqu'elle redirigera l'utilisateur vers le site. Vous pouvez, dans ce cadre, utiliser les urls internes à notre moteur e-commerce.
 
-<h2>Lien vers une descente produit</h2>
-<p>C'est probablement le type de lien le plus complexe. Il se compose d'une suite de crit&egrave;res, s&eacute;par&eacute;s par des point-virgules.</p>
-<p><code>smple-commerce://{critere1=valeur};{critere2=valeur}</code></p>
-<p>les diff&eacute;rents crit&egrave;res possibles sont :</p>
-<table>
-<tbody>
-<tr>
-<td>seg_pk=</td>
-<td>la segmentation des produits</td>
-</tr>
-<tr>
-<td>mar_pk=</td>
-<td>la marque des produits</td>
-</tr>
-<tr>
-<td>vit_guid=</td>
-<td>Une vitrine contenant les produits</td>
-</tr>
-<tr>
-<td>attr:{guid}=</td>
-<td>L'attribut d'article d'identifiant {guid}</td>
-</tr>
-</tbody>
-</table>
-<p>Quelques exemples d'urls :</p>
-<ul>
-<li><code>smple-commerce://seg_pk=123</code>&nbsp;pointe vers les produits de la&nbsp;segmentation 123</li>
-<li><code>smple-commerce://seg_pk=123;attr:{46B479EC-AFEC-44F0-A012-70D6CFA3314D}={98AE9E36-4838-4E53-9F93-B0EAB9B1024A}</code> pointe vers les produits de la&nbsp;segmentation 123 ayant&nbsp;pour valeur {98AE9E36-4838-4E53-9F93-B0EAB9B1024A} sur l'attribut {46B479EC-AFEC-44F0-A012-70D6CFA3314D}</li>
-<li><code>smple-commerce://vit_guid={31553F78-A221-49E6-B69E-BAEA7FF04C82}</code> pointe vers&nbsp;la vitrine&nbsp;{31553F78-A221-49E6-B69E-BAEA7FF04C82}</li>
-</ul>
-<p>&nbsp;</p>
+Ces urls sont de la forme : _smple-commerce://_ et permettent de définir un lien vers :
 
+* une descente produit
+* une fiche article
+* une page de contenu personnalisée
+* un catalogue interactif
 
-<h2>Lien vers un article</h2>
-<p>Pour pointer sur une fiche article, utilisez une url de la forme :</p>
-<p><code>smple-commerce://art_guid={guid de l'article}</code></p>
-<p>&nbsp;</p>
+### Lien vers une descente produit
 
+C'est probablement le type de lien le plus complexe. Il se compose d'une suite de critères, séparés par des point-virgules.
 
-<h2>Lien vers un catalogue interactif</h2>
-<p>Pour pointer sur un catalogue interactif, vous devez utiliser une url sous la forme :</p>
-<p><code>smple-commerce://opecom/CATALOGUE/ope_guid={le-guid-de-l-operation}</code></p>
-<p>&nbsp;</p>
+`smple-commerce://{critere1=valeur};{critere2=valeur}`
 
+les différents critères possibles sont :
+
+seg\_pk=
+
+la segmentation des produits
+
+mar\_pk=
+
+la marque des produits
+
+vit\_guid=
+
+Une vitrine contenant les produits
+
+attr:{guid}=
+
+L'attribut d'article d'identifiant {guid}
+
+Quelques exemples d'urls :
+
+* `smple-commerce://seg_pk=123` pointe vers les produits de la segmentation 123
+* `smple-commerce://seg_pk=123;attr:{46B479EC-AFEC-44F0-A012-70D6CFA3314D}={98AE9E36-4838-4E53-9F93-B0EAB9B1024A}` pointe vers les produits de la segmentation 123 ayant pour valeur {98AE9E36-4838-4E53-9F93-B0EAB9B1024A} sur l'attribut {46B479EC-AFEC-44F0-A012-70D6CFA3314D}
+* `smple-commerce://vit_guid={31553F78-A221-49E6-B69E-BAEA7FF04C82}` pointe vers la vitrine {31553F78-A221-49E6-B69E-BAEA7FF04C82}
+
+### Lien vers un article
+
+Pour pointer sur une fiche article, utilisez une url de la forme :
+
+`smple-commerce://art_guid={guid de l'article}`
+
+### Lien vers un catalogue interactif
+
+Pour pointer sur un catalogue interactif, vous devez utiliser une url sous la forme :
+
+`smple-commerce://opecom/CATALOGUE/ope_guid={le-guid-de-l-operation}`
