@@ -9,11 +9,11 @@
       href: catalogue/articles/index.md
       items:
         - name: Infos générales
-          href: catalogue/infosgenerales.md
+          href: catalogue/articles/infosgenerales.md
         - name: Cycle de vie d'un article
-          href: catalogue/cycle.md
+          href: catalogue/articles/cycle.md
         - name: Articles déclinables
-          href: catalogue/declinables.md
+          href: catalogue/articles/declinables.md
 - name: ECommerce
   href: e-commerce/index.md
   items:
