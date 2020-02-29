@@ -1,12 +1,14 @@
 # Cycle de vie
 
+Les articles passent par un certain nombre d'étapes, au cours de leur existence dans nos outils.
 
-<p>Les articles passent par un certain nombre d'&eacute;tapes, au cours de leur existence dans nos outils.</p>
-<p>Lorsque vous cr&eacute;ez un article, il est d'abord dans un phase d'&eacute;laboration, pendant laquelle l'article ne peut pas &ecirc;tre utilis&eacute; pour des op&eacute;rations de vente. Cette &eacute;tape vous permet de renseigner les informations n&eacute;cessaires &agrave; la bonne utilisation d'un article, de lui associer des documents, images, video, etc., d'en d&eacute;finir le tarif etc.</p>
-<p>Une fois les informations renseign&eacute;es, vous pouvez valider un article puis le publier sur un ou plusieurs canaux de vente. Ces op&eacute;rations peuvent &ecirc;tre faites simultan&eacute;ment ou de fa&ccedil;on s&eacute;par&eacute;e. Un article valid&eacute; et publi&eacute; sur un canal de vente - par exemple : votre site e-commerce - sera visible sur celui-ci. En fonction de vos r&egrave;gles de gestion, il pourra &eacute;galement &ecirc;tre achet&eacute; ou command&eacute;.</p>
-<p>Lorsque vous souhaitez retirer d&eacute;finitivement un article de votre catalogue produit, vous pouvez l'archiver : cette op&eacute;ration rendra l'article invisible dans tous vos outils et vos canaux de ventes.</p>
-<h2>Sch&eacute;ma du cycle de vie</h2>
+Lorsque vous créez un article, il est d'abord dans un phase d'élaboration, pendant laquelle l'article ne peut pas être utilisé pour des opérations de vente. Cette étape vous permet de renseigner les informations nécessaires à la bonne utilisation d'un article, de lui associer des documents, images, video, etc., d'en définir le tarif etc.
 
+Une fois les informations renseignées, vous pouvez valider un article puis le publier sur un ou plusieurs canaux de vente. Ces opérations peuvent être faites simultanément ou de façon séparée. Un article validé et publié sur un canal de vente - par exemple : votre site e-commerce - sera visible sur celui-ci. En fonction de vos règles de gestion, il pourra également être acheté ou commandé.
+
+Lorsque vous souhaitez retirer définitivement un article de votre catalogue produit, vous pouvez l'archiver : cette opération rendra l'article invisible dans tous vos outils et vos canaux de ventes.
+
+## Schéma du cycle de vie
 
 ![cycle-progressionsetatarticles](images/cycle-progressionsetatarticles.png)
 

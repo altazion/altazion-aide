@@ -1,43 +1,47 @@
 # Commandes inter-structures
 
+Les commandes inter-structures sont destinées à enregistrer des commandes passées entre deux magasins ou entre centrale et magasin. Elles peuvent aussi bien recouvrir des commandes qui seront directement retirées par le client dans le magasin destinataire que des demandes de déplacement de stocks vers le demandeur.
 
-<p>Les commandes inter-structures sont destin&eacute;es &agrave; enregistrer des commandes pass&eacute;es entre deux magasins ou entre centrale et magasin. Elles peuvent aussi bien recouvrir des commandes qui seront directement retir&eacute;es par le client dans le magasin destinataire que des demandes de d&eacute;placement de stocks vers le demandeur.</p>
-<p>Lorsque les commandes sont trait&eacute;es comme des r&eacute;servations dans un magasin destinataire, chaque commande peut recevoir des informations clients sous la forme&nbsp;:</p>
-<ul>
-<li>d&rsquo;un identifiant de compte client existant</li>
-<li>des coordonn&eacute;es du client pour les clients de passage</li>
-</ul>
+Lorsque les commandes sont traitées comme des réservations dans un magasin destinataire, chaque commande peut recevoir des informations clients sous la forme :
 
+*   d’un identifiant de compte client existant
+*   des coordonnées du client pour les clients de passage
 
-<h2>Progression des &eacute;tats</h2>
-<p>&nbsp;Chaque commande passe par 5 &eacute;tats successifs :</p>
-<ul>
-<li>0 : la commande vient d&rsquo;&ecirc;tre pass&eacute;e</li>
-<li>1 : la commande a &eacute;t&eacute; prise en compte par le magasin de destination, et va &ecirc;tre pr&eacute;par&eacute;e</li>
-<li>2 : la commande est pr&ecirc;te &agrave; &ecirc;tre enlev&eacute;e</li>
-<li>3 : la commande est enlev&eacute;e</li>
-<li>4 : la commande est archiv&eacute;e</li>
-</ul>
-<p>Les commandes inter-structures supportent des op&eacute;rations d'automatisation simples, en r&eacute;ponse aux changements d'&eacute;tats. Chaque modification d'&eacute;tat d'une commande d&eacute;clenche un <a href="fr-fr/administration/personnalisation/evenements/ventes/evolcdeinterne.html">&eacute;v&egrave;nement de type EvolutionCommandeInterne</a>.</p>
-<h3>Passage &agrave; l'&eacute;tat 1</h3>
-<p>Le passage &agrave; l'&eacute;tat 1 correspond &agrave; l'acceptation, par le magasin destinataire, de la commande. Elle peut s'effectuer :</p>
-<ul>
-<li>sur la caisse ou un poste logistique, en acceptant la commande et/ou en &eacute;ditant son bordereau</li>
-<li>via le suivi des commandes dans la gestion commerciale</li>
-</ul>
-<h3>Passage&nbsp;&agrave; l'&eacute;tat 2</h3>
-<p>Une commande passe &agrave; l'&eacute;tat 2 s'effectue lorsque la commande est marqu&eacute;e comme pr&eacute;par&eacute;e. Cela peut &ecirc;tre fait :</p>
-<ul>
-<li>via la cloture de l'ordre de pr&eacute;paration sur un poste logistique</li>
-<li>ou la saisie des articles pr&eacute;par&eacute; en caisse ou en gestion commerciale</li>
-</ul>
-<h3>Passage &agrave; l'&eacute;tat 3</h3>
-<p>Vous pouvez faire passer une commande &agrave; l'&eacute;tat 3 en d&eacute;clarant la commande enlev&eacute;e en caisse ou en gestion commerciale</p>
-<h3>Passage &agrave; l'&eacute;tat 4</h3>
-<p>Les commandes ayant d&eacute;j&agrave; atteint l'&eacute;tat 3 sont archiv&eacute;es&nbsp;lorsque :</p>
-<ul>
-<li>vous&nbsp;fermez la caisse et &eacute;ditez le Z</li>
-<li>vous cloturez une p&eacute;riode comptable en gestion commerciale.</li>
-</ul>
-<p>Une fois archiv&eacute;es, vous ne pouvez plus apporter de modification sur une commande. Vous pouvez toutefois r&eacute;aliser des retours, reprises, SAV&nbsp;et toute autre op&eacute;ration qui ne n&eacute;cessite pas de changer directement la commande.</p>
+## Progression des états
 
+ Chaque commande passe par 5 états successifs :
+
+*   0 : la commande vient d’être passée
+*   1 : la commande a été prise en compte par le magasin de destination, et va être préparée
+*   2 : la commande est prête à être enlevée
+*   3 : la commande est enlevée
+*   4 : la commande est archivée
+
+Les commandes inter-structures supportent des opérations d'automatisation simples, en réponse aux changements d'états. Chaque modification d'état d'une commande déclenche un [évènement de type EvolutionCommandeInterne](fr-fr/administration/personnalisation/evenements/ventes/evolcdeinterne.html).
+
+### Passage à l'état 1
+
+Le passage à l'état 1 correspond à l'acceptation, par le magasin destinataire, de la commande. Elle peut s'effectuer :
+
+*   sur la caisse ou un poste logistique, en acceptant la commande et/ou en éditant son bordereau
+*   via le suivi des commandes dans la gestion commerciale
+
+### Passage à l'état 2
+
+Une commande passe à l'état 2 s'effectue lorsque la commande est marquée comme préparée. Cela peut être fait :
+
+*   via la cloture de l'ordre de préparation sur un poste logistique
+*   ou la saisie des articles préparé en caisse ou en gestion commerciale
+
+### Passage à l'état 3
+
+Vous pouvez faire passer une commande à l'état 3 en déclarant la commande enlevée en caisse ou en gestion commerciale
+
+### Passage à l'état 4
+
+Les commandes ayant déjà atteint l'état 3 sont archivées lorsque :
+
+*   vous fermez la caisse et éditez le Z
+*   vous cloturez une période comptable en gestion commerciale.
+
+Une fois archivées, vous ne pouvez plus apporter de modification sur une commande. Vous pouvez toutefois réaliser des retours, reprises, SAV et toute autre opération qui ne nécessite pas de changer directement la commande.

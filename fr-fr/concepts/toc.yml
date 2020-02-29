@@ -1,0 +1,24 @@
+- name: Accueil
+  href: index.md
+- name: Terminologie
+  href: terminologie.md
+- name: Catalogue
+  href: catalogue/index.md
+  items:
+    - name: Articles
+      href: catalogue/articles/index.md
+      items:
+        - name: Infos générales
+          href: catalogue/articles/infosgenerales.md
+        - name: Cycle de vie d'un article
+          href: catalogue/articles/cycle.md
+        - name: Articles déclinables
+          href: catalogue/articles/declinables.md
+- name: ECommerce
+  href: e-commerce/index.md
+  items:
+    - name: Urls & SEO
+      href: e-commerce/urls.md
+    - name: Gestion du risque
+      href: e-commerce/gestionrisque.md
+

@@ -7,5 +7,16 @@ Vous pourrez y renseigner :
 - les caractéristiques principales des produits (libellé, description, référence SKU, marque, etc.)
 - les informations spécifiques à votre catalogue telles que, par exemple, la taille ou le coloris pour des vêtements, l'âge conseillé pour un jouet, la puissance pour un outil électrique, etc.
 - l'intégralité des média : images, vidéos et documents (comme par exemple un guid d'utilisation)
+- etc.
+
+Pour plus d'informations sur les articles, [consultez la page d'aide spécifique](articles/index.md)
+
+## Sélections d'articles
+
+## Gestion des tarifs
+
+## Echanges EDI
+
+## Produits partenaires
 
 
