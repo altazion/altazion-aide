@@ -52,6 +52,16 @@
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": false,
+    "sitemap":{
+      "baseUrl": "https://aide.altazion.com/",
+      "priority": 0.3,
+      "changefreq": "weekly",
+      "fileOptions":{
+          "**.yml": {
+              "priority": 0.5
+          }
+      }
+    }
   }
 }
