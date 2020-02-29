@@ -21,7 +21,9 @@
   href: storeserver/index.md
 - name: Références
   items:
-    - name: Installer module Powershell
+    - name: Powershell
       href: powershell/index.md
-    - name: Commandes Powershell
-      href: powershell/cmdlets.md
+      items: 
+      - name: Commandes Powershell
+        href: powershell/cmdlets.md
+        
