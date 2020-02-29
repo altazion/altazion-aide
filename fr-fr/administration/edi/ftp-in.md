@@ -1,0 +1,5 @@
+# Module FTP/FTPS d'entrée
+
+
+<p>En mode h&eacute;berg&eacute;, nous mettons &agrave; votre disposition un serveur FTP, sur lequel vous pourrez cr&eacute;er des comptes utilisateurs pour d&eacute;poser ou pr&eacute;lever des fichiers pour vous ou pour vos clients, fournisseurs ou partenaires (vous pouvez cr&eacute;er jusqu'&agrave; 50 comptes utilisateurs).</p>  <p>Les donn&eacute;es techniques de connexion au serveur sont :</p>  <ul>  <li>protocole : <strong>FTP, FTPS</strong> (FTP over TLS)</li>  <li>adresse : <strong>ftp.simplement-e.com</strong></li>  <li>ports :&nbsp;<strong>21</strong> pour la connexion,<strong> 7015 &agrave; 7020</strong> pour les datas</li>  <li>nom d'utilisateur et mot de passe &agrave; r&eacute;cup&eacute;rer/cr&eacute;er dans l'espace Param&egrave;tres &gt; Echanges &gt; Espaces FTP</li>  </ul>  <p>Si vous n'avez pas acc&egrave;s &agrave; cette options dans vos param&egrave;tres, ajoutez la fonctionnalit&eacute; "M&eacute;diations" depuis Param&egrave;tres &gt; Votre Entreprise &gt; Fonctionnalit&eacute;s &gt; Technique</p>
+
