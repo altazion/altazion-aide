@@ -1,3 +1,5 @@
+- name: Configurer la solution
+  href: index.md
 - name: Catalogue
   items:
     - name: Articles (options générales)
