@@ -12,10 +12,16 @@
   href: onpremise/index.md
   items: 
     - name: Mises à jour
-      href: onpremise/version.md
+      href: onpremise/versions.md
     - name: Dossiers
       href: onpremise/dossier.md
 - name: Hebergé (SaaS)
   href: saas/index.md
 - name: Serveur local magasin
   href: storeserver/index.md
+- name: Références
+  items:
+    - name: Installer module Powershell
+      href: powershell/index.md
+    - name: Commandes Powershell
+      href: powershell/cmdlets.md
