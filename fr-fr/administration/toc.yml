@@ -2,7 +2,7 @@
   href: index.md
 - name: Installation
   href: installation.md
-- name: Tâches d'administration courantes
+- name: Tâches courantes
   items:
     - name: Gérer les utiliateurs
       href: common/users.md
@@ -26,4 +26,3 @@
       items: 
       - name: Commandes Powershell
         href: powershell/cmdlets.md
-        
