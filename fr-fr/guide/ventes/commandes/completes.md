@@ -61,6 +61,7 @@ Dans la plupart des cas, cette étape consiste exclusivement en une attente de l
 ### Etat 5
 
 Cet état correspond à la finalisation de la commande, de la prise en compte de la préparation. C'est dans cet état que sont gérés les reliquats, les conditions de ventes, etc. Par exemple, c'est dans cet état que sont ré-évalués les montants des règlements. Il s'agit d'un état transitoire.
+Une commande qui est dans l'état 5 ou dans un état supérieur ne peut plus être annulé, elle doit être remboursée.
 
 ### Etat 6
 
