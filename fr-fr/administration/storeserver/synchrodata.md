@@ -4,15 +4,15 @@ L'un des principaux cas d'utilisation du serveur local est de permettre un accè
 
 Si les échanges de données sont bi-directionnels, ils sont toujours réalisés à la demande du serveur en magasin et ne demande aucune ouverture de port en entrée. Les processus de synchronisation ont été conçus en respectant plusieurs principes :
 
-*   La réduction du besoin en bande passante et en volume de données, afin de ne pas pénaliser d'autres services utilisant la même connexion Internet (par exemple vos TPE)
-*   La confidentialité de vos informations : tous les échanges de données sont réalisés au travers d'un lien HTTPS, utilisant des certificats à durée de vie limitée
-*   L'indépendance des modules de données, permettant au serveur local de continuer à fonctionner et à mettre à jour le maximum de données même en cas d'anomalie(s) sur une partie des données
+* La réduction du besoin en bande passante et en volume de données, afin de ne pas pénaliser d'autres services utilisant la même connexion Internet (par exemple vos TPE)
+* La confidentialité de vos informations : tous les échanges de données sont réalisés au travers d'un lien HTTPS, utilisant des certificats à durée de vie limitée
+* L'indépendance des modules de données, permettant au serveur local de continuer à fonctionner et à mettre à jour le maximum de données même en cas d'anomalie(s) sur une partie des données
 
  Le processus de synchronisation est découpé en trois traitements séparés :
 
-*   la "synchronisation complète", réalisée une à deux fois par jour
-*   la récupération sur le serveur local, des modifications en cours de journée
-*   l'envoi "au fil de l'eau" de l'activité du magasin
+* la "synchronisation complète", réalisée une à deux fois par jour
+* la récupération sur le serveur local, des modifications en cours de journée
+* l'envoi "au fil de l'eau" de l'activité du magasin
 
 Les deux traitements "récurrents" peuvent être désactivés en fonction de vos besoins, de la bande passante disponible ou de votre souhait de confidentialité.
 
@@ -30,7 +30,7 @@ De part le volume de données plus important qu'il manipule, le traitement de sy
 
 Les volumes de données sont, bien entendu, fonction de votre base, mais voici quelques informations vous permettant d'évaluer le volume de données qui transitera :
 
-*   La configuration et toutes les données de paramètrage : environ 100ko à chaque récupération de données
-*   la partie "catalogue" : pour 5000 références produits environ 1mo en synchronisation complete et 5ko à chaque récupération de données
-*   la base de données "clients et fidélité" : volumes similaires au catalogue : environ 1mo (complet) et 5ko (récupération) pour 5000 clients
-*   l'animation commerciale : environ 20ko à chaque récupération de données
+* La configuration et toutes les données de paramètrage : environ 100ko à chaque récupération de données
+* la partie "catalogue" : pour 5000 références produits environ 1mo en synchronisation complete et 5ko à chaque récupération de données
+* la base de données "clients et fidélité" : volumes similaires au catalogue : environ 1mo (complet) et 5ko (récupération) pour 5000 clients
+* l'animation commerciale : environ 20ko à chaque récupération de données

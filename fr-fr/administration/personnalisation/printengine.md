@@ -47,9 +47,9 @@ Element enfant : `<Header>`,_`<Row>`_
 
 Attributs :
 
-*   **bodyLocation** : position du contenu du report (c'est a dire l'ensemble des rows) sous la forme "x;y" (ex : 65;48)
-*   **bodySize** : taille du contenu du report sous la forme "width;height" (ex : 550;450)
-*   **rowSize** : taille d'une ligne sous la forme "width;height" (ex : 550;50)
+* **bodyLocation** : position du contenu du report (c'est a dire l'ensemble des rows) sous la forme "x;y" (ex : 65;48)
+* **bodySize** : taille du contenu du report sous la forme "width;height" (ex : 550;450)
+* **rowSize** : taille d'une ligne sous la forme "width;height" (ex : 550;50)
 
 ## Element `<Header>`
 
@@ -69,11 +69,11 @@ Ajoute une image dans un conteneur Page, PageModel etc.
 
 Attributs :
 
-*   **position** : position sous la forme "x;y" (ex : 65;48)
-*   **image** : path vers l'image  (format de fichiers supportés : tous ceux de GDI+ dont : jpeg, gif, png, bmp...)
-    *   soit sous la forme "pathverslefichier.jpg" (ex : fondPage.jpg)
-    *   soit sous la forme "#nomdelassembly,nomdelaressource) (ex : #CPointSoftware.Tools,CPointSoftware.Tools.Logo.png)
-*   size : defini la taille de l'image sur la sortie au format "width;height", si cet élément n'est pas précisé, la taille de l'image est utilisé.
+* **position** : position sous la forme "x;y" (ex : 65;48)
+* **image** : path vers l'image  (format de fichiers supportés : tous ceux de GDI+ dont : jpeg, gif, png, bmp...)
+    * soit sous la forme "pathverslefichier.jpg" (ex : fondPage.jpg)
+    * soit sous la forme "#nomdelassembly,nomdelaressource) (ex : #CPointSoftware.Tools,CPointSoftware.Tools.Logo.png)
+* size : defini la taille de l'image sur la sortie au format "width;height", si cet élément n'est pas précisé, la taille de l'image est utilisé.
 
 ## Element `<Text>` ou `<String>`
 
@@ -81,13 +81,13 @@ Ajoute une chaine de caracteres dans un conteneur
 
 Attributs :
 
-*   **position** : position sous la forme "x;y" (ex : 65;48)
-*   text : texte à imprimer
-*   font : la fonte à utiliser, le format est le suivante : {font-face} [, {size}] [,{normal|bold|italic}]
-*   stringFormat : alignement : {center}|{far}|{near}
-*   color : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
-*   autoHeightExpand : si _true_, le champs s'etendra automatiquement au niveau de la hauteur pour correspondre au texte 
-*   size : defini la taille de la zone de texte sur la sortie au format "width;height"
+* **position** : position sous la forme "x;y" (ex : 65;48)
+* text : texte à imprimer
+* font : la fonte à utiliser, le format est le suivante : {font-face} [, {size}] [,{normal|bold|italic}]
+* stringFormat : alignement : {center}|{far}|{near}
+* color : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
+* autoHeightExpand : si _true_, le champs s'etendra automatiquement au niveau de la hauteur pour correspondre au texte 
+* size : defini la taille de la zone de texte sur la sortie au format "width;height"
 
 ## Element `<HorizontalLine>`
 
@@ -95,9 +95,9 @@ Dessine une ligne horizontale sur le conteneur
 
 Attributs :
 
-*   **position** : position sous la forme "x;y" (ex : 65;48)
-*   color : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
-*   size : defini la taille de la ligne (avec le height=epaisseur du trait)
+* **position** : position sous la forme "x;y" (ex : 65;48)
+* color : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
+* size : defini la taille de la ligne (avec le height=epaisseur du trait)
 
 ## Element `<PageNumber>`
 
@@ -105,13 +105,13 @@ Affiche le n° de la page dans un conteneur
 
 Attributs :
 
-*   **position** : position sous la forme "x;y" (ex : 65;48)
-*   _format_ : le masque utilisé pour l'impression, le texte renseigné dans cet attribut sera imprimé avec un remplacement à la string.format : format="Page {CurrentPage:00}" donnera Page 01\. Les champs connus sont CurrentPage, CurrPage et TotalPage
-*   font : la fonte à utiliser, le format est le suivante : {font-face} [, {size}] [,{normal|bold|italic}]
-*   stringFormat : alignement : {center}|{far}|{near}
-*   color : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
-*   autoHeightExpand : si _true_, le champs s'etendra automatiquement au niveau de la hauteur pour correspondre au texte 
-*   size : defini la taille de la zone de texte sur la sortie au format "width;height"
+* **position** : position sous la forme "x;y" (ex : 65;48)
+* _format_ : le masque utilisé pour l'impression, le texte renseigné dans cet attribut sera imprimé avec un remplacement à la string.format : format="Page {CurrentPage:00}" donnera Page 01\. Les champs connus sont CurrentPage, CurrPage et TotalPage
+* font : la fonte à utiliser, le format est le suivante : {font-face} [, {size}] [,{normal|bold|italic}]
+* stringFormat : alignement : {center}|{far}|{near}
+* color : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
+* autoHeightExpand : si _true_, le champs s'etendra automatiquement au niveau de la hauteur pour correspondre au texte 
+* size : defini la taille de la zone de texte sur la sortie au format "width;height"
 
 ## Element `<FilledRectangle>`
 
@@ -119,9 +119,9 @@ Affiche un rectangle (rempli) dans la page
 
 Attributs :
 
-*   **position** : position sous la forme "x;y" (ex : 65;48)
-*   **color** : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
-*   **size** : defini la taille de la zone de texte sur la sortie au format "width;height"
+* **position** : position sous la forme "x;y" (ex : 65;48)
+* **color** : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
+* **size** : defini la taille de la zone de texte sur la sortie au format "width;height"
 
 ## Element `<HollowRectanbgle>`
 
@@ -129,6 +129,6 @@ Affiche un rectangle (vide) dans la page
 
 Attributs :
 
-*   **position** : position sous la forme "x;y" (ex : 65;48)
-*   **color** : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
-*   **size** : defini la taille de la zone de texte sur la sortie au format "width;height"
+* **position** : position sous la forme "x;y" (ex : 65;48)
+* **color** : couleur au format HTML : #XXXXXX ou l'une des couleurs prédéfinies
+* **size** : defini la taille de la zone de texte sur la sortie au format "width;height"

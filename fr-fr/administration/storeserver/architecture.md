@@ -17,10 +17,10 @@ En activant le mode bi-directionnel, vous permettez au service cloud de réalise
 
 Lorsque vous activez le mode bi-directionnel, le serveur local magasin "publie" un point d'accès API au travers d'Azure Service Bus Relay pour le rendre accessible à notre environnement Cloud. L'utilisation de Service Bus Relay permet d'établir une connexion sécurisée entre le serveur se trouvant dans votre magasin et notre environnement Cloud :
 
-*   Il n'y a, par défaut, aucun port à ouvrir : toute la communication se fait à l'instigation du serveur magasin et utilise le port 443
-*   Toutes les communications sont sécurisées via l'utilisation du protocole HTTPS.
-*   La communication étant établie par le serveur magasin, seules les fonctionnalités nécessaires sont publiées, limitant ainsi la surface d'attaque
-*   Seuls les clients duement autorisés au sein d'Azure sont susceptibles d'accéder aux services publiées par le magasin.
+* Il n'y a, par défaut, aucun port à ouvrir : toute la communication se fait à l'instigation du serveur magasin et utilise le port 443
+* Toutes les communications sont sécurisées via l'utilisation du protocole HTTPS.
+* La communication étant établie par le serveur magasin, seules les fonctionnalités nécessaires sont publiées, limitant ainsi la surface d'attaque
+* Seuls les clients duement autorisés au sein d'Azure sont susceptibles d'accéder aux services publiées par le magasin.
 
 ![architecture-serveurlocalconnexion](images/architecture-serveurlocalconnexion.png)
 
@@ -30,4 +30,4 @@ Pour une liste complète des fonctionnalités mise à disposition via Azure Serv
 
 Pour utiliser le mode bi-directionnel, vous devez ouvrir les ports suivants :
 
-*   En sortie : le port 443 en TCP, pour autoriser le flux de données du protocole HTTPS
+* En sortie : le port 443 en TCP, pour autoriser le flux de données du protocole HTTPS

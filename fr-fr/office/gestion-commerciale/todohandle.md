@@ -11,9 +11,9 @@ Pour réaliser la tâche choisie, allez sur la commande d'action d'une tâche pu
 
 En cliquant sur **Traiter**, vous aurez accès à différentes actions, comme :
 
-*   Ouvrir le dossier
-*   Marquer comme terminé
-*   Transférer la tâche
-*   Ignorer la tâche
+* Ouvrir le dossier
+* Marquer comme terminé
+* Transférer la tâche
+* Ignorer la tâche
 
 > A savoir : les actions sont paramètrables

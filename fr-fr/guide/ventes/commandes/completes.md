@@ -6,14 +6,14 @@ Les commandes complètes sont utilisées lorsque les processus commerciaux et lo
 
 Les commandes complètes passent par une progression au travers de 8 états :
 
-*   0 : création / entrée de la commande
-*   1 : validation technique
-*   2 : validation commerciale
-*   3 : mise en préparation
-*   4 : préparation
-*   5 : prise en compte de la préparation
-*   6 : finalisation de la commande
-*   7 : archivage
+* 0 : création / entrée de la commande
+* 1 : validation technique
+* 2 : validation commerciale
+* 3 : mise en préparation
+* 4 : préparation
+* 5 : prise en compte de la préparation
+* 6 : finalisation de la commande
+* 7 : archivage
 
 Toutes les commandes complètes passent par l'intégralité de ces 8 étapes. Certains états sont transitoires, d'autres peuvent durer le temps d'une opération plus ou moins longue (par exemple, l'état 4 dure pendant toute la phase de préparation logistique de la commande).
 
@@ -29,10 +29,10 @@ Une fois la commande sortie de l'état 0, le contenu, les conditions de ventes, 
 
 Cet état est normalement transitoire et correspond à la validation technique de la commande. Particulièrement utilisé lors de commande EDI ou e-commerce, une commande restant dans cet état plus de quelques minutes peut être considérée comme présentant une anomalie. Les traitements standards dans cet état sont principalement des vérification :
 
-*   de la cohérence du compte client
-*   de la cohérence des conditions de ventes
-*   de la présence d'un mode de règlement pour les éléments payées à la commande
-*   etc.
+* de la cohérence du compte client
+* de la cohérence des conditions de ventes
+* de la présence d'un mode de règlement pour les éléments payées à la commande
+* etc.
 
 ### Etat 2
 
@@ -40,11 +40,11 @@ Il s'agit de l'étape de vérification commerciale d'une commande. Elle peut êt
 
 Les traitements standards :
 
-*   Validation du compte client (vérification d'un nouveau client)
-*   Attente du règlement
-*   Gestion du risque
-*   Gestion de l'en-cours
-*   ...
+* Validation du compte client (vérification d'un nouveau client)
+* Attente du règlement
+* Gestion du risque
+* Gestion de l'en-cours
+* ...
 
 ### Etat 3
 
@@ -67,9 +67,9 @@ Une commande qui est dans l'état 5 ou dans un état supérieur ne peut plus êt
 
 Les commandes dans cet état, transitoire dans la plupart des cas, vont être examinées pour générer toutes les pièces comptables à réaliser : c'est dans cette phase que sont, dans les cas habituels, générés les factures, avoirs, consommation d'encours et de règlement. Les modules standards sont, par exemple :
 
-*   Facturation des commandes
-*   Mise en attente jusqu'à réception des colis
-*   Calcul de l'encours client
+* Facturation des commandes
+* Mise en attente jusqu'à réception des colis
+* Calcul de l'encours client
 
 ### Etat 7
 

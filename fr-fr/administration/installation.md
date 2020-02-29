@@ -2,8 +2,8 @@
 
 Nos solutions pour le commerce sont disponibles sous 2 formes : 
 
-*   en mode "SaaS" : l'application est hébergée sur notre infrastructure
-*   en mode "OnPremise" : vous installez et administrez la solution sur vos serveurs
+* en mode "SaaS" : l'application est hébergée sur notre infrastructure
+* en mode "OnPremise" : vous installez et administrez la solution sur vos serveurs
 
 ## Mode SaaS
 

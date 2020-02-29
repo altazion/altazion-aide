@@ -16,13 +16,13 @@ Pour gérer une tâche, cliquez sur "**Traiter**" et complétez les informations
 
 ### DÉTAILS DE LA TÂCHE
 
-*   **Sujet** : Résumez la thématique abordée par cette tâche (Exemple : "Validation des opérations de click&collect")
-*   **Détails** : Détaillez l'opération à effectuer (Exemple : Les commandes click&collect n'ont pas pu être validées. Message d'erreur : 5925-512)
+* **Sujet** : Résumez la thématique abordée par cette tâche (Exemple : "Validation des opérations de click&collect")
+* **Détails** : Détaillez l'opération à effectuer (Exemple : Les commandes click&collect n'ont pas pu être validées. Message d'erreur : 5925-512)
 
 ### ACTION
 
-*   **Transférer la tâche** : Permet d'envoyer la tâche à un autre utilisateur si cette dernière ne vous est pas destinée ou si vous avez précédemment oublié d'inclure un collaborateur dans un groupe de travail (_Après avoir cliqué sur "**Transférer la tâche**", tapez les premiers caractères du **Nom**, **Prénom** ou de l'**Adresse mail** du **Destinataire** auquel vous souhaitez confier l'opération puis sélectionnez ce dernier. Si besoin, vous pouvez également modifier les **Détails de la Tâche** afin d'apporter un complément d'informations. Cliquez enfin sur "**Transférer la tâche**" dans le haut gauche de votre écran pour valider votre choix_)
-*   **Ignorer la tâche** : Fait disparaître la tâche de la to-do list (ATTENTION: Si le problème / l'opération n'a pas été traitée, cette tâche pourrait réapparaître ultérieurement)
+* **Transférer la tâche** : Permet d'envoyer la tâche à un autre utilisateur si cette dernière ne vous est pas destinée ou si vous avez précédemment oublié d'inclure un collaborateur dans un groupe de travail (_Après avoir cliqué sur "**Transférer la tâche**", tapez les premiers caractères du **Nom**, **Prénom** ou de l'**Adresse mail** du **Destinataire** auquel vous souhaitez confier l'opération puis sélectionnez ce dernier. Si besoin, vous pouvez également modifier les **Détails de la Tâche** afin d'apporter un complément d'informations. Cliquez enfin sur "**Transférer la tâche**" dans le haut gauche de votre écran pour valider votre choix_)
+* **Ignorer la tâche** : Fait disparaître la tâche de la to-do list (ATTENTION: Si le problème / l'opération n'a pas été traitée, cette tâche pourrait réapparaître ultérieurement)
 
 Pour interrompre le traitement de la tâche et revenir à la to-do list, cliquez sur "**Annuler**" dans le haut gauche de votre écran
 

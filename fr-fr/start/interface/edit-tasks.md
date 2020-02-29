@@ -20,9 +20,9 @@ Associez la tâche à un utilisateur ayant un droit d'accès au back-office
 
 ### **CONTENU**
 
-*   **Sujet** : Indiquez la thématique de la tâche créée (Exemple : "Modification des tailles produits")
-*   **Échéance** : Sélectionnez dans le calendrier la date d'échéance de la tâche à traiter. Cochez la case "**Urgent**" si la tâche doit être traitée dans les plus brefs délais
-*   **Détails** : Indiquez en détails l'opération à effectuer pour cette tâche (Exemple : Modifier les tailles produits "S" en "M" dans le catalogue Homme)
+* **Sujet** : Indiquez la thématique de la tâche créée (Exemple : "Modification des tailles produits")
+* **Échéance** : Sélectionnez dans le calendrier la date d'échéance de la tâche à traiter. Cochez la case "**Urgent**" si la tâche doit être traitée dans les plus brefs délais
+* **Détails** : Indiquez en détails l'opération à effectuer pour cette tâche (Exemple : Modifier les tailles produits "S" en "M" dans le catalogue Homme)
 
 Cliquez sur "**Enregistrer**" pour valider la création de la tâche
 

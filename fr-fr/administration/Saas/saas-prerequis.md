@@ -8,8 +8,8 @@ Afin d'accèder à l'interface web, vous devez avoir accès à l'url https://app
 
 En complément de l'accès à l'interface web, vous pourrez avoir besoin :
 
-*   d'un accès FTP au serveur ftp.simplement-e.com, en sortie sur le port 21 pour la connexion et 7015 à 7020 pour le transfert de données
-*   d'accès http/https vers vos applications tierces comme Google Apps, Outlook, etc.
+* d'un accès FTP au serveur ftp.simplement-e.com, en sortie sur le port 21 pour la connexion et 7015 à 7020 pour le transfert de données
+* d'accès http/https vers vos applications tierces comme Google Apps, Outlook, etc.
 
 ## Applications Windows, Mac, Android & iOS
 
@@ -21,7 +21,7 @@ Chaque application décrit ses pré-requis technique dans l'AppStore de la plate
 
 Pour fonctionner correctement, l'application de caisse tactile Windows demande la configuration minimale suivante :
 
-*   OS : Windows 7 ou supérieur
-*   Mémoire : 2Go pour Windows 7, 4Go pour les versions ultérieures
-*   Espace libre : au moins 1Go
-*   Affichage : 1024x768 ou 1280x768, ou des résolutions supérieures
+* OS : Windows 7 ou supérieur
+* Mémoire : 2Go pour Windows 7, 4Go pour les versions ultérieures
+* Espace libre : au moins 1Go
+* Affichage : 1024x768 ou 1280x768, ou des résolutions supérieures

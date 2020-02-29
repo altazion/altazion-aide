@@ -7,10 +7,10 @@ Cette page va vous permettre de visualiser les différents **prix de votre artic
 
 Il existe plusieurs types de tarifs :
 
-*   Tarifs de base
-*   Tarifs spécifiques à un canal de vente
-*   Grille de tarif
-*   Etc...
+* Tarifs de base
+* Tarifs spécifiques à un canal de vente
+* Grille de tarif
+* Etc...
 
 ### Tarifs de base
 

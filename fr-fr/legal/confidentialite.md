@@ -10,14 +10,14 @@ A moins qu’un consentement exprès ne soit requis par les lois de votre pays e
 
 ### par la plateforme "gestion commerciale"
 
-*   nom et prénom
-*   e-mail
+* nom et prénom
+* e-mail
 
 ### par les outils "vendeurs"
 
-*   nom et prénom du vendeur
-*   e-mail du vendeur
-*   numéro de téléphone professionel
+* nom et prénom du vendeur
+* e-mail du vendeur
+* numéro de téléphone professionel
 
 ### Cookies
 
@@ -29,12 +29,12 @@ Les paramètres par défaut des navigateurs internet sont habituellement réglé
 
 Nous utilisons principalement vos données personnelles afin :
 
-*   de vous fournir le service auquel vous avez souscrit
-*   d'en personnaliser l'expérience
-*   de rester en contact avec vous, au moyen de contact par e-mails (newsletters) ou téléphonique
-*   de mieux comprendre l'utilisation que vous faîtes de nos services au vue de son amélioration
-*   de gérer votre compte en ligne
-*   d'établir la facturation des services consommés
+* de vous fournir le service auquel vous avez souscrit
+* d'en personnaliser l'expérience
+* de rester en contact avec vous, au moyen de contact par e-mails (newsletters) ou téléphonique
+* de mieux comprendre l'utilisation que vous faîtes de nos services au vue de son amélioration
+* de gérer votre compte en ligne
+* d'établir la facturation des services consommés
 
 ## Comment accèder à vos données personnelles ?
 
@@ -42,8 +42,8 @@ Vous avez la possibilité de nous contacter par courrier postal, par courrier é
 Si vous identifiez une erreur parmi ces données ou si vous les jugez incomplètes ou erronées, vous pouvez également nous demander de les corriger ou de les compléter.  
 Enfin, vous pouvez nous demander de supprimer toute donnée personnelle qui vous concerne et que nous détenons. Toutefois, veuillez noter que :
 
-*   nous sommes susceptibles de conserver une trace de vos données à des fins d’archivage (en particulier lorsque la loi nous l’impose)
-*   nous serions alors amené à interromptre totalement le service auquel vous avez souscrit.
+* nous sommes susceptibles de conserver une trace de vos données à des fins d’archivage (en particulier lorsque la loi nous l’impose)
+* nous serions alors amené à interromptre totalement le service auquel vous avez souscrit.
 
 Conformément à la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, le traitement des informations nominatives collectées sur ce support a fait l’objet d’une déclaration auprès de la Commission Nationale de l’Informatique et des Libertés. Vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données vous concernant.
 

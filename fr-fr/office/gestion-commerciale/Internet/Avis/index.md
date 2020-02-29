@@ -7,8 +7,8 @@ Dans cette page, vous trouverez **les différents avis rédigés par votre clien
 
 Il existe deux modes d'avis:
 
-*   Le mode **classique**, qui correspond à un mode de correction (orthographique etc) d'un avis client.
-*   La **norme française**, (norme conseillé) correspond à un mode permettant d'instaurer une relation de confiance avec la clientèle (répondre aux clients), de contrôler les avis insultants ou tout autres caractères injurieux. 
+* Le mode **classique**, qui correspond à un mode de correction (orthographique etc) d'un avis client.
+* La **norme française**, (norme conseillé) correspond à un mode permettant d'instaurer une relation de confiance avec la clientèle (répondre aux clients), de contrôler les avis insultants ou tout autres caractères injurieux. 
 
 ### Rechercher un avis
 

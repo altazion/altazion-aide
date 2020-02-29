@@ -36,8 +36,8 @@ Si vous avez développé des éléments personnalisés (modules, modèles de doc
 
 Les dossiers des différentes applications clientes suivent les règles habituelles de déploiement d’applications sous Windows. Vous trouverez donc celles-ci :
 
-*   Soit dans le sous-dossier {Program\_files}\\CPoint\\\[e\]\\ si vous effectuez une installation « par machine »
-*   Soit dans le sous-dossier {Local\_AppData}\\CPoint\\\[e\]\\ dans le cadre d’un déploiement « par utilisateur »
+* Soit dans le sous-dossier {Program\_files}\\CPoint\\\[e\]\\ si vous effectuez une installation « par machine »
+* Soit dans le sous-dossier {Local\_AppData}\\CPoint\\\[e\]\\ dans le cadre d’un déploiement « par utilisateur »
 
 ### MISES A JOUR
 

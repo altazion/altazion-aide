@@ -2,9 +2,9 @@
 
 Ce formulaire va vous permettre de **modifier les informations générales** de votre article grâce à trois points distinct :
 
-*   **Modification générale** (référence, type d'article, type de stockage etc)
-*   **Attributs** (segmentation, code EAN)
-*   **Tags et labels** (mise en avant de l'article)
+* **Modification générale** (référence, type d'article, type de stockage etc)
+* **Attributs** (segmentation, code EAN)
+* **Tags et labels** (mise en avant de l'article)
 
 Modification générale et propriété
 ----------------------------------

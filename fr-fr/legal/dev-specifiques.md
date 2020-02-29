@@ -19,12 +19,12 @@ Dans la mesure ou les spécifications ont été suffisament détaillées, l'édi
 L'éditeur n'engage sa responsabilité qu'en terme d'obligation de moyen et non de résultats, et ce, exclusivement sur les éléments du développement spécifique sur lesquels il est notoirement compétent.  
 L'éditeur ne saurait être tenu pour responsable en cas d'impossibilité de réalisation due à un facteur ne relevant pas de sa responsabilité. Notamment et sans que la liste soit exhaustive :
 
-*   une erreur dans les spécifications
-*   la défaillance d'un ou plusieurs partenaires de l'Editeur listés dans les conditions générales d'utilisation
-*   la défaillance du client ou d'un ou plusieur de ses partenaires
-*   la modification du cadre légal demandant modification de tout ou partie du développement
-*   une impossibilité technique
-*   la disparition ou le changement des conditions d'utilisation d'un service ou d'un composant logiciel tiers
+* une erreur dans les spécifications
+* la défaillance d'un ou plusieurs partenaires de l'Editeur listés dans les conditions générales d'utilisation
+* la défaillance du client ou d'un ou plusieur de ses partenaires
+* la modification du cadre légal demandant modification de tout ou partie du développement
+* une impossibilité technique
+* la disparition ou le changement des conditions d'utilisation d'un service ou d'un composant logiciel tiers
 
 Dans ce cadre, l'éditeur se réserve le droit de vous facturer tous les travaux engagés jusqu'à ce que l'impossibilité de réalisation soit constatée
 
@@ -46,7 +46,7 @@ En particulier, l'Editeur s'engage à effectuer tout correction découlant d'ano
 
 Sont exclus de la garantie toutes anomalies :
 
-*   ayant fait l'objet d'une acceptation "en l'état"
-*   rendus obsolètes pour cause d'évolution des composants standards
-*   non conformes à la législation en vigueur
-*   qui entrainerait le redéveloppement total ou partiel d'un autre développement spécifique ou d'une fonctionnalité standard.
+* ayant fait l'objet d'une acceptation "en l'état"
+* rendus obsolètes pour cause d'évolution des composants standards
+* non conformes à la législation en vigueur
+* qui entrainerait le redéveloppement total ou partiel d'un autre développement spécifique ou d'une fonctionnalité standard.

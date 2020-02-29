@@ -57,8 +57,8 @@ Le présent document ainsi que les Définitions sont applicables au Client quelq
 Le présent contrat est soumis aux lois et réglementations du pays dans lequel le logiciel est utilisé. En cas de conflit manifeste entre les termes du présent contrat et la réglementation, l'Editeur se réserve le droit de suspendre la commercialisation du logiciel dans le pays concerné.  
 A cette date les pays suivants sont considérés comme commercialisés :
 
-*   France
-*   Belgique
+* France
+* Belgique
 
 L'utilisation de la Solution dans tout autre pays est réalisée sous l'entière responsabilité du Client. Celui-ci pourra signaler à l'Editeur toute inadéquation de Solution avec la législation et la réglementation du pays dans lequel il exploite la Solution. Ce signalement ne vaut pas accord de l'Editeur de se conformer aux contraintes du pays d'exploitation.
 
@@ -86,9 +86,9 @@ L'Editeur n'engage sa responsabilité qu'au titre des dommages directs engendré
 
 L'Editeur rappelle notamment au Client que :
 
-*   la perte de toute opération ou données non enregistrée sur la plateforme ne peut en aucun cas être la responsabilité de l'Editeur
-*   la sauvegarde des données est seule garante de la non disparition de celles-ci en case de manipulation incorrecte
-*   la Solution en doit pas être utilisée lors d'une activité pouvant comporter des risques, notamment et sans que cette liste soit exhaustive : en conduisant, en opérant un outillage ou pendant toute manipulation de matières dangereuses.
+* la perte de toute opération ou données non enregistrée sur la plateforme ne peut en aucun cas être la responsabilité de l'Editeur
+* la sauvegarde des données est seule garante de la non disparition de celles-ci en case de manipulation incorrecte
+* la Solution en doit pas être utilisée lors d'une activité pouvant comporter des risques, notamment et sans que cette liste soit exhaustive : en conduisant, en opérant un outillage ou pendant toute manipulation de matières dangereuses.
 
 En état de cause, la responsabilité de l'Editeur ne saurait être engagés sur les dommages indirects ou sur les dommages directs non intégralement imputable à la Solution tels que pertes de chiffre d'affaire, de clientèle, préjudice commercial, financier ou d'image.
 
