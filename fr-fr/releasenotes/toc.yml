@@ -1,6 +1,6 @@
 - name: v20
   items:
+    - name: v20.1 - 9-fev.
+      href: index.md
     - name: v20.0 - 12-janv.
       href: 20_0.md
-    - name: v20.1 - 9-fev.
-      href: 20_1.md
