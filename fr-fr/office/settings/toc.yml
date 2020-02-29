@@ -1,5 +1,41 @@
 - name: Configurer la solution
   href: index.md
+- name: Votre Entreprise
+  items:
+  - name: Fonctionnalités
+    items:
+      - name: index
+        href: Systeme/features/index.md
+  - name: Message
+    items:
+      - name: index
+        href: VotreEntreprise/Message/index.md
+  - name: Utilisateur & droits
+    href: Systeme/Users/index.md
+    items:
+      - name: Créer un utilisateur
+        href: Systeme/Users/nouveau.md
+      - name: Modifier
+        href: Systeme/Users/EditUser.md
+      - name: Modifier les droits
+        href: Systeme/Users/EditAutorisation.md
+      - name: InteractionUtilisateur
+        href: Systeme/Users/InteractionUtilisateur.md
+      - name: licences
+        href: Systeme/Users/licences.md
+      - name: NouveauGroupe
+        href: Systeme/Users/NouveauGroupe.md
+      - name: NouvelUtilisateur
+        href: Systeme/Users/NouvelUtilisateur.md
+      - name: ReInitPassword
+        href: Systeme/Users/ReInitPassword.md
+  - name: Tâches
+    href: Systeme/todos/index.md
+    items:
+      - name: Définir les destinataires
+        href: Systeme/todos/changetodo.md
+  - name: Licences
+    href: Administration/Licences/index.md
 - name: Catalogue
   items:
     - name: Articles (options générales)
@@ -39,7 +75,7 @@
   items:
     - name: Newsletters
       href: commercial/Newsletters/index.md
-- name: communication
+- name: Communications
   items:
     - name: E-Mails
       items:
@@ -50,54 +86,40 @@
             href: communication/mails/EditCompteSend.md
         - name: Options Générales
           href: communication/optionemail/index.md
-- name: ECommerce
+- name: Internet
   items:
     - name: Google
       items:
         - name: Analytics
           href: ECommerce/Google/Analytics.md
-    - name: tagmanager
+    - name: Tracking TagManager
+      href: ECommerce/tagmanager/index.md
       items:
-        - name: contenujavascript
+        - name: Modifier un tag de tracking
+          href: ECommerce/tagmanager/edittag.md          
+        - name: Avancé - tag en javascript
           href: ECommerce/tagmanager/contenujavascript.md
-        - name: edittag
-          href: ECommerce/tagmanager/edittag.md
-        - name: index
-          href: ECommerce/tagmanager/index.md
-    - name: tags
+    - name: Tags & labels
+      href: ECommerce/tags/index.md
       items:
-        - name: edit
+        - name: Modifier
           href: ECommerce/tags/edit.md
-        - name: EditTagsPourDescente
-          href: ECommerce/tags/EditTagsPourDescente.md
-        - name: index
-          href: ECommerce/tags/index.md
-- name: Facturesetavoirs
-  items:
-    - name: clients
+        - name: Choisir les tags affichés
+          href: ECommerce/tags/EditTagsPourDescente.md          
+    - name: Gestion du risque
       items:
-        - name: index
-          href: Facturesetavoirs/clients/index.md
-- name: Internet
-  items:
-    - name: blacklist
-      items:
-        - name: EditBlackList
+        - name: Liste noire
           href: Internet/blacklist/EditBlackList.md
-    - name: blacklistIP
-      items:
-        - name: index
+        - name: Liste noire IP
           href: Internet/blacklistIP/index.md
-    - name: settings
+    - name: CrossCanal
       items:
-        - name: ECommerce
-          items:
-            - name: CrossCanal
-              items:
-                - name: default
-                  items:
-                    - name: index
-                      href: Internet/settings/ECommerce/CrossCanal/default.md/index.md
+        - name: Options générales
+          href: Internet/settings/ECommerce/CrossCanal/default.md/index.md          
+- name: Ventes
+  items:
+    - name: Types de client
+      href: ventes/clients/typesclients.md
 - name: PointOfSale
   items:
     - name: Groupesanimations
@@ -112,40 +134,5 @@
   items:
     - name: rails
       href: processus/rails.md
-- name: Votre Entreprise
-  items:
-    - name: Fonctionnalités
-      items:
-        - name: index
-          href: Systeme/features/index.md
-    - name: Message
-      items:
-        - name: index
-          href: VotreEntreprise/Message/index.md
-    - name: Utilisateur & droits
-      href: Systeme/Users/index.md
-      items:
-        - name: Créer un utilisateur
-          href: Systeme/Users/nouveau.md
-        - name: Modifier
-          href: Systeme/Users/EditUser.md
-        - name: Modifier les droits
-          href: Systeme/Users/EditAutorisation.md
-        - name: InteractionUtilisateur
-          href: Systeme/Users/InteractionUtilisateur.md
-        - name: licences
-          href: Systeme/Users/licences.md
-        - name: NouveauGroupe
-          href: Systeme/Users/NouveauGroupe.md
-        - name: NouvelUtilisateur
-          href: Systeme/Users/NouvelUtilisateur.md
-        - name: ReInitPassword
-          href: Systeme/Users/ReInitPassword.md
-    - name: Tâches
-      href: Systeme/todos/index.md
-      items:
-        - name: Définir les destinataires
-          href: Systeme/todos/changetodo.md
-    - name: Licences
-      href: Administration/Licences/index.md
+
                       
