@@ -16,17 +16,7 @@ Si vous souhaitez utiliser notre service d'envoi direct de commande en magasin, 
 * Port : **443**
 * Nom du serveur Cloud : **e-serversync-ns.servicebus.windows.net**
 
-Si vous hébergez vos images, videos et documents sur notre plateforme hebergée, vous aurez aussi besoin d'ouvrir l'accès au service de stockage de données :
-
-* Protocole de communication : **HTTPS**
-* Port : **443**
-* nom du serveur : **simplementedata.blob.core.windows.net**
-
-Pour nous permettre de répondre plus rapidement en cas d'anomalie constatée, les deux ouvertures de port en sortie _facultatifs_ suivants sont recommandées :
-
-* protocole : **HTTPS**
-* Port : **443**
-* serveurs : **api.logmatic.io** et **koostodesapp-ns.servicebus.windows.net**
+[!include[detailparref](../onpremise/outgoing-network.include.md)]
 
 ### Configuration avec un proxy
 
