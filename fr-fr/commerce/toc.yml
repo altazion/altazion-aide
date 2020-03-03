@@ -1,0 +1,20 @@
+- name: Présentation
+  href: index.md
+- name: Catalogue
+  href: catalogue.md
+  items:
+    - name: Descente/recherche
+      href: catalogue_descente.md
+- name: Process
+  href: process.md
+  items:
+    - name: Ajouter au panier
+      href: process_addtocart.md
+    - name: Panier
+      href: process_cart.md
+    - name: Livraison
+      href: process_shipping.md
+    - name: Connexion
+      href: process_login.md
+    - name: Paiment
+      href: process_payment.md

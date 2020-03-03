@@ -1,2 +1,0 @@
-# Page ajout au panier
-

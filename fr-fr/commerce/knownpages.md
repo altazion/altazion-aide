@@ -25,7 +25,7 @@ Les points API sont situés dans un path ayant la forme :
 par exemple
 
     /api/process/nui/?action=getadresseslivraison
-    //api/process/nui/?action=checkemail&email={email}
+    /api/process/nui/?action=checkemail&email={email}
 
 ## Callbacks services externes
 
