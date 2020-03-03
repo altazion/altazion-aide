@@ -29,3 +29,24 @@ par exemple
 
 ## Callbacks services externes
 
+Certains services externes demandent des callbacks et/ou des pages de retours connues pour fonctionner. C'est par exemple le cas des plateformes de paiement : lorsque le client a terminé de payer, il doit être renvoyé vers une page de votre site.
+
+### Callbacks de paiement
+
+Les modules de paiement suivent tous les même format de page de retour interactif et les retours callback "serveur à serveur" :
+
+    /exec/reglements/{nomdumodule}/*.ashx
+
+> [!WARNING]
+> Attention, les paths de nos solutions ne sont pas case sensitives : il est possible que des majuscules et miniscules soient mixées dans les urls.
+
+Quelques exemples :
+
+|Mode de paiement|Retour interactif|Callback serveur|
+|---|---|---|
+|Adyen|`/Exec/reglements/Adyen/Adyen.ashx`|`/Exec/reglements/Adyen/AdyenAutoResponse.ashx`|
+|Atos 2.0|`/Exec/reglements/Atos2/Atos2.ashx`|`/Exec/reglements/Atos2/Atos2AutoResponse.ashx`|
+|Braintree|`/Exec/reglements/Braintree/Braintree.ashx`|-
+|KlikAndPay|`/Exec/reglements/KlikAndPay/KlikAndPay.ashx`, `/Exec/reglements/KlikAndPay/RetourHS.ashx`, `/Exec/reglements/KlikAndPay/RetourOK.ashx`|`/Exec/reglements/KlikAndPay/RetourDynamique.ashx`|
+|Paypal|`/Exec/reglements/PayPal/paypal.ashx`|`/Exec/reglements/PayPal/ipn.ashx`|
+
