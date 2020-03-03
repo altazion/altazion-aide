@@ -26,3 +26,5 @@
       items: 
       - name: Commandes Powershell
         href: powershell/cmdlets.md
+- name: Modules
+  href: modules/toc.yml
