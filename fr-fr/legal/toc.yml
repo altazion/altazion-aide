@@ -14,8 +14,8 @@
       href: evolutive.md
     - name: Maintenace corrective
       href: maintenance-corrective.md      
-    - name: Annexes
-      href: annexes.md
+    - name: Annexe 1 - contenu de la solution
+      href: desc-solution.md
 - name: Politique confidentialité
   href: confidentialite.md
 - name: Partenaires
