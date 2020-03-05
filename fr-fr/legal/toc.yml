@@ -9,7 +9,7 @@
     - name: Contrat Licence
       href: contrat-licence.md
     - name: Dev spécifiques
-      href: dev-specifique.md
+      href: dev-specifiques.md
     - name: Maintenace évolutive
       href: evolutive.md
     - name: Maintenace corrective
