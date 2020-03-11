@@ -28,3 +28,5 @@
         href: powershell/cmdlets.md
 - name: Modules
   href: modules/toc.yml
+- name: EDI
+  href: edi/toc.yml

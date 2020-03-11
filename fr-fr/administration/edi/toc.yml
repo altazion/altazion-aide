@@ -1,0 +1,18 @@
+- name : EDI
+  href: index.md
+  items:
+  - name: Formats personnalisables
+    href: standard/index.md
+    items:
+      - name: Catalogue articles
+        items:
+          - name: Données articles
+            href: standard/Articles/Articles.md
+          - name: Catégories
+            href: standard/Articles/Categories.md
+- name: Références
+  items:
+    - name: Codes Pays
+      href: references/codes-pays.md
+- name : Spécificité SaaS
+  href: specificitessaas.md
