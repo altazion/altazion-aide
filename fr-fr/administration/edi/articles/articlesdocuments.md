@@ -9,3 +9,4 @@ Intégration images, vidéos et documents d'un article
 
 <!-- [!include[articlesdocuments.xml.autogen](articlesdocuments.xml.autogen.md)]--> 
 
+_Tous les documents, images et videos fournis via ce fichier sont considérés comme publics._
