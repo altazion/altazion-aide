@@ -1,18 +1,75 @@
 - name : EDI
   href: index.md
   items:
-  - name: Formats personnalisables
-    href: standard/index.md
-    items:
-      - name: Catalogue articles
-        items:
-          - name: Données articles
-            href: standard/Articles/Articles.md
-          - name: Catégories
-            href: standard/Articles/Categories.md
+  - name: Articles
+    href: articles/index.md
+    items: 
+    - name: Articles
+      href: articles/articles.md
+    - name: Associations d'un article
+      href: articles/articlesassociations.md
+    - name: Attributs d'un article
+      href: articles/catalogarticlesattributs.md
+    - name: Catégories
+      href: articles/catalogsegmentations.md
+    - name: Catégories
+      href: articles/segmentations.md
+    - name: Catégories d'un article
+      href: articles/articlessegmentations.md
+    - name: Catégories d'un article
+      href: articles/catalogarticlessegmentations.md
+    - name: Définition des attributs personnalisés
+      href: articles/catalogattributs.md
+    - name: Dimensions  d'un article
+      href: articles/catalogarticlesdimensions.md
+    - name: Documents (images, videos, ...) d'un article
+      href: articles/articlesdocuments.md
+    - name: Import des prix de ventes
+      href: articles/catalogprix.md
+    - name: Marques
+      href: articles/catalogmarques.md
+    - name: Médias
+      href: articles/catalogarticlesdocuments.md
+    - name: Produits associés
+      href: articles/catalogarticlesassociation.md
+    - name: Références additionnelles
+      href: articles/articlesreferences.md
+    - name: Suppression produits
+      href: articles/catalogarticlessuppression.md
+    - name: Taxes (hors TVA) d'un article
+      href: articles/catalogarticlestaxes.md
+    - name: Taxes d'un article
+      href: articles/articlestaxes.md
+    - name: Traduction des données produits
+      href: articles/catalogtraductions.md
+  - name: ECommerce
+    href: ecommerce/index.md
+    items: 
+    - name: Définition des tags (valeurs énumérées)
+      href: ecommerce/ecommercetagsvaleurs.md
+    - name: Définition des tags personnalisés
+      href: ecommerce/ecommercetags.md
+    - name: Tags d'un article
+      href: ecommerce/ecommercearticlestags.md
+  - name: Logistique
+    href: logistique/index.md
+    items: 
+    - name: Stock
+      href: logistique/stockstocks.md
+  - name: Marketplace
+    href: marketplace/index.md
+    items: 
+    - name: Conditions logistiques (article)
+      href: marketplace/catalogarticleslogistique.md
+  - name: Paramètres
+    href: parametres/index.md
+    items: 
+    - name: Magasins
+      href: parametres/clicknmortarmagasins.md
+    
 - name: Références
   items:
     - name: Codes Pays
-      href: references/codes-pays.md
+      href: codes-pays.md
 - name : Spécificité SaaS
   href: specificitessaas.md

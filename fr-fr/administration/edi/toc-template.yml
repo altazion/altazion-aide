@@ -1,12 +1,10 @@
 - name : EDI
   href: index.md
   items:
-  - name: Formats personnalisables
-    href: standard/index.md
-{type:standard, path:standard}    
+{content}    
 - name: Références
   items:
     - name: Codes Pays
-      href: references/codes-pays.md
+      href: codes-pays.md
 - name : Spécificité SaaS
   href: specificitessaas.md

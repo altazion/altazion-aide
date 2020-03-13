@@ -1,2 +1,0 @@
-# Données ventes
-

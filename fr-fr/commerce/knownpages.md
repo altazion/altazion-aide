@@ -1,6 +1,8 @@
 # Path standards
 
-## 
+## Homepage
+
+## Descente & fiche produit
 
 ### Ajout au panier
 
