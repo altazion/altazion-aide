@@ -1,6 +1,7 @@
-- name : EDI
+- name : Principe de fonctionnement
   href: index.md
-  items:
+- name: Formats
+  items:    
 {content}    
 - name: Références
   items:
@@ -8,3 +9,5 @@
       href: codes-pays.md
 - name : Spécificité SaaS
   href: specificitessaas.md
+- name: Import par API
+  href: raw-par-api.md
