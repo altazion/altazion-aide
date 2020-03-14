@@ -2,9 +2,10 @@
 
 Fichier principal pour l'intégration des articles
 
-
+## [Standard](#tab/tab-raw)
 [!include[articles.raw.autogen](articles.raw.autogen.md)]
 
+## [Personnalisable CSV](#tab/tab-csv)
 [!include[articles.csv.autogen](articles.csv.autogen.md)]
 
 <!-- [!include[articles.xml.autogen](articles.xml.autogen.md)]--> 

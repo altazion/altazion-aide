@@ -1,5 +1,3 @@
-## [Personnalisable CSV](#tab/tab-csv)
-
 |Champ|Type|Obligatoire|Decription|
 |---|---|---|---|
 |art_id|Text|**Oui**|Identifiant (externe) du produit|
