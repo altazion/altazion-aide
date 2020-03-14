@@ -1,3 +1,5 @@
+## Personnalisable (CSV)
+
 |Champ|Type|Obligatoire|Decription|
 |---|---|---|---|
 |art_id|Text|**Oui**|Identifiant (externe) du produit|

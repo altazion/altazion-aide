@@ -2,15 +2,13 @@
 
 Fichier principal pour l'intégration des articles
 
-## [Standard](#tab/tab-raw)
 [!include[articles.raw.autogen](articles.raw.autogen.md)]
 
-## [Personnalisable CSV](#tab/tab-csv)
 [!include[articles.csv.autogen](articles.csv.autogen.md)]
 
 <!-- [!include[articles.xml.autogen](articles.xml.autogen.md)]--> 
 
-### Remarques
+### Remarques (CSV)
 
 Le format d'import de fichier articles est assez libre, afin de pouvoir s'adapter à vos besoins. Il se compose d'un ensemble de colonnes fixes (qui doivent donc être obligatoirement présentes dans votre fichier) et de colonnes optionnelles. Vous pouvez utiliser ce fichier de plusieurs façons :
 
@@ -65,7 +63,7 @@ Si vous importez des articles déclinables via un fichier, vous devez vous assur
 *   que tous les versions ont un et un seul parent
 *   que vous ne définissez aucune référence cyclique ou arborescente (une version qui serait à son tour une référence parent
 
-Vous pouvez determiner quels sont les articles qui seront visibles dans les descentes (entre les génériques et les versions) en modifiant le paramètre ["Visibilité des versions" dans les options générales du catalogue](/app/settings/Catalogue/Articles/default.aspx).
+Vous pouvez determiner quels sont les articles qui seront visibles dans les descentes (entre les génériques et les versions) en modifiant le paramètre ["Visibilité des versions" dans les options générales du catalogue](/fr-fr/office/settings/catalogue/articles/index.md).
 
 ### Exemple
 
@@ -84,5 +82,3 @@ Ref;Libelle;Description;Prix;PrixPromo;DebutPromo;FinPromo;Univers;Categorie;Sou
 ABC;Exemple ABC;Ceci est une ligne d'exemple <br/> et une seconde;15.00;;;;Categorie racine;Niveau 1, categorie 1; Niveau 2, catégorie 1;Puissance=400W,Longeur de l'axe=25cm
 DEF;Exemple DEF;;30.00;25.00;2012-10-14T23:00:00Z;2012-10-19T22:59:59Z;Categorie racine;Niveau 1, categorie 2; Niveau 2, catégorie 3;Couleur=Rouge,Puissance=300W,Vitesse=3000T/s
 ```
-
-***
