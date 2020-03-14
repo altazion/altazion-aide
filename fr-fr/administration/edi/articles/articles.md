@@ -66,17 +66,22 @@ Si vous importez des articles déclinables via un fichier, vous devez vous assur
 
 Vous pouvez determiner quels sont les articles qui seront visibles dans les descentes (entre les génériques et les versions) en modifiant le paramètre ["Visibilité des versions" dans les options générales du catalogue](/app/settings/Catalogue/Articles/default.aspx).
 
-Exemple
--------
+### Exemple
 
-`Ref;Libelle;Description;Prix;PrixPromo;DebutPromo;FinPromo;Univers;Categorie;SousCategorie;Couleur`  
-`ABC;Exemple ABC;Ceci est une ligne d'exemple <br/> et une seconde;15.00;;;;Categorie racine;Niveau 1, categorie 1; Niveau 2, catégorie 1;`  
-`DEF;Exemple DEF;;30.00;25.00;2012-10-14T23:00:00Z;2012-10-19T22:59:59Z;Categorie racine;Niveau 1, categorie 2; Niveau 2, catégorie 3;Rouge`
+``` csv
+Ref;Libelle;Description;Prix;PrixPromo;DebutPromo;FinPromo;Univers;Categorie;SousCategorie;Couleur
+ABC;Exemple ABC;Ceci est une ligne d'exemple <br/> et une seconde;15.00;;;;Categorie racine;Niveau 1, categorie 1; Niveau 2, catégorie 1;
+DEF;Exemple DEF;;30.00;25.00;2012-10-14T23:00:00Z;2012-10-19T22:59:59Z;Categorie racine;Niveau 1, categorie 2; Niveau 2, catégorie 3;Rouge
+```
 
 [Téléchargez ce fichier d'exemple](https://simplementedata.blob.core.windows.net/integrateurs/catalog/articles-samples.txt "Fichier exemple").
 
 Si vous avez de nombreux attributs personnalisés, vous pouvrez aussi les regrouper dans une seule et même colonne. Formatez alors cette colonne sous la forme "attribut1=valeur1,attribut2=valeur2...". Par exemple :
 
-`Ref;Libelle;Description;Prix;PrixPromo;DebutPromo;FinPromo;Univers;Categorie;SousCategorie;Attributs`  
-`ABC;Exemple ABC;Ceci est une ligne d'exemple <br/> et une seconde;15.00;;;;Categorie racine;Niveau 1, categorie 1; Niveau 2, catégorie 1;Puissance=400W,Longeur de l'axe=25cm`  
-`DEF;Exemple DEF;;30.00;25.00;2012-10-14T23:00:00Z;2012-10-19T22:59:59Z;Categorie racine;Niveau 1, categorie 2; Niveau 2, catégorie 3;Couleur=Rouge,Puissance=300W,Vitesse=3000T/s`
+``` csv
+Ref;Libelle;Description;Prix;PrixPromo;DebutPromo;FinPromo;Univers;Categorie;SousCategorie;Attributs
+ABC;Exemple ABC;Ceci est une ligne d'exemple <br/> et une seconde;15.00;;;;Categorie racine;Niveau 1, categorie 1; Niveau 2, catégorie 1;Puissance=400W,Longeur de l'axe=25cm
+DEF;Exemple DEF;;30.00;25.00;2012-10-14T23:00:00Z;2012-10-19T22:59:59Z;Categorie racine;Niveau 1, categorie 2; Niveau 2, catégorie 3;Couleur=Rouge,Puissance=300W,Vitesse=3000T/s
+```
+
+***
