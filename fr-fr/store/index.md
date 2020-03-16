@@ -1,3 +1,3 @@
-# Découvrez altazion Store
+# Découvrez Altazion Store
 
 

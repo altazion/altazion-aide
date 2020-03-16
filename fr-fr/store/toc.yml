@@ -1,0 +1,10 @@
+- name: Découvrez Store
+  href: index.md
+- name: Fonctionnalités
+  items:
+  - name: Informations magasin
+    href: app/index.md
+  - name: Catalogue & prise de commande
+    href: app/catalogue.md
+  - name: Relation clients
+    href: app/clients.md
