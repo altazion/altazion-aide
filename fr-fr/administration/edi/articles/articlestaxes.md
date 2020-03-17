@@ -5,7 +5,7 @@ Intégration des taxes complémentaires d'un article. La TVA ne doit pas être p
 
 [!include[articlestaxes.raw.autogen](articlestaxes.raw.autogen.md)]
 
-<!-- [!include[articlestaxes.csv.autogen](articlestaxes.csv.autogen.md)]--> 
+[!include[articlestaxes.csv.autogen](articlestaxes.csv.autogen.md)]
 
 <!-- [!include[articlestaxes.xml.autogen](articlestaxes.xml.autogen.md)]--> 
 
