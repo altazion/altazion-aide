@@ -7,39 +7,29 @@
     items: 
     - name: Articles
       href: articles/articles.md
-    - name: Associations d'un article
-      href: articles/articlesassociations.md
+    - name: Attributs (définitions)
+      href: articles/catalogattributs.md
     - name: Attributs d'un article
       href: articles/catalogarticlesattributs.md
-    - name: Catégories
-      href: articles/catalogsegmentations.md
     - name: Catégories
       href: articles/segmentations.md
     - name: Catégories d'un article
       href: articles/articlessegmentations.md
-    - name: Catégories d'un article
-      href: articles/catalogarticlessegmentations.md
-    - name: Définition des attributs personnalisés
-      href: articles/catalogattributs.md
     - name: Dimensions  d'un article
       href: articles/catalogarticlesdimensions.md
-    - name: Documents (images, videos, ...) d'un article
-      href: articles/articlesdocuments.md
-    - name: Import des prix de ventes
-      href: articles/catalogprix.md
     - name: Marques
       href: articles/catalogmarques.md
-    - name: Médias
-      href: articles/catalogarticlesdocuments.md
+    - name: Médias (images, videos, ...)
+      href: articles/articlesdocuments.md
+    - name: Prix de ventes
+      href: articles/catalogprix.md
     - name: Produits associés
-      href: articles/catalogarticlesassociation.md
+      href: articles/articlesassociations.md
     - name: Références additionnelles
       href: articles/articlesreferences.md
     - name: Suppression produits
       href: articles/catalogarticlessuppression.md
     - name: Taxes (hors TVA) d'un article
-      href: articles/catalogarticlestaxes.md
-    - name: Taxes d'un article
       href: articles/articlestaxes.md
     - name: Traduction des données produits
       href: articles/catalogtraductions.md
