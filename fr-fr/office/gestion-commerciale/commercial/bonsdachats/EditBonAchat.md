@@ -3,31 +3,31 @@
 
 ![editbonachat-screenshotfionajoupilancom20150812090823](images/editbonachat-screenshotfionajoupilancom20150812090823.png)
 
+Vous serez redirigé vers un **formulaire** d'édition vous permettant de **créer un nouveau bon d'achat.**
 
-<p>Vous serez redirig&eacute; vers un <strong>formulaire</strong> d'&eacute;dition vous permettant de <strong>cr&eacute;er un nouveau bon d'achat.</strong></p>
-<p>Vous retrouverez dans ce formulaire :</p>
-<ol>
-<li>L'e-mail du client,</li>
-<li>Le libell&eacute; du bon d'achat,</li>
-<li>Le montant impos&eacute;,</li>
-<li>La date de validit&eacute; du bon d'achat.</li>
-</ol>
-<p>Vous pouvez aussi pr&eacute;ciser les conditions de validit&eacute; de ce bon d'achat :</p>
-<p style="padding-left: 30px;">A. Pour tout les <strong>achats</strong></p>
-<p style="padding-left: 30px;">B. Uniquement pour<strong> l'achat d'un article sp&eacute;cifique</strong>, le libell&eacute; de l'article s'affichera lors de la validation de la r&eacute;f&eacute;rence.</p>
+Vous retrouverez dans ce formulaire :
 
+1.  L'e-mail du client,
+2.  Le libellé du bon d'achat,
+3.  Le montant imposé,
+4.  La date de validité du bon d'achat.
+
+Vous pouvez aussi préciser les conditions de validité de ce bon d'achat :
+
+A. Pour tout les **achats**
+
+B. Uniquement pour **l'achat d'un article spécifique**, le libellé de l'article s'affichera lors de la validation de la référence.
 
 ![editbonachat-1](images/editbonachat-1.png)
 
-
-<p style="padding-left: 30px;">C. Uniquement pour<strong> l'achat d'un article d'une s&eacute;lection</strong></p>
-
+C. Uniquement pour **l'achat d'un article d'une sélection**
 
 ![editbonachat-2](images/editbonachat-2.png)
 
+Pour valider votre création de bon d'achat, cliquez sur le bouton bleu **Enregistrer**.
 
-<p>Pour valider votre cr&eacute;ation de bon d'achat, cliquez sur le bouton bleu <strong>Enregistrer</strong>.</p>
-<h3>Modifier un bon d'achat</h3>
-<p>Pour modifier un bon d'achat d&eacute;j&agrave; existant, cliquez sur le <strong>menu d'action</strong>&nbsp;se trouvant sur la droite d'un bon d'achat.</p>
-<p>Vous serez redirig&eacute; vers un <strong>formulaire similaire</strong> au formulaire d'&eacute;dition et vous pourrez <strong>modifier les informations</strong> que vous souhaitez.</p>
+### Modifier un bon d'achat
 
+Pour modifier un bon d'achat déjà existant, cliquez sur le **menu d'action** se trouvant sur la droite d'un bon d'achat.
+
+Vous serez redirigé vers un **formulaire similaire** au formulaire d'édition et vous pourrez **modifier les informations** que vous souhaitez.
