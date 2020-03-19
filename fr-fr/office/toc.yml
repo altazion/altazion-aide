@@ -1,5 +1,7 @@
 - name: Découvrez Office
   href: index.md
+- name: Connexion à Office
+  href: connexion.md
 - name: Vos premiers pas
   href: ../start/index.md
   items:
