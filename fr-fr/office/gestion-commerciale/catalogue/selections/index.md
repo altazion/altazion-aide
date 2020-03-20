@@ -1,7 +1,7 @@
 # Recherche et création d'une sélection
 
 
-![index-screenshotciappsimplementecom20150810141254](images/index-screenshotciappsimplementecom20150810141254.png)
+![liste-selections-produits](images/liste-selections-produits.png)
 
 Cet écran vous permet de visualiser **l'intégralité de vos sélections d'articles**; de **créer**, **rechercher** et **gérer vos sélections.**
 

@@ -1,6 +1,6 @@
 # Sélection automatique 
 
-![selectionmanuelle-screenshotfionajoupilancom20150810143541png](images/selectionmanuelle-screenshotfionajoupilancom20150810143541png.png)
+![Formulaire d'édition d'une séléction manuelle](images/selectionmanuelle-edit.png)
 
 ### Sélection manuelle
 
