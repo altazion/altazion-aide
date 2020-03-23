@@ -1,8 +1,7 @@
+- name: Modules
+  href: index.md
 - name: Catalogue
+  href: catalogue/index.md
   items:
-    - name: Articles - création
-      href: articlescreation.md
-- name: Internet
-  items:
-    - name: Abonnés newsletters
-      href: newsletters.md
+    - name: Sélections
+      href: catalogue/selections.md
