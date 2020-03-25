@@ -1,5 +1,3 @@
 # Marketplace - e-commerce
 
-
-    Permet de gérer les vendeurs marketplace
-  
+Permet de gérer les vendeurs marketplace

@@ -1,5 +1,3 @@
 # Suivi des commandes
 
-
-    Gérez les commandes de vos clients.
-  
+Gérez les commandes de vos clients.

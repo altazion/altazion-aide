@@ -1,5 +1,3 @@
 # Journaux de transactions
 
-
-    Intégrez et vérifiez
-  
+Intégrez et vérifiez

@@ -1,5 +1,3 @@
 # Catalogue interactifs
 
-
-    Créez des catalogues interactifs
-  
+Créez des catalogues interactifs

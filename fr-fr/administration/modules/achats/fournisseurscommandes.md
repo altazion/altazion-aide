@@ -1,5 +1,3 @@
 # Commandes fournisseur
 
-
-    Permet de créer, envoyer et suivre vos commandes fournisseurs.
-  
+Permet de créer, envoyer et suivre vos commandes fournisseurs.

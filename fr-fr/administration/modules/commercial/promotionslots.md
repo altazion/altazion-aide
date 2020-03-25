@@ -1,5 +1,3 @@
 # Promotions lots
 
-
-    Gestion des lots.
-  
+Gestion des lots.

@@ -1,5 +1,3 @@
 # Articles composés
 
-
-    Gestion des articles composés.
-  
+Gestion des articles composés.

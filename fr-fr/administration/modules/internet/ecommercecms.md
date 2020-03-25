@@ -1,5 +1,3 @@
 # Editeur de contenu
 
-
-    Gérez vos pages de contenu
-  
+Gérez vos pages de contenu
