@@ -1,42 +1,42 @@
 - name: Gestion des fonctionnalités
   href: index.md
-- name: communications
-  href: communications/index.md
+- name: Achats
+  href: achats/index.md
   items: 
-  - name: Annonces
-    href: communications/annonces.md
-  - name: Enregistrements des envois d'e-mails
-    href: communications/tracesmailssortants.md
-- name: internet
-  href: internet/index.md
+  - name: Achats et charges - Suivi des dépenses
+    href: achats/suividepenses.md
+  - name: Commandes fournisseur
+    href: achats/fournisseurscommandes.md
+  - name: Gestion des catalogues-fournisseurs
+    href: achats/fournisseurscatalogue.md
+  - name: Réapprovisionnement stock central
+    href: achats/reapprocentrale.md
+  - name: Saisie des achats & charges
+    href: achats/saisieachatssimple.md
+- name: Catalogue
+  href: catalogue/index.md
   items: 
-  - name: Abonnés newsletters
-    href: internet/newsletters.md
-  - name: Catalogue interactifs
-    href: internet/catainteractifs.md
-  - name: Commandes e-commerce
-    href: internet/commandesecommerce.md
-  - name: Editeur de contenu
-    href: internet/ecommercecms.md
-  - name: Facebook
-    href: internet/facebook.md
-  - name: Facebook Ads
-    href: internet/facebookads.md
-  - name: Intégration Antidot AFS@store
-    href: internet/antidotafsstore.md
-  - name: Intégration Google Analytics
-    href: internet/ecommercegoogle.md
-  - name: Intégration Google Merchant
-    href: internet/googlemerchant.md
-  - name: Intégration Google My Business
-    href: internet/googlemybusiness.md
-  - name: Marketplace - e-commerce
-    href: internet/marketplaceecommerce.md
-  - name: Marketplace - smallbusiness
-    href: internet/marketplacesmb.md
-  - name: Tag Central
-    href: internet/ecommercetagsmanager.md
-- name: commercial
+  - name: Articles - création
+    href: catalogue/articlescreation.md
+  - name: Articles - imports informations
+    href: catalogue/articlesimports.md
+  - name: Articles - infos logistiques et livraison
+    href: catalogue/articlesinfoslogistiques.md
+  - name: Articles composés
+    href: catalogue/articlescomposes.md
+  - name: Articles e-commerce
+    href: catalogue/articlesecommerce.md
+  - name: Articles génériques et multi-versions
+    href: catalogue/articlesgeneriques.md
+  - name: Articles immatériels
+    href: catalogue/articlesimmateriels.md
+  - name: Avis - module simple
+    href: catalogue/avisproduitsnonnf.md
+  - name: Grilles de tarifs e-commerce
+    href: catalogue/grillestarifsecommerce.md
+  - name: Sélection d'article (vitrines)
+    href: catalogue/articlesselections.md
+- name: Commercial
   href: commercial/index.md
   items: 
   - name: Apporteurs d'affaires
@@ -67,30 +67,14 @@
     href: commercial/prospection.md
   - name: Ventes évènementielles
     href: commercial/campagnesventesevenement.md
-- name: catalogue
-  href: catalogue/index.md
+- name: Communications
+  href: communications/index.md
   items: 
-  - name: Articles - création
-    href: catalogue/articlescreation.md
-  - name: Articles - imports informations
-    href: catalogue/articlesimports.md
-  - name: Articles - infos logistiques et livraison
-    href: catalogue/articlesinfoslogistiques.md
-  - name: Articles composés
-    href: catalogue/articlescomposes.md
-  - name: Articles e-commerce
-    href: catalogue/articlesecommerce.md
-  - name: Articles génériques et multi-versions
-    href: catalogue/articlesgeneriques.md
-  - name: Articles immatériels
-    href: catalogue/articlesimmateriels.md
-  - name: Avis - module simple
-    href: catalogue/avisproduitsnonnf.md
-  - name: Grilles de tarifs e-commerce
-    href: catalogue/grillestarifsecommerce.md
-  - name: Sélection d'article (vitrines)
-    href: catalogue/articlesselections.md
-- name: financier
+  - name: Annonces
+    href: communications/annonces.md
+  - name: Enregistrements des envois d'e-mails
+    href: communications/tracesmailssortants.md
+- name: Financier
   href: financier/index.md
   items: 
   - name: Centre de remboursement
@@ -109,28 +93,58 @@
     href: financier/rcpchequeenmasse.md
   - name: Suivi des comptes bancaires
     href: financier/suivicomptes.md
-- name: ventes
-  href: ventes/index.md
+- name: Intégration
+  href: integration/index.md
   items: 
-  - name: Config Suivi Commandes Uniquement Reglement
-    href: ventes/configsuivicmduniquereglement.md
-  - name: Contrats
-    href: ventes/contrats.md
-  - name: Devis
-    href: ventes/devis.md
-  - name: Gestion des clients
-    href: ventes/clientcreation.md
-  - name: Gestion du risque commandes
-    href: ventes/risquecommande.md
-  - name: Relances retard factures
-    href: ventes/retardfactures.md
-  - name: Suivi des commandes
-    href: ventes/commandes.md
-  - name: Suivi des ventes
-    href: ventes/suiviventes.md
-  - name: Validation des commandes
-    href: ventes/commandeavaliderpos.md
-- name: magasins
+  - name: Intégration TrustPilot
+    href: integration/trustpilot.md
+- name: Internet
+  href: internet/index.md
+  items: 
+  - name: Abonnés newsletters
+    href: internet/newsletters.md
+  - name: Catalogue interactifs
+    href: internet/catainteractifs.md
+  - name: Commandes e-commerce
+    href: internet/commandesecommerce.md
+  - name: Editeur de contenu
+    href: internet/ecommercecms.md
+  - name: Facebook
+    href: internet/facebook.md
+  - name: Facebook Ads
+    href: internet/facebookads.md
+  - name: Intégration Antidot AFS@store
+    href: internet/antidotafsstore.md
+  - name: Intégration Google Analytics
+    href: internet/ecommercegoogle.md
+  - name: Intégration Google Merchant
+    href: internet/googlemerchant.md
+  - name: Intégration Google My Business
+    href: internet/googlemybusiness.md
+  - name: Marketplace - e-commerce
+    href: internet/marketplaceecommerce.md
+  - name: Marketplace - smallbusiness
+    href: internet/marketplacesmb.md
+  - name: Tag Central
+    href: internet/ecommercetagsmanager.md
+- name: Logistique
+  href: logistique/index.md
+  items: 
+  - name: Expéditions par Boxtal
+    href: logistique/expeditionsboxtal.md
+  - name: Expéditions par Colissimo
+    href: logistique/expeditionscolissimo.md
+  - name: Expéditions par transporteur générique
+    href: logistique/expeditionsgenerique.md
+  - name: Livraison magasin
+    href: logistique/expeditionslivmag.md
+  - name: Module de gestion des stocks FIFO
+    href: logistique/stocksfifo.md
+  - name: Saisie de la préparation manuelle
+    href: logistique/saisieprepa.md
+  - name: Suivi des stocks
+    href: logistique/suivistocks.md
+- name: Magasins
   href: magasins/index.md
   items: 
   - name: Bornes tactiles et écrans interactifs
@@ -151,46 +165,7 @@
     href: magasins/eteeket.md
   - name: Zones de magasins
     href: magasins/magasinszones.md
-- name: systeme
-  href: systeme/index.md
-  items: 
-  - name: Gestion des médias
-    href: systeme/docbase.md
-  - name: Suivi des médiations
-    href: systeme/mediations.md
-  - name: Suivi des processus
-    href: systeme/taches.md
-- name: logistique
-  href: logistique/index.md
-  items: 
-  - name: Expéditions par Boxtal
-    href: logistique/expeditionsboxtal.md
-  - name: Expéditions par Colissimo
-    href: logistique/expeditionscolissimo.md
-  - name: Expéditions par transporteur générique
-    href: logistique/expeditionsgenerique.md
-  - name: Livraison magasin
-    href: logistique/expeditionslivmag.md
-  - name: Module de gestion des stocks FIFO
-    href: logistique/stocksfifo.md
-  - name: Saisie de la préparation manuelle
-    href: logistique/saisieprepa.md
-  - name: Suivi des stocks
-    href: logistique/suivistocks.md
-- name: achats
-  href: achats/index.md
-  items: 
-  - name: Achats et charges - Suivi des dépenses
-    href: achats/suividepenses.md
-  - name: Commandes fournisseur
-    href: achats/fournisseurscommandes.md
-  - name: Gestion des catalogues-fournisseurs
-    href: achats/fournisseurscatalogue.md
-  - name: Réapprovisionnement stock central
-    href: achats/reapprocentrale.md
-  - name: Saisie des achats & charges
-    href: achats/saisieachatssimple.md
-- name: règlements
+- name: Règlements
   href: reglements/index.md
   items: 
   - name: Adyen
@@ -211,9 +186,34 @@
     href: reglements/reglementecommercepaypal.md
   - name: SOGENACTIF
     href: reglements/reglementecommercesogenactif.md
-- name: intégration
-  href: integration/index.md
+- name: Systeme
+  href: systeme/index.md
   items: 
-  - name: Intégration TrustPilot
-    href: integration/trustpilot.md
+  - name: Gestion des médias
+    href: systeme/docbase.md
+  - name: Suivi des médiations
+    href: systeme/mediations.md
+  - name: Suivi des processus
+    href: systeme/taches.md
+- name: Ventes
+  href: ventes/index.md
+  items: 
+  - name: Config Suivi Commandes Uniquement Reglement
+    href: ventes/configsuivicmduniquereglement.md
+  - name: Contrats
+    href: ventes/contrats.md
+  - name: Devis
+    href: ventes/devis.md
+  - name: Gestion des clients
+    href: ventes/clientcreation.md
+  - name: Gestion du risque commandes
+    href: ventes/risquecommande.md
+  - name: Relances retard factures
+    href: ventes/retardfactures.md
+  - name: Suivi des commandes
+    href: ventes/commandes.md
+  - name: Suivi des ventes
+    href: ventes/suiviventes.md
+  - name: Validation des commandes
+    href: ventes/commandeavaliderpos.md
 
