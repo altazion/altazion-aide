@@ -1,5 +1,7 @@
 # Echanges de fichiers
 
+Les médiations sont nos modules d'échanges de fichier
+
 ## Obtenir l'état d'une médiation
 
 ### [Interface](#tab/tab-ui)
