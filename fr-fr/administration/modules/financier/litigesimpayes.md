@@ -1,5 +1,3 @@
 # Gestion des impayés
 
-
-    Ce module permet de gérer les impayés de vos clients
-  
+Ce module permet de gérer les impayés de vos clients

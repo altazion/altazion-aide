@@ -1,5 +1,3 @@
 # Revendeurs
 
-
-    Utilisez ce module pour gérer vos revendeurs.
-  
+Utilisez ce module pour gérer vos revendeurs.

@@ -1,5 +1,3 @@
 # Facebook
 
-
-    Intégrez Facebook dans votre site Ecommerce
-  
+Intégrez Facebook dans votre site Ecommerce
