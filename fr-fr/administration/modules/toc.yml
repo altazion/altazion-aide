@@ -113,8 +113,6 @@
     href: internet/facebook.md
   - name: Facebook Ads
     href: internet/facebookads.md
-  - name: Intégration Antidot AFS@store
-    href: internet/antidotafsstore.md
   - name: Intégration Google Analytics
     href: internet/ecommercegoogle.md
   - name: Intégration Google Merchant

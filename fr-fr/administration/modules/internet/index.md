@@ -8,7 +8,6 @@
 |[ECOMMERCECMS](ecommercecms.md)|Editeur de contenu|
 |[FACEBOOK](facebook.md)|Facebook|
 |[FACEBOOKADS](facebookads.md)|Facebook Ads|
-|[ANTIDOTAFSSTORE](antidotafsstore.md)|Intégration Antidot AFS@store|
 |[ECOMMERCEGOOGLE](ecommercegoogle.md)|Intégration Google Analytics|
 |[GOOGLEMERCHANT](googlemerchant.md)|Intégration Google Merchant|
 |[GOOGLEMYBUSINESS](googlemybusiness.md)|Intégration Google My Business|
