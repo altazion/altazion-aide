@@ -9,3 +9,16 @@ Les modules sont regroupés par catégories :
 |Catégorie|Description|
 |---|---|
 |[Catalogue](catalogue/index.md)|Gestion de vos produits|
+
+
+## Installer un module
+
+```powershell
+> Connect-AltazionServer -Username <user> 
+
+Id Name
+-- ----
+ 2 Démo
+
+> 
+```
