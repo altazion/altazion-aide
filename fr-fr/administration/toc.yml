@@ -17,6 +17,11 @@
       href: onpremise/dossier.md
 - name: Hebergé (SaaS)
   href: saas/index.md
+  index:
+    - name: Pré-requis
+      href: saas/saas-prerequis.md
+    - name: Sécurité
+      href: saas/securite.md
 - name: Serveur local magasin
   href: storeserver/index.md
 - name: Références
