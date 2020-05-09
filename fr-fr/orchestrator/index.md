@@ -13,15 +13,21 @@ Que vous possédiez un stock propre, un stock déporté chez un e-logisticien ou
 
 [En savoir plus sur la gestion des disponibilités](dispos.md)
 
-## Optimisation du parcours de préparation
+## Optimisation de la préparation
 
-[En savoir plus sur la mise en préparation](prepa.md)
+Avec Orchestrator, vous pouvez déterminer des règles pour optimiser la préparation de vos commandes. Vous pourrez ainsi optimiser les coûts et délais, réaliser des envois depuis la source la plus adaptée et bénéficier de toutes les possibilités offertes par vos entrepots, magasins et partenaires.
+
+[En savoir plus sur la préparation](prepa.md)
 
 ## Expédition
+
+
 
 [En savoir plus sur le module d'expédition](expe.md)
 
 ## Suivi
+
+L'expédition n'est pas la fin du processus, vous pouvez offrir une expérience incomparable à vos clients en les accompagnants tout au long de l'acheminement de leurs articles et en réagissant immédiatement à toute anomalie qui pourrait survenir.
 
 [En savoir plus sur le suivi des colis](suivi.md)
 
