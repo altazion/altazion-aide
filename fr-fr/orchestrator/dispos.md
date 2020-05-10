@@ -27,7 +27,7 @@ Activez la _gestion des disponibilités par canaux_ pour pouvoir définir des r�
 - N'envoyer qu'une partie de votre stock dans les informations de disponibilités pour une marketplace
 - Effectuer une réservation de stock destinée à un canal de vente particulier.
 
-## Gérer la disponibilité par canal
+### Gérer la disponibilité par canal
 
 Pour définir les seuils de disponibilités et de visibilité d'un canal spécifique, il vous suffit d'ouvrir le dossier article de l'article souhaité dans _Altazion Office_, puis de cliquer sur **Modifier** > **Canaux de ventes** et choisir le canal à modifier.
 
