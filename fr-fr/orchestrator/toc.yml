@@ -4,6 +4,13 @@
   href: dispos.md
 - name: Préparation
   href: prepa.md
+  items:
+    - name: Sur stocks
+      href: prepa-stocks.md
+    - name: Drop shipping
+      href: prepa-dropshipping.md
+    - name: En magasins
+      href: prepa-magasin.md
 - name: Expédition
   href: expe.md
 - name: Suivi
