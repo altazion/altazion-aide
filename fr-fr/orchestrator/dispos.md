@@ -2,12 +2,61 @@
 
 ## Sources des produits
 
+Que vous utilisiez un stock propre, du drop shipping ou d'autres formes de sourcing, Orchestrator vous permet de gérer les disponibilités de vos produits de façon centralisée, en combinant les informations de chacune de ces sources.
+
+Nos solutions gèrent cinq grands ensembles de sourcing produit :
+
+- les produits immatériels (services, téléchargements, assurances, etc.)
+- les produits en stock "propre" 
+- les produits en stocks externes (e-logisticiens ou drop shipping)
+- les produits fabriqués à la demande
+- les produits disponibles en réseau de magasin
+
+> [!WARNING]
+> Si le _drop-shipping_ et les _stocks des e-logisticiens_ sont similaires en termes de fonctionnement pour un OMS, ils ont des implications comptables, sanitaires et de responsabilité très différents.
+
+### Produits immatériels
+
+TODO : à rédiger
+
 ### Stocks centraux
 
+La préparation sur stocks est probablement le mode le plus fréquent : vous maintenez un stock de vos produits et réalisez les entrées/sorties en fonction de vos ventes et de vos ré-approvisionnements.
 
+![Plan deux dépots](images/oms-dispos-stockscentraux-1.PNG)
 
-> [!Note]
-> Si vous faites appel à un e-logisticien ou à un service de préparation intra-groupe, vous pouvez opter au choix entre le mode _drop shipping_ et le mode _stocks centraux_ en fonction de vos besoins. 
+Sur cet exemple, il y a 2 dépots :
+* dans le dépot A :
+
+    - les produits de la Zone 1 (Picking) sont disponibles
+    - ceux se trouvant en Zone 2 demandent un transfert entre deux batiments et donc un temps non négligeable et sont donc considérés comme non dispo
+    - les produits dans la Zone 3 (Sav et Défecteux) sont en attente de renvoi au fournisseur, réparation ou destruction et sont donc non disponibles.
+
+* dans le dépot B :
+
+    - les produits de la Zone 1 sont disponibles
+    - les produits de la Zone 2 sont facilement transférable en picking et peuvent donc être considérés comme dispos.
+
+Ce qui donne par exemple :
+
+**Dépot A**
+
+|Produit|Qté. Z.1|Qté. Z.2|Qté. Z.3|Disponible|
+|---|---:|---:|---:|---:|
+|Produit A|4||_1_|4|
+|Produit B||_2_||0|
+|Produit C|2|_6_||2|
+
+**Dépot B**
+
+|Produit|Qté. Z.1|Qté. Z.2|Disponible|
+|---|---:|---:|---:|
+|Produit A|4||4|
+|Produit B||2|2|
+|Produit C|3|20|23|
+
+> [!NOTE]
+> Si vous faites appel à un e-logisticien ou à un service de préparation intra-groupe, vous pouvez opter au choix entre le mode _stocks externalisés_ et le mode _stocks centraux_ en fonction de vos besoins. 
 > 
 > Une fois le mode choisi, il est assez complexe d'en changer, n'hésitez pas à solliciter notre équipe pour vous conseiller.
 
@@ -15,10 +64,13 @@
 
 Si vous n'utilisez pas nous outils pour la gestion de vos magasins, vous pouvez facilement importer vos stocks magasins via EDI, en suivant [le format de fichier des imports de stocks](../administration/edi/logistique/stockstocks.md).
 
+### Stocks externalisés
+
 ### Drop shipping
 
-
+Le drop shipping est un cas très particulier de stock externalisé
 ### Fabrication
+
 
 ## Disponibilités par canaux
 
