@@ -5,6 +5,8 @@
 - name: Préparation
   href: prepa.md
   items:
+    - name: Optimisation prépa
+      href: prepa-mep.md
     - name: Sur stocks
       href: prepa-stocks.md
     - name: Drop shipping

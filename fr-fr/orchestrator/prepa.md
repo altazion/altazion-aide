@@ -1,11 +1,15 @@
 # Préparation
 
-## 
+## Modes de préparation et sourcing
 
-## Drop shipping
+* [La prépa sur stocks](prepa-stocks.md)
+* [La préparation en magasin](prepa-magasin.md)
+* [Le drop-shipping](prepa-dropshipping.md)
 
-## En magasin
+## Mise en préparation
 
-### Ship From Store
+[En savoir plus sur la mise en préparation](prepa-mep.md)
 
-### Click'n'Collect
+## Outils de préparation
+
+
