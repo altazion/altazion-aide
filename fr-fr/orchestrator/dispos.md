@@ -1,5 +1,7 @@
 # Gestion des disponibilités
 
+Orchestrator vous permet de calculer la visibilité et la disponibilité de vos produits en prenant en compte différentes méthodes de préparation et d'expédition. 
+
 ## Sources des produits
 
 Que vous utilisiez un stock propre, du drop shipping ou d'autres formes de sourcing, Orchestrator vous permet de gérer les disponibilités de vos produits de façon centralisée, en combinant les informations de chacune de ces sources.
@@ -15,7 +17,7 @@ Nos solutions gèrent cinq grands ensembles de sourcing produit :
 > [!NOTE]
 > Si vous utilisez les services d'un tiers pour la préparation de vos commandes vous pouvez choisir entre le mode _stocks externalisés_ et le mode _drop shipping_ en fonction de vos besoins et de l'entité propriétaire du stock. 
 >
-> Si ces deux modes semblent assez similaires en termes de gestion de la disponibilité et de la préparations, ils ont de très grandes différences en termes de responsabilité et de conséquences comptables, financières et sanitaires.
+> Si ces deux modes semblent assez similaires en termes de gestion de la disponibilité et de la préparation, ils ont de très grandes différences en termes de responsabilité et de conséquences comptables, financières et sanitaires.
 > 
 > Une fois le mode choisi, il est assez complexe d'en changer, n'hésitez pas à solliciter notre équipe pour vous conseiller.
 
@@ -64,10 +66,11 @@ Ce qui donne par exemple :
 
 #### Stocks externalisés
 
-Si vous faites appel à un e-logisticien
-
+Si vous faites appel à un e-logisticien, ou à un service de votre groupe, le stock déporté dans ses entrepots reste, normalement, votre propriété. Bien que vous sous-traitiez votre préparation, le mode de fonctionnement est plus proche de celui du stock propre que du drop shipping : les produits vous sont propres et vous n'avez donc pas à gérer le fait que la quantité annoncée peut être accaparée par un tiers.
 
 ### Stocks Magasins
+
+Si vous gérez une enseignes avec plusieurs points de vente physiques, vous avez très probablement une partie de votre stock disséminée dans ceux-ci. 
 
 Si vous n'utilisez pas nous outils pour la gestion de vos magasins, vous pouvez facilement importer vos stocks magasins via EDI, en suivant [le format de fichier des imports de stocks](../administration/edi/logistique/stockstocks.md).
 
@@ -76,6 +79,7 @@ Si vous n'utilisez pas nous outils pour la gestion de vos magasins, vous pouvez 
 
 ### Fabrication
 
+TODO : à rédiger
 
 ## Disponibilités par canaux
 

@@ -15,5 +15,11 @@
   href: expe.md
 - name: Suivi
   href: suivi.md
+- name: Application logistique
+  items:
+    - name: Prélever les produits
+      href: application-picking.md
+    - name: Expédier
+      href: application-expe.md
 - name: Aide pour développeurs
   href: https://www.altazion.dev/orchestrator/

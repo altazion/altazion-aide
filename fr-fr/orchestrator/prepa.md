@@ -4,8 +4,6 @@
 
 ## Drop shipping
 
-
-
 ## En magasin
 
 ### Ship From Store
