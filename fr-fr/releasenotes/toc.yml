@@ -1,5 +1,6 @@
 - name: Release Notes
   href: index.md
+  items:
     - name: v20
       items:
         - name: v20.0 - 12-janv.
