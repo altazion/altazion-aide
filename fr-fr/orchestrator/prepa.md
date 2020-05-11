@@ -10,10 +10,16 @@
 
 ## Mise en préparation
 
-Orchestrator utilise des règles paramétrables pour optimiser la mise en préparation. Vous pouvez déterminer quels sont les priorités de votr
+Orchestrator utilise des règles paramétrables pour optimiser la mise en préparation. Vous pouvez déterminer quels sont vos priorités quant à la préparation des commandes et notre module se chargera d'affecter chaque commandes à la ou les source(s) les plus adaptées.
+
+Vous souhaitez privilégier la rotation des stocks de vos magasins ? Activer le ship from store et profitez de votre réseau de magasin pour optimiser vos coûts logistiques. 
+
+Vous combinez des produits stockés et quelques produits en drop shipping ? Orchestrator vous permettra de gérer les différents ordres de préparation et d'en consolider les résultats.
 
 [En savoir plus sur la mise en préparation](prepa-mep.md)
 
 ## Outils de préparation
+
+_Altazion Picking_ est notre application (Windows & Android) de préparation et d'expédition sur stock. Elle vous permet de réaliser vos prélèvements en réserve ou en dépot, de consolider les préparations et de réaliser les documents d'expéditions (étiquettes, bordereaux, etc.)
 
 
