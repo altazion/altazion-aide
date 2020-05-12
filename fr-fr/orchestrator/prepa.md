@@ -2,8 +2,6 @@
 
 ## Modes de préparation et sourcing
 
-
-
 * [La prépa sur stocks](prepa-stocks.md)
 * [La préparation en magasin](prepa-magasin.md)
 * [Le drop-shipping](prepa-dropshipping.md)
@@ -18,8 +16,7 @@ Vous combinez des produits stockés et quelques produits en drop shipping ? Orch
 
 [En savoir plus sur la mise en préparation](prepa-mep.md)
 
-## Outils de préparation
+## A voir aussi
 
-_Altazion Picking_ est notre application (Windows & Android) de préparation et d'expédition sur stock. Elle vous permet de réaliser vos prélèvements en réserve ou en dépot, de consolider les préparations et de réaliser les documents d'expéditions (étiquettes, bordereaux, etc.)
-
+* [Altazion Picking](prepa-stocks.md#application-picking) : application de préparation sur stocks & d'expédition pour Windows et Android
 
