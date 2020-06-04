@@ -107,3 +107,7 @@ Les journaux contenant la liste des opérations réalisées par chacun des modul
 |Logistique et serveur de traitement|{Common\_AppData}\\CPoint\\\[e\]\\logistique\\logs|
 |Point de ventes|{Common\_AppData}\\CPoint\\\[e\]\\POSCentral\\logs|
 |e-commerce|{Common\_AppData}\\CPoint\\\[e\]\\ecommerce\\logs|
+
+>[!ATTENTION]
+> Vous pouvez activer la centralisation des logs si vous utilisez nos solutions sur plusieurs serveurs différents et souhaitez regrouper les logs dans un dossier commun. Dans ce cadre, les fichiers de traces ne sont conservés dans les dossier ci-dessus que pendant une très courte période : moins de 2 heures.
+> Reportez vous à [la documentation de cette fonctionnalité pour plus d'informations](traces.md#centralisation)

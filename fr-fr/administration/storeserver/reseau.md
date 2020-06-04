@@ -8,7 +8,7 @@ Pour synchroniser les données, le serveur local doit pouvoir accèder au servic
 
 * Protocole de communication : **HTTPS**
 * Port : **443**
-* Nom du serveur Cloud : **api.server.commerce-hub.io**
+* Nom du serveur Cloud : **api.altazion.com**
 
 Si vous souhaitez utiliser notre service d'envoi direct de commande en magasin, vous devrez ajouter le service Azure Service Bus :
 
