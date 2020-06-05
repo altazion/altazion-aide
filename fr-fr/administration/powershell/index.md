@@ -27,7 +27,7 @@ Import-Module Altazion
 
 ## Connexion à votre environnement
 
-Pour tous les scripts ou presque, vous aurez besoin d'être connecté à votre compte utilisateur Altazion. La commande `Connect-AltazionServer` vous permet d'établir facilement cette connexion et de sauvegarder automatiquement les identifiants. Vous pouvez utiliser l'une ou l'autres des deux syntaxes suivantes :
+Pour tous les scripts ou presque, vous aurez besoin d'être connecté à votre compte utilisateur Altazion. La commande [`Connect-AltazionServer`](connect-altazionserver.md) vous permet d'établir facilement cette connexion et de sauvegarder automatiquement les identifiants. Vous pouvez utiliser l'une ou l'autres des deux syntaxes suivantes :
 
 - en utilisant une boite de dialogue de saisie des identifiants :    
     ```powershell

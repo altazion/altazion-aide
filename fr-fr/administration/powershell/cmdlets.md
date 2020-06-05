@@ -2,4 +2,6 @@
 
 ## Connexion
 
-[!include[connect-altazionserver](connect-altazionserver.autogen.md)]
+* [Connect-AltazionServer](connect-altazionserver.md)
+
+## Autres cmdlets

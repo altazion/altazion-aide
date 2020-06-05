@@ -42,6 +42,9 @@
       items: 
       - name: Commandes Powershell
         href: powershell/cmdlets.md
+        items:
+        - name: Connect-AltazionServer
+          href: powershell/connect-altazionserver.md
 - name: Modules
   href: modules/toc.yml
 - name: EDI
