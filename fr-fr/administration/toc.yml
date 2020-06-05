@@ -13,6 +13,8 @@
   items: 
     - name: Mises à jour
       href: onpremise/versions.md
+    - name: Installation
+      href: onpremise/docker.md
     - name: Dossiers
       href: onpremise/dossier.md
     - name: Traces applicatives
