@@ -8,7 +8,7 @@ Pour nous permettre de répondre plus rapidement en cas d'anomalie constatée, l
 
 * protocole : **HTTPS**
 * Port : **443**
-* serveurs : **http-intake.logs.datadoghq.eu** et **koostodesapp-ns.servicebus.windows.net**
+* serveurs : **http-intake.logs.datadoghq.eu**, **http-intake.logs.datadoghq.com** et **koostodesapp-ns.servicebus.windows.net**
 
 ### Modules e-commerce & signage
 
