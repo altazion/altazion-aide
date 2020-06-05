@@ -4,6 +4,11 @@
   href: installation.md
 - name: Tâches courantes
   items:
+    - name: Monitoring
+      href: common/monitoring/index.md
+      items:
+        - name: Commerce
+          href: common/monitoring/commerce.md
     - name: Gérer les utiliateurs
       href: common/users.md
     - name: Echanges EDI (médiations)
