@@ -38,3 +38,7 @@ Pour tous les scripts ou presque, vous aurez besoin d'être connecté à votre c
     ```powershell
     Connect-AltazionServer -Username administrateur@altazion-learning.com -Password '<<password>>'
     ```
+
+## En savoir plus...
+
+* [Liste des cmdlets disponibles](cmdlets.md)
