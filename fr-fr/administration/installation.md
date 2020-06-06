@@ -15,8 +15,35 @@ L'utilisation de nos solutions en mode hébergé vous permet de ne pas avoir à 
 
 Le mode SaaS présente de plus l'avantage d'être mis à jour plus fréquemment avec de nouvelles fonctionnalités.
 
-> Il existe [un mode dit "mixte" permettant d'optimiser les besoins en bande passante](storeserver/index.md) pour une utilisation dans un magasin ou un entrepot avec une connexion Internet moins performante, dans lequel un serveur local est utilisé pour mettre en cache les données et application.
+> Il existe deux solutions d'installationen environnement hybride (une partie de l'application tournant sur votre infrastructure, le reste en mode SaaS) : 
+> - [le mode dit "serveur local" permettant d'optimiser les besoins en bande passante](storeserver/index.md) pour une utilisation dans un magasin ou un entrepot avec une connexion Internet moins performante, dans lequel un serveur local est utilisé pour mettre en cache les données et application.
+> - [le mode hybride](onpremise/docker.md#mode-hybride) destiné à permettre l'intégration d'applicatifs OnPremise
 
 ## Mode OnPremise
 
 Si vous avez déjà une infrastructure informatique et souhaitez héberger nos outils sur celle-ci, vous pouvez installer nos solutions sur vos propres serveurs.
+
+Depuis la release 20.5, la solution préférée pour ce [type de déploiement utilise des images de containers Docker](onpremise/docker.md).
+
+### Configuration requise
+
+Pour faire fonctionner notre solution sur votre infrastructure, vous aurez besoin de serveurs ayant les caractéristiques minimales suivantes :
+
+Pour la *base de données* :
+- OS : Windows 2016 ou plus récent
+- Sql Server : Sql Server 2012 ou plus récent
+- Mémoire : 8go
+
+Pour les *serveurs de traitement* (_Orchestrator_ et/ou _Hub_) :
+- OS : Windows 2016 R2 ou plus récent
+- Mémoire : 4go
+
+Pour les *serveurs back-office* (_Office_) :
+- OS : Windows 2016 R2 ou plus récent
+- Mémoire : 4go
+
+Pour les *serveurs front-office* (_Commerce_ et/ou _Store_) :
+- OS : Windows 2016 R2 ou plus récent
+- Mémoire : 8go
+
+Si vous souhaitez faire fonctionner plusieurs applicatifs sur le même serveur, nous vous invitons à réaliser des tests de performances avant toute mise en production.

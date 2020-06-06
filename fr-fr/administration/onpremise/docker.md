@@ -8,6 +8,17 @@ L'utilisation du système de container Docker est la solution à privilégier po
 
 ### Mode hybride
 
+Le mode d'installation Hybride permet de réaliser une partie des traitements de façon déportée, sur votre infrastructure technique. Ce mode est à privilégier : 
+
+- si vous avez besoin d'accèder à des serveurs privés, dans le cadre de médiations
+- dans l'intégration d'un applicatif déployé OnPremise (connexion à un WMS, à un outil CRM, etc.)
+
+Les applications suivantes sont disponibles pour une utilisation en mode hybride :
+
+- _Orchestrator_ : le mode hybride vous permet d'utiliser des [médiations](../edi/index.md) ou des modules d'extensions ayant besoin d'accèder à des ressources uniquement disponibles sur votre infrastructures. Par exemple : déposer des fichiers d'export comptable sur un serveur de fichier interne, notifier un applicatif maison lors de la validation d'une commandes, etc.
+- _Hub_ : en configuration hybride, vous pouvez faire fonctionner une intégration technique demandant la connexion à un service uniquement disponible sur votre infrastructure. Par exemple : interconnecter nos solutions avec un repository CRM local.
+
+
 > [!IMPORTANT]
 > L'utilisation du mode Hybride n'est possible que pour nos clients ayant souscrit au niveau d'abonnement _Entreprise_.
 
@@ -27,6 +38,16 @@ Aucune version de Hub n'est actuellement disponible sur des repositories publiqu
 
 ### Altazion Office
 
+> [!WARNING]
+> Ce module n'est pas compatible avec le mode Hybride.
+
 ### Altazion Commerce
 
+> [!WARNING]
+> Ce module n'est pas compatible avec le mode Hybride.
+
+
 ### Altazion Store & Signage
+
+> [!WARNING]
+> Ce module n'est pas compatible avec le mode Hybride.

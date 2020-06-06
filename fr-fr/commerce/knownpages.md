@@ -17,7 +17,7 @@ La page d'ajout au panier est à utiliser lorsque vous souhaitez pouvoir réalis
 
 `/addtocart.aspx`
 
-### Pages magasins
+## Pages magasins
 
 Les pages magasins sont regroupées sous un répertoire de la solution. Le nom de ce dossier est paramétrable mais prend la valeur par défaut _magasin_.
 
