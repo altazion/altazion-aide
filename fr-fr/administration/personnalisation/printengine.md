@@ -1,6 +1,6 @@
 # Format d'impression
 exemple de fichier :
- ``` xml
+ ```xml
 <Document>
 	<Settings/>
 	<PageModel>
