@@ -9,6 +9,15 @@ Combinée à notre module StoreLocator, cette fonctionnalité permettra d'affich
 
 ## Affichage pour la centrale
 
+Cette liste vous permet de visualiser et de créer des évènements cross-canaux. 
+
+
+
+Vous y retrouverez les critères de recherche suivants :
+
+* le libellé 
+* date : La plage de date
+* Magasin participant : si vous renseignez un magasin dans ce champ, seuls les évènements auxquels ce magasin a choisi de participer seront affichés.
 
 ## Affichage pour les magasins
 
