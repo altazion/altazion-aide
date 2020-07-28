@@ -22,6 +22,8 @@
       href: onpremise/docker.md
     - name: Dossiers
       href: onpremise/dossier.md
+    - name: Configuration
+      href: onpremise/configuration.md
     - name: Traces applicatives
       href: onpremise/traces.md
     - name: Réseau et sécurité

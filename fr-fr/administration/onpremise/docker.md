@@ -41,6 +41,20 @@ Aucune version de Hub n'est actuellement disponible sur des repositories publiqu
 > [!WARNING]
 > Ce module n'est pas compatible avec le mode Hybride.
 
+L'installation du module de gestion commerciale et back-office est probablement la plus simple.
+
+Adresse de l'image : https://hub.docker.com/r/altazion/office
+
+Vous devrez passer une information lors du lancement du container :
+
+- un volume contenant le dossier de configuration de votre installation, à mapper sur le dossier c:\programdata\cpoint\
+
+Vous devez aussi déterminer le port de sortie de l'application.
+
+```powershell
+docker run -v c:\programdata\cpoint\:c:\programdata\cpoint\ -d -p 8000:80 altazion/office:latest
+```
+
 ### Altazion Commerce
 
 > [!WARNING]
