@@ -19,6 +19,22 @@ Le mode SaaS présente de plus l'avantage d'être mis à jour plus fréquemment 
 > - [le mode dit "serveur local" permettant d'optimiser les besoins en bande passante](storeserver/index.md) pour une utilisation dans un magasin ou un entrepot avec une connexion Internet moins performante, dans lequel un serveur local est utilisé pour mettre en cache les données et application.
 > - [le mode hybride](onpremise/docker.md#mode-hybride) destiné à permettre l'intégration d'applicatifs OnPremise
 
+### Applications pour vos utilisateurs
+
+Vous pouvez choisir d'installer l'une de nos applications pour profiter de fonctionnalités supplémentaires et/ou d'une plus grande facilité d'utilisation.
+
+|Module|Plateforme|Lien|
+|---|---|---|
+|Office [(plus d'infos)](/fr-fr/office/index.md)|Windows||
+||Android||
+|Store|Windows||
+||Android||
+|Signage|Windows||
+||Android||
+|Orchestrator picking [(plus d'infos)](/fr-fr/orchestrator/application-picking.md)|Windows||
+||Android||
+
+
 ## Mode OnPremise
 
 Si vous avez déjà une infrastructure informatique et souhaitez héberger nos outils sur celle-ci, vous pouvez installer nos solutions sur vos propres serveurs.
