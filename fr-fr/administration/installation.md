@@ -25,13 +25,13 @@ Vous pouvez choisir d'installer l'une de nos applications pour profiter de fonct
 
 |Module|Plateforme|Lien|
 |---|---|---|
-|Office [(plus d'infos)](/fr-fr/office/index.md)|Windows||
+|Office [(plus d'infos)](/fr-fr/office/index.html)|Windows||
 ||Android||
 |Store|Windows||
 ||Android||
 |Signage|Windows||
 ||Android||
-|Orchestrator picking [(plus d'infos)](/fr-fr/orchestrator/application-picking.md)|Windows||
+|Orchestrator picking [(plus d'infos)](/fr-fr/orchestrator/application-picking.html)|Windows||
 ||Android||
 
 
