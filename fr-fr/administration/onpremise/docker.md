@@ -47,7 +47,7 @@ Adresse de l'image : https://hub.docker.com/r/altazion/office
 
 Vous devrez passer une information lors du lancement du container :
 
-- un volume contenant le dossier de configuration de votre installation, à mapper sur le dossier c:\programdata\cpoint\
+- un volume contenant le [dossier de configuration](configuration.md) de votre installation, à mapper sur le dossier c:\programdata\cpoint\
 
 Vous devez aussi déterminer le port de sortie de l'application.
 
