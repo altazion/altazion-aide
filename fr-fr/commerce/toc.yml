@@ -4,17 +4,19 @@
   href: catalogue.md
   items:
     - name: Descente/recherche
-      href: catalogue_descente.md
+      href: pages/catalogue_descente.md
 - name: Process
   href: process.md
   items:
     - name: Ajouter au panier
-      href: process_addtocart.md
+      href: pages/process_addtocart.md
     - name: Panier
-      href: process_cart.md
+      href: pages/process_cart.md
     - name: Livraison
-      href: process_shipping.md
+      href: pages/process_shipping.md
     - name: Connexion
-      href: process_login.md
+      href: pages/process_login.md
     - name: Paiment
-      href: process_payment.md
+      href: pages/process_payment.md
+- name : Magasins
+  href: stores.md

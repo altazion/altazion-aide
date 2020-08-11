@@ -13,7 +13,7 @@ La homepage est probablement la première page que la plupart de vos visiteurs v
 
 ### Ajout au panier
 
-La page d'ajout au panier est à utiliser lorsque vous souhaitez pouvoir réaliser un ajout au panier depuis une page tiers, au travers du navigation. Son url est standardisée :
+La [page d'ajout au panier](pages/process_addtocart.md) est à utiliser lorsque vous souhaitez pouvoir réaliser un ajout au panier depuis une page tierce, au travers du navigation. Son url est standardisée :
 
 `/addtocart.aspx`
 
