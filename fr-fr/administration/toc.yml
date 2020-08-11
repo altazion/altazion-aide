@@ -47,7 +47,13 @@
         items:
         - name: Connect-AltazionServer
           href: powershell/connect-altazionserver.md
-- name: Modules
+- name: Modules de fonctionnalités
   href: modules/toc.yml
 - name: EDI
   href: edi/toc.yml
+- name: Administrer Commerce
+  href: commerce/index.md
+  items:
+    - name: Page d'état
+      href: commerce/statusashx.md
+  
