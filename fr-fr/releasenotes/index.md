@@ -9,8 +9,8 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/20-7-pagination.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item highlight'>
-<h3>Pagination des r??sultats dans la listes des articles</h3>
-<div>Avec cette version, vous pourrez utiliser la premi??re version de notre syst??me de gestion des listes ayant plus de 100 r??sultats. Vous trouverez, dans la liste des articles un syst??me de pagination pour afficher plus de r??sultats.&nbsp;</div>
+<h3>Pagination des résultats dans la listes des articles</h3>
+<div>Avec cette version, vous pourrez utiliser la première version de notre système de gestion des listes ayant plus de 100 résultats. Vous trouverez, dans la liste des articles un système de pagination pour afficher plus de résultats.&nbsp;</div>
 </div>
 <div class='item'>
 <h3>Installation en mode Progressive Web App d'Altazion Office</h3>
@@ -29,10 +29,10 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item'>
-<h3>La zone de recherche g??n??rale ne fonctionne pas si la commence ou se termine par un espace.</h3>
+<h3>La zone de recherche générale ne fonctionne pas si la commence ou se termine par un espace.</h3>
 </div>
 <div class='item'>
-<h3>La t??che sur des horaires non renseign??s pour un magasin peut ??tre dupliqu??e si le magasin ne les saisit par rapidement apr??s apparition de la premi??re t??che.</h3>
+<h3>La tâche sur des horaires non renseignés pour un magasin peut être dupliquée si le magasin ne les saisit par rapidement après apparition de la première tâche.</h3>
 </div>
 </div>
 </div>
@@ -47,20 +47,20 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item highlight'>
-<h3>G??rer des ??v??nements magasins sur tout votre r??seau</h3>
+<h3>Gérer des évènements magasins sur tout votre réseau</h3>
 </div>
 <div class='item'>
-<h3>Si vous avez plus de 250 devices, la recherche dans les p??riph??riques magasins ne se termine jamais.</h3>
+<h3>Si vous avez plus de 250 devices, la recherche dans les périphériques magasins ne se termine jamais.</h3>
 </div>
 <div class='item'>
-<h3>Int??gration Boxtal (ex EnvoiMoinsCher) </h3>
-<div>Facilitez vos exp??ditions avec Boxtal !</div><div><br></div><div>G??rer facilement les exp??ditions multi-transporteurs</div>
+<h3>Intégration Boxtal (ex EnvoiMoinsCher) </h3>
+<div>Facilitez vos expéditions avec Boxtal !</div><div><br></div><div>Gérer facilement les expéditions multi-transporteurs</div>
 </div>
 <div class='item'>
-<h3>L'??cran de suivi des processus n'est plus disponible sur les serveurs OnPremise</h3>
+<h3>L'écran de suivi des processus n'est plus disponible sur les serveurs OnPremise</h3>
 </div>
 <div class='item'>
-<h3>Dans l'import de donn??es produits, l'url de l'image est limit??e ?? 250 caract??res.</h3>
+<h3>Dans l'import de données produits, l'url de l'image est limitée à 250 caractères.</h3>
 </div>
 </div>
 </div>
