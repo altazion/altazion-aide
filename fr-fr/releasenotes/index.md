@@ -3,7 +3,7 @@
 <a href='20_7.html'>
 <div class='release'>
 <div class='titreEtDate'>
-<div class='version'><h2>Version 20.7 <span class='dateSortie'>09/00/2020</span></h2></div>
+<div class='version'><h2>Version 20.7 <span class='dateSortie'>09/08/2020</span></h2></div>
 </div>
 <div class='descripEtImage'>
 <img src='https://altazion.blob.core.windows.net/public/roadmap/20-7-pagination.png' class='imageEnAvant' alt='Image pour illustrer' />
@@ -20,10 +20,28 @@
 </div>
 </div>
 </a>
+<a href='20_5.html'>
+<div class='release'>
+<div class='titreEtDate'>
+<div class='version'><h2>Version 20.5 <span class='dateSortie'>14/06/2020</span></h2></div>
+</div>
+<div class='descripEtImage'>
+<img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
+<div class='lesItems'>
+<div class='item'>
+<h3>La zone de recherche générale ne fonctionne pas si la commence ou se termine par un espace.</h3>
+</div>
+<div class='item'>
+<h3>La tâche sur des horaires non renseignés pour un magasin peut être dupliquée si le magasin ne les saisit par rapidement après apparition de la première tâche.</h3>
+</div>
+</div>
+</div>
+</div>
+</a>
 <a href='20_4.html'>
 <div class='release'>
 <div class='titreEtDate'>
-<div class='version'><h2>Version 20.4 <span class='dateSortie'>10/00/2020</span></h2></div>
+<div class='version'><h2>Version 20.4 <span class='dateSortie'>10/05/2020</span></h2></div>
 </div>
 <div class='descripEtImage'>
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
