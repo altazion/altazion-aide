@@ -1,5 +1,5 @@
 <div class='roadmapPage'>
-<h1>Mise à jour de la feuille de route ALTAZION</h1>
+<h1>Feuille de route ALTAZION</h1>
 <h2>Fonctionnalité en test</h2>
 <div id="enTest">
 <div class="item">
