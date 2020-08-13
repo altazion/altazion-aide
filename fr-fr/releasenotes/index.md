@@ -20,6 +20,21 @@
 </div>
 </div>
 </a>
+<a href='20_6.html'>
+<div class='release'>
+<div class='titreEtDate'>
+<div class='version'><h2>Version 20.6 <span class='dateSortie'>12/07/2020</span></h2></div>
+</div>
+<div class='descripEtImage'>
+<img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
+<div class='lesItems'>
+<div class='item'>
+<h3>Une vitrine automatique incorrecte bloque la mise à jours des autres vitrines ayant un délai de mise à jour égal ou supérieur.</h3>
+</div>
+</div>
+</div>
+</div>
+</a>
 <a href='20_5.html'>
 <div class='release'>
 <div class='titreEtDate'>
@@ -29,10 +44,10 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item'>
-<h3>La zone de recherche générale ne fonctionne pas si la commence ou se termine par un espace.</h3>
+<h3>La tâche sur des horaires non renseignés pour un magasin peut être dupliquée si le magasin ne les saisit par rapidement après apparition de la première tâche.</h3>
 </div>
 <div class='item'>
-<h3>La tâche sur des horaires non renseignés pour un magasin peut être dupliquée si le magasin ne les saisit par rapidement après apparition de la première tâche.</h3>
+<h3>La zone de recherche générale ne fonctionne pas si la commence ou se termine par un espace.</h3>
 </div>
 </div>
 </div>

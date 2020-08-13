@@ -3,6 +3,8 @@
   items:
     - name: 20.7
       href: 20_7.md
+    - name: 20.6
+      href: 20_6.md
     - name: 20.5
       href: 20_5.md
     - name: 20.4
