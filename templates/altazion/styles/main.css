@@ -142,3 +142,15 @@ h3, .h3 {
 }
 
 
+.roadmapPage h2 {
+    margin-top:3em;
+    font-size:unset;
+    text-transform:uppercase;
+    color:#36274c;
+    padding-bottom:0.5em;
+    border-bottom:solid 1px #efefef;
+}
+
+.roadmapPage h3 {
+    font-size:16px;
+}
