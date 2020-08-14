@@ -10,31 +10,32 @@
 </div>
 <div class="item">
 <h3>3 - Configurez les options d'Altazion Office for Android </h3>
+<div>Activez la connexion par empreinte tactile et les fonctionnalités avancées de votre back-office sur Android.</div>
 </div>
 <div class="item">
-<h3>4 - Page d'état plus complète pour le module Commerce</h3>
+<h3>4 - Pouvoir remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
+</div>
+<div class="item">
+<h3>5 - Nouveaux déclencheurs de médiations : hebdomadaire et via surveillance d'une url.</h3>
+</div>
+<div class="item">
+<h3>6 - Page d'état plus complète pour le module Commerce</h3>
 <div>La page d'état <i>votresite.com/</i>admin/status.ashx a été complétée avec des informations supplémentaires pour vous permettre de vérifier la configuration du module Altazion Commerce.</div>
-</div>
-<div class="item">
-<h3>5 - Pouvoir remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
-</div>
-<div class="item">
-<h3>6 - Nouveaux déclencheurs de médiations : hebdomadaire et via surveillance d'une url.</h3>
 </div>
 </div>
 <h2>C'est pour bientôt</h2>
 <div id="bientot">
 <div class="item">
-<h3>1 - Synchroniser vos tâches avec Microsoft ToDo & Outlook </h3>
-<div>Retrouvez vos tâches Altazion Office dans Microsoft To-do, Microsoft Teams ou Outlook pour gérer votre travail en toute simplicité.&nbsp;&nbsp;</div>
-</div>
-<div class="item">
-<h3>2 - Importer des templates personnalisés sur vos bornes </h3>
+<h3>1 - Importer des templates personnalisés sur vos bornes </h3>
 <div>Créez vos templates d'applications pour vos bornes, murs tactiles ou tablettes dans vos outils de développement préférés et importez les dans nos outils.</div>
 </div>
 <div class="item">
-<h3>3 - Importer des modèles MailChimp ou Mailster pour vos mails transactionnels </h3>
+<h3>2 - Importer des modèles MailChimp ou Mailster pour vos mails transactionnels </h3>
 <div>Utilisez des templates MailChimp ou Mailster pour personnaliser vos e-mails transactionnels : importez un modèles et ajoutez votre contenu pour des notifications à votre image.</div>
+</div>
+<div class="item">
+<h3>3 - Synchroniser vos tâches avec Microsoft ToDo & Outlook </h3>
+<div>Retrouvez vos tâches Altazion Office dans Microsoft To-do, Microsoft Teams ou Outlook pour gérer votre travail en toute simplicité.&nbsp;&nbsp;</div>
 </div>
 <div class="item">
 <h3>4 - Médiations : éditeur de format de fichier intégré </h3>

@@ -16,6 +16,9 @@
 <h3>Installation en mode Progressive Web App d'Altazion Office</h3>
 <div>Installez Altazion Office sur votre smartphone ou votre desktop sans passer par le Store.&nbsp;</div>
 </div>
+<div class='item'>
+<h3>Les champs dans la page d'édition d'un magasin ne sont pas tous visuellement conformes</h3>
+</div>
 </div>
 </div>
 </div>
