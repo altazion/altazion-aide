@@ -121,6 +121,7 @@ h3, .h3 {
     padding-bottom:3rem;
 }
 
+.releaseNotesVersion span.date-release,
 .releaseNotesGlobal .release span.dateSortie {
     font-size: 14px;
     font-weight: normal;
