@@ -17,6 +17,8 @@ La [page d'ajout au panier](pages/process_addtocart.md) est à utiliser lorsque 
 
 `/addtocart.aspx`
 
+Cette page accepte, en paramètres, un ensemble de valeurs permettant de définir ce qui est à ajouter au panier, et dans quelles conditions : [en savoir plus](pages/process_addtocart.md).
+
 ## Pages magasins
 
 Les pages magasins sont regroupées sous un répertoire de la solution. Le nom de ce dossier est paramétrable mais prend la valeur par défaut _magasin_.
