@@ -202,3 +202,67 @@ h2 { font-size:1.4rem; text-overflow: ellipsis; overflow: hidden; white-space: n
 
 
 }
+
+
+
+
+
+
+
+
+.releaseNotesVersion h2 {
+    font-size:18px;
+    font-weight:bold;
+}
+
+.releaseNotesVersion .correctionsOuMod h3 {
+    font-size:unset;
+    display: list-item;          
+    list-style-type: disc;
+    margin:0em 0 0.25rem 2.5em ;
+    line-height:1.5em;
+}
+
+.releaseNotesVersion .correctionsOuMod .description {
+    display: none;
+}
+
+
+.releaseNotesGlobal .release {
+    border-top:solid 1px #dcdcdc;
+    padding-bottom:3rem;
+}
+
+.releaseNotesVersion span.date-release,
+.releaseNotesGlobal .release span.dateSortie {
+    font-size: 14px;
+    font-weight: normal;
+    color: #a0a0a0;
+    display: block;
+    margin-top: 0.5em;
+    margin-left: 0.4rem;
+}
+
+.releaseNotesGlobal a
+{
+    color:#191919!important;
+}
+
+.releaseNotesGlobal h3 {
+    font-size:18px;
+    font-weight:bold;
+}
+
+
+.roadmapPage h2 {
+    margin-top:3em;
+    font-size:unset;
+    text-transform:uppercase;
+    color:#36274c;
+    padding-bottom:0.5em;
+    border-bottom:solid 1px #efefef;
+}
+
+.roadmapPage h3 {
+    font-size:16px;
+}

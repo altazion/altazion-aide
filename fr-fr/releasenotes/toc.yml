@@ -1,9 +1,14 @@
 - name: Release Notes
   href: index.md
   items:
-    - name: v20
-      items:
-        - name: v20.0 - 12-janv.
-          href: 20_0.md
+    - name: 20.7
+      href: 20_7.md
+    - name: 20.6
+      href: 20_6.md
+    - name: 20.5
+      href: 20_5.md
+    - name: 20.4
+      href: 20_4.md
 - name: Roadmap
   href: roadmap.md
+
