@@ -14,5 +14,4 @@
 |[PROMOTIONSLOTS](promotionslots.md)|Promotions lots|
 |[QUESTIONNAIRES](questionnaires.md)|Questionnaires|
 |[REVENDEURS](revendeurs.md)|Revendeurs|
-|[PROSPECTION](prospection.md)|Suivi des prospects|
 |[CAMPAGNESVENTESEVENEMENT](campagnesventesevenement.md)|Ventes évènementielles|
