@@ -13,6 +13,14 @@
 <div>Avec cette version, vous pourrez utiliser la première version de notre système de gestion des listes ayant plus de 100 résultats. Vous trouverez, dans la liste des articles un système de pagination pour afficher plus de résultats.&nbsp;</div>
 </div>
 <div class='item'>
+<h3>Page d'état plus complète pour le module Commerce</h3>
+<div>La page d'état <i>votresite.com/</i>admin/status.ashx a été complétée avec des informations supplémentaires pour vous permettre de vérifier la configuration du module Altazion Commerce.</div>
+</div>
+<div class='item'>
+<h3>Nouvelle détection d'anomalie dans les journaux banque : non trouvé</h3>
+<div>Un nouveau type d'anomalie peut-être détecté dans l'analyse de journaux de transaction : les transactions présentes dans le fichier et qui n'ont pas pu être intégrées (par manque de correspondance par exemple)</div>
+</div>
+<div class='item'>
 <h3>Installation en mode Progressive Web App d'Altazion Office</h3>
 <div>Installez Altazion Office sur votre smartphone ou votre desktop sans passer par le Store.&nbsp;</div>
 </div>

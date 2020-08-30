@@ -23,16 +23,12 @@
 <h3>6 - Envoyez des contenus rédactionnels à vos collaborateurs</h3>
 </div>
 <div class="item">
-<h3>7 - Page d'état plus complète pour le module Commerce</h3>
-<div>La page d'état <i>votresite.com/</i>admin/status.ashx a été complétée avec des informations supplémentaires pour vous permettre de vérifier la configuration du module Altazion Commerce.</div>
-</div>
-<div class="item">
-<h3>8 - Importer des templates personnalisés sur vos bornes</h3>
+<h3>7 - Importer des templates personnalisés sur vos bornes</h3>
 <div>Créez vos templates d'applications pour vos bornes, murs tactiles ou tablettes dans vos outils de développement préférés et importez les dans nos outils.</div>
 </div>
 <div class="item">
-<h3>9 - Nouvelle détection d'anomalie dans les journaux banque : non trouvé</h3>
-<div>Un nouveau type d'anomalie peut-être détecté dans l'analyse de journaux de transaction : les transactions présentes dans le fichier et qui n'ont pas pu être intégrées (par manque de correspondance par exemple)</div>
+<h3>8 - Nouvel possibilité d'extensions sur le dossier Article</h3>
+<div>Avec cette release, nous avons ajouté deux emplacements supplémentaires d'extensibilité dans le dossier d'un article, vous permettant de compléter ou remplacer l'affichage de l'approvisionnement du produit.</div>
 </div>
 </div>
 <h2>C'est pour bientôt</h2>
