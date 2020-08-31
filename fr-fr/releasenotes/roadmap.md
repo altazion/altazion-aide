@@ -38,19 +38,15 @@
 <div>Retrouvez vos tâches Altazion Office dans Microsoft To-do, Microsoft Teams ou Outlook pour gérer votre travail en toute simplicité.&nbsp;&nbsp;</div>
 </div>
 <div class="item">
-<h3>2 - Affichage du téléphone du point relai dans le dossier commande </h3>
-<div>Si l'information est disponible auprès de votre prestataire de livraison, le numéro de téléphone du point de livraison est maintenant disponible dans le dossier commande.</div>
-</div>
-<div class="item">
-<h3>3 - Importer des modèles MailChimp ou Mailster pour vos mails transactionnels </h3>
+<h3>2 - Importer des modèles MailChimp ou Mailster pour vos mails transactionnels </h3>
 <div>Utilisez des templates MailChimp ou Mailster pour personnaliser vos e-mails transactionnels : importez un modèles et ajoutez votre contenu pour des notifications à votre image.</div>
 </div>
 <div class="item">
-<h3>4 - Etiquettes personnalisables pour Colissimo sur Imprimante A4 </h3>
+<h3>3 - Etiquettes personnalisables pour Colissimo sur Imprimante A4 </h3>
 <div>Personnalisez le contenu de la partie rédactionnelle des étiquettes Colissimo ! Vous pouvez opter pour l'affichage du bon de préparation, d'une communication commerciale ou personnaliser intégralement le contenu.</div>
 </div>
 <div class="item">
-<h3>5 - Support des devices Zebra TC-20, TC-52 sur nos applications Android </h3>
+<h3>4 - Support des devices Zebra TC-20, TC-52 sur nos applications Android </h3>
 </div>
 </div>
 <h2>A l'étude</h2>

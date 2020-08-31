@@ -21,6 +21,10 @@
 <div>Un nouveau type d'anomalie peut-être détecté dans l'analyse de journaux de transaction : les transactions présentes dans le fichier et qui n'ont pas pu être intégrées (par manque de correspondance par exemple)</div>
 </div>
 <div class='item'>
+<h3>Affichage du téléphone du point relai dans le dossier commande</h3>
+<div>Si l'information est disponible auprès de votre prestataire de livraison, le numéro de téléphone du point de livraison est maintenant disponible dans le dossier commande.</div>
+</div>
+<div class='item'>
 <h3>Installation en mode Progressive Web App d'Altazion Office</h3>
 <div>Installez Altazion Office sur votre smartphone ou votre desktop sans passer par le Store.&nbsp;</div>
 </div>
