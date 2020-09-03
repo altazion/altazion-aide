@@ -101,6 +101,7 @@ h3, .h3 {
 .releaseNotesVersion h2 {
     font-size:18px;
     font-weight:bold;
+    margin-top: 10px;
 }
 
 .releaseNotesVersion .correctionsOuMod h3 {
