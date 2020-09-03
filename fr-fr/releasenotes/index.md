@@ -25,11 +25,11 @@
 <div>Si l'information est disponible auprès de votre prestataire de livraison, le numéro de téléphone du point de livraison est maintenant disponible dans le dossier commande.</div>
 </div>
 <div class='item'>
-<h3>Installation en mode Progressive Web App d'Altazion Office</h3>
-<div>Installez Altazion Office sur votre smartphone ou votre desktop sans passer par le Store.&nbsp;</div>
+<h3>Réorganisation des champs dans la page d'édition d'un magasin</h3>
 </div>
 <div class='item'>
-<h3>Réorganisation des champs dans la page d'édition d'un magasin</h3>
+<h3>Installation en mode Progressive Web App d'Altazion Office</h3>
+<div>Installez Altazion Office sur votre smartphone ou votre desktop sans passer par le Store.&nbsp;</div>
 </div>
 </div>
 </div>
@@ -83,14 +83,14 @@
 <h3>Si vous avez plus de 250 devices, la recherche dans les périphériques magasins ne se termine jamais.</h3>
 </div>
 <div class='item'>
+<h3>Intégration Boxtal (ex EnvoiMoinsCher) </h3>
+<div>Facilitez vos expéditions avec Boxtal !</div><div><br></div><div>Gérer facilement les expéditions multi-transporteurs</div>
+</div>
+<div class='item'>
 <h3>L'écran de suivi des processus n'est plus disponible sur les serveurs OnPremise</h3>
 </div>
 <div class='item'>
 <h3>Dans l'import de données produits, l'url de l'image est limitée à 250 caractères.</h3>
-</div>
-<div class='item'>
-<h3>Intégration Boxtal (ex EnvoiMoinsCher) </h3>
-<div>Facilitez vos expéditions avec Boxtal !</div><div><br></div><div>Gérer facilement les expéditions multi-transporteurs</div>
 </div>
 </div>
 </div>
