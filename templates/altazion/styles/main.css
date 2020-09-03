@@ -142,6 +142,10 @@ h3, .h3 {
 }
 
 
+.releaseNotesVersion .roadmapItem {
+   margin-bottom: 40px;
+}
+
 .roadmapPage h2 {
     margin-top:3em;
     font-size:unset;
