@@ -1,7 +1,5 @@
-# Cmdlet disponibles
-
-## Connexion
+### Connexion
 
 * [Connect-AltazionServer](connect-altazionserver.md)
 
-## Autres cmdlets
+### Autres cmdlets
