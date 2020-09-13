@@ -1,18 +1,19 @@
 - name: Administration
   href: index.md
-  - name: Tâches courantes
-    items:
-      - name: Monitoring
-        href: common/monitoring/index.md
-        items:
-          - name: Commerce
-            href: common/monitoring/commerce.md
-      - name: Gérer les utiliateurs
-        href: common/users.md
-      - name: Echanges EDI (médiations)
-        href: common/mediations.md
-  - name: Installation
-    href: installation.md
+  items:
+    - name: Tâches courantes
+      items:
+        - name: Monitoring
+          href: common/monitoring/index.md
+          items:
+            - name: Commerce
+              href: common/monitoring/commerce.md
+        - name: Gérer les utiliateurs
+          href: common/users.md
+        - name: Echanges EDI (médiations)
+          href: common/mediations.md
+    - name: Installation
+      href: installation.md
 - name: On-Premise
   href: onpremise/index.md
   items: 
@@ -30,7 +31,7 @@
       href: onpremise/reseau.md
 - name: Hebergé (SaaS)
   href: saas/index.md
-  index:
+  items:
     - name: Pré-requis
       href: saas/saas-prerequis.md
     - name: Sécurité
@@ -42,9 +43,6 @@
     - name: Powershell
       href: powershell/index.md
       items: 
-      - name: Commandes Powershell
-        href: powershell/cmdlets.md
-        items:
         - name: Connect-AltazionServer
           href: powershell/connect-altazionserver.md
     - name: Modules de fonctionnalités
