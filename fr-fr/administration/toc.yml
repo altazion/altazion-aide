@@ -1,18 +1,18 @@
 - name: Administration
   href: index.md
-- name: Installation
-  href: installation.md
-- name: Tâches courantes
-  items:
-    - name: Monitoring
-      href: common/monitoring/index.md
-      items:
-        - name: Commerce
-          href: common/monitoring/commerce.md
-    - name: Gérer les utiliateurs
-      href: common/users.md
-    - name: Echanges EDI (médiations)
-      href: common/mediations.md
+  - name: Tâches courantes
+    items:
+      - name: Monitoring
+        href: common/monitoring/index.md
+        items:
+          - name: Commerce
+            href: common/monitoring/commerce.md
+      - name: Gérer les utiliateurs
+        href: common/users.md
+      - name: Echanges EDI (médiations)
+        href: common/mediations.md
+  - name: Installation
+    href: installation.md
 - name: On-Premise
   href: onpremise/index.md
   items: 
@@ -47,13 +47,15 @@
         items:
         - name: Connect-AltazionServer
           href: powershell/connect-altazionserver.md
-- name: Modules de fonctionnalités
-  href: modules/toc.yml
-- name: EDI
-  href: edi/toc.yml
-- name: Administrer Commerce
-  href: commerce/index.md
+    - name: Modules de fonctionnalités
+      href: modules/toc.yml
+    - name: EDI
+      href: edi/toc.yml
+- name: Par application
   items:
-    - name: Page d'état
-      href: commerce/statusashx.md
+    - name: Altazion Commerce
+      href: commerce/index.md
+      items:
+        - name: Page d'état
+          href: commerce/statusashx.md
   

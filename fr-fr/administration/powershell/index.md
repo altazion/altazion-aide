@@ -40,6 +40,6 @@ Pour tous les scripts ou presque, vous aurez besoin d'être connecté à votre c
     Connect-AltazionServer -Username administrateur@altazion-learning.com -Password '<<password>>'
     ```
 
-## En savoir plus...
+## Liste des cmdlets disponibles
 
-* [Liste des cmdlets disponibles](cmdlets.md)
+[!include[cmdlets](cmdlets.md)]
