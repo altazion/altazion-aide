@@ -24,7 +24,7 @@ La personnalisation de la solution effectuée par nos services est installée da
 
 Sur un système Windows "classique", le dossier {Common_AppData} correspond au dossier `c:\programdata\`. La configuration générale doit donc se trouver dans `c:\programdata\cpoint\[e]\bin\config`. 
 
-Vous pouvez définir un autre dossier comme étant la racine de la configuration. Dans ce cas, ce dossier se substitue à `{Common_AppData}\cpoint\[e]` (voir [ci-dessous](#Rediriger-le-dossier-racine)). 
+Vous pouvez définir un autre dossier comme étant la racine de la configuration. Dans ce cas, ce dossier se substitue à `{Common_AppData}\cpoint\[e]` (voir [ci-dessous](#rediriger-le-dossier-racine)). 
 
 ### Dossiers d'extensibilité
 
