@@ -47,7 +47,7 @@ La cause la plus probable est que le service n?est pas en fonctionnement ou est 
 #### Aucune version n'est disponible
 Pour vérifier qu'une version est disponible pour un applicatif donné, il suffit de comparer la version installée avec la dernière version publiée.
 
-Page présentant la dernière version : http://aide.commerce-hub.io/status.aspx 
+Page présentant la dernière version : https://aide.altazion.com/fr-fr/releasenotes/ 
 
 Si vous avez accès au système de fichier du serveur, le plus simple est de comparer la version visible dans cette page avec la dernière version detectée par le module, que vous pourrez trouver dans : `C:\ProgramData\CPoint\[e]\bin\updates\status.xml `
 
@@ -74,3 +74,52 @@ Dans la plupart des cas, ce problème est dû à une trop forte utilisation de l
     - Cliquez sur Arrêter
     - Relancer la mise à jour
     - Revenir dans le gestionnaire IIS et redemarrez le(s) pool(s) que vous avez arrêté.
+
+## Configuration avancée
+
+Afin de permettre la personnalisation (par exemple pour ajouter des informations dans les fichiers web.config), il faut ajouter un/des fichier(s) Powershell dans les dossier de configuration. 
+
+Ces fichiers se placent dans le dossier `%PROGRAMDATA%\CPoint\[e]\bin\updates\scripts` et doivent être nommés en fonction du module à installer et de la phase d'installation. Par exemple :
+
+- PREINSTALL_ecommerce.ps1
+- POSTINSTALL-phygital.ps1.
+
+Les phases d'installations disponibles sont :
+
+- STARTUPDATE : première étape réalisée avant toute modification du module. Dans le cadre d'un site web, celui-ci n'est pas encore arreté et le App_offline.html n'est pas encore créé.
+- PREBACKUP : réalisé juste avant de compresser l'ancienne version pour backup
+- POSTBACKUP : appelé juste après la création du backup
+- PREINSTALL : déclenché avant la mise en place des nouveaux fichiers
+- POSTINSTALL : appelé juste avant la réactivation du module, après copie des fichiers et mise en place des éléments. Dans le cadre d'un module web, le App_offline est toujours actif
+- ENDUPDATE : dernière étape, appelé après toutes les opérations de mise à jour.
+
+Les modules :
+
+- gestioncommerciale : la gestion commerciale
+- ecommerce : le module e-commerce
+- phygitalapi : l'application phygitale (store & signage)
+- integration : l'api générale (hub)
+
+Par exemple :
+```powershell
+# FICHIER : POSTINSTALL_ecommerce.ps1
+
+$rootFolder = (get-item env:E_MODULE_PATH).Value
+pushd $rootFolder
+$webconfigfile = get-item web.config
+[xml]$webconfig = Get-Content($webconfigfile)
+$d = $webconfig.SelectSingleNode("/configuration/e")
+$d.InnerXml = "<e.env />"
+$d = $webconfig.SelectSingleNode("/configuration/e/e.env")
+$d.SetAttribute("rootFolder",$rootFolder)
+$d.SetAttribute("kind","Release")
+$webconfig.Save($webconfigfile.FullName)
+popd
+```
+
+### Variables d'environnement
+
+Les variables d'environnements suivantes sont définies pour utilisation dans les scripts powershell :
+
+- `E_MODULE_PATH` : le path (terminé par un \\) d'installation du module
+- `E_BACKUP_PATH` : le path (terminé par un \\) dans lequel sont sauvegardés les back-ups 
