@@ -22,6 +22,10 @@ La personnalisation de la solution effectuée par nos services est installée da
 |Serveur e-commerce|{Common\_AppData}\\CPoint\\\[e\]\\bin\\ecommerce|
 |Serveur logistique|{Common\_AppData}\\CPoint\\\[e\]\\bin\\logistique|
 
+Sur un système Windows "classique", le dossier {Common_AppData} correspond au dossier `c:\programdata\`. La configuration générale doit donc se trouver dans `c:\programdata\cpoint\[e]\bin\config`. 
+
+Vous pouvez définir un autre dossier comme étant la racine de la configuration. Dans ce cas, ce dossier se substitue à `{Common_AppData}\cpoint\[e]` (voir [ci-dessous](#rediriger-le-dossier-racine)). 
+
 ### Dossiers d'extensibilité
 
 Si vous avez développé des éléments personnalisés (modules, modèles de documents, etc.), vous pouvez utiliser le dossier d’extensibilité pour les déployer. L’ajout d’un module ou d’un document dans l’un de ses sous-dossiers le rend accessible par nos applicatifs.
@@ -111,3 +115,35 @@ Les journaux contenant la liste des opérations réalisées par chacun des modul
 > [!WARNING]
 > Vous pouvez activer la centralisation des logs si vous utilisez nos solutions sur plusieurs serveurs différents et souhaitez regrouper les logs dans un dossier commun. Dans ce cadre, les fichiers de traces ne sont conservés dans les dossier ci-dessus que pendant une très courte période : moins de 2 heures.
 > Reportez vous à [la documentation de cette fonctionnalité pour plus d'informations](traces.md#centralisation)
+
+## Configuration avancée
+
+### Rediriger le dossier racine
+
+Si vous ne souhaitez pas utiliser le dossier "habituel" pour y stocker la configuration, vous devrez configurer chaque application pour utiliser un autre path. Pour cela :
+
+- ouvrez le dossier dans lequel se trouvent les binaires de l'application (par exemple `{Program_files}\CPoint\[e]\services` pour une installation par défaut d'Altazion Office).
+- localisez le fichier `e.config`
+- vous devriez obtenir un contenu xml de la forme :
+    ``` xml
+    <?xml version="1.0" encoding="utf-8"?>
+    <e>
+      <e.env kind="Release" />
+    </e> 
+    ```
+
+- il vous suffit d'ajouter une propriété `rootFolder` sur le noeud `e.env`, par exemple :
+    ``` xml
+    <?xml version="1.0" encoding="utf-8"?>
+    <e>
+      <e.env kind="Release" rootFolder="d:\racine-installation\" />
+    </e> 
+    ```
+
+> [!WARNING]
+> Attention, vous devez faire cette modification pour TOUTES les applications installées.
+
+Le dossier vers lequel vous pointez la redirection devra suivre une structure similaire au dossier `{Common_AppData}\cpoint\[e]`. Vous devrez donc y placer :
+
+- un sous dossier bin avec les dlls réalisées par notre équipe dans le cadre de votre phase de setup et fichiers de config
+- un sous dossier ext avec vos propres développements

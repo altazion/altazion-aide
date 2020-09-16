@@ -1,5 +1,35 @@
 <div class='releaseNotesGlobal'>
 <h1>Release notes</h1>
+<a href='20_8.html'>
+<div class='release'>
+<div class='titreEtDate'>
+<div class='version'><h2>Version 20.8 <span class='dateSortie'>13/09/2020</span></h2></div>
+</div>
+<div class='descripEtImage'>
+<img src='https://altazion.blob.core.windows.net/public/roadmap/20-8-editeur-fichiers.png' class='imageEnAvant' alt='Image pour illustrer' />
+<div class='lesItems'>
+<div class='item highlight'>
+<h3>Médiations : éditeur de format de fichier csv intégré</h3>
+<div>Créez vos formats de fichiers d'import ou d'export directement sur le back-office sans passer par un descriptif JSON ou XML.&nbsp;</div>
+</div>
+<div class='item'>
+<h3>Nouvel possibilité d'extensions sur le dossier Article</h3>
+<div>Avec cette release, nous avons ajouté deux emplacements supplémentaires d'extensibilité dans le dossier d'un article, vous permettant de compléter ou remplacer l'affichage de l'approvisionnement du produit.</div>
+</div>
+<div class='item'>
+<h3>Nouveau format d'export financier pour les vendeurs marketplace</h3>
+<div>Le format d'export financier en fichier Excel a été retravaillé pour regrouper les opérations en fonction du versement effectué au vendeur, pour un rapprochement plus rapide.</div>
+</div>
+<div class='item'>
+<h3>Télécharger la liste des magasins participants à un évènement Cross Canal</h3>
+</div>
+<div class='item'>
+<h3>Un magasin n'ayant que des horaires dans le futur n'était pas averti du manque d'horaires actifs</h3>
+</div>
+</div>
+</div>
+</div>
+</a>
 <a href='20_7.html'>
 <div class='release'>
 <div class='titreEtDate'>
@@ -80,9 +110,6 @@
 <h3>Gérer des évènements magasins sur tout votre réseau</h3>
 </div>
 <div class='item'>
-<h3>Si vous avez plus de 250 devices, la recherche dans les périphériques magasins ne se termine jamais.</h3>
-</div>
-<div class='item'>
 <h3>Intégration Boxtal (ex EnvoiMoinsCher) </h3>
 <div>Facilitez vos expéditions avec Boxtal !</div><div><br></div><div>Gérer facilement les expéditions multi-transporteurs</div>
 </div>
@@ -91,6 +118,9 @@
 </div>
 <div class='item'>
 <h3>Dans l'import de données produits, l'url de l'image est limitée à 250 caractères.</h3>
+</div>
+<div class='item'>
+<h3>Si vous avez plus de 250 devices, la recherche dans les périphériques magasins ne se termine jamais.</h3>
 </div>
 </div>
 </div>

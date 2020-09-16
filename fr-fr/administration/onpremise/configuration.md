@@ -10,7 +10,8 @@ Il se compose comme suit :
 <?xml version='1.0' encoding='utf-8' ?>
 <Configuration>
  <Sections>
-  <Section name='Framework' assemblyName='CPointSoftware.Framework' className='CPointSoftware.Framework.Configuration.ConfigurationHandler'/>
+  <Section name='Framework' assemblyName='CPointSoftware.Framework' 
+       className='CPointSoftware.Framework.Configuration.ConfigurationHandler'/>
  </Sections>
  <Settings >
   <Framework>
