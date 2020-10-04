@@ -1,5 +1,24 @@
 <div class='releaseNotesGlobal'>
 <h1>Release notes</h1>
+<a href='20_9.html'>
+<div class='release'>
+<div class='titreEtDate'>
+<div class='version'><h2>Version 20.9 <span class='dateSortie'>11/10/2020</span></h2></div>
+</div>
+<div class='descripEtImage'>
+<img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
+<div class='lesItems'>
+<div class='item'>
+<h3>Envoyez des contenus rédactionnels à vos collaborateurs</h3>
+</div>
+<div class='item'>
+<h3>Importer des templates personnalisés sur vos bornes</h3>
+<div>Créez vos templates d'applications pour vos bornes, murs tactiles ou tablettes dans vos outils de développement préférés et importez les dans nos outils.</div>
+</div>
+</div>
+</div>
+</div>
+</a>
 <a href='20_8.html'>
 <div class='release'>
 <div class='titreEtDate'>
@@ -43,16 +62,16 @@
 <div>Avec cette version, vous pourrez utiliser la première version de notre système de gestion des listes ayant plus de 100 résultats. Vous trouverez, dans la liste des articles un système de pagination pour afficher plus de résultats.&nbsp;</div>
 </div>
 <div class='item'>
-<h3>Page d'état plus complète pour le module Commerce</h3>
-<div>La page d'état <i>votresite.com/</i>admin/status.ashx a été complétée avec des informations supplémentaires pour vous permettre de vérifier la configuration du module Altazion Commerce.</div>
-</div>
-<div class='item'>
 <h3>Nouvelle détection d'anomalie dans les journaux banque : non trouvé</h3>
 <div>Un nouveau type d'anomalie peut-être détecté dans l'analyse de journaux de transaction : les transactions présentes dans le fichier et qui n'ont pas pu être intégrées (par manque de correspondance par exemple)</div>
 </div>
 <div class='item'>
 <h3>Affichage du téléphone du point relai dans le dossier commande</h3>
 <div>Si l'information est disponible auprès de votre prestataire de livraison, le numéro de téléphone du point de livraison est maintenant disponible dans le dossier commande.</div>
+</div>
+<div class='item'>
+<h3>Page d'état plus complète pour le module Commerce</h3>
+<div>La page d'état <i>votresite.com/</i>admin/status.ashx a été complétée avec des informations supplémentaires pour vous permettre de vérifier la configuration du module Altazion Commerce.</div>
 </div>
 <div class='item'>
 <h3>Réorganisation des champs dans la page d'édition d'un magasin</h3>
