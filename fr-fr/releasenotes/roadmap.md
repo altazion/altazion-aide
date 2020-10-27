@@ -30,6 +30,9 @@
 <h3>5 - Importer des modèles MailChimp ou Mailster pour vos mails transactionnels </h3>
 <div>Utilisez des templates MailChimp ou Mailster pour personnaliser vos e-mails transactionnels : importez un modèles et ajoutez votre contenu pour des notifications à votre image.</div>
 </div>
+<div class="item">
+<h3>6 - Nouvelle page de configuration e-commerce </h3>
+</div>
 </div>
 <h2>A l'étude</h2>
 <div id="etude">
