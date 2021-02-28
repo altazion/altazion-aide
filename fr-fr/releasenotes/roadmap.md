@@ -26,18 +26,22 @@
 <h3>1 - Template e-commerce & borne "Boxed" </h3>
 </div>
 <div class="item">
-<h3>2 - Configurez les options d'Altazion Office for Android  </h3>
+<h3>2 - Evolution Payout pour la marketplace : références du partenaire </h3>
+<div>Dans les payouts, les identifiants du partenaire (code magasin, code revendeur ou identifiant du vendeur) seront dorénavant transmis en même temps que les données financières pour les plateformes qui le permettent :</div><div><ul><li>Adyen : le numéro est ajouté au ShopperName</li><li>Stripe : en tant que metadata complémentaire, portant le code &quot;PARTNERID&quot;</li></ul></div>
+</div>
+<div class="item">
+<h3>3 - Configurez les options d'Altazion Office for Android  </h3>
 <div>Activez la connexion par empreinte tactile et les fonctionnalités avancées de votre back-office sur Android.</div>
 </div>
 <div class="item">
-<h3>3 - Synchroniser vos tâches avec Microsoft ToDo & Outlook </h3>
+<h3>4 - Synchroniser vos tâches avec Microsoft ToDo & Outlook </h3>
 <div>Retrouvez vos tâches Altazion Office dans Microsoft To-do, Microsoft Teams ou Outlook pour gérer votre travail en toute simplicité.&nbsp;&nbsp;</div>
 </div>
 <div class="item">
-<h3>4 - Application d'accueil pour votre réception </h3>
+<h3>5 - Application d'accueil pour votre réception </h3>
 </div>
 <div class="item">
-<h3>5 - Importer des modèles MailChimp ou Mailster pour vos mails transactionnels </h3>
+<h3>6 - Importer des modèles MailChimp ou Mailster pour vos mails transactionnels </h3>
 <div>Utilisez des templates MailChimp ou Mailster pour personnaliser vos e-mails transactionnels : importez un modèles et ajoutez votre contenu pour des notifications à votre image.</div>
 </div>
 </div>
@@ -51,10 +55,14 @@
 <h3>2 - Support des devices Zebra TC-20, TC-52 sur nos applications Android</h3>
 </div>
 <div class="item">
-<h3>3 - Refonte de la homepage d'Altazion Office</h3>
+<h3>3 - Optimisation du Reporting "Vos opérations" pour les vendeurs marketplace</h3>
+<div>Vous trouverez dans cette nouvelle version du reporting de vos opérations des colonnes vous permettant de connaitre, pour chaque commande, pour un vendeur :</div><div><ul><li>les montants séparés des frais de ports, des articles et services en complément du montant total de la commande</li><li>le type de commande réalisée (Marketplace, DropShipping, Reservation, etc.)</li><li>les montants séparés des commissions financières et des commissions de service de la plateforme</li></ul><div>Si vous avez de nombreuses lignes, le fichier peut actuellement prendre un temps important : avec cette nouvelle version, si le fichier prend plus de 10 secondes à être préparé, il vous sera envoyé par e-mail au lieu de vous être fourni directement.</div></div>
 </div>
 <div class="item">
-<h3>4 - Retrouvez Altazion Store dans le Google Play Store</h3>
+<h3>4 - Refonte de la homepage d'Altazion Office</h3>
+</div>
+<div class="item">
+<h3>5 - Retrouvez Altazion Store dans le Google Play Store</h3>
 </div>
 </div>
 </div>
