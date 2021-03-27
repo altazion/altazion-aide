@@ -26,11 +26,9 @@
 <div class='lesItems'>
 <div class='item highlight'>
 <h3>Etiquettes personnalisables pour Colissimo sur Imprimante A4</h3>
-<div>Personnalisez le contenu de la partie rédactionnelle des étiquettes Colissimo ! Vous pouvez opter pour l'affichage du bon de préparation, d'une communication commerciale ou personnaliser intégralement le contenu.</div>
 </div>
-<div class='item'>
+<div class='item highlight'>
 <h3>Nouveaux déclencheurs de médiations : hebdomadaire et via surveillance d'une url.</h3>
-<div>Vous pouvez maintenant utiliser deux nouveaux modules de déclenchement :</div><div><ul><li><b>Exécution périodique sur la semaine</b> vous permet de définir une exécution à une heure données, plusieurs jours par semaines. La médiation déclenchée ne contiendra aucun fichier.</li><li><b>Exécution par URL externe</b>&nbsp;déclenchera une nouvelle instance de la médiation à chaque fois qu'un URL données produira un code de retour donné.&nbsp;</li></ul></div>
 </div>
 </div>
 </div>
