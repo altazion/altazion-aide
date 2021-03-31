@@ -96,16 +96,16 @@
 <div>Avec cette version, vous pourrez utiliser la première version de notre système de gestion des listes ayant plus de 100 résultats. Vous trouverez, dans la liste des articles un système de pagination pour afficher plus de résultats.&nbsp;</div>
 </div>
 <div class='item'>
-<h3>Page d'état plus complète pour le module Commerce</h3>
-<div>La page d'état <i>votresite.com/</i>admin/status.ashx a été complétée avec des informations supplémentaires pour vous permettre de vérifier la configuration du module Altazion Commerce.</div>
-</div>
-<div class='item'>
 <h3>Nouvelle détection d'anomalie dans les journaux banque : non trouvé</h3>
 <div>Un nouveau type d'anomalie peut-être détecté dans l'analyse de journaux de transaction : les transactions présentes dans le fichier et qui n'ont pas pu être intégrées (par manque de correspondance par exemple)</div>
 </div>
 <div class='item'>
 <h3>Affichage du téléphone du point relai dans le dossier commande</h3>
 <div>Si l'information est disponible auprès de votre prestataire de livraison, le numéro de téléphone du point de livraison est maintenant disponible dans le dossier commande.</div>
+</div>
+<div class='item'>
+<h3>Page d'état plus complète pour le module Commerce</h3>
+<div>La page d'état <i>votresite.com/</i>admin/status.ashx a été complétée avec des informations supplémentaires pour vous permettre de vérifier la configuration du module Altazion Commerce.</div>
 </div>
 <div class='item'>
 <h3>Réorganisation des champs dans la page d'édition d'un magasin</h3>
@@ -163,17 +163,17 @@
 <h3>Gérer des évènements magasins sur tout votre réseau</h3>
 </div>
 <div class='item'>
-<h3>Si vous avez plus de 250 devices, la recherche dans les périphériques magasins ne se termine jamais.</h3>
+<h3>L'écran de suivi des processus n'est plus disponible sur les serveurs OnPremise</h3>
+</div>
+<div class='item'>
+<h3>Dans l'import de données produits, l'url de l'image est limitée à 250 caractères.</h3>
 </div>
 <div class='item'>
 <h3>Intégration Boxtal (ex EnvoiMoinsCher) </h3>
 <div>Facilitez vos expéditions avec Boxtal !</div><div><br></div><div>Gérer facilement les expéditions multi-transporteurs</div>
 </div>
 <div class='item'>
-<h3>L'écran de suivi des processus n'est plus disponible sur les serveurs OnPremise</h3>
-</div>
-<div class='item'>
-<h3>Dans l'import de données produits, l'url de l'image est limitée à 250 caractères.</h3>
+<h3>Si vous avez plus de 250 devices, la recherche dans les périphériques magasins ne se termine jamais.</h3>
 </div>
 </div>
 </div>
