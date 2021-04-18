@@ -1,5 +1,21 @@
 <div class='releaseNotesGlobal'>
 <h1>Release notes</h1>
+<a href='21_3.html'>
+<div class='release'>
+<div class='titreEtDate'>
+<div class='version'><h2>Version 21.3 <span class='dateSortie'>11/04/2021</span></h2></div>
+</div>
+<div class='descripEtImage'>
+<img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
+<div class='lesItems'>
+<div class='item'>
+<h3>Points API pour la prospection commerciale</h3>
+<div>Vous pouvez désormais utiliser notre API pour enregistrer de prospects depuis un site externe, ou une application mobile.</div>
+</div>
+</div>
+</div>
+</div>
+</a>
 <a href='21_0.html'>
 <div class='release'>
 <div class='titreEtDate'>
@@ -96,12 +112,12 @@
 <div>Avec cette version, vous pourrez utiliser la première version de notre système de gestion des listes ayant plus de 100 résultats. Vous trouverez, dans la liste des articles un système de pagination pour afficher plus de résultats.&nbsp;</div>
 </div>
 <div class='item'>
-<h3>Nouvelle détection d'anomalie dans les journaux banque : non trouvé</h3>
-<div>Un nouveau type d'anomalie peut-être détecté dans l'analyse de journaux de transaction : les transactions présentes dans le fichier et qui n'ont pas pu être intégrées (par manque de correspondance par exemple)</div>
-</div>
-<div class='item'>
 <h3>Affichage du téléphone du point relai dans le dossier commande</h3>
 <div>Si l'information est disponible auprès de votre prestataire de livraison, le numéro de téléphone du point de livraison est maintenant disponible dans le dossier commande.</div>
+</div>
+<div class='item'>
+<h3>Nouvelle détection d'anomalie dans les journaux banque : non trouvé</h3>
+<div>Un nouveau type d'anomalie peut-être détecté dans l'analyse de journaux de transaction : les transactions présentes dans le fichier et qui n'ont pas pu être intégrées (par manque de correspondance par exemple)</div>
 </div>
 <div class='item'>
 <h3>Page d'état plus complète pour le module Commerce</h3>
