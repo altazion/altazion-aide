@@ -1,3 +1,5 @@
+
+
 # Installer les mises à jour
 
 
@@ -74,6 +76,8 @@ Dans la plupart des cas, ce problème est dû à une trop forte utilisation de l
     - Cliquez sur Arrêter
     - Relancer la mise à jour
     - Revenir dans le gestionnaire IIS et redemarrez le(s) pool(s) que vous avez arrêté.
+
+
 
 ## Configuration avancée
 

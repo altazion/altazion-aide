@@ -6,8 +6,6 @@ Fichier principal pour l'intégration des articles
 
 [!include[articles.csv.autogen](articles.csv.autogen.md)]
 
-<!-- [!include[articles.xml.autogen](articles.xml.autogen.md)]--> 
-
 ### Remarques (CSV)
 
 Le format d'import de fichier articles est assez libre, afin de pouvoir s'adapter à vos besoins. Il se compose d'un ensemble de colonnes fixes (qui doivent donc être obligatoirement présentes dans votre fichier) et de colonnes optionnelles. Vous pouvez utiliser ce fichier de plusieurs façons :
