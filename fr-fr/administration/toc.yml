@@ -14,18 +14,24 @@
 - name: On-Premise
   href: onpremise/index.md
   items: 
-    - name: Mises à jour
-      href: onpremise/versions.md
     - name: Installation
       href: onpremise/docker.md
-    - name: Dossiers
-      href: onpremise/dossier.md
-    - name: Configuration
-      href: onpremise/configuration.md
-    - name: Traces applicatives
-      href: onpremise/traces.md
     - name: Réseau et sécurité
       href: onpremise/reseau.md
+    - name: Configuration
+      href: onpremise/configuration.md
+    - name: Mises à jour
+      href: onpremise/versions.md
+    - name: Dossiers
+      href: onpremise/dossier.md
+    - name: Traces applicatives
+      href: onpremise/traces.md
+    - name: Mode isolé
+      items: 
+      - name: Principe de fonctionnement
+        href: onpremise/isolated/index.md
+      - name: Déploiement sur Azure
+        href: onpremise/isolated/deploiement-azure.md
 - name: Hebergé (SaaS)
   href: saas/index.md
   items:
