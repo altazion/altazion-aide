@@ -2,6 +2,16 @@
 
 ## Base de données
 
+### Sécurité
+
+Pour le bon fonctionnement de nos solutions, nous vous invitons à créer au moins trois utilisateurs :
+
+- un utilisateur administrateur, qui servira aux manipulations des administrateurs et éventuellement à vos opérations de déploiement automatisé. Cet utilisateur devra être ajouté au rôle `db_e_admin`
+- un utilisateur pour les outils back-office et les batchs. Affectez cet utilisateur au rôle `db_e_user` pour lui attribuer des droits permettant de faire toutes les opérations nécessaires pendant l'utilisation normale de la solution.
+- éventuellement un troisième utilisateur, destiné aux modules Commerce, Store & Signage. En ne lui attribuant que le rôle `db_e_commerce`, vous assurerez une plus grande sécurité : ce rôle n'a que les droits minimaux pour une utilisation sur des services publié globalement.
+
+Chacun des ces utilisateurs devra avoir le schéma `[e]` comme schéma par défaut sur la base de données.
+
 ## Composants applicatifs
 
 ### Outils web
@@ -31,8 +41,8 @@ Vous aurez besoin des informations suivantes, à placer dans les chaines de conn
 
 |Nom|Valeur|
 |---|---|
-|`ApplicationServices`|La chaine de connexion permettant d'accèder à votre compte Azure App Configuration|
-|`ApplicationServices`|La chaine de connexion pour un compte Azure Blob Storage, afin de conserver les fichiers|
+|`ApplicationServices`|La chaine de connexion permettant d'accèder à votre base de données, avec l'utilisateur membre de db_e_user (cf. ci-dessus)|
+|`DocBaseServices`|La chaine de connexion pour un compte Azure Blob Storage, afin de conserver les fichiers|
 
 #### Commerce, Store & Signage
 
@@ -40,7 +50,7 @@ Vous aurez besoin des informations suivantes, à placer dans les chaines de conn
 
 |Nom|Valeur|
 |---|---|
-|`ApplicationServices`|La chaine de connexion permettant d'accèder à votre compte Azure App Configuration|
+|`ApplicationServices`|La chaine de connexion permettant d'accèder à votre base de données, avec l'utilisateur membre de db_e_user (cf. ci-dessus)|
 
 #### Orchestrator
 
@@ -48,8 +58,11 @@ Vous aurez besoin des informations suivantes, à ajouter sur chaque process K8S 
 
 |Nom|Valeur|
 |---|---|
-|`ApplicationServices`|La chaine de connexion permettant d'accèder à votre compte Azure App Configuration|
-|`ServiceBus`|La chaine de connexion pour un compte Service Bus permettant de gérer les évènements de la solution|
+|`APPLICATIONSERVICES`|La chaine de connexion permettant d'accèder à votre base de données, avec l'utilisateur membre de db_e_user (cf. ci-dessus)|
+|`SERVICEBUS`|La chaine de connexion pour un compte Service Bus permettant de gérer les évènements de la solution|
+
+>[!WARNING]
+> Les noms des variables d'environnement doivent être en majuscules si vous déployez sur un environnement basé sur Linux.
 
 #### Hub
 
@@ -57,8 +70,11 @@ Vous aurez besoin des informations suivantes, à placer dans les chaines de conn
 
 |Nom|Valeur|
 |---|---|
-|`ApplicationServices`|La chaine de connexion permettant d'accèder à votre compte Azure App Configuration|
-|`ServiceBus`|La chaine de connexion pour un compte Service Bus permettant de gérer les évènements de la solution|
+|`APPLICATIONSERVICES`|La chaine de connexion permettant d'accèder à votre base de données, avec l'utilisateur membre de db_e_user (cf. ci-dessus)|
+|`SERVICEBUS`|La chaine de connexion pour un compte Service Bus permettant de gérer les évènements de la solution|
+
+>[!WARNING]
+> Les noms des variables d'environnement doivent être en majuscules si vous déployez sur un environnement basé sur Linux.
 
 
 ### Configuration centralisée
@@ -87,3 +103,6 @@ Dans ce cas, vous devez configurer deux choses :
 |Nom|Valeur|
 |---|---|
 |`AZURE_APPCONFIG`|La chaine de connexion permettant d'accèder à votre compte Azure App Configuration|
+
+>[!WARNING]
+> Les noms des variables d'environnement doivent être en majuscules si vous déployez sur un environnement basé sur Linux.
