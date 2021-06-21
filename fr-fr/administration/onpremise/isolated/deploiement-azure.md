@@ -1,5 +1,29 @@
 # Déploiement sous Azure
 
+## Resources
+
+Le schéma de déploiement minimal suggéré pour nos solutions en mode "Isolated" est le suivant :
+
+![Déploiement standard](deploiement-azure-general-1.PNG)
+
+Vous aurez besoin :
+
+- d'une base de données SQL Azure (ou éventuellement d'un serveur SQL Server 2016+ hébergé sur Azure) pour stocker vos data
+- d'un service bus pour l'intercommunication des modules
+- d'un service de stockage Azure pour vous fichiers et médias
+
+Coté hébergement applicatif, nous vous conseillons d'utiliser la configuration suivante :
+- une "web farm" Azure destinée à héberger les modules Front Office (site e-commerce, digital signage, etc.)
+- une seconde "web farm" pour les modules Back Office
+- un service Azure Kubernetes pour héberger les traitements batchs ainsi que les modules Altazion Hub.
+
+Vous pouvez, bien entendu, regrouper toutes les modules Azure Web App dans une même web farm, mais cela est à la fois légèrement moins sécurisé et ne vous permettra pas une aussi grande souplesse sur la montée en charge.
+
+En complément de ces services, nous vous invitons à envisager d'ajouter les services suivants :
+
+- un service de configuration centralisée Azure Application Configuration
+- si vous souhaitez réaliser des traitements automatisés, une service Azure Logic App.
+
 ## Base de données
 
 ### Sécurité
@@ -72,9 +96,6 @@ Vous aurez besoin des informations suivantes, à placer dans les chaines de conn
 |---|---|
 |`APPLICATIONSERVICES`|La chaine de connexion permettant d'accèder à votre base de données, avec l'utilisateur membre de db_e_user (cf. ci-dessus)|
 |`SERVICEBUS`|La chaine de connexion pour un compte Service Bus permettant de gérer les évènements de la solution|
-
->[!WARNING]
-> Les noms des variables d'environnement doivent être en majuscules si vous déployez sur un environnement basé sur Linux.
 
 
 ### Configuration centralisée
