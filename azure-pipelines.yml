@@ -20,12 +20,12 @@ steps:
     Destination: 'AzureBlob'
     storage: 'altazion'
     ContainerName: 'aide-publique'
-    BlobPrefix: '/aide/''
+    BlobPrefix: '/aide/'
 - task: AzureWebApp@1
   inputs:
     azureSubscription: 'Equihira(f033c3c5-09e9-49c8-97d6-f60a79b20c1d)'
     appType: 'webApp'
     appName: 'altazion-aide'
-    package: '
+    package: '$(System.DefaultWorkingDirectory)'
     deploymentMethod: 'zipDeploy'
 
