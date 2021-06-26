@@ -20,9 +20,7 @@ function setupSearch(id, tags) {
             document.getElementById("altazion-search").classList.add("visible");
             document.getElementById("altazion-search-wait").classList.add("visible");
             
-            var tofetch = "https://aidesimplemente.search.windows.net/indexes/aide-altazion/docs?api-version=2019-05-06&$filter=type/any(t :";
-            tofetch += tags;
-            tofetch += ")&search=";
+            var tofetch = "https://aidesimplemente.search.windows.net/indexes/azureblob-index/docs?api-version=2019-05-06&search=";
             tofetch += ctn;
             
             idxSearch = setTimeout(function() {
@@ -56,6 +54,27 @@ function setupSearch(id, tags) {
     document.head.appendChild(tmp);
 }
 
+function URLTokenDecode(token) {
+
+    if (token.length == 0) return null;
+
+    // The last character in the token is the number of padding characters.
+    var numberOfPaddingCharacters = token.slice(-1);
+
+    // The Base64 string is the token without the last character.
+    token = token.slice(0, -1);
+
+    // '-'s are '+'s and '_'s are '/'s.
+    token = token.replace(/-/g, '+');
+    token = token.replace(/_/g, '/');
+
+    // Pad the Base64 string out with '='s
+    for (var i = 0; i < numberOfPaddingCharacters; i++)
+        token += "=";
+
+    return token;
+}
+
 function showSearch(data) {
     
     var resultDiv = document.getElementById("altazion-search-results");
@@ -68,10 +87,42 @@ function showSearch(data) {
         item.className = "result";
 
         var tmp = document.createElement("a");
-        tmp.href = data.value[i].url;
-        tmp.innerText = data.value[i].title;
-        for(var j=0;j<data.value[i].type.length;j++)
-            tmp.classList.add(data.value[i].type[j]);
+
+        var url = atob(URLTokenDecode(data.value[i].metadata_storage_path));
+
+        if(url.endsWith("/toc.html"))
+            continue;
+
+        var tags = new Array();
+        if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/"))
+            tags.push("dev");    
+        if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/"))
+            tags.push("aide");
+        if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/hub/")
+            || url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/fr-fr/hub/"))
+            tags.push("altazion-hub");
+        if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/fr-fr/office/"))
+            tags.push("altazion-office");
+        url = url.replace("https://altazion.blob.core.windows.net/aide-publique/dev/", "https://www.altazion.dev/");
+        url = url.replace("https://altazion.blob.core.windows.net/aide-publique/aide/", "https://aide.altazion.com/");
+
+        tmp.href = url;
+
+        var title = data.value[i].metadata_title;
+        if(title!=null)
+        {
+            title = title.replace("| Aide - Altazion", "");
+            title = title.trim();
+        }
+
+        if(title==null || title == "") {
+            title = url;
+        }
+        
+        
+        tmp.innerText = title;
+        for(var j=0;j<tags.length;j++)
+             tmp.classList.add(tags[i]);
 
         item.appendChild(tmp);
         resultDiv.appendChild(item); 
