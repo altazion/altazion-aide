@@ -92,7 +92,9 @@ function showSearch(data) {
 
         if(url.endsWith("/toc.html"))
             continue;
-
+        if(url.endsWith(".partial.html"))
+            continue;
+        
         var tags = new Array();
         if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/"))
             tags.push("dev");    
@@ -103,6 +105,11 @@ function showSearch(data) {
             tags.push("altazion-hub");
         if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/fr-fr/office/"))
             tags.push("altazion-office");
+            if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/ecommerce/")
+            || url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/ecommerce/")
+            || url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/fr-fr/commerce/")
+            || url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/fr-fr/ecommerce/"))
+            tags.push("altazion-commerce");
         url = url.replace("https://altazion.blob.core.windows.net/aide-publique/dev/", "https://www.altazion.dev/");
         url = url.replace("https://altazion.blob.core.windows.net/aide-publique/aide/", "https://aide.altazion.com/");
 
@@ -122,7 +129,7 @@ function showSearch(data) {
         
         tmp.innerText = title;
         for(var j=0;j<tags.length;j++)
-             tmp.classList.add(tags[i]);
+             tmp.classList.add(tags[j]);
 
         item.appendChild(tmp);
         resultDiv.appendChild(item); 
