@@ -21,4 +21,27 @@
       href: e-commerce/urls.md
     - name: Gestion du risque
       href: e-commerce/gestionrisque.md
-
+- name: Ventes
+  items:
+    - name: Commandes
+      href: ventes/Commandes/index.md
+      items:
+        - name: Commandes simples
+          href: ventes/Commandes/commandessimples.md
+        - name: Commandes complètes
+          href: ventes/Commandes/completes.md
+        - name: Commandes interstructure
+          href: ventes/Commandes/interstructures.md
+- name: Logistique
+  items:
+    - name: Prépa & expéditions
+      href: logistique/prepa-expe/index.md
+      items:
+        - name: Préparation sur stocks
+          href: logistique/prepa-expe/prepa-stock.md
+        - name: Drop Shipping
+          href: logistique/prepa-expe/prepa-drop-shipping.md
+        - name: Fabrication
+          href: logistique/prepa-expe/prepa-fabrication.md
+        - name: Délais
+          href: logistique/prepa-expe/delais.md
