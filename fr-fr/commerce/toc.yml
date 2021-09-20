@@ -3,7 +3,7 @@
   items:
     - name: Configuration technique
       href: config-technique.md
-      - name: Cookies
+    - name: Cookies
       href: cookies.md
 - name: Pages du site
   href: knownpages.md
