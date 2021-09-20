@@ -24,6 +24,8 @@
       href: onpremise/versions.md
     - name: Dossiers
       href: onpremise/dossier.md
+    - name: Serveurs et rôles
+      href: onpremise/serveurs-et-roles.md
     - name: Traces applicatives
       href: onpremise/traces.md
     - name: Mode isolé

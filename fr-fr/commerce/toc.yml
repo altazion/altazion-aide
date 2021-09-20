@@ -1,5 +1,10 @@
-- name: Présentation
+- name: Présentation & fonctionnement
   href: index.md
+  - items:
+    - name: Configuration technique
+      href: config-technique.md
+      - name: Cookies
+      href: cookies.md
 - name: Catalogue
   href: catalogue.md
   items:
