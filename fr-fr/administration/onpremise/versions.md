@@ -37,14 +37,17 @@ Dans ce cas, il vous faudra passer les scripts, un par un, sur la base de donné
 
 La cause la plus probable est que le service n?est pas en fonctionnement ou est en erreur.
 - Vérifier que le service _[e] - service principal_ (attention, il pourrait être remplacé par un service _Altazion - service principal_) est en fonctionnement sur la machine
-    - Lancer l'outil d'administration _Services_ 
-      ![](images/procedure_editeur_3.png)
-    - Chercher le service en question et regarder son état
-    - Vérifier le mode de démarrage : il doit normalement être à Automatique (début différé), le modifier si nécessaire.
+- Lancer l'outil d'administration _Services_ 
+    
+    ![](images/procedure_editeur_3.png)
+      
+- Chercher le service en question et regarder son état
+- Vérifier le mode de démarrage : il doit normalement être à Automatique (début différé), le modifier si nécessaire.
+
     ![](images/procedure_editeur_4.png)
 
-    - Démarrer s'il n'est pas en fonction. Si le service refuse de démarrer, on entre dans une procédure de support [TODO : lien vers la procédure de support à ajouter].
-    - Si le service était en fonction, utiliser la technique la plus vieille de support IT : l'arrêter et le redémarrer.
+- Démarrer s'il n'est pas en fonction. Si le service refuse de démarrer, on entre dans une procédure de support : nous vous invitons alors à vous rendre sur [support.altazion.com](http://support.altazion.com) et à ouvrir un ticket.
+- Si le service était en fonction, utiliser la technique la plus vieille de support IT : l'arrêter et le redémarrer.
 
 #### Aucune version n'est disponible
 Pour vérifier qu'une version est disponible pour un applicatif donné, il suffit de comparer la version installée avec la dernière version publiée.
@@ -71,13 +74,17 @@ Dans la plupart des cas, ce problème est dû à une trop forte utilisation de l
 
 Vous pouvez arreter le pool d'application dans lequel tourne l'applicatif :
 
-    - Lancez l'outil d'administration _gestionnaire des services IIS_ :
-        ![](images/procedure_editeur_5.png)
-    - Localisez le(s) pool(s) d'application faisant tourner la ou les applications que vous n'arrivez pas à mettre à jour :
-        ![](images/procedure_editeur_6.png)
-    - Cliquez sur Arrêter
-    - Relancer la mise à jour
-    - Revenir dans le gestionnaire IIS et redemarrez le(s) pool(s) que vous avez arrêté.
+- Lancez l'outil d'administration _gestionnaire des services IIS_ :
+
+    ![](images/procedure_editeur_5.png)
+
+- Localisez le(s) pool(s) d'application faisant tourner la ou les applications que vous n'arrivez pas à mettre à jour :
+
+    ![](images/procedure_editeur_6.png)
+    
+- Cliquez sur Arrêter
+- Relancer la mise à jour
+- Revenir dans le gestionnaire IIS et redemarrez le(s) pool(s) que vous avez arrêté.
 
 #### Après installation, le site reste "en maintenance"
 
