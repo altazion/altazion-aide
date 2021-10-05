@@ -5,12 +5,12 @@
 
 Cette procédure décrit comment réaliser l'installation d'une nouvelle version de l'applicatif standard Altazion Office sur un **serveur OnPremise**.
 
-### Cadre d'application
+## Cadre d'application
 
 En tant qu'éditeur, nous publions de façon régulière des mises à jour de nos applicatifs. Si la mise à jour est automatique ou réalisée par nos soins pour la version Cloud/SaaS de notre solution, elle doit être réalisée manuellement pour tous les déploiements _OnPremise_, c'est-à-dire pour les serveurs déployés chez un client.
 Une partie du travail est automatique : un service Windows, installé avec le reste des produits de la solution, s'occupe de déterminer si l'application est à jour et de télécharger les mises à jour si besoin. Ce service met à disposition un mini portail web permettant de déclencher les mises à jour.
 
-### Opérations à réaliser
+## Opérations à réaliser
 
 1.	Sur chaque serveur OnPremise hébergeant une partie de l'application, ouvrir un navigateur (ne pas utiliser Internet Explorer en mode _restreint_) sur l'url http://localhost:8080/  
 2.	Si toutes les applications sont à jour : il n'y a normalement rien à faire. Si il y a une nouvelle version des services, le portail affiche la liste des modules à mettre à jour :
@@ -23,7 +23,7 @@ Une partie du travail est automatique : un service Windows, installé avec le re
 3.	Informer les utilisateurs qu'une coupure de quelques minutes est à prévoir sur les services qui sont à mettre à jour
 4.	Pour chaque service, cliquer sur le bouton Installer correspondant. Dans 99% des cas, il n'y a aucune étape supplémentaire à réaliser : le service de mise à jour déploie automatiquement la nouvelle version et revient à la liste des services.
 
-#### Cas particulier de l'application _Base de données_
+### Cas particulier de l'application _Base de données_
 
 Il est possible que l'installation de la partie base de données ne soit pas automatique. Cela signifie que la base de données est personnalisée et que certaines tables, vues ou procédures ont été dénormalisées par rapport à l'application standard. Dans ce cas, le module ne pouvant déterminer quels impacts auront les scripts de mise à jour. 
 
@@ -31,9 +31,9 @@ Dans ce cas, il vous faudra passer les scripts, un par un, sur la base de donné
 
 ![](images/procedure_editeur_2.png)
 
-### Que faire si ?
+## Que faire si ?
 
-#### Le site http://localhost:8080 n'est pas accessible
+### Le site http://localhost:8080 n'est pas accessible
 
 La cause la plus probable est que le service n?est pas en fonctionnement ou est en erreur.
 - Vérifier que le service _[e] - service principal_ (attention, il pourrait être remplacé par un service _Altazion - service principal_) est en fonctionnement sur la machine
@@ -49,7 +49,7 @@ La cause la plus probable est que le service n?est pas en fonctionnement ou est 
 - Démarrer s'il n'est pas en fonction. Si le service refuse de démarrer, on entre dans une procédure de support : nous vous invitons alors à vous rendre sur [support.altazion.com](http://support.altazion.com) et à ouvrir un ticket.
 - Si le service était en fonction, utiliser la technique la plus vieille de support IT : l'arrêter et le redémarrer.
 
-#### Aucune version n'est disponible
+### Aucune version n'est disponible
 Pour vérifier qu'une version est disponible pour un applicatif donné, il suffit de comparer la version installée avec la dernière version publiée.
 
 Page présentant la dernière version : https://aide.altazion.com/fr-fr/releasenotes/ 
@@ -60,7 +60,7 @@ Si vous avez accès au système de fichier du serveur, le plus simple est de com
 -	Vérifiez que le fichier de déclaration des applications situé : `C:\ProgramData\CPoint\[e]\bin\config\applicationspath.config` contient des noeuds XML correspondant aux services qui s'exécutent sur le serveur. Si ce n'est pas le cas, il s'agit probablement d'un problème de droits sur le dossier qui empêche les services d'écrire dans ce dossier. Rapprochez vous de l'administrateur système pour déterminer sous quelles identités sont exécutées les applicatifs et donner des droits d'écriture sur ce dossier à toutes ces identités.
 -	Si cela ne fonctionne pas, on entre dans une procédure de support [TODO : lien vers la procédure de support à ajouter].
 
-#### L'installation d'une version _boucle_ et ne se fait pas
+### L'installation d'une version _boucle_ et ne se fait pas
 
 Lorsque vous lancez l'installation d?une version, l'opération semble se faire mais lors du retour à la page de liste des mises à jour à installer, l'application reste toujours à mettre à jour.
 
@@ -81,12 +81,12 @@ Vous pouvez arreter le pool d'application dans lequel tourne l'applicatif :
 - Localisez le(s) pool(s) d'application faisant tourner la ou les applications que vous n'arrivez pas à mettre à jour :
 
     ![](images/procedure_editeur_6.png)
-    
+
 - Cliquez sur Arrêter
 - Relancer la mise à jour
 - Revenir dans le gestionnaire IIS et redemarrez le(s) pool(s) que vous avez arrêté.
 
-#### Après installation, le site reste "en maintenance"
+### Après installation, le site reste "en maintenance"
 
 Cela peut arriver si vous avez fait plusieurs essais d'installation du même module sans succès. Pour corriger ce problème, vous devrez ouvrir le dossier dans lequel est installé l'application qui reste bloquée, et chercher un fichier _app_offline.htm_ (ou .html). Une fois localisé :
 
