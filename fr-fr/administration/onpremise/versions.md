@@ -68,7 +68,9 @@ Dans la plupart des cas, ce problème est dû à une trop forte utilisation de l
     - Ecommerce
     - Gestion commerciale
     - Phygital
-    Vous pouvez arreter le pool d'application dans lequel tourne l'applicatif :
+
+Vous pouvez arreter le pool d'application dans lequel tourne l'applicatif :
+
     - Lancez l'outil d'administration _gestionnaire des services IIS_ :
         ![](images/procedure_editeur_5.png)
     - Localisez le(s) pool(s) d'application faisant tourner la ou les applications que vous n'arrivez pas à mettre à jour :
@@ -77,7 +79,12 @@ Dans la plupart des cas, ce problème est dû à une trop forte utilisation de l
     - Relancer la mise à jour
     - Revenir dans le gestionnaire IIS et redemarrez le(s) pool(s) que vous avez arrêté.
 
+#### Après installation, le site reste "en maintenance"
 
+Cela peut arriver si vous avez fait plusieurs essais d'installation du même module sans succès. Pour corriger ce problème, vous devrez ouvrir le dossier dans lequel est installé l'application qui reste bloquée, et chercher un fichier _app_offline.htm_ (ou .html). Une fois localisé :
+
+- si aucun fichier _app_offline.bak_ n'est présent dans le dossier, renommez le fichier .htm(l) en .bak
+- si il y a déjà un fichier .bak, supprimez simplement le fichier .htm(l).
 
 ## Configuration avancée
 
