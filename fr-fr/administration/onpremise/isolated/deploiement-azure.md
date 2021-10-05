@@ -127,3 +127,14 @@ Dans ce cas, vous devez configurer deux choses :
 
 >[!WARNING]
 > Les noms des variables d'environnement doivent être en majuscules si vous déployez sur un environnement basé sur Linux.
+
+## Autres éléments de configuration
+
+### Rediriger les traces vers Datadog
+
+Nous utilisons [Datadog](https://www.datadoghq.com/) pour réaliser les traces de nos modules lorsqu'ils sont déployés pour le mode hébergé. Si vous souhaitez utiliser notre module de traces "standard" mais le rediriger vers votre propre instance, il est possible de modifier les identifiants de connexion.
+
+|`DATADOG_SERVER`|Le nom DNS de votre "http-intake" chez Datadog. Très certainement http-intake.logs.datadoghq.eu|
+|`DATADOG_KEY`|La clef API permettant d'envoyer des logs, à récuperer dans l'espace de configuration API de DataDog|
+
+Vous pouvez aussi implémenter votre propre connecteur de traces si vous ne souhaitez pas utiliser notre module standard.
