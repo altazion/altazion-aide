@@ -1,7 +1,4 @@
-
-
 # Installer les mises à jour
-
 
 Cette procédure décrit comment réaliser l'installation d'une nouvelle version de l'applicatif standard Altazion Office sur un **serveur OnPremise**.
 
@@ -12,20 +9,20 @@ Une partie du travail est automatique : un service Windows, installé avec le re
 
 ## Opérations à réaliser
 
-1.	Sur chaque serveur OnPremise hébergeant une partie de l'application, ouvrir un navigateur (ne pas utiliser Internet Explorer en mode _restreint_) sur l'url http://localhost:8080/  
-2.	Si toutes les applications sont à jour : il n'y a normalement rien à faire. Si il y a une nouvelle version des services, le portail affiche la liste des modules à mettre à jour :
+1. Sur chaque serveur OnPremise hébergeant une partie de l'application, ouvrir un navigateur (ne pas utiliser Internet Explorer en mode _restreint_) sur l'url http://localhost:8080/  
+2. Si toutes les applications sont à jour : il n'y a normalement rien à faire. Si il y a une nouvelle version des services, le portail affiche la liste des modules à mettre à jour :
 
     ![](images/procedure_editeur_1.png)
 
     >[!NOTE]
     > Si vous êtes sûr qu'une version est disponible et qu'elle n'est pas accessible, reportez-vous à la section Aucune version n'est disponible ci-dessous.
 
-3.	Informer les utilisateurs qu'une coupure de quelques minutes est à prévoir sur les services qui sont à mettre à jour
-4.	Pour chaque service, cliquer sur le bouton Installer correspondant. Dans 99% des cas, il n'y a aucune étape supplémentaire à réaliser : le service de mise à jour déploie automatiquement la nouvelle version et revient à la liste des services.
+3. Informer les utilisateurs qu'une coupure de quelques minutes est à prévoir sur les services qui sont à mettre à jour
+4. Pour chaque service, cliquer sur le bouton Installer correspondant. Dans 99% des cas, il n'y a aucune étape supplémentaire à réaliser : le service de mise à jour déploie automatiquement la nouvelle version et revient à la liste des services.
 
 ### Cas particulier de l'application _Base de données_
 
-Il est possible que l'installation de la partie base de données ne soit pas automatique. Cela signifie que la base de données est personnalisée et que certaines tables, vues ou procédures ont été dénormalisées par rapport à l'application standard. Dans ce cas, le module ne pouvant déterminer quels impacts auront les scripts de mise à jour. 
+Il est possible que l'installation de la partie base de données ne soit pas automatique. Cela signifie que la base de données est personnalisée et que certaines tables, vues ou procédures ont été dénormalisées par rapport à l'application standard. Dans ce cas, le module ne pouvant déterminer quels impacts auront les scripts de mise à jour.
 
 Dans ce cas, il vous faudra passer les scripts, un par un, sur la base de données après avoir vérifié leur contenu.
 
@@ -36,6 +33,7 @@ Dans ce cas, il vous faudra passer les scripts, un par un, sur la base de donné
 ### Le site http://localhost:8080 n'est pas accessible
 
 La cause la plus probable est que le service n?est pas en fonctionnement ou est en erreur.
+
 - Vérifier que le service _[e] - service principal_ (attention, il pourrait être remplacé par un service _Altazion - service principal_) est en fonctionnement sur la machine
 - Lancer l'outil d'administration _Services_ 
     

@@ -136,7 +136,7 @@ Nous utilisons [Datadog](https://www.datadoghq.com/) pour réaliser les traces d
 
 |Nom|Valeur|
 |---|---|
-|`DATADOG_SERVER`|Le nom DNS de votre "http-intake" chez Datadog. Très certainement http-intake.logs.datadoghq.eu|
+|`DATADOG_SERVER`|Le nom DNS de votre "http-intake" chez Datadog. Très certainement _https://http-intake.logs.datadoghq.eu_|
 |`DATADOG_KEY`|La clef API permettant d'envoyer des logs, à récuperer dans l'espace de configuration API de DataDog|
 
 Vous pouvez aussi implémenter votre propre connecteur de traces si vous ne souhaitez pas utiliser notre module standard.
