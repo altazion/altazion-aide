@@ -76,3 +76,5 @@ Les commandes dans cet état, transitoire dans la plupart des cas, vont être ex
 Dernier état de la progression de la commande, l'étape 7 correspond à la fin de traitement d'une commande. Une fois cette étape commencée, la commande est considérée comme terminée et peut-être archivée.
 
 ## Préparation de commande
+
+La préparation des commandes complètes passe par notre module OMS [Altazion Orchestrator](../../../orchestrator/index.md). Vous pourrez configurer toutes les conditions qui permettent la prise de commande, les différentes process de préparation en fonction du type de produit et de règles métier et gérer les conditions d'expédition.

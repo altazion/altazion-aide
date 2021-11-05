@@ -94,6 +94,8 @@ function showSearch(data) {
             continue;
         if(url.endsWith(".partial.html"))
             continue;
+        if(url.endsWith(".include.html"))
+            continue;
         
         var tags = new Array();
         if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/"))

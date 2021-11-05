@@ -7,6 +7,9 @@ Orchestrator vous aidera à gérer, au mieux, la préparation et l'expédition d
 - d'intégration avec les systèmes d'expédition des grands acteurs de la livraison
 - de suivi et de gestion des anomalies de livraison
 
+> [!NOTE]
+> Avant de consulter la documentation d'Altazion Orchestrator, nous vous invitons à consulter la documentation sur les [différents types de commandes gérées dans nos solutions](../guide/ventes/commandes/index.md). Les commandes gérées via notre OMS sont appelées les [commandes complètes](../guide/ventes/commandes/completes.md)
+
 ## Gestion des disponibilités
 
 Que vous possédiez un stock propre, un stock déporté chez un e-logisticien ou que vous fonctionniez en _drop-shipping_, il est important de connaître le plus finement possible la disponibilité de vos produits. En adapatant au plus juste vos produits disponibles, vous éviterez les problèmes de reliquats et d'annulations qui ont un impact fort sur la satisfaction client. 
