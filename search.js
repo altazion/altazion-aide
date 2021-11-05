@@ -105,7 +105,7 @@ function showSearch(data) {
             tags.push("altazion-hub");
         if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/fr-fr/office/"))
             tags.push("altazion-office");
-            if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/ecommerce/")
+        if(url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/ecommerce/")
             || url.startsWith("https://altazion.blob.core.windows.net/aide-publique/dev/ecommerce/")
             || url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/fr-fr/commerce/")
             || url.startsWith("https://altazion.blob.core.windows.net/aide-publique/aide/fr-fr/ecommerce/"))
