@@ -22,6 +22,10 @@
 <div class='item'>
 <h3>Les contenus SEO n'apparaissent pas correctement sur la home lors d'un clearcache</h3>
 </div>
+<div class='item'>
+<h3>Les magasins affiliés ont accès aux personnalisations y compris en mode "Marketplace" ou "Ship From Store"</h3>
+<div>Vous pouvez désormais utiliser #MAGASINGUID#, #UXID# dans les items d'extension pour le menu principal et les paramètres dans Altazion Office. </div>
+</div>
 </div>
 </div>
 </div>
