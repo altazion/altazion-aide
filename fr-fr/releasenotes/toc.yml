@@ -1,25 +1,25 @@
 - name: Release Notes
   href: index.md
   items:
-    - name: 21.10
+    - name: '21.10'
       href: 21_10.md
-    - name: 21.3
+    - name: '21.3'
       href: 21_3.md
-    - name: 21.0
+    - name: '21.0'
       href: 21_0.md
-    - name: 20.10
+    - name: '20.10'
       href: 20_10.md
-    - name: 20.9
+    - name: '20.9'
       href: 20_9.md
-    - name: 20.8
+    - name: '20.8'
       href: 20_8.md
-    - name: 20.7
+    - name: '20.7'
       href: 20_7.md
-    - name: 20.6
+    - name: '20.6'
       href: 20_6.md
-    - name: 20.5
+    - name: '20.5'
       href: 20_5.md
-    - name: 20.4
+    - name: '20.4'
       href: 20_4.md
 - name: Roadmap
   href: roadmap.md

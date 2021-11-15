@@ -9,10 +9,17 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item'>
+<h3>Traces dans DatadogHQ pour le mode "Azure Isolated"</h3>
+</div>
+<div class='item'>
 <h3>Sur IIS avant Windows Server 2019, les personnalisations Store & Signage sont chargées après les premières réponses des API</h3>
 </div>
 <div class='item'>
-<h3>Traces dans DatadogHQ pour le mode "Azure Isolated"</h3>
+<h3>Mises à jour de dépendances & corrections de sécurité (Nov-2021)</h3>
+<div>Corrections diverses &amp; mise à jour de dépendances tierces </div>
+</div>
+<div class='item'>
+<h3>Les contenus SEO n'apparaissent pas correctement sur la home lors d'un clearcache</h3>
 </div>
 </div>
 </div>
