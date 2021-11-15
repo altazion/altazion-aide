@@ -33,8 +33,8 @@
 <h3>2 - Définition Open API 3.0 de Altazion Hub Main API </h3>
 </div>
 <div class="item">
-<h3>3 - Evolutions de l'extensibilité pour les magasins </h3>
-<div>Les magasins participant à une marketplace ou les franchisés proposant des services de click'n'collect peuvent maintenant accèder à vos options de menus ajoutés dans le cadre de l'extensibilité de nos solutions. </div>
+<h3>3 - Les magasins affiliés ont accès aux personnalisations y compris en mode "Marketplace" ou "Ship From Store" </h3>
+<div><span style="background-color:rgb(245, 245, 245);display:inline !important;">Les magasins participant à une marketplace ou les franchisés proposant des services de click'n'collect peuvent maintenant accèder à vos options de menus ajoutés dans le cadre de l'extensibilité de nos solutions.</span><br> </div>
 </div>
 <div class="item">
 <h3>4 - Modification de l'authentification pour les API Altazion Hub </h3>
