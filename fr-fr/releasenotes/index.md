@@ -10,6 +10,7 @@
 <div class='lesItems'>
 <div class='item'>
 <h3>Traces dans DatadogHQ pour le mode "Azure Isolated"</h3>
+<div>Vous pouvez désormais transférer les traces des modes OnPremise ou Isolé vers votre propre instance de DataDogHQ sans faire de développement spécifique. </div>
 </div>
 <div class='item'>
 <h3>Sur IIS avant Windows Server 2019, les personnalisations Store & Signage sont chargées après les premières réponses des API</h3>
