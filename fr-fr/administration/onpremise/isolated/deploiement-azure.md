@@ -139,4 +139,8 @@ Nous utilisons [Datadog](https://www.datadoghq.com/) pour réaliser les traces d
 |`DATADOG_SERVER`|L'url de votre "http-intake" chez Datadog. Très certainement _https://http-intake.logs.datadoghq.eu_|
 |`DATADOG_KEY`|La clef API permettant d'envoyer des logs, à récuperer dans l'espace de configuration API de DataDog|
 
+>[!WARNING]
+> Si vous utilisez nos modules en spécifique et que vous souhaitez avoir des traces dans Datadog, veillez à bien [règler les protocoles de chiffrement supportés pour inclure à minima TLS1.2 dans votre exécutable](https://docs.microsoft.com/fr-fr/dotnet/framework/network-programming/tls).
+
+
 Vous pouvez aussi implémenter votre propre connecteur de traces si vous ne souhaitez pas utiliser notre module standard.
