@@ -1,5 +1,21 @@
 <div class='releaseNotesGlobal'>
 <h1>Release notes</h1>
+<a href='22_1.html'>
+<div class='release'>
+<div class='titreEtDate'>
+<div class='version'><h2>Version 22.1 <span class='dateSortie'>13/02/2022</span></h2></div>
+</div>
+<div class='descripEtImage'>
+<img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
+<div class='lesItems'>
+<div class='item'>
+<h3>Evènements cross-canaux : recherche des magasins améliorée</h3>
+<div>Lorsque vous inscrivez une liste de magasin à un évènement cross canal, vous bénéficierez d'une recherche plus complète : </div><div><ul><li>le champ &quot;code&quot; est remplacé par une recherche &quot;code ou libellé&quot; et accepte une liste de valeurs, séparées par des virgules. Par exemple : &quot;0041;lille;toulouse&quot; récupérera les magasins dont le code commence par 0041, ou dont le libellé contient lille ou toulouse </li><li>un nouveau champ &quot;code postal&quot; vous permet de chercher par code postal ou département. Ce champ autorise aussi la saisie d'une liste de valeurs, séparées par des virgules. </li> </ul> </div>
+</div>
+</div>
+</div>
+</div>
+</a>
 <a href='21_10.html'>
 <div class='release'>
 <div class='titreEtDate'>

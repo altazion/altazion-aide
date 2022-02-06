@@ -33,18 +33,18 @@
 <div>Les points API de gestion des stocks &quot;entrepots&quot; sont maintenant disponible dans &quot;Altazion Hub - Main API&quot; pour la version 3.0, en technologie REST. </div>
 </div>
 <div class="item">
-<h3>2 - Modification de l'authentification pour les API Altazion Hub </h3>
-<div>L'authentification et les autorisations des API d'Altazion Hub sont maintenant compatible avec un flux d'authentification oAuth 2. Vous pouvez aussi désormais limiter les droits des applications connectées. </div>
-</div>
-<div class="item">
-<h3>3 - Les magasins affiliés ont accès aux personnalisations y compris en mode "Marketplace" ou "Ship From Store" </h3>
+<h3>2 - Les magasins affiliés ont accès aux personnalisations y compris en mode "Marketplace" ou "Ship From Store" </h3>
 <div><span style="background-color:rgb(245, 245, 245);display:inline !important;">Les magasins participant à une marketplace ou les franchisés proposant des services de click'n'collect peuvent maintenant accèder à vos options de menus ajoutés dans le cadre de l'extensibilité de nos solutions.</span><br> </div>
 </div>
 <div class="item">
-<h3>4 - Définition Open API 3.0 de Altazion Hub Main API </h3>
+<h3>3 - Définition Open API 3.0 de Altazion Hub Main API </h3>
 </div>
 <div class="item">
-<h3>5 - Migration .net standard & .net 5.0 pour les solutions OnPremise </h3>
+<h3>4 - Migration .net standard & .net 5.0 pour les solutions OnPremise </h3>
+</div>
+<div class="item">
+<h3>5 - Modification de l'authentification pour les API Altazion Hub </h3>
+<div>L'authentification et les autorisations des API d'Altazion Hub sont maintenant compatible avec un flux d'authentification oAuth 2. Vous pouvez aussi désormais limiter les droits des applications connectées. </div>
 </div>
 </div>
 <h2>A l'étude</h2>
@@ -54,14 +54,14 @@
 <div>Lors de la création d'une vitrine automatique et en ajoutent le critère segmentation, il serait pertinent de pouvoir choisir n'importe quelle segmentation produit et pas uniquement les segmentations principales<br> </div>
 </div>
 <div class="item">
-<h3>2 - Template e-commerce & borne "Boxed"</h3>
+<h3>2 - Pouvoir se connecter en impersonnalisant un magasin si on est admin de la solution</h3>
 </div>
 <div class="item">
-<h3>3 - Pouvoir se connecter en impersonnalisant un magasin si on est admin de la solution</h3>
+<h3>3 - Nouvelle zone pour le tag manager : "Debut de Head"</h3>
+<div>Une nouvelle zone est disponible dans l'outil de gestion des tags javascripts : vous pouvez désormais placer votre code en première(s) lignes de la balise head, avant toutes les balises standard. </div>
 </div>
 <div class="item">
-<h3>4 - Importer des modèles MailChimp ou Mailster pour vos mails transactionnels</h3>
-<div>Utilisez des templates MailChimp ou Mailster pour personnaliser vos e-mails transactionnels : importez un modèles et ajoutez votre contenu pour des notifications à votre image.</div>
+<h3>4 - Template e-commerce & borne "Boxed"</h3>
 </div>
 </div>
 </div>
