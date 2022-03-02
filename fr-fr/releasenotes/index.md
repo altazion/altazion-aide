@@ -1,5 +1,21 @@
 <div class='releaseNotesGlobal'>
 <h1>Release notes</h1>
+<a href='22_1.html'>
+<div class='release'>
+<div class='titreEtDate'>
+<div class='version'><h2>Version 22.1 <span class='dateSortie'>13/02/2022</span></h2></div>
+</div>
+<div class='descripEtImage'>
+<img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
+<div class='lesItems'>
+<div class='item'>
+<h3>Evènements cross-canaux : recherche des magasins améliorée</h3>
+<div>Lorsque vous inscrivez une liste de magasin à un évènement cross canal, vous bénéficierez d'une recherche plus complète : </div><div><ul><li>le champ &quot;code&quot; est remplacé par une recherche &quot;code ou libellé&quot; et accepte une liste de valeurs, séparées par des virgules. Par exemple : &quot;0041;lille;toulouse&quot; récupérera les magasins dont le code commence par 0041, ou dont le libellé contient lille ou toulouse </li><li>un nouveau champ &quot;code postal&quot; vous permet de chercher par code postal ou département. Ce champ autorise aussi la saisie d'une liste de valeurs, séparées par des virgules. </li> </ul> </div>
+</div>
+</div>
+</div>
+</div>
+</a>
 <a href='21_10.html'>
 <div class='release'>
 <div class='titreEtDate'>
@@ -9,7 +25,8 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item'>
-<h3>Les contenus SEO n'apparaissent pas correctement sur la home lors d'un clearcache</h3>
+<h3>Traces dans DatadogHQ pour le mode "Azure Isolated"</h3>
+<div>Vous pouvez désormais transférer les traces des modes OnPremise ou Isolé vers votre propre instance de DataDogHQ sans faire de développement spécifique. </div>
 </div>
 <div class='item'>
 <h3>Sur IIS avant Windows Server 2019, les personnalisations Store & Signage sont chargées après les premières réponses des API</h3>
@@ -19,8 +36,7 @@
 <div>Corrections diverses &amp; mise à jour de dépendances tierces </div>
 </div>
 <div class='item'>
-<h3>Traces dans DatadogHQ pour le mode "Azure Isolated"</h3>
-<div>Vous pouvez désormais transférer les traces des modes OnPremise ou Isolé vers votre propre instance de DataDogHQ sans faire de développement spécifique. </div>
+<h3>Les contenus SEO n'apparaissent pas correctement sur la home lors d'un clearcache</h3>
 </div>
 <div class='item'>
 <h3>Evolution de l'extensibilité des menus pour les magasins</h3>
