@@ -1,6 +1,7 @@
 - name : Principe de fonctionnement
   href: index.md
-- name: Formats
+- name: Formats standards
+  href: articles/formats-standards.md
   items:    
   - name: Articles
     href: articles/index.md

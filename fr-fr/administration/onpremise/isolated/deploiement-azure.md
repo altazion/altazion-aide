@@ -24,6 +24,10 @@ En complément de ces services, nous vous invitons à envisager d'ajouter les se
 - un service de configuration centralisée Azure Application Configuration
 - si vous souhaitez réaliser des traitements automatisés, une service Azure Logic App.
 
+>[!NOTE]
+> Nous mettons à disposition de vos équipes d'intégration un modèle ARM pour déployer notre configuration recommandée. 
+> Ce template n'est pas prévu pour être utilisé tel quel : les tailles 
+
 ## Base de données
 
 ### Sécurité
