@@ -16,16 +16,9 @@ steps:
 - task: AzureFileCopy@4
   inputs:
     SourcePath: '$(System.DefaultWorkingDirectory)/_site/'
-    azureSubscription: 'Equihira(1)(f033c3c5-09e9-49c8-97d6-f60a79b20c1d)'
+    azureSubscription: 'Equihira(f033c3c5-09e9-49c8-97d6-f60a79b20c1d)'
     Destination: 'AzureBlob'
     storage: 'altazion'
-    ContainerName: 'aide-publique'
-    BlobPrefix: 'aide/'
-- task: AzureWebApp@1
-  inputs:
-    azureSubscription: 'Equihira(f033c3c5-09e9-49c8-97d6-f60a79b20c1d)'
-    appType: 'webApp'
-    appName: 'altazion-aide'
-    package: '$(System.DefaultWorkingDirectory)/_site/'
-    deploymentMethod: 'zipDeploy'
+    ContainerName: 'aide-public'
+    BlobPrefix: 'aide'
 
