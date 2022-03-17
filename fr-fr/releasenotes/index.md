@@ -1,5 +1,35 @@
 <div class='releaseNotesGlobal'>
 <h1>Release notes</h1>
+<a href='22_2.html'>
+<div class='release'>
+<div class='titreEtDate'>
+<div class='version'><h2>Version 22.2 <span class='dateSortie'>13/03/2022</span></h2></div>
+</div>
+<div class='descripEtImage'>
+<img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
+<div class='lesItems'>
+<div class='item'>
+<h3>Intégration de l'API v3 de MailJet</h3>
+<div>L'intégration Mailjet dans nos outils utilise maintenant l'API v3 pour la configuration et l'envoi des mails transactionnels et les newsletters. </div>
+</div>
+<div class='item'>
+<h3>Automatiser l'envoi de notifications sur les évènements de la solution.</h3>
+</div>
+<div class='item'>
+<h3>Quelques corrections sur des contrôles e-commerce</h3>
+<div>Nous avons procédé à quelques correctifs sur les contrôles suivants : &lt;ecom:AdresseChoisie /&gt;, &lt;ecom:CommandeConfirmerLink /&gt;, &lt;ecom:MagasinsEvenementsPanel /&gt;, &lt;ecom:VitrineListeProduits /&gt;. Nous vous invitons à vérifier que ces correctifs n'ont pas d'impacts sur vos sites. </div>
+</div>
+<div class='item'>
+<h3>Les pages de connexion Google pour MyBusiness et Merchant ne sont pas disponibles OnPremise</h3>
+</div>
+<div class='item'>
+<h3>Vous pouvez envoyer des tags personnalisés dans vos traces Datadog</h3>
+<div>Utilisez la variable d'environnement DATADOG_TAGS pour définir un ensemble de tag à envoyer à Datadog (séparés par des &quot;|&quot; ou des &quot;,&quot;) </div>
+</div>
+</div>
+</div>
+</div>
+</a>
 <a href='22_1.html'>
 <div class='release'>
 <div class='titreEtDate'>
@@ -25,8 +55,7 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item'>
-<h3>Traces dans DatadogHQ pour le mode "Azure Isolated"</h3>
-<div>Vous pouvez désormais transférer les traces des modes OnPremise ou Isolé vers votre propre instance de DataDogHQ sans faire de développement spécifique. </div>
+<h3>Les contenus SEO n'apparaissent pas correctement sur la home lors d'un clearcache</h3>
 </div>
 <div class='item'>
 <h3>Sur IIS avant Windows Server 2019, les personnalisations Store & Signage sont chargées après les premières réponses des API</h3>
@@ -36,7 +65,8 @@
 <div>Corrections diverses &amp; mise à jour de dépendances tierces </div>
 </div>
 <div class='item'>
-<h3>Les contenus SEO n'apparaissent pas correctement sur la home lors d'un clearcache</h3>
+<h3>Traces dans DatadogHQ pour le mode "Azure Isolated"</h3>
+<div>Vous pouvez désormais transférer les traces des modes OnPremise ou Isolé vers votre propre instance de DataDogHQ sans faire de développement spécifique. </div>
 </div>
 <div class='item'>
 <h3>Evolution de l'extensibilité des menus pour les magasins</h3>
