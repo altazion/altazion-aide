@@ -8,16 +8,22 @@
 <div class='descripEtImage'>
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
+<div class='item highlight'>
+<h3>Automatiser l'envoi de notifications sur les évènements de la solution.</h3>
+</div>
 <div class='item'>
 <h3>Intégration de l'API v3 de MailJet</h3>
 <div>L'intégration Mailjet dans nos outils utilise maintenant l'API v3 pour la configuration et l'envoi des mails transactionnels et les newsletters. </div>
 </div>
 <div class='item'>
-<h3>Automatiser l'envoi de notifications sur les évènements de la solution.</h3>
+<h3>La configuration de mailjet doit parfois être enregistrée deux fois pour être prise en compte.</h3>
 </div>
 <div class='item'>
 <h3>Quelques corrections sur des contrôles e-commerce</h3>
 <div>Nous avons procédé à quelques correctifs sur les contrôles suivants : &lt;ecom:AdresseChoisie /&gt;, &lt;ecom:CommandeConfirmerLink /&gt;, &lt;ecom:MagasinsEvenementsPanel /&gt;, &lt;ecom:VitrineListeProduits /&gt;. Nous vous invitons à vérifier que ces correctifs n'ont pas d'impacts sur vos sites. </div>
+</div>
+<div class='item'>
+<h3>Rebranding de nos modules back-office</h3>
 </div>
 <div class='item'>
 <h3>Les pages de connexion Google pour MyBusiness et Merchant ne sont pas disponibles OnPremise</h3>
@@ -234,10 +240,10 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item'>
-<h3>La tâche sur des horaires non renseignés pour un magasin peut être dupliquée si le magasin ne les saisit par rapidement après apparition de la première tâche.</h3>
+<h3>La zone de recherche générale ne fonctionne pas si la commence ou se termine par un espace.</h3>
 </div>
 <div class='item'>
-<h3>La zone de recherche générale ne fonctionne pas si la commence ou se termine par un espace.</h3>
+<h3>La tâche sur des horaires non renseignés pour un magasin peut être dupliquée si le magasin ne les saisit par rapidement après apparition de la première tâche.</h3>
 </div>
 </div>
 </div>
