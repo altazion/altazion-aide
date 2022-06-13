@@ -19,43 +19,40 @@
 <h2>C'est pour bientôt</h2>
 <div id="bientot">
 <div class="item">
-<h3>1 - Points API REST pour la gestion des stocks </h3>
-<div>Les points API de gestion des stocks &quot;entrepots&quot; sont maintenant disponible dans &quot;Altazion Hub - Main API&quot; pour la version 3.0, en technologie REST. </div>
+<h3>1 - Page de détails du contenu d'un cash-out pour les vendeurs marketplace </h3>
 </div>
 <div class="item">
-<h3>2 - Définition Open API 3.0 de Altazion Hub Main API </h3>
+<h3>2 - Possibilité de filtrer les médiations actives/non actives dans la liste </h3>
+<div>Dans la liste des médiations affichée dans Altazion Office, vous pouvez désormais utiliser un critère de recherche pour n'afficher que les médiations actives ou inactives. </div>
 </div>
 <div class="item">
-<h3>3 - Modification de l'authentification pour les API Altazion Hub </h3>
-<div>L'authentification et les autorisations des API d'Altazion Hub sont maintenant compatible avec un flux d'authentification oAuth 2. Vous pouvez aussi désormais limiter les droits des applications connectées. </div>
+<h3>3 - Migration .net standard & .net 6.0 pour les solutions OnPremise </h3>
 </div>
 <div class="item">
-<h3>4 - Migration .net standard & .net 5.0 pour les solutions OnPremise </h3>
+<h3>4 - Migration .net 6.0 pour les modules Altazion Hub/Edge </h3>
+<div>Si vous avez développé des modules pour Altazion Hub ou Altazion Edge, la version de .net a été basculé de .net core 3.1 à .net 6.0. </div>
 </div>
 <div class="item">
-<h3>5 - Les magasins affiliés ont accès aux personnalisations y compris en mode "Marketplace" ou "Ship From Store" </h3>
-<div><span style="background-color:rgb(245, 245, 245);display:inline !important;">Les magasins participant à une marketplace ou les franchisés proposant des services de click'n'collect peuvent maintenant accèder à vos options de menus ajoutés dans le cadre de l'extensibilité de nos solutions.</span><br> </div>
+<h3>5 - Gestion de retraits dans les stocks magasins </h3>
+<div>Gérez des quantités non disponibles à la vente dans les stocks magasins (articles en vitrines, stocks informatiques incorrects, etc.) </div>
 </div>
 <div class="item">
-<h3>6 - Synchroniser vos tâches avec Microsoft ToDo & Outlook </h3>
-<div>Retrouvez vos tâches Altazion Office dans Microsoft To-do, Microsoft Teams ou Outlook pour gérer votre travail en toute simplicité.&nbsp;&nbsp;</div>
+<h3>6 - Intégration de la plateforme de paiement Adyen </h3>
+</div>
+<div class="item">
+<h3>7 - Optimisations du module Orchestrator </h3>
 </div>
 </div>
 <h2>A l'étude</h2>
 <div id="etude">
 <div class="item">
-<h3>1 - Ajout de tous les niveaux de segmentation dans les critères des vitrines automatiques</h3>
-<div>Lors de la création d'une vitrine automatique et en ajoutent le critère segmentation, il serait pertinent de pouvoir choisir n'importe quelle segmentation produit et pas uniquement les segmentations principales<br> </div>
+<h3>1 - Configuration dans l'interface graphique des workflows de préparation Orchestrator</h3>
 </div>
 <div class="item">
-<h3>2 - Template e-commerce & borne "Boxed"</h3>
+<h3>2 - Ajouter un lien de suivi dans la zone "colis" pour le popup de suivi de commande magasin</h3>
 </div>
 <div class="item">
 <h3>3 - Pouvoir se connecter en impersonnalisant un magasin si on est admin de la solution</h3>
-</div>
-<div class="item">
-<h3>4 - Nouvelle zone pour le tag manager : "Debut de Head"</h3>
-<div>Une nouvelle zone est disponible dans l'outil de gestion des tags javascripts : vous pouvez désormais placer votre code en première(s) lignes de la balise head, avant toutes les balises standard. </div>
 </div>
 </div>
 </div>

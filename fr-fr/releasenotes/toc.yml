@@ -1,6 +1,8 @@
 - name: Release Notes
   href: index.md
   items:
+    - name: 22.5
+      href: 22_5.md
     - name: 22.2
       href: 22_2.md
     - name: 22.1
