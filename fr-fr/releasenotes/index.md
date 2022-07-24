@@ -9,14 +9,6 @@
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item'>
-<h3>Synchroniser vos tâches avec Microsoft ToDo & Outlook</h3>
-<div>Retrouvez vos tâches Altazion Office dans Microsoft To-do, Microsoft Teams ou Outlook pour gérer votre travail en toute simplicité.&nbsp;&nbsp;</div>
-</div>
-<div class='item'>
-<h3>Points API REST complémentaires</h3>
-<div>Les points API de gestion des stocks &quot;entrepots&quot; sont maintenant disponibles dans &quot;Altazion API&quot; pour la version 3.0, en technologie REST. Nous avons aussi ajouté des points API pour la gestion des modes de règlement et des groupes utilisateurs. </div>
-</div>
-<div class='item'>
 <h3>Ajout d'oAuth 2 pour Altazion API</h3>
 <div>L'authentification et les autorisations des API d'Altazion Hub sont maintenant compatible avec un flux d'authentification oAuth 2. Vous pouvez aussi désormais limiter les droits des applications connectées. </div>
 </div>
@@ -25,13 +17,21 @@
 <div><span style="background-color:rgb(245, 245, 245);display:inline !important;">Les magasins participant à une marketplace ou les franchisés proposant des services de click'n'collect peuvent maintenant accèder à vos options de menus ajoutés dans le cadre de l'extensibilité de nos solutions.</span><br> </div>
 </div>
 <div class='item'>
+<h3>Le catalogue fournisseur n'acceptait pas les menu d'extensions sous le nom Gestcom/Catalogue-Fournisseur</h3>
+<div>Dans la gestion des extensibilités, les boutons d'action ajoutés à la page de catalogue fournisseurs n'étaient pas pris en compte, c'est désormais le cas. Pour rappel, les paramètres à utiliser sont : Zone=Gestcom, Screen=Catalogue-Fournisseur </div>
+</div>
+<div class='item'>
+<h3>Points API REST complémentaires</h3>
+<div>Les points API de gestion des stocks &quot;entrepots&quot; sont maintenant disponibles dans &quot;Altazion API&quot; pour la version 3.0, en technologie REST. Nous avons aussi ajouté des points API pour la gestion des modes de règlement et des groupes utilisateurs. </div>
+</div>
+<div class='item'>
 <h3>Définition Open API 3.0 de Altazion API</h3>
 <div><p style="margin:0cm;font-size:11pt;font-family:Calibri, sans-serif;">Les points APIs d�??Altazion API sont maintenant décrit au
 travers d�??un fichier Open API (anciennement swagger) en version 3.0. </p> </div>
 </div>
 <div class='item'>
-<h3>Le catalogue fournisseur n'acceptait pas les menu d'extensions sous le nom Gestcom/Catalogue-Fournisseur</h3>
-<div>Dans la gestion des extensibilités, les boutons d'action ajoutés à la page de catalogue fournisseurs n'étaient pas pris en compte, c'est désormais le cas. Pour rappel, les paramètres à utiliser sont : Zone=Gestcom, Screen=Catalogue-Fournisseur </div>
+<h3>Synchroniser vos tâches avec Microsoft ToDo & Outlook</h3>
+<div>Retrouvez vos tâches Altazion Office dans Microsoft To-do, Microsoft Teams ou Outlook pour gérer votre travail en toute simplicité.&nbsp;&nbsp;</div>
 </div>
 </div>
 </div>
@@ -52,10 +52,6 @@ travers d�??un fichier Open API (anciennement swagger) en version 3.0. </p> </di
 <h3>La configuration de mailjet doit parfois être enregistrée deux fois pour être prise en compte.</h3>
 </div>
 <div class='item'>
-<h3>Intégration de l'API v3 de MailJet</h3>
-<div>L'intégration Mailjet dans nos outils utilise maintenant l'API v3 pour la configuration et l'envoi des mails transactionnels et les newsletters. </div>
-</div>
-<div class='item'>
 <h3>Ajout de tous les niveaux de segmentation dans les critères des vitrines automatiques</h3>
 <div>Lors de la création d'une vitrine automatique et en ajoutent le critère segmentation, il serait pertinent de pouvoir choisir n'importe quelle segmentation produit et pas uniquement les segmentations principales<br> </div>
 </div>
@@ -72,6 +68,10 @@ travers d�??un fichier Open API (anciennement swagger) en version 3.0. </p> </di
 <div class='item'>
 <h3>Vous pouvez envoyer des tags personnalisés dans vos traces Datadog</h3>
 <div>Utilisez la variable d'environnement DATADOG_TAGS pour définir un ensemble de tag à envoyer à Datadog (séparés par des &quot;|&quot; ou des &quot;,&quot;) </div>
+</div>
+<div class='item'>
+<h3>Intégration de l'API v3 de MailJet</h3>
+<div>L'intégration Mailjet dans nos outils utilise maintenant l'API v3 pour la configuration et l'envoi des mails transactionnels et les newsletters. </div>
 </div>
 </div>
 </div>
@@ -102,10 +102,6 @@ travers d�??un fichier Open API (anciennement swagger) en version 3.0. </p> </di
 <img src='https://altazion.blob.core.windows.net/public/roadmap/noimageforrelease.png' class='imageEnAvant' alt='Image pour illustrer' />
 <div class='lesItems'>
 <div class='item'>
-<h3>Evolution de l'extensibilité des menus pour les magasins</h3>
-<div>Vous pouvez désormais utiliser #MAGASINGUID#, #UXID# dans les items d'extension pour le menu principal et les paramètres dans Altazion Office. </div>
-</div>
-<div class='item'>
 <h3>Sur IIS avant Windows Server 2019, les personnalisations Store & Signage sont chargées après les premières réponses des API</h3>
 </div>
 <div class='item'>
@@ -114,6 +110,10 @@ travers d�??un fichier Open API (anciennement swagger) en version 3.0. </p> </di
 </div>
 <div class='item'>
 <h3>Les contenus SEO n'apparaissent pas correctement sur la home lors d'un clearcache</h3>
+</div>
+<div class='item'>
+<h3>Evolution de l'extensibilité des menus pour les magasins</h3>
+<div>Vous pouvez désormais utiliser #MAGASINGUID#, #UXID# dans les items d'extension pour le menu principal et les paramètres dans Altazion Office. </div>
 </div>
 <div class='item'>
 <h3>Traces dans DatadogHQ pour le mode "Azure Isolated"</h3>
