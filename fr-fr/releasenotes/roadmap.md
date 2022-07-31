@@ -3,20 +3,23 @@
 <h2>Fonctionnalité en test</h2>
 <div id="enTest">
 <div class="item">
-<h3>1 - Scan de codes barres produits dans l'application Android</h3>
+<h3>1 - Pouvoir visualiser les magasins archivés dans la liste des magasins dans Office</h3>
 </div>
 <div class="item">
-<h3>2 - Pouvoir remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
+<h3>2 - Scan de codes barres produits dans l'application Android</h3>
 </div>
 <div class="item">
-<h3>3 - Nouvelle page de configuration e-commerce</h3>
+<h3>3 - Pouvoir remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
 </div>
 <div class="item">
-<h3>4 - Possibilité de filtrer les médiations actives/non actives dans la liste</h3>
+<h3>4 - Nouvelle page de configuration e-commerce</h3>
+</div>
+<div class="item">
+<h3>5 - Possibilité de filtrer les médiations actives/non actives dans la liste</h3>
 <div>Dans la liste des médiations affichée dans Altazion Office, vous pouvez désormais utiliser un critère de recherche pour n'afficher que les médiations actives ou inactives. </div>
 </div>
 <div class="item">
-<h3>5 - Les disponibilités et la référence produit ajoutées aux points API de suggestions</h3>
+<h3>6 - Les disponibilités et la référence produit ajoutées aux points API de suggestions</h3>
 <div>Dans les points APIs &quot;Store &amp; Signage&quot;, &quot;Commerce&quot; ainsi que dans les points API &quot;Hub - Main Api&quot;, les suggestions articles propose maintenant les références articles et la disponibilité produit </div>
 </div>
 </div>
