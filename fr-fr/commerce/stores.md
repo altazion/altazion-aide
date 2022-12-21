@@ -44,16 +44,3 @@ L’administrateur peut créer et paramétrer tous les éléments des établisse
 Les horaires d'ouvertures sont l'une des informations les plus recherchées par les internautes lorsqu'ils consultent une fiche magasin.
 
 
-
-### Services
-
-
-### Message personnalisable
-
-
-
-## Evènements
-
-
-
-## Commandes
