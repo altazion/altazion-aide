@@ -27,7 +27,7 @@ L’administrateur peut créer et paramétrer tous les éléments des établisse
 - Typologies d’établissements
 - La participation à des actions commerciales et la gestion des services en « lot ».
 - Création des services.
-- Création de compte (cf Gestion des utilisateurs **_ajouter le lien_**).
+- Création de compte (![cf Gestion des utilisateurs](resources\acces-gestion-utilisateurs.jpg "acces gestion utilisateurs")).
 - Modification.
 - Gestion des opérations commerciales (participation / création).
 
