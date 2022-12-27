@@ -1,32 +1,33 @@
 # Magasins
-Notre solution Omnicanale permet à l'internaute de trouver toutes les informations importantes pour lui. Chaque magasin dispose d'un **mini-site** administrable depuis l'interface de gestion Altazion.
+L'internaute peut trouver toutes les informations importantes pour lui, relative aux magasins. Chaque magasin dispose d'un **mini-site** administrable depuis l'interface de gestion Altazion.
 
 ## Store locator
 Notre solution propose au choix : 
 -	Utiliser la géolocalisation intégrée au téléphone par défaut pour proposer le magasin le plus proche. 
 -	Laisser le choix à l’internaute de la sélection dans des endroits clés et à différents moments de son parcours.
 
-## Mini-site magasin (fiche établissement)##
+## Mini-site magasin (fiche établissement)
 Par défaut, le visiteur peut consulter sa fiche magasin et il trouvera les informations suivantes : 
 -	Coordonnées.
 -	Horaires et horaires exceptionnels.
 -	Les services proposés par le magasin.
 -	Un message d’accueil, ainsi qu’un texte personnalisé pour chacun des magasins.
--	Un plan avec le magasin sur une carte ainsi que la possibilité de connaitre l’itinéraire depuis sa position vers le magasin (lié à Google Maps).
--	Les promotions et offres spéciales en cours.
+-	Un plan avec le magasin sur une carte ainsi que la possibilité de **connaitre l’itinéraire** depuis sa position vers le magasin (lié à Google Maps).
+-	Les promotions et offres spéciales en cours. (promotions spécifiques au magasin ou campagnes relatives à l'enseigne, par exemple les évènements Cross Canaux).
 -	Eléments de confiance.
 
 En fonction de votre choix il est possible d'ajouter ou de retirer certains éléments comme les avis magasin.
 
 ## Gestion des établissements
-Dans l’administration, il est possible de configurer et gérer les magasins à différents niveaux. 
+Dans l’administration, il est possible de configurer et gérer les magasins depuis le menu --> Magasins --> Sélection du magasin.
+
 L’administrateur peut créer et paramétrer tous les éléments des établissements là ou l’établissement aura des droits limités.
 
 **L’administrateur pourra gérer :** 
 - Typologies d’établissements
 - La participation à des actions commerciales et la gestion des services en « lot ».
 - Création des services.
-- Création des utilisateurs.
+- Création de compte (cf Gestion des utilisateurs **_ajouter le lien_**).
 - Modification.
 - Gestion des opérations commerciales (participation / création).
 
@@ -42,5 +43,8 @@ L’administrateur peut créer et paramétrer tous les éléments des établisse
 ### Horaires d'ouverture
 
 Les horaires d'ouvertures sont l'une des informations les plus recherchées par les internautes lorsqu'ils consultent une fiche magasin.
+
+
+## Google My business et SEO
 
 
