@@ -27,17 +27,17 @@ L’administrateur peut créer et paramétrer tous les éléments des établisse
 - Typologies d’établissements
 - La participation à des actions commerciales et la gestion des services en « lot ».
 - Création des services.
-- Création de compte (![cf Gestion des utilisateurs](resources\acces-gestion-utilisateurs.jpg "acces gestion utilisateurs")).
+- Création de compte ([cf Gestion des utilisateurs](https://aide.altazion.com/fr-fr/start/interface/creer-compte.html "acces gestion utilisateurs")).
 - Modification.
 - Gestion des opérations commerciales (participation / création).
 
 
 **L’utilisateur, en établissement peut lui sélectionner et gérer :** 
-•	Les services du magasin.
-•	La géolocalisation du magasin.
-•	Les horaires d’ouvertures (standards et exceptionnels).
-•	Le texte de présentation et SEO.
-•	La participation à des actions commerciales.
+- Les services du magasin. 
+- La géolocalisation du magasin.  
+- Les horaires d’ouvertures (standards et exceptionnels).  
+- Le texte de présentation et SEO.  
+- La participation à des actions commerciales.  
 
 
 ### Horaires d'ouverture
@@ -46,5 +46,7 @@ Les horaires d'ouvertures sont l'une des informations les plus recherchées par 
 
 
 ## Google My business et SEO
+Le mini site permet de lier votre page magasin à Google My Business. 
+
 
 
