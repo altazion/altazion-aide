@@ -6,7 +6,7 @@ Découvrez l'interface
 - [Prendre en main l'interface](/fr-fr2/gerer/configurer/first-step-interface.md)
 
 ### Gestion des utilisateurs
-- [Créer un utilisateur](/fr-frv2/start/gerer/configurer/utilisateurs/creer-compte.md)
+- [Créer un utilisateur](/fr-frv2/gerer/configurer/utilisateurs/creer-compte.md)
 - [Modifier un profil utilisateur](/fr-frv2/gerer/configurer/utilisateurs/modifier-profil.md)
 - [Les groupes d'utilisateurs](/fr-frv2/gerer/configurer/utilisateurs/add-group.md)
 
