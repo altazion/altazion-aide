@@ -30,7 +30,7 @@ L’administrateur peut créer et paramétrer tous les éléments des établisse
 - Typologies d’établissements.
 - La participation à des actions commerciales et la gestion des services en « lot ».
 - Création des services.
-- Création de compte ([cf Gestion des utilisateurs](fr-frv2\configurer\utilisateurs\creer-compte.md "acces gestion utilisateurs")).
+- Création de compte ([cf Gestion des utilisateurs](\fr-frv2\configurer\utilisateurs\creer-compte.md "acces gestion utilisateurs")).
 - Modification.
 - Gestion des opérations commerciales (participation / création).
 
@@ -49,10 +49,11 @@ Pensez également à ajouter vos ouvertures exceptionnelles sur votre mini-fiche
 
 ## Google My business et SEO
 Ajoutez simplement votre établissement dans Google My Business. 
-Google My Business dont l'influence sur le référencement local n'est plus à démontrer peut vous aider à attirer du trafic sur le site internet ET en magasin. 
+Google My Business dont l'influence sur le référencement local n'est plus à démontrer peut vous aider à attirer du trafic sur le site internet ET en magasin.  
+
 Renseignez l'url de votre mini site dans l'interface de Google my Business. L'icone "site web" apparaitra ainsi et dirigera l'internaute vers le mini site lorsque l'internaute cliquera sur ce lien.  
 Cela permettra d'améliorer le référencement local (donc la visibilité dans les résultats de recherche, google maps...) et à l'internaute de visiter le mini site afin de découvrir, par exemple, les promotions en cours. 
-![Exemple de magasin ayant ajouté le mini site à la page My Business](fr-frv2\ressources\image-site-web-mini-site.jpg).
+![Exemple de magasin ayant ajouté le mini site à la page My Business](\fr-frv2\ressources\image-site-web-mini-site.jpg).
 Le mini site permet de lier votre page magasin à Google My Business. 
 
 
