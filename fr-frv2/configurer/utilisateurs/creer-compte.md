@@ -40,6 +40,6 @@ Un petit messsage vous indique alors que les modifications ont bien été prises
 
 ## VOIR AUSSI
 
-**[Modifier un profil d'utilisateur](/fr-fr/start/interface/modifier-profil.html "Modifier un profil d'utilisateur")**
+**[Modifier un profil d'utilisateur](/fr-frv2/configurer/utilisateurs/modifier-profil.html "Modifier un profil d'utilisateur")**
 
-Ajouter un groupe d'utilisateurs
+**[Ajouter un groupe d'utilisateurs](/fr-frv2/configurer/utilisateurs/add-group.html)**
