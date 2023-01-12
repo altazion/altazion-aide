@@ -7,7 +7,7 @@ Définissez des règles de gestion pour vos produits.
 Le cas des produits déclinables est pris en compte. Vous pouvez ainsi proposer des produits sur un canal plutôt qu'un autre. 
 L'exemple des déclinaisons illustre bien cela. Tout savoir sur les produits déclinables et leur gestion [ici](https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html).
 
-## Types de produits paramétrable
+## Différents types de produits
 Au niveau des segments (catégories) vous pouvez choisir le type de produit, par exemple les produits aditionnels. Voir [ici](/fr-frv2/referencer/segments/index.html) 
 Au niveau du produit, lorsqu'il est créé Altazion vous permet de choisir entre différents types, selon vos besoins : 
 - produit "standard",
@@ -15,7 +15,7 @@ Au niveau du produit, lorsqu'il est créé Altazion vous permet de choisir entre
 - lots, configurez en amont votre stratégie : un lot est un article ou un lot correspond à l'addition des différents articles du lot.
 - produits "virtuels". 
 
-## Solution flexible dans l’organisation et les caractéristiques produit. 
+## Flexibilité dans l’organisation et les caractéristiques produit 
 
 Notre solution vous permet d’assigner un produit à une famille et un segment. Ex : un jouet peut ainsi appartenir à la famille des jeux traditionnels et au segment des peluches. Cela permet : 
 
@@ -31,7 +31,7 @@ Dans l'administration, en vous rendant dans Paramètres - Association entre arti
 Ex : les articles complémentaires ou encore les piles à ajouter à des jouets.
 
 ## Caractéristiques produit
-Vous pourrez 
+Définir vos caractéristiques en amont de l'import du catalogue ou de la création des produits permet une grande richesse de caractéristiques.
 
 **Caractéristiques commerciales**
 Un onglet permet de créer et administrer les caractéristiques dites « commerciales » qui sont par défaut : 
@@ -128,3 +128,5 @@ Un produit peut être périssable, plus sensible à la casse, au vol. Notre solu
 Votre activité peut être soumise à la saisonnalité ou à des ruptures temporaires. 
 Altazion vous permet de choisir si vous affichez ou masquez les produits indisponibles ou archivés. 
 Vous pouvez aussi gérer cela au niveau du moteur de recherche.
+
+## SEO et fiches produit

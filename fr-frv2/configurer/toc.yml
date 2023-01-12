@@ -4,16 +4,16 @@
   href: 
   items:
     - name: Créer une tache
-      href: edit-tasks.md
+      href: /taches/edit-tasks.md
     - name: Attribuer une tache  
-      href: attribuer-task.md
+      href: /taches/attribuer-task.md
     - name: Réaliser une tache  
-      href: use-task.md
+      href: /taches/use-task.md
 - name: Utilisateurs
   href: 
   items: 
     - name: Créer et gérer un compte
-      href: creer-compte.md
+      href: /utilisateurs/creer-compte.md
     - name: Créer et gérer les groupes d'utilisateurs
-      href: add-group.md
+      href: /utilisateurs/add-group.md
     
