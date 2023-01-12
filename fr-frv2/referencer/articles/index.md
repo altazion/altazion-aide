@@ -82,7 +82,7 @@ Un paramétrage cohérent permettra de proposer les bonnes informations au clien
 **Tags et labels de confiance.**
 Afficher les labels type Ecoresponsable, ou Made in France est très simple puisque vous pouvez les sélectionner (une fois configurés) sur les fiches produit. Configurez simplement vos labels de confiance comme tout autre attribut.
 
-## Mediaş et documents. 
+## Mediaş et documents
 
 Une galerie de photos est prévue par défaut. Comme pour les produits un import en lot est possible ou une gestion produit par produit.  
 Les vidéos sont également prises en charge et intégrées à la galerie de photo ou à un autre endroit de la page en fonction de votre template de page.  
@@ -120,7 +120,7 @@ Chaque produit à ses caractéristiques propres (L*l*h et poids) afin de calcule
 
 Pour chaque produit, typologie de produit il est possible de choisir les modes de livraison. 
 
-## Gestion du risque. 
+## Gestion du risque
 
 Un produit peut être périssable, plus sensible à la casse, au vol. Notre solution permet de scorer le risque produit par produit. De cette manière vous pouvez identifier les commandes à risque et définir le comportement adapté (attente de validation ou annulation pure par exemple).  
 
