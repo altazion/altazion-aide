@@ -1,9 +1,9 @@
 - name: Gestion des articles
-  href: /referencer/articles/index.html
+  href: /fr-frv2/referencer/articles/index.html
   items:
   - name: Création d'un article
-    href: /referencer/articles/cycle.html
+    href: /fr-frv2/referencer/articles/cycle.html
   - name: Les articles déclinables
-    href: /referencer/articles/declinables.html  
+    href: /fr-frv2/referencer/articles/declinables.html  
 - name: Familles et Segments
-  href: /referencer/segments/index.html
+  href: /fr-frv2/referencer/segments/index.html
