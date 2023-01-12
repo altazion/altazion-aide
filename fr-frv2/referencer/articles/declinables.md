@@ -31,5 +31,5 @@ Pour les articles ayant des caractéristiques très similaires entre les différ
 ### Créer des articles séparés
 Pour les articles qui sont assez différents pour demander des descriptions et des images différentes en fonction de la déclinaison, il vous faudra créer chaque produit indépendamment puis, éventuellement créer un article simple pour effectuer le regroupement.
 
-![Articles différents](fr-frv2\ressources\articles\article-declinable-differents-1.png)
+![Articles différents](/fr-frv2/ressources/articles/article-declinable-differents-1.png)
 
