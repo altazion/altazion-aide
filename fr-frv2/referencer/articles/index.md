@@ -2,6 +2,11 @@
 
 En amont de la création des produits ou de l'import du catalogue, le paramétrage et la création d'éléments comme les familles de produits, les associations de produit, les caractéristiques etc vont permettre aux équipe de travailler sereinement, efficacement et en évitant les erreurs et doublons. 
 
+## Produits e-commerce ou omnicanaux
+Définissez des règles de gestion pour vos produits. 
+Le cas des produits déclinables est pris en compte. Vous pouvez ainsi proposer des produits sur un canal plutôt qu'un autre. 
+L'exemple des déclinaisons illustre bien cela. Tout savoir sur les produits déclinables et leur gestion [ici](https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html).
+
 ## Types de produits paramétrable
 Au niveau des segments (catégories) vous pouvez choisir le type de produit, par exemple les produits aditionnels. Voir [ici](/fr-frv2/referencer/segments/index.html) 
 Au niveau du produit, lorsqu'il est créé Altazion vous permet de choisir entre différents types, selon vos besoins : 
@@ -10,11 +15,13 @@ Au niveau du produit, lorsqu'il est créé Altazion vous permet de choisir entre
 - lots, configurez en amont votre stratégie : un lot est un article ou un lot correspond à l'addition des différents articles du lot.
 - produits "virtuels". 
 
-## Produits e-commerce ou omnicanaux
-Définissez des règles de gestion pour vos produits. 
-Le cas des produits déclinables est pris en compte. Vous pouvez ainsi proposer des produits sur un canal plutôt qu'un autre. 
-L'exemple des déclinaisons illustre bien cela. Tout savoir sur les produits déclinables et leur gestion [ici](https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html).
+## Solution flexible dans l’organisation et les caractéristiques produit. 
 
+Notre solution vous permet d’assigner un produit à une famille et un segment. Ex : un jouet peut ainsi appartenir à la famille des jeux traditionnels et au segment des peluches. Cela permet : 
+
+Une double approche concernant la présentation des produits en ligne. Au niveau SEO, on peut ainsi proposer des produits sur différentes landing pages en évitant le contenu dupliqué. 
+
+De traiter différemment les catégories ou sélections internes historiques des nouvelles catégories web. Ex : famille = catégorie interne, segment = catégorie web. 
 
 ## Associations d'articles
 Paramétrer les associations de produit permet d'optimiser le futur cross-selling (achats complémentaires) et d'éviter les déceptions. 
@@ -22,7 +29,6 @@ Paramétrer les associations de produit permet d'optimiser le futur cross-sellin
 Dans l'administration, en vous rendant dans Paramètres - Association entre articles il est possible de créer et configurer les associations. 
 
 Ex : les articles complémentaires ou encore les piles à ajouter à des jouets.
-
 
 ## Caractéristiques produit
 Vous pourrez 
@@ -116,21 +122,7 @@ Pour chaque produit, typologie de produit il est possible de choisir les modes d
 
 ## Gestion du risque. 
 
-Un produit peut être périssable*, plus sensible à la casse, au vol. Notre solution permet de scorer le risque produit par produit. De cette manière vous pouvez identifier les commandes à risque et définir le comportement adapté (attente de validation ou annulation pure par exemple).  
-
-Voir gestion du risque dans la partie « Commande ». 
-
-Texte de description éditable. 
-
-Ajoutez un texte SEO à vos produits. Le texte est administrable en HTML. 
-
-*Solution flexible dans l’organisation et les caractéristiques produit. 
-
-Notre solution vous permet d’assigner un produit à une famille et un segment. Ex : un jouet peut ainsi appartenir à la famille des jeux traditionnels et au segment des peluches. Cela permet : 
-
-Une double approche concernant la présentation des produits en ligne. Au niveau SEO, on peut ainsi proposer des produits sur différentes landing pages en évitant le contenu dupliqué. 
-
-De traiter différemment les catégories ou sélections internes historiques des nouvelles catégories web. Ex : famille = catégorie interne, segment = catégorie web. 
+Un produit peut être périssable, plus sensible à la casse, au vol. Notre solution permet de scorer le risque produit par produit. De cette manière vous pouvez identifier les commandes à risque et définir le comportement adapté (attente de validation ou annulation pure par exemple).  
 
 ## Options de recherche & gestion des ruptures
 Votre activité peut être soumise à la saisonnalité ou à des ruptures temporaires. 
