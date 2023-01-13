@@ -1,5 +1,5 @@
 # Référencer le catalogue d'articles
-La création du catalogue passe par quelques bonnes pratiques et une bonne connaissance du fonctionnement d'Altazion.
+La création du catalogue passe par quelques bonnes pratiques et une bonne connaissance du fonctionnement d'Altazion qui offre une flexibilité importante.
 
 ## Structure de catalogue
 Un catalogue bien structuré est important en interne, mais aussi et surtout pour l'arborescence de votre site qui va servir à l'utilisateur ainsi qu'aux bots de Google pour explorer votre boutique en ligne. 
@@ -14,11 +14,14 @@ Notre solution vous permet d’assigner un produit à une famille et un segment.
 
 - De traiter différemment les catégories ou sélections internes historiques des nouvelles catégories web. Ex : famille = catégorie interne à votre catalogue, segment = catégorie du produit pour le web. 
 
+_Bien évidemment il est possible d'unifier famille et segment_
 
-## Les familles de produit (grandes catégories ou types de produit)
+**Les vitrines** sont des pages à but commercial dans lesquelles il est possible de proposer des produits de différentes familles ou segments.
+
+Pour en savoir plus sur les segments cliquez [ici](https://aide.altazion.com/fr-frv2/referencer/segments/index.html).
  
 ## Les segments (catégories de produits)
-Optez pour la bonne organisation 
+Si vos besoins sont clairement définis, vous pourrez 
 
 ## Les produits
 Altazion offre de nombreuses possibilités dans l'administration de vos produits et s'adapte à tous les secteurs d'activité.
