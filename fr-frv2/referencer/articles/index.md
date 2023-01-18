@@ -2,7 +2,9 @@
 
 En amont de la création des produits ou de l'import du catalogue, le paramétrage et la création d'éléments comme les familles de produits, les associations de produit, les caractéristiques etc vont permettre aux équipe de travailler sereinement, efficacement et en évitant les erreurs et doublons. 
 
-## Produits e-commerce ou omnicanaux
+# Référencer un produit, les étapes
+
+## Produits e-commerce ou omnicanal
 Définissez des règles de gestion pour vos produits. 
 Le cas des produits déclinables est pris en compte. Vous pouvez ainsi proposer des produits sur un canal plutôt qu'un autre. 
 L'exemple des déclinaisons illustre bien cela. Tout savoir sur les produits déclinables et leur gestion [ici](https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html).
@@ -32,6 +34,8 @@ Ex : les articles complémentaires ou encore les piles à ajouter à des jouets.
 
 ## Caractéristiques produit
 Définir vos caractéristiques en amont de l'import du catalogue ou de la création des produits permet une grande richesse de caractéristiques.
+
+Les grandes familles de catégories vous permettront d'administrer les produits mais aussi de les placer dans des segments. 
 
 **Caractéristiques commerciales**
 Un onglet permet de créer et administrer les caractéristiques dites « commerciales » qui sont par défaut : 
@@ -114,8 +118,6 @@ Vous pouvez travailler avec des fichiers de stocks.
 
 Critères : volume (L*l*h), poids, prix, autres critères définis manuellement (ex : verre). 
 
-L’aspect logistique est poussé dans Altazion. 
-
 Chaque produit à ses caractéristiques propres (L*l*h et poids) afin de calculer automatiquement son volume, voir son poids volumétrique pour les transporteurs.  
 
 Pour chaque produit, typologie de produit il est possible de choisir les modes de livraison. 
@@ -129,4 +131,3 @@ Votre activité peut être soumise à la saisonnalité ou à des ruptures tempor
 Altazion vous permet de choisir si vous affichez ou masquez les produits indisponibles ou archivés. 
 Vous pouvez aussi gérer cela au niveau du moteur de recherche.
 
-## SEO et fiches produit

@@ -4,6 +4,10 @@
 Altazion permet la gestion avancée des catégories (segment) produit. 
 Que vous passiez par un import ou par la gestion des segments par Altazion office, paramétrez vos segments en pensant experience utilisateur, référencement naturel et simplicité par rapport à votre système de gestion de produit (PIM)
 
+## Altazion s'adapte à votre système interne avec les familles
+Si vous optez pour une segmentation web différente de celle de votre système historique, Altazion permet d'intégrer cette dernière avec un système de correspondance ou de double hierarchie.
+Par défaut, la catégorie de votre système interne (PIM ou autre) s'appelle Famille, quand la catégorie web s'appelle Segment. Un produit peut ainsi avoir appartenir à une famille et un segment. Les employés de l'équipe Digitale et des magasins peuvent ainsi travailler en bonne intélligence.
+
 **Altazion permet nativement de gérer l'essentiel des fonctionnalités pour performer :**
 
 ## La hiérarchie entre segments (catégorie et sous-catégorie). 
@@ -25,7 +29,7 @@ Altazion vous permet d'adapter la présentation et la gestion de vos segments en
 Si votre activité implique des produits principaux et des produits de complément, Altazion vous permet de gagner du temps et en efficacité avec des templates spécifiques.  
 Ex : Smartphone et coque de protection.
 
-**- Gestion des images**
+**Gestion des images**
 Bandeau, miniature, et image principale de la catégorie. L'administration des segments est simple, rapide et efficace afin de performer rapidement.
 
 ## Elèments de gestion en interne 
