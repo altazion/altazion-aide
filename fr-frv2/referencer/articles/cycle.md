@@ -1,6 +1,6 @@
 # Cycle de vie
 
-Les articles passent par un certain nombre d'étapes, au cours de leur existence dans nos outils.
+Les articles passent par un certain nombre d'étapes au cours de leur existence dans nos outils.
 
 Lorsque vous créez un article, il est d'abord dans un phase d'élaboration, pendant laquelle l'article ne peut pas être utilisé pour des opérations de vente. Cette étape vous permet de renseigner les informations nécessaires à la bonne utilisation d'un article, de lui associer des documents, images, video, etc., d'en définir le tarif etc.
 
@@ -10,5 +10,5 @@ Lorsque vous souhaitez retirer définitivement un article de votre catalogue pro
 
 ## Schéma du cycle de vie
 
-![cycle-progressionsetatarticles](fr-frv2\ressources\articles\cycle-progressionsetatarticles.png)
+![cycle-progressionsetatarticles](https://aide.altazion.com/fr-frv2/ressources/articles/cycle-progressionsetatarticles.png)
 
