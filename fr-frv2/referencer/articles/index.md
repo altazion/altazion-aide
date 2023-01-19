@@ -83,6 +83,8 @@ Le choix est possible entre des checkbox (ex : piles incluses oui/non), des ch
 
 Un paramétrage cohérent permettra de proposer les bonnes informations au client ou à votre équipe. 
 
+Vous souhaitez créer un attribut ? Découvrez comment faire [ici](https://aide.altazion.com/fr-frv2/referencer/articles/attributs.html)
+
 **Tags et labels de confiance.**
 Afficher les labels type Ecoresponsable, ou Made in France est très simple puisque vous pouvez les sélectionner (une fois configurés) sur les fiches produit. Configurez simplement vos labels de confiance comme tout autre attribut.
 
