@@ -13,22 +13,36 @@
         href: https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html
       - name: Réaliser une tache  
          href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
-  - name: Utilisateurs
-    href: 
-    items: 
+    - name: Utilisateurs
+      href: 
+      items: 
       - name: Créer et gérer un compte
         href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
       - name: Créer et gérer les groupes d'utilisateurs
         href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
-  - name: Gestion des articles
-    href: https://aide.altazion.com/fr-frv2/referencer/articles/index.html
+  - name: Référencer
+    href: https://aide.altazion.com/fr-frv2/referencer/index.html
     items: 
-    - name: Familles et Segments
+    - name: Structurer le catalogue
       href: https://aide.altazion.com/fr-frv2/referencer/segments/index.html
-    - name: Gestion des articles
+    - name: Gérer les articles
       href: https://aide.altazion.com/fr-frv2/referencer/articles/index.html
       items:
       - name: Création d'un article
         href: https://aide.altazion.com/fr-frv2/referencer/articles/cycle.html
       - name: Les articles déclinables
         href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html  
+  - name: Vendre
+    href: https://aide.altazion.com/altazion-aide/fr-frv2/vendre/index.html
+    items: 
+    - name: Vendre en ligne
+      href: https://aide.altazion.com\fr-frv2\vendre\ecommerce\index.html
+    - name: Vendre en magasin
+      href: https://aide.altazion.com\fr-frv2\vendre\magasin\index.html
+  - name: Préparer et expédier
+    href: https://aide.altazion.com/fr-frv2/expedier/index.html
+    items: 
+    - name: Préparer les commandes
+      href: https://aide.altazion.com/fr-frv2/expedier/commandes/index.html
+    - name: Gérer les envois
+      href: https://aide.altazion.com/fr-frv2/expedier/logsitique/index.html

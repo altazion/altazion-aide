@@ -1,9 +1,7 @@
 ## Architecture d'Altazion
 
 Pour utiliser Altazion, il peut être intéressant de comprendre le fonctionnement. 
-Notre solution est composée de 5 "blocs" ayant une utilité propre. 
-
-OFFICE  
+Notre solution est composée de 5 "blocs" ayant une utilité propre.  
 
 - **HUB**
 - **OFFICE** 
@@ -20,6 +18,7 @@ ORCHESTRATOR est l'outil de gestion de commande.
 
 Pour schematiser très simplement avec une vente en ligne.
 1. L'administrateur configure son catalogue dans Office. 
-2. L'utilisateur navigue sur le site internet, commande. Derrière cela, c'est Commerce qui gère le passage de commande. 
-3. Commerce envoie la commande à ORCHESTRATOR qui va permettre la gestion de la commande. 
-4. Orchestrator communique avec OFFICE, permettant à l'utilisateur de préparer, expedier et mettre à jour les statuts de commande. OFFICE, en communiquant avec COMMERCE permet au client de suivre sa commande. 
+2. L'utilisateur (client) navigue sur le site internet, commande. Commerce gère le passage de la commande. 
+3. Commerce envoie la commande à Orchestrator qui va permettre la gestion de la commande. 
+4. Orchestrator communique avec Office, permettant à l'utilisateur de préparer, expedier et mettre à jour les statuts de commande. Office, en communiquant avec Commerce permet au client de suivre sa commande.
+
