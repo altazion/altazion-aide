@@ -21,14 +21,14 @@
       - name: Créer et gérer les groupes d'utilisateurs
         href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
   - name: Gestion des articles
-    href: /fr-frv2/referencer/articles/index.html
+    href: https://aide.altazion.com/fr-frv2/referencer/articles/index.html
     items: 
     - name: Familles et Segments
-      href: /fr-frv2/referencer/segments/index.html
+      href: https://aide.altazion.com/fr-frv2/referencer/segments/index.html
     - name: Gestion des articles
-      href: /fr-frv2/referencer/articles/index.html
+      href: https://aide.altazion.com/fr-frv2/referencer/articles/index.html
       items:
       - name: Création d'un article
-        href: /fr-frv2/referencer/articles/cycle.html
+        href: https://aide.altazion.com/fr-frv2/referencer/articles/cycle.html
       - name: Les articles déclinables
-        href: /fr-frv2/referencer/articles/declinables.html  
+        href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html  
