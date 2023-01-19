@@ -12,7 +12,7 @@
       - name: Attribuer une tache  
         href: https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html
       - name: Réaliser une tache  
-         href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
+        href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
     - name: Utilisateurs
       items: 
       - name: Créer et gérer un compte
