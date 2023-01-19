@@ -9,8 +9,8 @@ Définissez des règles de gestion pour vos produits.
 Le cas des produits déclinables est pris en compte. Vous pouvez ainsi proposer des produits sur un canal plutôt qu'un autre. 
 L'exemple des déclinaisons illustre bien cela. Tout savoir sur les produits déclinables et leur gestion [ici](https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html).
 
-## Différents types de produits
-Au niveau des segments (catégories) vous pouvez choisir le type de produit, par exemple les produits aditionnels. Voir [ici](/fr-frv2/referencer/segments/index.html) 
+## Différents types d'articles
+Au niveau des segments (catégories) vous pouvez choisir le type de produit, par exemple les produits aditionnels. Voir [ici](https://aide.altazion.com/fr-frv2/referencer/segments/index.html) 
 Au niveau du produit, lorsqu'il est créé Altazion vous permet de choisir entre différents types, selon vos besoins : 
 - produit "standard",
 - [produit déclinable](https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html), 
@@ -113,8 +113,7 @@ Altazion propose un large choix de promotion, par exemple exclusivité web ou om
 ## Disponibilité (règles de gestion, seuils, aspect omnicanal) 
 Altazion permet de travailler avec des fichiers de stocks importés comme le font certains de nos clients, ou vous pouvez utiliser l'administration du site, en fonction de votre mode de gestion.
 
-La gestion de la disponibilité est paramétrable.  
-Vous pouvez travailler avec des fichiers de stocks. 
+
 
 ## Règles de gestion logistique transport 
 
