@@ -28,19 +28,3 @@ _Attribuez une tâche à un ou plusieurs utilisateurs_
 **Envoyer ces tâches au groupe** : Sélectionner le groupe auquel vous souhaitez attribuer la tâche
 
 Cliquez sur le bouton "**Enregistrer**" pour valider l'envoi de la tâche
-
-## VOIR AUSSI
-
-**[Intro](/fr-fr/start/interface/default.html "Intro")**
-
-**[Interface](/fr-fr/start/interface/first-step-interface.html "Interface")**
-
-**[Créer un compte utilisateur](/fr-fr/start/interface/creer-compte.html "Créer un compte utilisateur")**
-
-**[Ajouter un groupe](/fr-fr/start/interface/add-group.html "Ajouter un groupe d'utilisateurs")**
-
-**[Créer une tâche](/fr-fr/start/interface/edit-tasks.html "Créer une tâche")**
-
-[**Traiter une tâche**](/fr-fr/start/interface/use-tasks.html "Traiter une tâche")
-
-**Si vous vous êtes déjà familiarisé avec l'interface et la création des tâches, nous vous invitons à embarquer pour les 1ers pas de la [VENTE EN LIGNE](/fr-fr/start/vente-online/ "VENTE EN LIGNE") et de la VENTE EN MAGASIN**

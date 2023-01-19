@@ -29,11 +29,3 @@ Cliquez ensuite sur l'**icône de Paramétrage** (Illustrée par 3 points) puis 
 Dans la partie **Membre du Groupe**, **cochez la case** correspondante au(x) groupe(s) au(x)quel(s) vous souhaitez rattacher l'utilisateur
 
 Sauvegardez votre choix en cliquant sur le bouton "**Enregistrer**"
-
-## VOIR AUSSI
-
-**[Créer un profil](/fr-fr/start/interface/creer-compte.html "Créer un profil")**
-
-**[Modifier un profil](/fr-fr/start/interface/modifier-profil.html "Modifier un profil")**
-
-**Si vous vous êtes déjà familiarisé avec l'interface et la création des tâches, nous vous invitons à embarquer pour les 1ers pas de la [VENTE EN LIGNE](/fr-fr/start/vente-online/ "VENTE EN LIGNE") et de la VENTE EN MAGASIN**

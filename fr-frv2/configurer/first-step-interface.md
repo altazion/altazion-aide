@@ -29,19 +29,3 @@ Si vous lisez ceci, c'est que vous avez déjà trouvé l'utilité de l'Aide en l
 ### COMPTE ADMIN
 
 Paramétrez vos informations utilisateur (Droits d'accès, identifiants, mots de passe...) ou déconnectez-vous de votre session depuis la base Admin
-
-## VOIR AUSSI
-
-**[Intro](/fr-fr/start/interface/default.md)**
-
-[**Créer un compte utilisateur**](/fr-fr/start/interface/creer-compte.md "Créer un compte utilisateur")
-
-[**Ajouter un groupe**](/fr-fr/start/interface/add-group.md "Ajouter un groupe")
-
-[**Créer une tâche**](/fr-fr/start/interface/edit-tasks.md "Créer une tâche")
-
-[**Attribuer une tâche**](/fr-fr/start/interface/attribuer-task.md "Attribuer une tâche")
-
-[**Traiter une tâche**](/fr-fr/start/interface/use-tasks.md "Traiter une tâche")
-
-**Si vous vous êtes déjà familiarisé avec l'interface et la création des tâches, nous vous invitons à embarquer pour les 1ers pas de la [VENTE EN LIGNE](/fr-fr/start/vente-online/ "VENTE EN LIGNE") et de la VENTE EN MAGASIN**

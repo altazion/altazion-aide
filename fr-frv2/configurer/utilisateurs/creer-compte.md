@@ -40,9 +40,3 @@ _Choisissez le type de profil que vous créez_
 **Enregistrer** pour finaliser la création du profil.
 
 Un petit messsage vous indique alors que les modifications ont bien été prises en compte.
-
-## VOIR AUSSI
-
-**[Modifier un profil d'utilisateur](/fr-frv2/configurer/utilisateurs/modifier-profil.html "Modifier un profil d'utilisateur")**
-
-**[Ajouter un groupe d'utilisateurs](/fr-frv2/configurer/utilisateurs/add-group.html)**

@@ -1,19 +1,19 @@
 - name: Présentation de l'administration
-  href: first-step-interface.md
-- name: Taches
+  href: https://aide.altazion.com/fr-frv2/configurer/first-step-interface.html
+- name: Les taches
   href: 
   items:
     - name: Créer une tache
-      href: /taches/edit-tasks.md
+      href: https://aide.altazion.com/fr-frv2/configurer/taches/edit-task.html
     - name: Attribuer une tache  
-      href: /taches/attribuer-task.md
+      href: https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html
     - name: Réaliser une tache  
-      href: /taches/use-task.md
+      href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
 - name: Utilisateurs
   href: 
   items: 
     - name: Créer et gérer un compte
-      href: /utilisateurs/creer-compte.md
+      href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
     - name: Créer et gérer les groupes d'utilisateurs
-      href: /utilisateurs/add-group.md
+      href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
     

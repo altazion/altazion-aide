@@ -25,7 +25,3 @@ Pour gérer une tâche, cliquez sur "**Traiter**" et complétez les informations
 * **Ignorer la tâche** : Fait disparaître la tâche de la to-do list (ATTENTION: Si le problème / l'opération n'a pas été traitée, cette tâche pourrait réapparaître ultérieurement)
 
 Pour interrompre le traitement de la tâche et revenir à la to-do list, cliquez sur "**Annuler**" dans le haut gauche de votre écran
-
-## VOIR AUSSI
-
-**Vous maîtrisez les fonctionnalités de base de votre Interface ? Embarquez dès maintenant pour les 1ers pas de la VENTE EN LIGNE et de la VENTE EN MAGASIN**
