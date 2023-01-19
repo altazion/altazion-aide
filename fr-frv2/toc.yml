@@ -1,11 +1,11 @@
 - name: Le centre d'aide Altazion
   href: https://aide.altazion.com/fr-frv2/index.html
+  items:
   - name: Architecture - comprendre le fonctionnement d'Altazion
     href: https://aide.altazion.com/fr-frv2/architecture.html
   - name: Configurer
     href: https://aide.altazion.com/fr-frv2/configurer/index.html
   - name: Les taches
-    href: 
     items:
       - name: Créer une tache
         href: https://aide.altazion.com/fr-frv2/configurer/taches/edit-task.html
@@ -14,7 +14,6 @@
       - name: Réaliser une tache  
          href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
     - name: Utilisateurs
-      href: 
       items: 
       - name: Créer et gérer un compte
         href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
