@@ -1,4 +1,4 @@
-# Les segments (catégories de produit)
+# Gérer la structure du catalogue avec les segments (catégories de produit)
 
 ## Fonctionnement et interêts de la segmentation
 Altazion permet la gestion avancée des catégories (segment) produit. 
@@ -42,3 +42,4 @@ Altazion est pensé pour le SEO et l'experience utilisateur et permet de personn
 
 **Champ de texte éditable.**
 Chaque modèle de page propose un ou des (en fonction de votre choix) champs de textes éditables en html. Cela permet donc de proposer des pages riches en contenu.
+
