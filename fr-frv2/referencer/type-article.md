@@ -10,7 +10,7 @@ Quelques exemples :
 - Cartes cadeaux
 -...
 
-## Créer ou étiter un type d'articles
+## Créer ou éditer un type d'articles
 INFORMATIONS GÉNÉRALES
 - Libellé : Le Nom de votre nouveau type
 
