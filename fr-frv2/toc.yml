@@ -13,12 +13,12 @@
           href: https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html
         - name: Réaliser une tache  
           href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
-      - name: Utilisateurs
-        items: 
-          - name: Créer et gérer un compte
-            href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
-          - name: Créer et gérer les groupes d'utilisateurs
-            href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
+    - name: Utilisateurs
+      items: 
+        - name: Créer et gérer un compte
+          href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
+        - name: Créer et gérer les groupes d'utilisateurs
+          href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
     - name: Référencer
       href: https://aide.altazion.com/fr-frv2/referencer/index.html
       items: 
