@@ -1,4 +1,4 @@
-# Cycle de vie
+# Création et cycle de vie d'un article
 
 Les articles passent par un certain nombre d'étapes au cours de leur existence dans nos outils.
 
