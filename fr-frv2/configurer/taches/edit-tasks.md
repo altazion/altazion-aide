@@ -28,18 +28,3 @@ Cliquez sur "**Enregistrer**" pour valider la création de la tâche
 
 _Retrouvez votre to-do list depuis la barre des tâches de l'Accueil en cliquant sur "Traiter"_
 
-## VOIR AUSSI
-
-**[Intro](/fr-fr/start/interface/default.html "Intro")**
-
-**[Interface](/fr-fr/start/interface/first-step-interface.html "Interface")**
-
-**[Créer un compte utilisateur](/fr-fr/start/interface/creer-compte.html "Créer un compte utilisateur")**
-
-**[Ajouter un groupe](/fr-fr/start/interface/add-group.html "Ajouter un groupe")**
-
-**[Attribuer une tâche](/fr-fr/start/interface/attribuer-task.html "Attribuer une tâche")**
-
-**[Traiter une tâche](/fr-fr/start/interface/use-tasks.html "Traiter une tâche")**
-
-**Si vous vous êtes déjà familiarisé avec l'interface et la création des tâches, nous vous invitons à embarquer pour les 1ers pas de la [VENTE EN LIGNE](/fr-fr/start/vente-online/ "VENTE EN LIGNE") et de la VENTE EN MAGASIN**
