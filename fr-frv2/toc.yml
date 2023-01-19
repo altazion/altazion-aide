@@ -1,0 +1,34 @@
+- name: Le centre d'aide Altazion
+  href: https://aide.altazion.com/fr-frv2/index.html
+  - name: Architecture - comprendre le fonctionnement d'Altazion
+    href: https://aide.altazion.com/fr-frv2/architecture.html
+  - name: Configurer
+    href: https://aide.altazion.com/fr-frv2/configurer/index.html
+  - name: Les taches
+    href: 
+    items:
+      - name: Créer une tache
+        href: https://aide.altazion.com/fr-frv2/configurer/taches/edit-task.html
+      - name: Attribuer une tache  
+        href: https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html
+      - name: Réaliser une tache  
+         href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
+  - name: Utilisateurs
+    href: 
+    items: 
+      - name: Créer et gérer un compte
+        href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
+      - name: Créer et gérer les groupes d'utilisateurs
+        href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
+  - name: Gestion des articles
+    href: /fr-frv2/referencer/articles/index.html
+    items: 
+    - name: Familles et Segments
+      href: /fr-frv2/referencer/segments/index.html
+    - name: Gestion des articles
+      href: /fr-frv2/referencer/articles/index.html
+      items:
+      - name: Création d'un article
+        href: /fr-frv2/referencer/articles/cycle.html
+      - name: Les articles déclinables
+        href: /fr-frv2/referencer/articles/declinables.html  
