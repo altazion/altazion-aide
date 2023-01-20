@@ -5,20 +5,20 @@
       href: https://aide.altazion.com/fr-frv2/architecture.html
     - name: Configurer
       href: https://aide.altazion.com/fr-frv2/configurer/index.html
-    - name: Les taches
-      items:
-        - name: Créer une tache
-          href: https://aide.altazion.com/fr-frv2/configurer/taches/edit-task.html
-        - name: Attribuer une tache  
-          href: https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html
-        - name: Réaliser une tache  
-          href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
-    - name: Utilisateurs
-      items: 
-        - name: Créer et gérer un compte
-          href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
-        - name: Créer et gérer les groupes d'utilisateurs
-          href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
+        - name: Les taches
+          items:
+            - name: Créer une tache
+              href: https://aide.altazion.com/fr-frv2/configurer/taches/edit-tasks.html
+            - name: Attribuer une tache  
+              href: https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html
+            - name: Réaliser une tache  
+               href: https://aide.altazion.com/fr-frv2/configurer/taches/use-tasks.html
+        - name: Utilisateurs
+          items: 
+            - name: Créer et gérer un compte
+              href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
+            - name: Créer et gérer les groupes d'utilisateurs
+              href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
     - name: Référencer
       href: https://aide.altazion.com/fr-frv2/referencer/index.html
       items: 
