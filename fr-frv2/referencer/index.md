@@ -28,7 +28,7 @@ Quelques exemples :
 -...
 En fonction des types de produits créés il est possible de gérer les comptes bancaires de vente ainsi que les comptes de TVA spécifiques.
 
-Découvrez comment créer ou gérer les types d'articles [ici]((https://aide.altazion.com/fr-frv2/referencer/type-article.html)
+Découvrez comment créer ou gérer les types d'articles [ici](https://aide.altazion.com/fr-frv2/referencer/type-article.html)
 
 ### Les marques
 

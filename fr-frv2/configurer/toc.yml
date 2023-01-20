@@ -1,14 +1,16 @@
+- name: Configurer la solution Altazion
+  href: https://aide.altazion.com/fr-frv2/configurer/index.html
 - name: Présentation de l'administration
   href: https://aide.altazion.com/fr-frv2/configurer/first-step-interface.html
 - name: Les taches
   href: 
   items:
     - name: Créer une tache
-      href: https://aide.altazion.com/fr-frv2/configurer/taches/edit-task.html
+      href: https://aide.altazion.com/fr-frv2/configurer/taches/edit-tasks.html
     - name: Attribuer une tache  
       href: https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html
     - name: Réaliser une tache  
-      href: https://aide.altazion.com/fr-frv2/configurer/taches/use-task.html
+      href: https://aide.altazion.com/fr-frv2/configurer/taches/use-tasks.html
 - name: Utilisateurs
   href: 
   items: 
