@@ -1,4 +1,4 @@
-# Vendre en magasin avec votre boutique en ligne
+# Mise en avant de l'établissement sur la boutique en ligne
 Chacun de vos établissement dispose d'un **mini-site** administrable depuis l'interface de gestion Altazion. Configurer correctement et faire vivre les mini-sites permet de performer en SEO local, mais aussi d'obtenir des commandes omnicanales, passées en ligne avec le stock du magasin. 
 
 En effet, l'internaute peut trouver toutes les informations importantes pour lui de façon extremement simple.  
