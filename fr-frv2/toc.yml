@@ -36,9 +36,6 @@
       items: 
         - name: Animation omnicanale
           href: https://aide.altazion.com/fr-frv2/vendre/omnicanal/index.html
-          items: 
-            - Mini-site Magasin
-            href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/stores.html
         - name: Vendre en ligne
           href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/index.html
           items: 
@@ -47,7 +44,9 @@
             - SEO - référencement naturel
             href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/seo.html    
             - Gestionnaire de contenu (CMS)
-            href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/cms.html  
+            href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/cms.html
+            - Intéraction client
+            href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/relation-client.html    
         - name: Vendre en magasin
           href: https://aide.altazion.com\fr-frv2/vendre/magasin/index.html
     - name: Préparer et expédier
