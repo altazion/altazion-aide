@@ -5,6 +5,7 @@
       href: https://aide.altazion.com/fr-frv2/architecture.html
     - name: Configurer
       href: https://aide.altazion.com/fr-frv2/configurer/index.html
+      items:
         - name: Les taches
           items:
             - name: Créer une tache
