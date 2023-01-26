@@ -9,18 +9,17 @@ Cette documentation a été pensée selon l'ordre operationnel de la vie d'une a
 3. La vente, sur vos différents canaux.
 4. L'expedition si commande en ligne, la livraison au client.
 
-## Configurer
-Gestion d'équipe
-Créez et gérez vos utilisateurs.
-Configurez et assignez des taches à votre équipe. 
+## [Configurer](https://aide.altazion.fr/fr-frv2/configurer/index.html)
+**Gestion d'équipe**
+- Créez et gérez vos utilisateurs.
+- Configurez et assignez des taches à votre équipe. 
 
-Moyens de Paiements
 
-## Référencer
+## [Référencer](https://aide.altazion.fr/fr-frv2/referencer/index.html)
 Gérer votre catalogue dans Altazion Office. 
 Importer, configurer, segmenter, etc. Découvrez comment optimiser votre catalogue pour chacun des canaux de vente de votre entreprise.
 
-## Vendre
+## [Vendre](https://aide.altazion.fr/fr-frv2/vendre/index.html)
 Utilisez Altazion Office pour vendre. 
 Dans cette partie nous vous présentons les possibilités pour animer commercialement vos canaux de ventes. 
 
