@@ -39,14 +39,14 @@
       href: https://aide.altazion.com/fr-frv2/vendre/omnicanal/index.html
     - name: Vendre en ligne
       href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/index.html
-      items: 
-        - Mini-site Magasin
+      items:
+        - name: Mini-site Magasin
           href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/stores.html 
-        - SEO - référencement naturel
+        - name: SEO - référencement naturel
           href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/seo.html    
-        - Gestionnaire de contenu (CMS)
+        - name: Gestionnaire de contenu (CMS)
           href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/cms.html
-        - Intéraction client
+        - name: Intéraction client
           href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/relation-client.html    
         - name: Vendre en magasin
           href: https://aide.altazion.com\fr-frv2/vendre/magasin/index.html
