@@ -14,7 +14,7 @@ Identifiez l'utilisateur par ses Nom, Prénom et adresse mail professionnelle et
 Depuis la page des **Paramètres** (Catégorie **VOTRE ENTREPRISE**), cliquez sur le lien "**Utilisateurs et Droits**". Une fois sur la page de gestion des utilisateurs et des groupes, vous pouvez créer un profil en cliquant sur le bouton "**Nouveau**", puis sur "**Nouvel Utilisateur**"
 
 
-![Créer un profil d'utilisateur](aide.altazion.com/fr-frv2/ressources/utilisateurs/base-utilisateurs.png)
+![Créer un profil d'utilisateur](https://aide.altazion.com/fr-frv2/ressources/utilisateurs/base-utilisateurs.png)
 
 ### Informations générales
 
