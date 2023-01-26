@@ -19,8 +19,6 @@ Renseignez les informations suivantes :
 
 - Recherche : Cochez la case si l'attribut est utilisable en tant que critère de recherche (Ex : l'attribut "poche zippée" peut être un critère de recherche précis pour un pantalon)
 
- 
-
 - Attributs déclinables : Si l'attribut comporte un caractère différenciant pour votre article (Ex : une taille de vêtement différente, qui implique donc un changement physique de l'article), veuillez cocher la case correspondante
 
 - Recopie Automatique : Si l'attribut déclinable s'applique à d'autres articles (Ex : Un vêtement qui se décline en S, M, L...), sélectionnez la valeur "Sur les versions d'un produit générique"

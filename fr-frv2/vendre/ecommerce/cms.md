@@ -14,7 +14,7 @@ Les pages CMS peuvent être indexées ou non, avoir une url personnalisée.
 
 Autres éléments CMS 
 
-Il est possible d’administrer des contenus qui apparaissent à des endroits stratégiques du site en utilisant la gestion CMS. re 
+Il est possible d’administrer des contenus qui apparaissent à des endroits stratégiques du site en utilisant la gestion CMS.  
 Ex : mise à jour du footer, d’éléments du menu etc.  
 
 En gérant bien l’aspect CMS l’équipe marketing de votre entreprise peut être indépendante dans la mise à jour des informations importantes sur le site. 
