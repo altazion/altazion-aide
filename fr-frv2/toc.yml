@@ -26,6 +26,8 @@
       items:
         - name: Médiations
           href: https://aide.altazion.com/fr-frv2/configurer/integrations/mediations.html
+        - name: Tag Central - gestionnaire de Tags
+          href: https://aide.altazion.com/fr-frv2/configurer/integrations/tag-central.html
 - name: Référencer
   href: https://aide.altazion.com/fr-frv2/referencer/index.html
   items: 
