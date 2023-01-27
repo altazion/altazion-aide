@@ -9,7 +9,7 @@ La gestion du risque dans Altazion s’effectue à plusieurs niveaux :
 - En fonction de seuils de stocks (particulièrement utile pour la commande Ship From Store). 
 - Sur l’adresse (suspicion de fraude, adresse mal renseignée par exemple, prends en compte : code postal, email, nom).  
     - Sur le compte client. Si fraudes détectées, ou multiples commandes par exemple. 
-- Sur l'IP.
+- Sur l'IP. (Pour blacklister une IP il suffit de l'ajouter dans Paramètres - Internet - Black-list (IP))
 
 ## Actions possibles 
 - Ces différents outils permettent d’entrainer des comportements paramétrables.  

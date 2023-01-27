@@ -20,8 +20,8 @@ Au choix, vous pouvez intégrer des scripts sur :
 - Commande reçue.
 
 **Position sur la page**
-Fin de balise <Head>
-Haut de balise <Body>
-Fin de balise <Body>
+- Fin de balise <Head>
+- Haut de balise <Body>
+- Fin de balise <Body>
 
---> Suivez les guides des solutions que vous souhaitez utiliser. La position sur la page a un impact à différents aspects (dont vitesse de chargement). Notre conseil, validez bien que vous ne ralentissez pas trop votre site avec des scripts et tags de solution tierces.
+--> Suivez les guides des solutions que vous souhaitez utiliser.  La position sur la page a un impact à différents aspects (dont vitesse de chargement). Notre conseil, validez bien que vous ne ralentissez pas trop votre site avec des scripts et tags de solution tierces.

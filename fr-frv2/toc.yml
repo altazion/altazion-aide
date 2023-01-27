@@ -63,12 +63,5 @@
   items: 
     - name: Préparer les commandes
       href: https://aide.altazion.com/fr-frv2/expedier/commandes/index.html
-      items : 
-        - name: Commandes simples
-          href: https://aide.altazion.com/fr-frv2/expedier/commandes/commandessimples.html
-        - name: Commandes complètes
-          href: https://aide.altazion.com/fr-frv2/expedier/commandes/completes.html
-        - name: Commandes multicanales
-          href: https://aide.altazion.com/fr-frv2/expedier/commandes/interstructures.html
     - name: Gérer les envois
       href: https://aide.altazion.com/fr-frv2/expedier/logsitique/index.html
