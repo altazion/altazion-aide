@@ -25,7 +25,7 @@
     - name: Intégrations & flux
       items:
         - name: Médiations
-          href: https://aide.altazion.com/fr-frv2/configurer/integrations/mediations.hml
+          href: https://aide.altazion.com/fr-frv2/configurer/integrations/mediations.html
 - name: Référencer
   href: https://aide.altazion.com/fr-frv2/referencer/index.html
   items: 
