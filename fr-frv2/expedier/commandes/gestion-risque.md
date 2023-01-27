@@ -17,35 +17,12 @@ La gestion du risque dans Altazion s’effectue à plusieurs niveaux :
 - Mise en attente de la commande. 
 - Annulation automatique de la commande. 
 
-## Gestion des commandes sur adresse à risque
-Ce traitement unitaire peut suspendre momentanément le traitement de la commande ou au contraire lui faire reprendre son cours normal.
-Certaines commandes Web sont jugées "à risque" car l'une des 3 valeurs suivantes coincident avec des critères blacklistés : 
-- le code postal, 
-- l'email 
-- le nom.
+### L'option d'annulation automatique de commandes suspectes
+Une anulation automatique présente des avantages en termes de gestion : 
+- Préparation de commande : la commande n'apparait pas dans les commandes en cours, donc la gestion est simplifiée et cela évite un litige.
+- Gestion de stock : les produits ne sont pas destockés et restent ainsi disponibles à la vente. 
+- Gestion comptable : la commande ne passe pas la cloture du jour ; le remboursement automatique, ou l'absence de débit (en fonction du mode de paiement choisi), simplifie la gestion.
 
-Dans tous les cas, cette commande fait l'objet d'une anomalie à traiter.
-En fin de traitement, on appelle un utilitaire chargé de sommer l'ensemble des scores des anomalies de cette nature et de toutes les autres.
-En fonction du **seuil de tolérance** fixé, la commande est alors automatiquement bloquée si cette somme est supérieure à ce seuil ou
-au contraire debloquée si elle repasse sous celui-ci.
-
-## Gestion des commandes sur article à risque
-Ce traitement unitaire peut suspendre momentanément le traitement de la commande ou au contraire lui faire reprendre son cours normal.
-Certains articles qualifiés de "à risque" sont pondérés par un score plus ou moins élevé en fonction du degré de risque qu'il présente.
-
-Dans tous les cas, chaque article de ce type compris dans le panier de commande fait l'objet d'une anomalie à traiter.
-
-En fin de traitement, on appelle un utilitaire chargé de sommer l'ensemble des scores des anomalies de cette nature et de toutes les autres.
-En fonction du seuil de tolérance fixé, la commande est alors automatiquement bloquée si cette somme est supérieure à ce seuil ou
-au contraire debloquée si elle repasse sous celui-ci.
-
-## Gestion des commandes sur IP à risque
-Ce traitement unitaire peut suspendre momentanément le traitement de la commande ou au contraire lui faire reprendre son cours normal.
-
-Certaines commandes Web sont jugées "à risque" car l'adresse IP d'où elles ont été prises est black listée.
-
-Dans tous les cas, cette commande fait l'objet d'une anomalie à traiter.
-
-En fin de traitement, on appelle un utilitaire chargé de sommer l'ensemble des scores des anomalies de cette nature et de toutes les autres.
-En fonction du seuil de tolérance fixé, la commande est alors automatiquement bloquée si cette somme est supérieure à ce seuil ou
-au contraire debloquée si elle repasse sous celui-ci.
+**Activation de l'option d'annulation automatique**
+Cette option, une fois activée permet de cloturer automatiquement les commandes à problème. 
+Rendez vous dans : Paramètres - Ventes - Risque et fraude.

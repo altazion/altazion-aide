@@ -20,6 +20,12 @@
           href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/creer-compte.html
         - name: Créer et gérer les groupes d'utilisateurs
           href: https://aide.altazion.com/fr-frv2/configurer/utilisateurs/add-group.html
+    - name: Les moyens de paiements
+      href: https://aide.altazion.com/fr-frv2/configurer/paiement.html
+    - name: Intégrations & flux
+      items:
+        - name: Médiations
+          href: https://aide.altazion.com/fr-frv2/configurer/integrations/mediations.hml
 - name: Référencer
   href: https://aide.altazion.com/fr-frv2/referencer/index.html
   items: 
@@ -31,7 +37,7 @@
         - name: Création d'un article
           href: https://aide.altazion.com/fr-frv2/referencer/articles/cycle.html
         - name: Les articles déclinables
-          href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html  
+          href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html 
 - name: Vendre
   href: https://aide.altazion.com/fr-frv2/vendre/index.html
   items: 
@@ -48,8 +54,8 @@
           href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/cms.html
         - name: Intéraction client
           href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/relation-client.html    
-        - name: Vendre en magasin
-          href: https://aide.altazion.com\fr-frv2/vendre/magasin/index.html
+    - name: Vendre en magasin
+      href: https://aide.altazion.com\fr-frv2/vendre/magasin/index.html
 - name: Préparer et expédier
   href: https://aide.altazion.com/fr-frv2/expedier/index.html
   items: 
