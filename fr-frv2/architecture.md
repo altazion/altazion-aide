@@ -7,9 +7,11 @@ Notre solution est composée de 6 "blocs" ayant une utilité propre.
 - **OFFICE** 
 - **HUB**
 - **AUTOMATE**
+- **ORCHESTRATOR**
 - **COMMERCE** 
 - **SIGNAGE**
-- **ORCHESTRATOR**
+- **SELLER APP**
+
 
 ![Schema](https://aide.altazion.com/fr-frv2/ressources/architecture.png)
 
@@ -39,5 +41,5 @@ Le cas de la vente en ligne avec retrait et paiement en magasin.
 1. L'administrateur configure son catalogue et ses règles logistiques dans **Office**. Le stock se met à jour automatiquement grâce à **Automate** selon la règle définie ([voir les médiations](https://aide.altazion.com/fr-frv2/configurer/integrations/mediations.html)).
 2. L'utilisateur (client) navigue sur le site internet grace à **Commerce**. Lorsqu'il réalise une action impliquant un calcul de stock, de disponibilité, de frais de port, **Commerce** intéroge en temps réel **Orchestrator** qui lui renvoie l'application des règles de gestion pour les afficher au client. 
 3. Le client passe commande, choisit un retrait avec paiement en magasin comme mode de livraison, se rend en magasin et paye à la caisse. Lors du paiement à la caisse, **HUB** Communique avec le système de caisse pour mettre à jour la commande, valider le paiement et mettre à jour la commande dans *Office**.
- 
+
 _Nous n'avons pas ici abordé la notion de préparation de commande mais notre système se connecte aussi avec votre outils de gestion logistique_.
