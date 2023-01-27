@@ -39,12 +39,19 @@
         - name: Création d'un article
           href: https://aide.altazion.com/fr-frv2/referencer/articles/cycle.html
         - name: Les articles déclinables
-          href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html 
+          href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html
+    - name: Tags - Labels
+      href: https://aide.altazion.com/fr-frv2/referencer/tag-label.html     
 - name: Vendre
   href: https://aide.altazion.com/fr-frv2/vendre/index.html
   items: 
     - name: Animation omnicanale
       href: https://aide.altazion.com/fr-frv2/vendre/omnicanal/index.html
+      items:
+        - name: Campagnes commerciales
+          href: https://aide.altazion.com/fr-frv2/vendre/omnicanal/campagne.html
+        - name: Sélections de produits
+          href: https://aide.altazion.com/fr-frv2/vendre/omnicanal/selection.html
     - name: Vendre en ligne
       href: https://aide.altazion.com/fr-frv2/vendre/ecommerce/index.html
       items:
