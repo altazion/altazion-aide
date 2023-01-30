@@ -33,15 +33,18 @@
   items: 
     - name: Structurer le catalogue
       href: https://aide.altazion.com/fr-frv2/referencer/segments/index.html
+      items:
+        - name: Créer un segment
+          href: https://aide.altazion.com/fr-frv2/referencer/segments/creer-segment.html
     - name: Gérer les articles
       href: https://aide.altazion.com/fr-frv2/referencer/articles/index.html
       items:
+        - name: Types d'articles
+          href: https://aide.altazion.com/fr-frv2/referencer/type-article.html
         - name: Création d'un article
           href: https://aide.altazion.com/fr-frv2/referencer/articles/cycle.html
         - name: Les articles déclinables
-          href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html
-        - name: Types d'articles (comptablement)
-          href: https://aide.altazion.com/fr-frv2/referencer/type-article.html
+          href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html  
     - name: Tags - Labels
       href: https://aide.altazion.com/fr-frv2/referencer/tag-label.html     
 - name: Vendre
