@@ -1,6 +1,13 @@
 # Référencer le catalogue d'articles
 La création du catalogue passe par quelques bonnes pratiques et une bonne connaissance du fonctionnement d'Altazion qui offre une flexibilité importante.
 
+# Methodes possibles de gestion du catalogue
+
+Altazion vous donne la possibilité de travailler de 3 façons pour votre catalogue.
+1. Avec des imports (FTP par exemple) de votre catalogue. 
+2. Depuis Office, avec l'interface de création de produits.
+3. De manière hybride, utilisant des imports/exports tenant compte des modifications manuelles ayant été effectuées dans Office, ou en gérant certains segments (catégories de produit) dans Office, d'autres provenant de l'ERP par exemple. 
+
 ## Structure de catalogue
 Altazion est une solution flexible dans l’organisation et les caractéristiques produit. 
 
