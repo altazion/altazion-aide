@@ -9,7 +9,7 @@ _Exemple : une médiation réalise un export des stocks produit vers un aggregat
 Il est possible de consulter que les médiations fonctionnent correctement et, s'il-y-a un problème avec une médiation, de consulter le message d'erreur pour en informer la personne en charge et eventuellement relancer la médiation de façon autonome._
 
 
-**Consulter les médiations**
+**Consulter les médiations**  
 Dans Office, rendez vous dans Système - Médiations, vous pouvez y consulter toutes les médiations, les eventuels messages d'erreur et potentiellement relancer une médiation.
 Cet écran ne sera que peux consulté mais est extrêment pratique en période de tension et de paramètrage.
 
