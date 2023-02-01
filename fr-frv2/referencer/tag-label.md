@@ -13,8 +13,12 @@ Exemples de tags : un Tag pour vos ODR (offres de remboursement), un autre pour 
 - Image.
 - Texte (libellé).
 
-Une fois le tag créé, par exemple le tag 'Labels', avec une caractéristique "Image", il sera possible de créer des **labels** correspondants (Origine France garantie, OECO-TEX, Bio...). Les images de labels apparaissent ainsi sur les fiches produit. 
+Une fois le tag créé, par exemple le tag 'Labels', avec une caractéristique "Image", il sera possible de créer des **labels** correspondants (Origine France garantie, OEKO-TEX, Bio...). Les images de labels apparaissent ainsi sur les fiches produit. 
 
-**Les labels**
+**Les labels**  
 Les labels sont les éléments correspondant à un tag. 
 Ex : pour le tag "labels" vous allez pouvoir créer différents labels qui seront des éléments sélectionnables sur vos fiches produit.
+
+**Attention** : Altazion permet de travailler avec des tags et labels présentés ci-dessus mais aussi avec des  [attributs de produit](https://aide.altazion.com/fr-frv2/referencer/atttributs.html) qui sont complémentaires. 
+
+Exemple : Un Tshirt en coton biologique et Made in France. Le Tshirt aura comme attribut produit la taille et eventuellement la couleur auquel il sera possible d'ajouter un label "Biologique" ou OEKO-Tex. 

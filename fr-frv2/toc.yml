@@ -46,7 +46,9 @@
         - name: Les articles déclinables
           href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html  
     - name: Tags - Labels
-      href: https://aide.altazion.com/fr-frv2/referencer/tag-label.html     
+      href: https://aide.altazion.com/fr-frv2/referencer/tag-label.html
+    - name: Les attributs
+      href: https://aide.altazion.com/fr-frv2/referencer/attributs.html    
 - name: Vendre
   href: https://aide.altazion.com/fr-frv2/vendre/index.html
   items: 
