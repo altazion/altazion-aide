@@ -1,12 +1,12 @@
 # Les zones de magasin
 
-Cet écran est accessible depuis Office - Paramètres - Points de vente - Zones de magasin
-
 Office permet de créer des groupes pour les magasins avec des interêts différents.
 - en fonction de zones géographiques
 - En fonction de la taille du magasin.
 - En fonction de la relation entre le magasin et l'entreprise : affiliés, franchisés, etc.
 -...d'autres critères de votre choix/besoins.
+
+Cet écran est accessible depuis Office - Paramètres - Points de vente - Zones de magasin
 
 ## Intêrets des zones magasin
 - Proposer des catalogues différents en fonction du groupe.

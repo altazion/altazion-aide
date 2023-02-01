@@ -1,9 +1,9 @@
 ## Architecture d'Altazion
 
-Même si vous êtes coté marketing ou commerce, il est toujours intéressant de comprendre comment fonctionne votre solution.
-Pour utiliser Altazion, il peut être intéressant de comprendre le fonctionnement. 
+Même si vous êtes coté marketing ou commerce, il est toujours intéressant de comprendre comment fonctionne votre solution.  
+
 Notre solution est composée de 6 "blocs" ayant une utilité propre. 
-_Pourquoi cette architecture ? Car elle permet à chaque bloc d'être optimisé pour sa tache, donc d'avoir de meilleurs performances et une meilleur adaptabilité aux besoins clients._
+
 
 - **OFFICE** 
 - **HUB**
@@ -13,11 +13,12 @@ _Pourquoi cette architecture ? Car elle permet à chaque bloc d'être optimisé 
 - **SIGNAGE**
 - **SELLER APP**
 
+_Pourquoi cette architecture ? Car elle permet à chaque bloc d'être optimisé pour sa tache, donc d'avoir de meilleurs performances et une meilleur adaptabilité aux besoins clients._
 
 ![Schema](https://aide.altazion.com/fr-frv2/ressources/architecture.png)
 
 ### Paramétrage et administration : Office
-**OFFICE** est l'interface d'administration qui permet à l'administrateur de configurer et à l'utilisateur de gérer les différents aspects de son activité. Office communique avec les autres "blocs" d'Altazion pour gérer la solution avec une interface visuelle. Elle communique avec les autres éléments. L'équipe Marketing et opérationnelle (ex vendeurs en magasin) utilisera toujours Office.  
+**OFFICE** est l'interface d'administration qui permet à l'administrateur de configurer et à l'utilisateur de gérer les différents aspects de son activité. Office communique avec les autres "blocs" d'Altazion, mais cela est invisible pour vous qui gérez votre activité avec une interface visuelle. L'équipe Marketing et opérationnelle (ex vendeurs en magasin) utilisera toujours Office.  
 
 **Office est le seul 'bloc' que l'équipe Marketing ou l'utilisateur utilise**.
 
@@ -27,21 +28,22 @@ _Pourquoi cette architecture ? Car elle permet à chaque bloc d'être optimisé 
 - **SIGNAGE** pour les bornes ou supports de vente destiné au client
 - **SELLER APP** pour les collaborateurs en magasin, ou les commerciaux qui travaillent avec une tablette.
 
-Si l'utilisateur ne les voit pas car il utilise OFFICE, ce sont ces "blocs" qui permettent à la solution de fonctionner. 
+Si l'utilisateur ne les voit pas car il utilise Office, ce sont ces "blocs" qui permettent à la solution de fonctionner. 
 
 ### Logistique en temps réel : Orchestrator
 **ORCHESTRATOR** est l'outil de gestion de disponibilité et logistique en temps réel qui communique avec Commerce, Signage et Seller App. 
 Prenons l'exemple d'un internaute qui ajoute un produit à son panier. Commerce contacte Orchestrator qui va gérer les modes de livraison, les frais de ports, etc. en temps réel. 
-Si l'utilisateur change son magasin de référence, c'est Orchestrator qui va en temps réel adapter les disponibilités de retrait en magasin, etc. 
+Si l'utilisateur change son magasin de référence, c'est Orchestrator qui, en temps réel, adapte les disponibilités de retrait en magasin, etc. 
 
 ## Taches automatisées et intégrations : Automate et Hub
 **AUTOMATE** et **HUB** sont des outils techniques permettant d'automatiser des taches (Automate) ou d'intégrer des services tiers (HUB).
-- **Automate permet** et gère des paramétrages simples et réguliers. Ex : imports de stocks ou export de journaux bancaires.
+- **Automate** execute des taches simples et régulieres, selon des paramètres eux aussi relativement simples, souvent gérés dans Office. Ex : imports de stocks ou export de journaux bancaires.
 
 - **HUB** est un "Middleware", qui sert à interconnecter notre solution avec des services tiers necessitant une communication en temps réel, en général par API. 
-HUB est un socle de développement, qui va permettre de gérer des taches complexes nécessitant des adaptations.
-Hub va par exemple de gérer l'intégration d'un système de caisse développé 'sur mesure' pour l'entreprise ou encore d'intégrer des fonctionnalités provenant d'autres outils ecommerce.
- 
+HUB est un socle de développement, qui permet de gérer des taches complexes nécessitant des adaptations ("du developpement").
+Hub permet par exemple l'intégration d'un système de caisse développé 'sur mesure' pour l'entreprise ou encore d'intégrer des fonctionnalités provenant d'autres outils ecommerce.
+
+### Illustration 
 Un exemple :
 
 Le cas de la vente en ligne avec retrait et paiement en magasin.

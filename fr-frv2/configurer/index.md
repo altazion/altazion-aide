@@ -21,3 +21,8 @@ Un des points fort d'Altazion. Il est possible de créer et assigner des taches 
 [Attribuer une tache](https://aide.altazion.com/fr-frv2/configurer/taches/attribuer-task.html)
 [Traiter une tache](https://aide.altazion.com/fr-frv2/configurer/taches/use-tasks.html)
 
+### Paramétrage des options omnicanales
+
+### Gestion des scripts et médiations
+
+### Gestion des modes de paiement
