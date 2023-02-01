@@ -3,7 +3,7 @@ Un attribut est une caractéristique propre à chaque article. Cet attribut est 
 
 Au niveau de la gestion du catalogue, une bonne configuration des attributs permet une gestion simple des produits, des fiches produit optimisée et complète, une navigation simplifiée pour l'internaute.
 
-## Utilité es attributs
+## Utilité des attributs
 L'attribut produit est utile dans de nombreux cas.
 - **En ligne**, pour la **navigation à facette** (filtres et tris), la recherche de l'internaute dans le moteur de recherche, le référencement naturel (imaginez un internaute cherchant spécifiquement une couleur ou une taille). 
 - **En magasin**, pour les mêmes raisons mais sous un autre format (exemple : un consommateur en magasin veut acheter un pull en laine rouge, mais ce dernier n'est plus en stock. Il sollicite un vendeur qui, armé de sa tablette ou de son smartphone, pourra lui proposer plusieurs alternatives en filtrant sa recherche produits à l'aide des attributs "Composition : Laine" et "Couleur : Rouge")
@@ -12,7 +12,7 @@ L'attribut produit est utile dans de nombreux cas.
 
 Exemple : Un Tshirt en coton biologique et Made in France. Le Tshirt aura comme attribut produit la taille et eventuellement la couleur auquel il sera possible d'ajouter un label "Biologique". 
 
-## Attributs internes et Attributs consultables
+## Attributs internes et attributs consultables
 Les attributs dans Altazion peuvent avoir deux usages. 
 - Les attributs servent à présenter les produits, aider l'internaute ou l'utilisateur d'une borne à trouver le produit qui correspond à ses besoins. 
 - Il est aussi possible de créer des attributs pour un usage interne uniquement. Qui pourra être utilisé comme aide à la vente pour le commercial ou le collaborateur en magasin. 

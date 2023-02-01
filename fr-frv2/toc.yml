@@ -48,7 +48,9 @@
     - name: Tags - Labels
       href: https://aide.altazion.com/fr-frv2/referencer/tag-label.html
     - name: Les attributs
-      href: https://aide.altazion.com/fr-frv2/referencer/attributs.html    
+      href: https://aide.altazion.com/fr-frv2/referencer/attributs.html
+    - name: Les Keywords
+      href: https://aide.altazion.com/fr-frv2/referencer/keywords.html    
 - name: Vendre
   href: https://aide.altazion.com/fr-frv2/vendre/index.html
   items: 

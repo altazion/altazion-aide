@@ -6,7 +6,7 @@ Altazion gère les tags et labels qui peuvent prendre **différentes formes** et
 **Le tag**
 Vous pouvez créer un tag répondant à un besoin ou un objectif. Les tags permettront d'afficher un contenu spécifique à certains endroits de votre site, par exemple sur les fiches produit. 
 
-Exemples de tags : un Tag pour vos ODR (offres de remboursement), un autre pour les labels .
+Exemples de tags : un Tag pour vos ODR (offres de remboursement), un autre pour les labels. Il esst aussi possible de créer des labels de type 'Nouveauté', ou encore 'exclusivité'...
 
 **Types de tags possibles :** 
 - HTML.
