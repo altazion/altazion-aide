@@ -28,6 +28,12 @@
           href: https://aide.altazion.com/fr-frv2/configurer/integrations/mediations.html
         - name: Tag Central - gestionnaire de Tags
           href: https://aide.altazion.com/fr-frv2/configurer/integrations/tag-central.html
+    - name: Omnicanal
+      items: 
+        - name: Zones de magasin
+          href: https://aide.altazion.com/fr-frv2/configurer/omnicanal/zones-magasin.html
+        - name: Configuration cross-canal
+          href: https://aide.altazion.com/fr-frv2/configurer/omnicanal/cross-canal.html  
 - name: Référencer
   href: https://aide.altazion.com/fr-frv2/referencer/index.html
   items: 
