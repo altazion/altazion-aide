@@ -37,8 +37,14 @@
 - name: Référencer
   href: https://aide.altazion.com/fr-frv2/referencer/index.html
   items: 
-    - name: Configuration
+    - name: Configuration du catalogue
       href: https://aide.altazion.com/fr-frv2/referencer/index.html
+    - name: Tags - Labels
+      href: https://aide.altazion.com/fr-frv2/referencer/tag-label.html
+    - name: Les attributs
+      href: https://aide.altazion.com/fr-frv2/referencer/attributs.html
+    - name: Les Keywords
+      href: https://aide.altazion.com/fr-frv2/referencer/keywords.html    
     - name: Structurer le catalogue
       href: https://aide.altazion.com/fr-frv2/referencer/segments/index.html
       items:
@@ -53,12 +59,6 @@
           href: https://aide.altazion.com/fr-frv2/referencer/articles/index.html
         - name: Les articles déclinables
           href: https://aide.altazion.com/fr-frv2/referencer/articles/declinables.html  
-    - name: Tags - Labels
-      href: https://aide.altazion.com/fr-frv2/referencer/tag-label.html
-    - name: Les attributs
-      href: https://aide.altazion.com/fr-frv2/referencer/attributs.html
-    - name: Les Keywords
-      href: https://aide.altazion.com/fr-frv2/referencer/keywords.html    
 - name: Vendre
   href: https://aide.altazion.com/fr-frv2/vendre/index.html
   items: 
