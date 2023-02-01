@@ -1,4 +1,4 @@
-# Configurer la solution Altazion pour votre entreprise.
+# Configurer la solution Altazion
 
 La première étape pour la vente, qu'elle soit omnicanale, en ligne uniquement ou en magasin, c'est de configurer correctement les différents éléments qui vous permettront ensuite de gérer votre catalogue, mener des actions commerciales pour vendr puis gérer la préparation de commande et la fidélisation.  
 La configuration vous permettra d'avoir la bonne personne au bon endroit du process.
