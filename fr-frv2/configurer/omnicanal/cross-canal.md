@@ -13,4 +13,4 @@ Vous pouvez activer la livraison en magasin en toute simplicité en cochant une 
 
 ### Seuils de publication des produits pour les magasins
 Dans l'interface d'administration il est possible de définir le seuil de stock qui permet de gérer en temps réel les seuils de disponibilité en magasin. 
-Ces seuils de sécurité au niveau du stock sont gérables par zone de magasin. Pour en savoir plus sur la gestion des zones de magasins cliquez [ici](href: https://aide.altazion.com/fr-frv2/configurer/omnicanal/zones-magasin.html)
+Ces seuils de sécurité au niveau du stock sont gérables par zone de magasin. Pour en savoir plus sur la gestion des zones de magasins cliquez [ici](https://aide.altazion.com/fr-frv2/configurer/omnicanal/zones-magasin.html)

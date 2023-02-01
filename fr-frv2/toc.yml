@@ -37,6 +37,8 @@
 - name: Référencer
   href: https://aide.altazion.com/fr-frv2/referencer/index.html
   items: 
+    - name: Configuration eet fonctionnement
+      href: https://aide.altazion.com/fr-frv2/referencer/index.html
     - name: Structurer le catalogue
       href: https://aide.altazion.com/fr-frv2/referencer/segments/index.html
       items:
