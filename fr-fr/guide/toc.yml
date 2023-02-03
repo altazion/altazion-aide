@@ -1,47 +1,91 @@
-- name: Accueil
-  href: index.md
-- name: Terminologie
-  href: terminologie.md
-- name: Catalogue
-  href: catalogue/index.md
+- name: Le centre d'aide Altazion
+  href: https://aide.altazion.com/fr-fr/guide/index.html
   items:
-    - name: Articles
-      href: catalogue/articles/index.md
+- name: Architecture
+  href: https://aide.altazion.com/fr-fr/guide/architecture.html
+- name: Configurer
+  href: https://aide.altazion.com/fr-fr/guide/configurer/index.html
+  items:
+    - name: Les taches
       items:
-        - name: Infos générales
-          href: catalogue/articles/infosgenerales.md
-        - name: Cycle de vie d'un article
-          href: catalogue/articles/cycle.md
-        - name: Articles déclinables
-          href: catalogue/articles/declinables.md
-- name: ECommerce
-  href: e-commerce/index.md
-  items:
-    - name: Urls & SEO
-      href: e-commerce/urls.md
-    - name: Gestion du risque
-      href: e-commerce/gestionrisque.md
-- name: Ventes
-  items:
-    - name: Commandes
-      href: ventes/Commandes/index.md
+        - name: Créer une tache
+          href: https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html
+        - name: Attribuer une tache  
+          href: https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html
+        - name: Traiter une tache  
+          href: https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html
+    - name: Utilisateurs
+      items: 
+        - name: Créer et gérer un compte
+          href: https://aide.altazion.com/fr-fr/guide/configurer/utilisateurs/creer-compte.html
+        - name: Créer et gérer les groupes d'utilisateurs
+          href: https://aide.altazion.com/fr-fr/guide/configurer/utilisateurs/add-group.html
+    - name: Les moyens de paiements
+      href: https://aide.altazion.com/fr-fr/guide/configurer/paiement.html
+    - name: Intégrations & flux
       items:
-        - name: Commandes simples
-          href: ventes/Commandes/commandessimples.md
-        - name: Commandes complètes
-          href: ventes/Commandes/completes.md
-        - name: Commandes interstructure
-          href: ventes/Commandes/interstructures.md
-- name: Logistique
-  items:
-    - name: Prépa & expéditions
-      href: logistique/prepa-expe/index.md
+        - name: Médiations
+          href: https://aide.altazion.com/fr-fr/guide/configurer/integrations/mediations.html
+        - name: Tag Central - gestionnaire de Tags
+          href: https://aide.altazion.com/fr-fr/guide/configurer/integrations/tag-central.html
+    - name: Omnicanal
+      items: 
+        - name: Zones de magasin
+          href: https://aide.altazion.com/fr-fr/guide/configurer/omnicanal/zones-magasin.html
+        - name: Configuration cross-canal
+          href: https://aide.altazion.com/fr-fr/guide/configurer/omnicanal/cross-canal.html  
+- name: Référencer
+  href: https://aide.altazion.com/fr-fr/guide/referencer/index.html
+  items: 
+    - name: Configuration du catalogue
+      href: https://aide.altazion.com/fr-fr/guide/referencer/index.html
+    - name: Tags - Labels
+      href: https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html
+    - name: Les attributs
+      href: https://aide.altazion.com/fr-fr/guide/referencer/attributs.html
+    - name: Les Keywords
+      href: https://aide.altazion.com/fr-fr/guide/referencer/keywords.html    
+    - name: Structurer le catalogue
+      href: https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html
       items:
-        - name: Préparation sur stocks
-          href: logistique/prepa-expe/prepa-stock.md
-        - name: Drop Shipping
-          href: logistique/prepa-expe/prepa-drop-shipping.md
-        - name: Fabrication
-          href: logistique/prepa-expe/prepa-fabrication.md
-        - name: Délais
-          href: logistique/prepa-expe/delais.md
+        - name: Créer un segment
+          href: https://aide.altazion.com/fr-fr/guide/referencer/segments/creer-segment.html
+    - name: Gérer les articles
+      href: https://aide.altazion.com/fr-fr/guide/referencer/articles/index.html
+      items:
+        - name: Types d'articles
+          href: https://aide.altazion.com/fr-fr/guide/referencer/type-article.html
+        - name: Création d'un article
+          href: https://aide.altazion.com/fr-fr/guide/referencer/articles/index.html
+        - name: Les articles déclinables
+          href: https://aide.altazion.com/fr-fr/guide/referencer/articles/declinables.html  
+- name: Vendre
+  href: https://aide.altazion.com/fr-fr/guide/vendre/index.html
+  items: 
+    - name: Animation omnicanale
+      href: https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html  
+      items:
+        - name: Campagnes commerciales
+          href: https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html
+        - name: Sélections de produits
+          href: https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html
+    - name: Vendre en ligne
+      href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/index.html
+      items:
+        - name: Mini-site Magasin
+          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/stores.html 
+        - name: SEO - référencement naturel
+          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/seo.html    
+        - name: Gestionnaire de contenu (CMS)
+          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/cms.html
+        - name: Intéraction client
+          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/relation-client.html    
+    - name: Vendre en magasin
+      href: https://aide.altazion.com\fr-fr/guide/vendre/magasin/index.html
+- name: Préparer et expédier
+  href: https://aide.altazion.com/fr-fr/guide/expedier/index.html
+  items: 
+    - name: Préparer les commandes
+      href: https://aide.altazion.com/fr-fr/guide/expedier/commandes/index.html
+    - name: Gérer les envois
+      href: https://aide.altazion.com/fr-fr/guide/expedier/logsitique/index.html

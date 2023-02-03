@@ -1,0 +1,69 @@
+- name : Principe de fonctionnement
+  href: index.md
+- name: Formats standards
+  href: articles/formats-standards.md
+  items:    
+  - name: Articles
+    href: articles/index.md
+    items: 
+    - name: Articles
+      href: articles/articles.md
+    - name: Attributs (définitions)
+      href: articles/catalogattributs.md
+    - name: Attributs d'un article
+      href: articles/catalogarticlesattributs.md
+    - name: Catégories
+      href: articles/segmentations.md
+    - name: Catégories d'un article
+      href: articles/articlessegmentations.md
+    - name: Dimensions  d'un article
+      href: articles/catalogarticlesdimensions.md
+    - name: Marques
+      href: articles/catalogmarques.md
+    - name: Médias (images, videos, ...)
+      href: articles/articlesdocuments.md
+    - name: Prix de ventes
+      href: articles/catalogprix.md
+    - name: Produits associés
+      href: articles/articlesassociations.md
+    - name: Références additionnelles
+      href: articles/articlesreferences.md
+    - name: Suppression produits
+      href: articles/catalogarticlessuppression.md
+    - name: Taxes (hors TVA) d'un article
+      href: articles/articlestaxes.md
+    - name: Traduction des données produits
+      href: articles/catalogtraductions.md
+  - name: ECommerce
+    href: ecommerce/index.md
+    items: 
+    - name: Définition des tags (valeurs énumérées)
+      href: ecommerce/ecommercetagsvaleurs.md
+    - name: Définition des tags personnalisés
+      href: ecommerce/ecommercetags.md
+    - name: Tags d'un article
+      href: ecommerce/ecommercearticlestags.md
+  - name: Logistique
+    href: logistique/index.md
+    items: 
+    - name: Stock
+      href: logistique/stockstocks.md
+  - name: Marketplace
+    href: marketplace/index.md
+    items: 
+    - name: Conditions logistiques (article)
+      href: marketplace/catalogarticleslogistique.md
+  - name: Paramètres
+    href: parametres/index.md
+    items: 
+    - name: Magasins
+      href: parametres/clicknmortarmagasins.md
+    
+- name: Références
+  items:
+    - name: Codes Pays
+      href: codes-pays.md
+- name : Spécificité SaaS
+  href: specificitessaas.md
+- name: Import par API
+  href: raw-par-api.md

@@ -1,2 +1,0 @@
-# Suivi des comptes bancaires
-
