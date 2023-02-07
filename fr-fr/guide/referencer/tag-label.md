@@ -1,24 +1,20 @@
 # Tags et Labels
 
-Altazion propose des Tags et des labels rattachés à ceux-ci. Ils sont utiles en complément des attributs produits et dans le cadre de campagnes commerciales.
+Altazion propose des Tags et des labels (rattachés aux tags), utilisables comme éléments informatifs en complément des [attributs de produit](https://aide.altazion.com/fr-frv2/referencer/attributs.html).
+_On utilisera un attribut lorsque pour une caractéristique produit, les tags et label pour informer sur un évenement ou information externe au produit._ 
 
-## Tags et labels, quésaco? 
-**Le tag**
-Vous pouvez créer un tag répondant à un besoin ou un objectif. Les tags permettront d'afficher un contenu spécifique à certains endroits de votre site, par exemple sur les fiches produit. 
+exemple : vous référencez un nouveau laptop. Il possède une **mémoire vive de 16go**, une en ce moment, bénéficie d'une **offre de remboursement**. 
+La mémoire vive sera un des (nombreux) attributs de l'ordinateur, le produit pourra aussi être tagué ODR.   
+Comme les attributs, les tags peuvent être utilisés dans les recherches à facettes ou dans le moteur de recherche du site web, l'internaute pourra donc voir la pastille ODR lors de sa navigation et filtrer les produits, par mémoire vive, ou possédant actuellement une ODR. 
 
-Exemples de tags : un tag pour vos ODR (offres de remboursement), un autre pour les labels qualitéun autre pour afficher les nouveautés ou les différents types de promotions (ex : exclusivité web)
+## Tags et labels, comment ça marche ? 
+C'est tout simple. Altazion propose des tags qui correspondent à un thème, un type d'action ou d'information. Ce tag va regrouper différents labels du même thême, spécifiques à des opérations et produits. 
+
+Pour reprendre le cas de l'ODR, on aura le tag, dans lequel on retrouvera des labels, chacun d'entre eux correspondant à un types ou une ODR. Ex : label ODR Samsung 40€ remboursé, label ODR Apple 50€ remboursé, etc. 
 
 **Types de tags possibles :** 
 - HTML.
 - Image.
-- Texte (libellé).
+- Texte (libellé). 
 
-Une fois le tag créé, par exemple le tag 'Certificats', avec une caractéristique "Image", il sera possible de créer des **labels** correspondants (Origine France garantie, OEKO-TEX, Bio...) pour afficher les logos des certificats sur les fiches produit. 
-
-**Les labels**  
-Les labels sont les éléments rattachés à un tag. 
-Exemple : pour le tag "ODR" vous allez pouvoir créer différents labels qui seront des éléments sélectionnables sur vos fiches produit.
-
-**Attention** : Altazion permet de travailler avec des tags et labels présentés ci-dessus mais aussi avec des  [attributs de produit](https://aide.altazion.com/fr-fr/referencer/attributs.html) qui sont complémentaires. 
-
-Exemple : Un Tshirt en coton biologique et Made in France. Le Tshirt aura comme attribut produit la taille et eventuellement la couleur auquel il sera possible d'ajouter un label "Biologique" ou OEKO-Tex qui seront rattachés au Tag "certificats". 
+Un autre exemple : Un Tshirt en coton biologique et Made in France. Le Tshirt aura comme attribut produit la taille et eventuellement la couleur auquel il sera possible d'ajouter un label "Biologique" ou OEKO-Tex qui seront rattachés à un tag "certificats". 
