@@ -1,6 +1,6 @@
 # Tags et Labels
 
-Altazion propose des Tags et des labels (rattachés aux tags), utilisables comme éléments informatifs ou/et de filtre en complément des [attributs de produit](https://aide.altazion.com/fr-frv2/referencer/attributs.html).  
+Altazion propose des Tags et des labels (rattachés aux tags), utilisables comme éléments informatifs ou/et de filtre en complément des [attributs de produit](https://aide.altazion.com/fr-fr/guide/referencer/attributs.html).  
 On utilisera un attribut pour une caractéristique produit, les tags et labels pour informer sur un évenement ou information "externe" au produit.
 
 _Exemple : vous référencez un nouveau laptop. Il possède une **mémoire vive de 16go** et bénéficie d'une **offre de remboursement**.  
