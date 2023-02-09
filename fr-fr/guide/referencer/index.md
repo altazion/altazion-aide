@@ -1,58 +1,22 @@
 # La gestion du catalogue
 
-Une fois le [type d'import produit et la gestion](https://aide.altazion.com/fr-fr/guide/configurer/omnicanal/catalogue.md) décidés Altazion vous offre une flexibilité et une richesse au niveau du catalogue qui, une fois appréhendées permettent une gestion simplifiée ainsi qu'une gestion commerciale optimisée.
+Cette partie du guide utilisateur va vous permettre de configurer tout votre catalogue pour avoir : 
+- Une structure et arborescence user friendly et SEO friendly sans que cela ne crée de soucis avec votre système interne.(famille et segment).
+- Un système permettant de mettre en avant les produits à potentiel avec une navigation pensée pour l'utilisateur dont les besoins sont variés.
+- Des fiches produit optimisées pour le SEO mais surtout pour l'utilisateur. 
 
-Au niveau de la [structure du catalogue](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.md), la vente omnicanale implique des interconnexion avec des PIM ou d'autres logiciels externes. 
-Altazion a été pensé pour fonctionner en utilisant les systèmes existants mais en offrant aussi la possibilité de travailler avec une structure propre au web par exemple afin d'avoir une arborescence user friendly et SEO friendly. 
+Illustrons cela avec une exemple :
+_Une entreprise de jouet vient de recevoir un nouveau produit "star" : **la nouvelle figurine Ironman** de la marque Altaya.
 
-## Structure de catalogue
+- Dans le système interne de l'entreprise ce jouet appartient à la **famille** des figurines car le catalogue est géré par typologie de jouet. Ce système interne n'est pas adapté pour le coté "commercial". L'entreprise décide de proposer au client ce produit  dans le [**segment**](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html) Superhéros -> Marvel, ce qui est mieux pour l'arborescence du site.
+- Le segment Marvel génére un chiffre d'affaires important et il a donc été configuré comme **segment star**; Ainsi la nouvelle figurine est mise en avant sur la page du segment qui a été personnalisée (bannière, texte, etc.) mais aussi dans le moteur de recherche interne au site ou à l'app vendeur. 
+- Le produit étant une nouveauté, un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) est visible depuis les pages de segment et sur la fiche produit.
+- Ironman fait partie des Avengers, ce produit est donc lié à des [**keywords**](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html) (mots clés) pour optimiser le searchandizing (apparaitre en priorité dans le moteur de recherche)ex : l'internaute cherche "Avengers", grâce au keyword configuré la figurine apparait tout en haut des résultats.
+- Les caractéristiques produit, correctement renseignées permettent d'offrir une navigation à facette et des filtres pertinents pour l'utilisateur, ainsi qu'une fiche produit de qualité et optimisée pour le SEO. 
+- La figurine est produite par Altaya, aussi elle apparaitra dans une **page marque** avec un template personnalisé. Cette page sera utilisée par les personnes collectionnant spécifiquement cette marque. 
+- La figurine est aussi mise en avant sur une landing page "ironman" à vocation SEO ou SEA dans laquelle une **sélection de produits** Ironman sera proposées._
 
-Notre solution vous permet d’assigner un produit à une famille et un segment. Ex : un jouet peut ainsi appartenir à la famille des jeux traditionnels et au segment des peluches. Cela permet : 
+--> Il ne reste plus trop de trous dans la raquette. Dans notre cas c'est presque de la sur-optimisation néanmoins tout cela est possible, sans pour autant avoir du contenu dupliqué ou une gestion en mode "usine à gaz".
 
-- Une double approche concernant la présentation des produits en ligne. Au niveau SEO, on peut ainsi proposer des produits sur différentes landing pages en évitant le contenu dupliqué. 
-- De traiter différemment les catégories ou sélections internes historiques des nouvelles catégories web. Ex : famille = catégorie interne à votre catalogue, segment = catégorie du produit pour le web. 
 
-_Bien évidemment il est possible d'unifier famille et segment_
 
-**Les vitrines** sont des pages à but commercial dans lesquelles il est possible de proposer des produits de différentes familles ou segments. Elles ne font pas partie à proprement parler de la structure du catalogue mais offrent une autre approche. Vous retrouverez plus d'information sur les vitrines dans la section "vendre".
-
-### Les segments
-Pour en savoir plus sur les segments cliquez [ici](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html).
-
-### Les types d'articles - Comptabilité
-Altazion propose de gérer les articles par type, dans une optique comptable.
-
-Quelques exemples : 
-- produits immateriel vs produit physique
-- Taux de TVA spécifique à certains produits
-- Frais de port spécifiques
-- Commissions
-- Cartes cadeaux
--...
-En fonction des types de produits créés il est possible de gérer les comptes bancaires de vente ainsi que les comptes de TVA spécifiques.
-
-Découvrez comment créer ou gérer les types d'articles [ici](https://aide.altazion.com/fr-fr/referencer/type-article.html)
-
-### Les marques
-
-**Les marques** Paramétrez vos marque dans Office afin d'offrir une segmentation alternative sur votre site e-commerce. L'internaute peut ainsi naviguer et rechercher par segment de produit mais aussi par marque. Cela sera
-
-## Créer et gérer les produits
-Altazion offre de nombreuses possibilités dans l'administration de vos produits et s'adapte à tous les secteurs d'activité.
-Typologie de produit, spécificités metiers, commerciales ou encore logistiques... Que vous importiez les produits par fichier ou saisissiez chaque produit à la main bien configurer les produits en amont permettra d'obtenir des fiches produit parfaite, ainsi qu'une gestion des produits et des commandes efficaces.
-
-# Configurer le catalogue
-
-## Methodes de gestion du catalogue
-
-Altazion vous donne la possibilité de travailler de 3 façons pour votre catalogue.
-1. Avec des imports (FTP par exemple) de votre catalogue. 
-2. Depuis Office, avec l'interface de création de produits.
-3. De manière hybride, utilisant des imports/exports tenant compte des modifications manuelles ayant été effectuées dans Office, ou en gérant certains segments (catégories de produit) dans Office, d'autres provenant de l'ERP par exemple.
-
-## Configuration du catalogue - Mode de gestion et Affichages
-Dans Office, en vous rendant dans Paramètres - Réglages articles du catalogue il est possible de définir votre fonctionnement concernant les articles. 
-- Gestion des atributs commerciaux. 
-- Gestion des medias (importez vous les medias ou utilisez vous une url externe pour stocker les images ?).
-- Options de recherche (Par canal de vente et par état du produit, par exemple, autorisez vous les produits archivés à apparaitre dans les résultats de recherche, si oui, comment apparaissent ils ?).
-- Gestion des lots (un seul article ou différents articles traités de façon indépendante, ce qui permet l'expedition partielle du lot).
