@@ -1,16 +1,14 @@
 # Animation commerciale 
-Altazion propose un moteur d'actions commerciale. 
-Depuis office vous pouvez gérer vos promotions, choisissant le ou les canaux cibles.
-La gestion des promotions s’effectue dans des campagnes commerciales, via un écran spécifique.
+Altazion propose un moteur d'actions commerciale avec des campagnes dans lesquelles ont regroupe différents opérations commerciales.
 
-Dans Office vous pouvez créer des promotions avec une grande flexibilité. 
-Le fonctionnement est le suivant : 
+_Exemple : pour la fête des pères, un retailer créé une campagne, propose une sélection de produits variés qui pourront faire office de cadeaux, avec par exemple : -20% sur le vin à partir de 6 bouteilles achetées, les frais de port offerts pour un rasoir éléctrique, 10% de réduction sur une tondeuse à gazon..._
+
+Le process pour procéder est le suivant : 
 1. création et paramétrage d'une campagne.
 2. sélection de/des opérations commerciales à intégrer dans cette campagne.
-3. sélection des produits/segments/sélections concernés.
+3. sélection des produits/segments --> sélections de produits concernés par les opérations commerciales.
 
-# 1. La campagne
-
+## La campagne
 **Deux types de campagnes**
 Il existe deux types de campagnes : 
 - Campagne **normale**. 
@@ -24,7 +22,7 @@ Pour une opération commerciale ponctuelle, optez pour une campagne "normale".
 **Ajoutez des éléments à votre campagne**
 Une fois que vous avez créé la campagne, vous allez pouvoir y intégrer différent types d'actions / promotions / éléments. 
 
-## 2. Les promotions & actions commerciales 
+## Les promotions & actions commerciales 
 
 Les promotions & avantages possibles nativement dans notre solution :  
 
@@ -36,38 +34,16 @@ Les promotions & avantages possibles nativement dans notre solution :
     - Réduction panier. 
     - Réduction après X produits différents. 
 
-En complément, vous allez pouvoir ajouter des bannières publicitaires à différents endroits du site et ajouter des "tags".
+En complément, vous allez pouvoir ajouter des bannières publicitaires à différents endroits du site et ajouter des ["tags" et "labels"](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html).
 _Pour créer et configurer des tags rendez vous sur Configurer - Tags et Labels_.
 
-## 3. la sélection des produits et services
+## la sélection des produits et services
 Une fois le type d'action(s) et supports promotionnels choisis sélectionnez les produits concernés. Les informations liées à la promotion seront ajoutées aux endroits définis en amont. 
-ex :si vous avez ajouté un tag car la promotion est liée à une offre de remboursement par exemple (ODR), un élément visuel que vous aurez ajouté apparaitra sur toutes les fiches produit concernées par la promotion. 
-Pour réaliser une sélection de produit : Catalogue - Selection  
 
 _Pour réaliser une sélection de produit : Catalogue - Sélections. Puis configurez simplement votre sélection._
 
-## 4. Mise en avant avec les pages vitrines
-Dans Office il est possible de créer différent types de pages ([voir Gestion de contenu](https://aide.altazion.com/fr-fr/vendre/ecommerce/cms.html)). 
-Dans le cadre de promotion, choisissez par exemple une landing page de type Segment/Catégorie, pour que les produits sélectionnés pour votre campagne promotionnelle apparaissent à l'utilisateur comme une nouvelle catégorie.
-Cela sera très intéressant pour l'experience utilisateur, mais aussi pour le SEO dans le cadre de la vente en ligne. 
+La sélection de produit permet de regrouper et mettre en avant des produits de segments différents.
 
-### Choix du canal 
-
-Il est possible de localiser vos promotions sur différents supports.  
-Sur le web avec des pages spécifiques, mais aussi sur vos bornes en magasin par exemple.
+_Exemple : pour la fête des pères, le retailer a créé une campagne, propose une sélection de produits variés qui pourront faire office de cadeaux, avec par exemple : -20% sur le vin à partir de 6 bouteilles achetées, les frais de port offerts pour un rasoir éléctrique, 10% de réduction sur une tondeuse à gazon..._
 
 
-### Autres opérations commerciales possibles
-**Lots** 
-
-Créez des lots simplement en leur donnant un libellé, une url personnalisée et sélectionnant les articles présents dans le lot.  
-La gestion du prix et de la promotion est prévue.  
-La gestion des médias aussi.  
-
-**Bons d’achat** 
-
-Les bons d’achat ou coupons de réductions sont paramétrables.  
-- Utilisateur(s). 
-- Montant. 
-- Durée de validité. 
-- Validité (pour tout achat, une sélection de produit ou un produit spécifique). 

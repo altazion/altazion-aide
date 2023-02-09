@@ -1,4 +1,8 @@
-# Les pages de contenu en ligne
+# Contenu CMS et SEO
+
+
+
+## Les pages de contenu en ligne
 
 Même si notre logiciel omnicanal est avant tout orienté vente, Altazion propose un vrai outil de gestion de contenu, pour administrer à la fois des pages, les templates mais aussi d’autres éléments. 
 

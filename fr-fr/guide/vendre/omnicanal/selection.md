@@ -8,7 +8,7 @@ Exemple :
 ## Eléments pour créer une sélection 
 - Libellé 
 - Code (identifiant)
-- Campagne --> si la sélection sera utilisée pour une campagne commerciale. [Voir les campagnes commerciales](https://aide.altazion.com/fr-fr/vendre/omnicanal/campagne.html).
+- Campagne --> si la sélection sera utilisée pour une campagne commerciale. [Voir les campagnes commerciales](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html).
 - Le groupe.
 - Le canal de vente.
 - l'url personnalisée (intéressant pour le SEO).
@@ -17,8 +17,10 @@ Exemple :
 
 ## Sélection des produits 
 C'est le but de l'opération, sélectionner des produits. 
-**A la main dans Office**
+**A la main dans Office**  
 Sélectionnez les produits en fonction de critères établis (recherche par marque, catégorie (famille), libellé, état de commercialisation, référence). Idéal si la sélection n'est pas trop étendue. 
-**Requête SQL** Pour un ciblage avancé et une sélection plus large de produits.
-**Récupération d'un flux externe** pour travailler avec des catalogues de revendeurs par exemple.
+**Requête SQL**  
+Pour un ciblage avancé et une sélection plus large de produits.
+**Récupération d'un flux externe**  
+Pour travailler avec des catalogues de revendeurs par exemple.
 

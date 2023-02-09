@@ -37,16 +37,8 @@ Définir vos caractéristiques en amont de l'import du catalogue ou de la créat
 
 Les grandes familles de catégories vous permettront d'administrer les produits mais aussi de les placer dans des segments. 
 
-**Caractéristiques commerciales**
-Un onglet permet de créer et administrer les caractéristiques dites « commerciales » qui sont par défaut : 
-Mise en avant. 
-Marque interne. 
-Vente flash. 
-Prix exclusif web. 
-Les attributs spécifiques qui peuvent avoir différents formats : 
-Texte. 
-Numérique. 
-Oui/Non. 
+**Tags et labels**
+Chaque produit peut avoir des [labels](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html), rattachés à des tags qui vont permettre de le mettre en avant. 
 
 Les attributs texte et numérique peuvent être choisis dans des listes. 
 Chaque attribut peut être utilisé uniquement en interne ou visible sur le site public.  
@@ -112,8 +104,6 @@ Altazion propose un large choix de promotion, par exemple exclusivité web ou om
 
 ## Disponibilité (règles de gestion, seuils, aspect omnicanal) 
 Altazion permet de travailler avec des fichiers de stocks importés comme le font certains de nos clients, ou vous pouvez utiliser l'administration du site, en fonction de votre mode de gestion.
-
-
 
 ## Règles de gestion logistique transport 
 

@@ -87,5 +87,8 @@
   items: 
     - name: Préparer les commandes
       href: https://aide.altazion.com/fr-fr/guide/expedier/commandes/index.html
+      items: 
+        - name: Gestion des risques
+          href: https://aide.altazion.com/fr-fr/guide/commandes/gestion-risque.html
     - name: Gérer les envois
       href: https://aide.altazion.com/fr-fr/guide/expedier/logsitique/index.html
