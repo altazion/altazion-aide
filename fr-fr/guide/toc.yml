@@ -2,7 +2,7 @@
   href: https://aide.altazion.com/fr-fr/guide/index.html
   items:
 - name: Architecture
-  href: https://aide.altazion.com/fr-fr/guide/architecture.html
+  href: https://aide.altazion.com/fr-fr/architecture.html
 - name: Configurer
   href: https://aide.altazion.com/fr-fr/guide/configurer/index.html
   items:
@@ -48,6 +48,8 @@
     - name: Structurer le catalogue
       href: https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html
       items:
+        - name: Structure du catalogue
+          href: https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html
         - name: Créer un segment
           href: https://aide.altazion.com/fr-fr/guide/referencer/segments/creer-segment.html
     - name: Gérer les articles
@@ -60,7 +62,6 @@
         - name: Les articles déclinables
           href: https://aide.altazion.com/fr-fr/guide/referencer/articles/declinables.html  
 - name: Vendre
-  href: https://aide.altazion.com/fr-fr/guide/vendre/index.html
   items: 
     - name: Animation omnicanale
       href: https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html  
@@ -87,6 +88,6 @@
       href: https://aide.altazion.com/fr-fr/guide/expedier/commandes/index.html
       items: 
         - name: Gestion des risques
-          href: https://aide.altazion.com/fr-fr/guide/commandes/gestion-risque.html
+          href: https://aide.altazion.com/fr-fr/guide/expedier/commandes/gestion-risque.html
     - name: Gérer les envois
       href: https://aide.altazion.com/fr-fr/guide/expedier/logsitique/index.html
