@@ -26,5 +26,5 @@ Chaque template ou chaque élément de contenu peut être géré indépendament.
 - Gestion temporelle (dates d'affichage d'un bloc ou d'un template).
 - Gestion du "follow" et du "index". Nottamment utile pendant la periode de validation d'un template ou d'une nouvelle page.
 - Contenu (html ou non) et classe de style CSS.
-- [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/keywords.html) liés
+- [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/keywords.html) liés.
 
