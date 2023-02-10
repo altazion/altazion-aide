@@ -73,10 +73,8 @@
       href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/index.html
       items:
         - name: Mini-site Magasin
-          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/stores.html 
-        - name: SEO - référencement naturel
-          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/seo.html    
-        - name: Gestionnaire de contenu (CMS)
+          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/stores.html   
+        - name: Contenu & SEO
           href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/cms.html
         - name: Intéraction client
           href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/relation-client.html    
