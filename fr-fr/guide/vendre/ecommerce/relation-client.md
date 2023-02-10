@@ -1,5 +1,6 @@
 # Intéraction client en ligne
-Office 
+Office permet à l'équipe de relation client de suivre le parcours client en ligne et d'intervenir à chaque étape de celui-ci. 
+
 
 
 ## Support client : compte client 
