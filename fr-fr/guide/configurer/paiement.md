@@ -15,4 +15,7 @@ Le paiement par carte bancaire sera lui par contre activé pour tous les canaux,
 Si un prestataire propose différents modes de réglements avec un même **moyen de paiement**. (ex : CB paiement comptant ou en 3 fois sans frais), chaque mode de réglement sera indépendant.
 
 ## Ajout d'un mode de réglement
-Cela se fait par 
+Le [middleware hub](https://aide.altazion.com/fr-fr/guide/architecture.html) permet d'ajouter et configurer les moyens de paiements, en général par API. 
+Une fois cela fait il est possible d'activer les licences dans Office en renseignants les clés API, etc. 
+
+Ainsi, l'équipe en charge de l'administration de l'activité commerciale peut modifier des clés API sans demander au développeur...une fois que le mode de réglement existe déjà dans Office.
