@@ -30,8 +30,7 @@ Les attributs peuvent être utilisés dans les facettes sur les pages catégorie
 ## Types d'attributs
 - Texte.
 - Texte long (affichage différent).
-- Entier.
-- Numérique.
+- Numériques (chiffres).
 - Oui / Non.
 - Une url externe.
 

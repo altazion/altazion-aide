@@ -1,28 +1,28 @@
 # Les zones de magasin
 
-Office permet de créer des groupes pour les magasins avec des interêts différents.
-- en fonction de zones géographiques
-- En fonction de la taille du magasin.
-- En fonction de la relation entre le magasin et l'entreprise : affiliés, franchisés, etc.
+La **zone magasin est un groupe de magasins** que vous créez et configurez dans Office. 
+Concernant les critères, vous pouvez les vous baser sur : 
+- des zones géographiques.
+- La taille du magasin.
 -...d'autres critères de votre choix/besoins.
 
 Cet écran est accessible depuis Office - Paramètres - Points de vente - Zones de magasin
 
 ## Intêrets des zones magasin
-- Proposer des catalogues différents en fonction du groupe.
+- Proposer des catalogues différents en fonction de la zone (groupe).
 - Proposer des services en fonction des zones (ship from store, livraison en magasin).
 - Gérer l'aspect logistique (livraison, frais de port).
 - Configurer des types de livraison.
 - Adapter les seuils de disponibilité magasin.  
 
-## Gestion des affiliés et des franchisés
-Lors de la création d'une zone de magasins, une case permet de distinguer les affiliés ou les partenaires. 
-Cela permet de simplifier la gestion des commandes, de la comptabilité etc. 
+_Exemple : une entreprise de grande distribution propose des grandes surfaces en zone commerciales et des "city", plus petites surfaces dans les centre ville. 
+2 zones (groupes) sont créés : GS et City. 
+Pour la zone GS, les grand magasin, sont activés différents services, par exemple le ship from store et la commande avec retrait en magasin (sur stock magasin), un seuil de disponibilité sera défini à 5 pièces pour les jouets.  
+Pour la zone City, seule la commande avec retrait en magasin sera activée, mais cette fois avec un seuil de disponibilité à 1 pièce._
 
 ## Caractéristiques des zones de magasin
 - Libéllé.
 - Code.
 - Pays.
-- Potentiellement "affiliés ou partenaires" en fonction de la structure de votre entreprise. 
 
-Pour configurer les services et les seuils de réserves rendez vous [ici](https://aide.altazion.com/fr-fr/configurer/omnicanal/cross-canal.html).
+Pour configurer les services et les seuils de réserves rendez vous [ici](https://aide.altazion.com/fr-fr/guide/configurer/omnicanal/cross-canal.html).

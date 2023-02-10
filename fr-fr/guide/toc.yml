@@ -20,7 +20,7 @@
           href: https://aide.altazion.com/fr-fr/guide/configurer/utilisateurs/creer-compte.html
         - name: Créer et gérer les groupes d'utilisateurs
           href: https://aide.altazion.com/fr-fr/guide/configurer/utilisateurs/add-group.html
-    - name: Les moyens de paiements
+    - name: Modes de réglement
       href: https://aide.altazion.com/fr-fr/guide/configurer/paiement.html
     - name: Intégrations & flux
       items:
@@ -33,7 +33,9 @@
         - name: Zones de magasin
           href: https://aide.altazion.com/fr-fr/guide/configurer/omnicanal/zones-magasin.html
         - name: Configuration cross-canal
-          href: https://aide.altazion.com/fr-fr/guide/configurer/omnicanal/cross-canal.html  
+          href: https://aide.altazion.com/fr-fr/guide/configurer/omnicanal/cross-canal.html
+    - name: Commandes
+      href: https://aide.altazion.com/fr-fr/guide/configurer/rail-commande.html
 - name: Référencer
   href: https://aide.altazion.com/fr-fr/guide/referencer/index.html
   items: 
