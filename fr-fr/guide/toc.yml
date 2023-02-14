@@ -6,6 +6,8 @@
 - name: Configurer
   href: https://aide.altazion.com/fr-fr/guide/configurer/index.html
   items:
+    - name: Informations d'entreprise
+      href: https://aide.altazion.com/fr-fr/guide/configurer/entreprise.html
     - name: Les taches
       items:
         - name: Créer une tache
@@ -35,7 +37,9 @@
         - name: Configuration cross-canal
           href: https://aide.altazion.com/fr-fr/guide/configurer/omnicanal/cross-canal.html
     - name: Commandes
-      href: https://aide.altazion.com/fr-fr/guide/configurer/rail-commande.html
+      items:
+        - name: Origine et rails
+          href: https://aide.altazion.com/fr-fr/guide/configurer/commandes/rail-commande.html
 - name: Référencer
   href: https://aide.altazion.com/fr-fr/guide/referencer/index.html
   items: 

@@ -48,9 +48,15 @@ Les horaires d'ouvertures sont l'une des informations les plus recherchées par 
 Pensez également à ajouter vos ouvertures exceptionnelles sur votre mini-fiche afin de recevoir des visiteurs lors de celles-ci.
 
 ## Google My business et SEO
-Ajoutez simplement votre établissement dans Google My Business. 
+
+
 Google My Business dont l'influence sur le référencement local n'est plus à démontrer peut vous aider à attirer du trafic sur le site internet ET en magasin.  
 
+**1. Activez la fonctionnalité pour les magasins de votre entreprise**
+
+Ajoutez simplement votre établissement dans Google My Business dans paramètres - Fonctionnalités --> Intégration Google My Business.
+
+**2. Synchronisez automatiquement les informations magasin avec My Business**
 Renseignez l'url de votre mini-site dans l'interface de Google my Business. L'icone "site web" apparaitra ainsi et dirigera l'internaute vers le mini-site lorsque l'internaute cliquera sur ce lien.  
 Cela permettra d'améliorer le référencement local (donc la visibilité dans les résultats de recherche, google maps...) et à l'internaute de visiter le mini-site afin de découvrir, par exemple, les promotions en cours. 
 ![Exemple de magasin ayant ajouté le mini-site à la page My Business](https://aide.altazion.com/fr-fr/ressources/image-site-web-mini-site.jpg).
