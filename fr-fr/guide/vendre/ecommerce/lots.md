@@ -3,7 +3,8 @@
 Un lot permet de regrouper plusieurs références en "créant" une nouvelle référence regroupant ces différents produits. 
 
 ## Intérêt des lots 
-
+Les lots vous apporte une nouvelle possibilité au niveau commercial. 
+Les lots peuvent être intégré à des sélection de produit. 
 
 ## Méthode de gestion 
 Altazion propose deux modes de gestion des lots, administrable depuis Paramètres - Catalogue - Options générales
