@@ -24,6 +24,10 @@
           href: https://aide.altazion.com/fr-fr/guide/configurer/utilisateurs/add-group.html
     - name: Modes de réglement
       href: https://aide.altazion.com/fr-fr/guide/configurer/paiement.html
+    - name: Logistique
+      items: 
+        - name: Modes de livraison 
+          href: https://aide.altazion.com/fr-fr/guide/configurer/livraison/mode-livraison.html
     - name: Intégrations & flux
       items:
         - name: Médiations
@@ -40,6 +44,8 @@
       items:
         - name: Origine et rails
           href: https://aide.altazion.com/fr-fr/guide/configurer/commandes/rail-commande.html
+        - name: Types de commandes
+          href: https://aide.altazion.com/fr-fr/guide/configurer/commandes/types-commande.html
 - name: Référencer
   href: https://aide.altazion.com/fr-fr/guide/referencer/index.html
   items: 
