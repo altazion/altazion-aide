@@ -1,11 +1,5 @@
 # Vendre en magasin avec Altazion
 
-## Catalogue
-### Catégories 
-### Produits
-### Prix
-
-## Device vendeur
-
+Cette section du guide utilisateur Altazion sera prochainement disponible.
 
  
