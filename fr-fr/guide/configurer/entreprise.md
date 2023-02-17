@@ -1,5 +1,6 @@
 # Informations entreprise
-Renseigner les informations d'entreprise dans Paramètres - Votre entreprise. Ces informations se retrouveront sur les différents documents édités par notre solution.
+Renseignez les informations d'entreprise dans Paramètres - Votre entreprise.  
+Ces informations se retrouveront sur les différents documents édités par notre solution.
 
 ## Identité visuelle & documents
 Altazion génère différents documents pour votre entreprise. 

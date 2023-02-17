@@ -15,7 +15,7 @@ Par défaut, le visiteur peut consulter sa fiche magasin et il trouvera les info
 -	Les services proposés par le magasin.
 -	Un message d’accueil, ainsi qu’un texte personnalisé pour chacun des magasins.
 -	Un plan avec le magasin sur une carte ainsi que la possibilité de **connaitre l’itinéraire** depuis sa position vers le magasin (lié à Google Maps).
--	Les promotions et offres spéciales en cours. (promotions spécifiques au magasin ou campagnes relatives à l'enseigne, par exemple les évènements Cross Canaux).
+-	Les promotions et offres spéciales en cours (promotions spécifiques au magasin ou campagnes relatives à l'enseigne, par exemple les évènements Cross Canaux).
 -	Eléments de confiance.
 
 En fonction de votre choix il est possible d'ajouter ou de retirer certains éléments comme les avis magasin.
@@ -59,8 +59,8 @@ Ajoutez simplement votre établissement dans Google My Business dans paramètres
 **2. Synchronisez automatiquement les informations magasin avec My Business**
 Renseignez l'url de votre mini-site dans l'interface de Google my Business. L'icone "site web" apparaitra ainsi et dirigera l'internaute vers le mini-site lorsque l'internaute cliquera sur ce lien.  
 Cela permettra d'améliorer le référencement local (donc la visibilité dans les résultats de recherche, google maps...) et à l'internaute de visiter le mini-site afin de découvrir, par exemple, les promotions en cours. 
+Le mini-site permet de lier votre page magasin à Google My Business.  
 ![Exemple de magasin ayant ajouté le mini-site à la page My Business](https://aide.altazion.com/fr-fr/ressources/image-site-web-mini-site.jpg).
-Le mini-site permet de lier votre page magasin à Google My Business. 
 
 
 

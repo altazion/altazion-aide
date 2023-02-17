@@ -1,9 +1,9 @@
 # Les sélections de produits
 
-Les sélections de produit permettent comme leur nom l'indique de regrouper des produits au sein d'une sélection sans qu'ils appartiennent au même segment. Vous pouvez aussi ne sélectionner qu'une partie des produits d'un segment dans le cadre d'une opération commerciale. Exemple, fin de series, ou nouveautés.
+Les sélections de produit permettent comme leur nom l'indique de regrouper des produits au sein d'une sélection sans qu'ils appartiennent au même segment. Vous pouvez aussi ne sélectionner qu'une partie des produits d'un segment dans le cadre d'une opération commerciale. Exemple, fin de séries, ou nouveautés.
 
-Exemple : 
-- pour la fête des pères, vous souhaitez proposer une sélection de produits variés qui pourront faire office de cadeaux, que vous présenterez dans le cadre d'une campagne spéciale pour la fête des pères.
+_Exemple : 
+- pour la fête des pères, vous souhaitez proposer une sélection de produits variés qui pourront faire office de cadeaux, que vous présenterez dans le cadre d'une campagne spéciale pour la fête des pères._
 
 ## Eléments pour créer une sélection 
 - Libellé 

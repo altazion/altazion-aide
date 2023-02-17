@@ -1,6 +1,6 @@
 # Gestion des articles
 
-En amont de la création des produits ou de l'import du catalogue, le paramétrage et la création d'éléments comme les familles de produits, les associations de produit, les caractéristiques etc vont permettre aux équipe de travailler sereinement, efficacement et en évitant les erreurs et doublons. 
+En amont de la création des produits ou de l'import du catalogue, le paramétrage et la création d'éléments comme les familles de produits, les associations de produit, les caractéristiques etc vont permettre aux équipes de travailler sereinement, efficacement et en évitant les erreurs et doublons. 
 
 # Référencer un produit, les étapes
 
@@ -10,7 +10,7 @@ Le cas des produits déclinables est pris en compte. Vous pouvez ainsi proposer 
 L'exemple des déclinaisons illustre bien cela. Tout savoir sur les produits déclinables et leur gestion [ici](https://aide.altazion.com/fr-fr/referencer/articles/declinables.html).
 
 ## Différents types d'articles
-Au niveau des segments (catégories) vous pouvez choisir le type de produit, par exemple les produits aditionnels. Voir [ici](https://aide.altazion.com/fr-fr/referencer/segments/index.html) 
+Au niveau des segments (catégories) vous pouvez choisir le type de produit, par exemple les produits additionnels. Voir [ici](https://aide.altazion.com/fr-fr/referencer/segments/index.html) 
 Au niveau du produit, lorsqu'il est créé Altazion vous permet de choisir entre différents types, selon vos besoins : 
 - produit "standard",
 - [produit déclinable](https://aide.altazion.com/fr-fr/referencer/articles/declinables.html), 

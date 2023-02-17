@@ -1,14 +1,14 @@
 # Typologie d'articles
 
-Dans Altazion office, il est possible de définir et configurer différents types d'articles. Cela permet de faciliter la gestion en fonction de vos spécificités mêtier, avec une fin comptable.
+Dans Altazion office, il est possible de définir et configurer différents types d'articles. Cela permet de faciliter la gestion en fonction de vos spécificités métier, avec une fin comptable.
 
-_Exemple : une boutique de loisirs proposant des livres, des jeux vidéos et contenus multimedias dématérialisés.  
+_Exemple : une boutique de loisirs proposant des livres, des jeux vidéo et contenus multimédias dématérialisés.  
 Elle propose des livres dont la TVA est à 5.5% qui pourront avoir un **compte de vente** et un **compte de TVA** spécifiques. 
 Les contenus dématérialisés peuvent aussi être configurés comme un type de produit, tout comme les frais de port. 
 Cela rendra vos comptables heureux.
 
 Il est possible de définir un nombre important de types de produits, quelques exemples ci-dessous.
-- produits immateriel vs produit physique
+- produits immatériel vs produit physique
 - Taux de TVA spécifique à certains produits 
 - Frais de port spécifiques
 - taux de commissions
@@ -25,7 +25,7 @@ Il est possible de définir un nombre important de types de produits, quelques e
 - Compte de vente.
 - Compte TVA spécifique. 
 
-Si la TVA est dûe à l'encaissement, veuillez cocher la case correspondante
+Si la TVA est due à l'encaissement, veuillez cocher la case correspondante
 
 
 Enregistrez

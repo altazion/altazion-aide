@@ -10,7 +10,7 @@ L'attribut produit est utile dans de nombreux cas.
 
 **Attention** : Altazion permet de travailler avec des attributs ainsi que des [tag et labels](https://aide.altazion.com/fr-fr/referencer/tag-label.html) qui sont complémentaires. 
 
-Exemple : Un Tshirt en coton biologique et Made in France. Le Tshirt aura comme attribut produit la taille et eventuellement la couleur auquel il sera possible d'ajouter un label "Biologique". 
+Exemple : Un T-shirt en coton biologique et Made in France. Le T-shirt aura comme attribut produit la taille et éventuellement la couleur auquel il sera possible d'ajouter un label "Biologique". 
 
 ## Attributs internes et attributs consultables
 Les attributs dans Altazion peuvent avoir deux usages. 

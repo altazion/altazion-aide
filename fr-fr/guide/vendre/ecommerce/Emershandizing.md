@@ -23,6 +23,6 @@ _Si vous utilisez une solution avec du machine learning ou de l'IA de type Nosto
 
 
 ## Searchandizing & facettes
-Comme précédemment, les segments, [attributs](https://aide.altazion.com/fr-fr/guide/referencer/attributs.html), [keywords](https://aide.altazion.com/fr-fr/guide/referencer/keywords.html), ou encore [tags et labels](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html) peuvent être utilisés afin d'optimiser l'experience utilisateur et votre chiffre d'affaires.
+Comme précédemment, les segments, [attributs](https://aide.altazion.com/fr-fr/guide/referencer/attributs.html), [keywords](https://aide.altazion.com/fr-fr/guide/referencer/keywords.html), ou encore [tags et labels](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html) peuvent être utilisés afin d'optimiser l'expérience utilisateur et votre chiffre d'affaires.
 Encore une fois, il est possible de substituer à notre solution une solution tierce.
 

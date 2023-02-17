@@ -18,8 +18,6 @@ Cette documentation a été pensée selon le processus operationnel de la vie d'
 - Tag Central (ajout de tags à votre site).
 **Paiements**  
 
-
-
 ## [Référencer](https://aide.altazion.com/fr-fr/referencer/index.html)
 Gérer votre catalogue dans Altazion Office. 
 Importer, configurer, segmenter, etc. Découvrez comment optimiser votre catalogue pour chacun des canaux de vente de votre entreprise.
