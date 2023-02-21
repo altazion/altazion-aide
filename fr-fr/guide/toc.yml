@@ -106,3 +106,7 @@
           href: https://aide.altazion.com/fr-fr/guide/expedier/commandes/gestion-risque.html
     - name: Gérer les envois
       href: https://aide.altazion.com/fr-fr/guide/expedier/logsitique/index.html
+- name: Fiches métier
+  itemps:
+    - name: Responsable de gamme
+      href: https://aide.altazion.com/fr-fr/guide/metiers/fiche-metier/responsable-gamme/responsable-gamme.html
