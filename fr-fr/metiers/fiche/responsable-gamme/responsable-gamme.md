@@ -7,10 +7,10 @@ Altazion est votre partenaire, designé pour vous aider à atteindre vos objecti
 - Séduisez et fidélisez votre client en étant présent et pertinent aux différentes étapes de son parcours.
 - Renforcez votre relation avec les marques et les fournisseurs en mettant en avant le potentiel des campagnes et en profitant des outils de reporting avancés proposés par Altazion. 
 
-## Exemple concret:  
+### Illustration avec un cas pratique 
 _Vous êtes chef de gamme pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Vous allez référencer votre gamme avec votre nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Altaya, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
 
-### Structurez & référencez votre gamme 
+## Structurez & référencez votre gamme 
 **Structurez**  
 Dans le système interne de l'entreprise ce jouet appartient à la **famille** des figurines car le catalogue est géré par typologie de jouet. Ce système interne n'est pas adapté pour l'approche commerciale en ligne. Altazion vous permet de proposer au client ce produit  dans le [**segment**](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html) Superhéros -> Marvel, ce qui est mieux pour l'arborescence du site donc le parcours utilisateur.
 
@@ -28,7 +28,7 @@ _Altazion vous permet de personnaliser à 100% vos fiches produit_.
 - Tout savoir sur les [produits déclinables de type Mère/Fille](https://aide.altazion.com/fr-fr/guide/referencer/articles/declinables.html)
 - Tout savoir sur la [création de produit](https://aide.altazion.com/fr-fr/guide/referencer/articles/index.html).
 
-### Animez votre gamme
+## Animez votre gamme
 Avant même de parler de campagnes commerciales, Altazion vous permet de mettre en avant vos produits stars. 
 
 - Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un segment **segment star**; Ainsi la nouvelle figurine est mise en avant sur la page du segment (page catégorie) qui bénéficie d'un modèle ou template personnalisable (structure, bannière, texte, etc.) Les produits du segment star sont aussi mises en avant dans le moteur de recherche interne. 
@@ -44,7 +44,7 @@ Altazion permet de créer des pages personnalisées, des "landing pages".
 Créez par exemple une page "Altaya" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
 - La figurine est aussi mise en avant sur une landing page "Spider-Man" à vocation SEO ou SEA dans laquelle une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) liés au super héros Spider-Man sera proposé.
 
-### La clef de voute de l'animation : la campagne omnicanale
+## La clef de voute de l'animation : la campagne omnicanale
 Utilisez toutes les fonctionnalités présentées ci-dessus dans ** [une campagne commerciale](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html)**.
 Dans le cas de l'exemple, la campagne est 100% web. Vous pouvez jouer avec le pricing, des remises diverses (au panier, au produit, etc.) afficher des contenus e utiliser l'emershandizing (bannières, tags et labels...) dans les endroits clés de votre site...  
 
@@ -62,16 +62,16 @@ Créer des taches en leur donnant une description, une date limite et un degré 
 Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les transférer depuis son espace personnel. 
 
 **Quelques exemples.**
-tache n°1 : création du modèle de page marque et segment que vous assignez à l'expert UX - UI design qui peut ensuite la transférer au référent SEO pour validation.
-Tache N°2 : En parrallèle, préparez la mise en avant du produit (bannières, keywords, mise en avant segment et moteur de recherche) en assignant cette tache au référent emershandizing.
-tache n°3 : Une fois les pages crées, assignez une tache relative à la création du contenu textuel, que vous pouvez assigner à l'expert de votre équipe avec une validation par vos soins. Le référent SEO ne traite pas suffisament rapidement, vous recevez une alerte dans votre espace personnel et pouvez ainsi le relancer.
-tache n°4 : création de la campagne et des offres promotionnelles. Que vous assignez à l'assistant chef de gamme...
+tache n°1 : création du modèle de page marque et segment que vous assignez à l'expert UX - UI design qui peut ensuite la transférer au référent SEO pour validation.  
+Tache N°2 : En parrallèle, préparez la mise en avant du produit (bannières, keywords, mise en avant segment et moteur de recherche) en assignant cette tache au référent emershandizing.  
+tache n°3 : Une fois les pages crées, assignez une tache relative à la création du contenu textuel, que vous pouvez assigner à l'expert de votre équipe avec une validation par vos soins. Le référent SEO ne traite pas suffisament rapidement, vous recevez une alerte dans votre espace personnel et pouvez ainsi le relancer.  
+tache n°4 : création de la campagne et des offres promotionnelles. Que vous assignez à l'assistant chef de gamme...  
 
 ![L'espace personnel du responsable SEO avec la tache de rédaction](https://aide.altazion.com/fr-fr/ressources/taches.jpg)
 
-Tout savoir sur [la création des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html).
-Tout savoir sur [l'assignation des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html).
-Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).
+Tout savoir sur [la création des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html).  
+Tout savoir sur [l'assignation des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html).  
+Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).  
 
 ## Monitorez et optimisez
 En utilisant la déclinaison de produit vous obtenez un reporting figurine par figurine. 
