@@ -68,8 +68,8 @@ Altazion vous offre la possibilité de créer et d'assigner des taches à chacun
 Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire. 
 Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les transférer depuis son espace personnel. 
 
-**Quelques exemples.**
-tache n°1 : création du modèle de page marque et segment que vous assignez à l'expert UX - UI design qui peut ensuite la transférer au référent SEO pour validation.  
+**Quelques exemples.**  
+tache n°1 : création du modèle de page marque et segment que vous assignez à l'expert UX - UI design qui peut ensuite la transférer au référent SEO pour validation.    
 Tache N°2 : En parrallèle, préparez la mise en avant du produit (bannières, keywords, mise en avant segment et moteur de recherche) en assignant cette tache au référent emershandizing.  
 tache n°3 : Une fois les pages crées, assignez une tache relative à la création du contenu textuel, que vous pouvez assigner à l'expert de votre équipe avec une validation par vos soins. Le référent SEO ne traite pas suffisament rapidement, vous recevez une alerte dans votre espace personnel et pouvez ainsi le relancer.  
 tache n°4 : création de la campagne et des offres promotionnelles. Que vous assignez à l'assistant chef de gamme...  
