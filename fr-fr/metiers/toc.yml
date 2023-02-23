@@ -1,17 +1,17 @@
-name: Fiches métier
-items: https://aide.altazion.com/fr-fr/metiers/index.html
-  - name: Responsable de gamme
-    href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html
-    items:
-      - name: Structurez et référencez
-        href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#structurez--r%C3%A9f%C3%A9rencez-votre-gamme
-      - name: Animez commercialement
-        href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#animez-votre-gamme
-      - name: Gérez en équipe
-        href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#travaillez-en-%C3%A9quipe-aux-diff%C3%A9rentes-%C3%A9tapes-du-process
-      - name: Monitorez et optimisez
-        href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#monitorez-et-optimisez
-      - name: Optimisez la relation fournisseur
-        href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#optimisez-la-relation-fournisseur
-      - name: test 2
+- name: Fiches métier
+  items: https://aide.altazion.com/fr-fr/metiers/index.html
+    - name: Responsable de gamme
+      href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html
+      items:
+        - name: Structurez et référencez
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#structurez--r%C3%A9f%C3%A9rencez-votre-gamme
+        - name: Animez commercialement
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#animez-votre-gamme
+        - name: Gérez en équipe
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#travaillez-en-%C3%A9quipe-aux-diff%C3%A9rentes-%C3%A9tapes-du-process
+        - name: Monitorez et optimisez
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#monitorez-et-optimisez
+        - name: Optimisez la relation fournisseur
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#optimisez-la-relation-fournisseur
+        - name: test 2 3 4 
 

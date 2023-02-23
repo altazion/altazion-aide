@@ -8,7 +8,7 @@ Altazion est votre partenaire, designé pour vous aider à atteindre vos objecti
 - Renforcez votre relation avec les marques et les fournisseurs en mettant en avant le potentiel des campagnes et en profitant des outils de reporting avancés proposés par Altazion. 
 
 ### Illustration avec un cas pratique 
-_Vous êtes chef de gamme pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Vous allez référencer votre gamme avec votre nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Altaya, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
+_Vous êtes chef de gamme pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Vous allez référencer votre gamme avec votre nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
 
 ## Structurez & référencez votre gamme 
 **Structurez**  
@@ -39,10 +39,14 @@ _Avec Altazion, vous pouvez réellement faire ressortir vos produits star. C'est
 
 - Un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) et un autre "exclu web" sont visibles depuis les pages de segment et sur la fiche produit afin de faire
 
+
 - **La page spécifique pour l'opération, pour la gamme ou pour la marque !**
 Altazion permet de créer des pages personnalisées, des "landing pages".
-Créez par exemple une page "Altaya" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
+Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
 - La figurine est aussi mise en avant sur une landing page "Spider-Man" à vocation SEO ou SEA dans laquelle une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) liés au super héros Spider-Man sera proposé.
+
+Ci-dessous la page marque Hasbro avec son url et son modèle spécifique.
+![marque hasbro page](https://aide.altazion.com/fr-fr/ressources/fiche-metier/page-marque-hasbro.jpg)
 
 ## La clef de voute de l'animation : la campagne omnicanale
 Utilisez toutes les fonctionnalités présentées ci-dessus dans ** [une campagne commerciale](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html)**.
