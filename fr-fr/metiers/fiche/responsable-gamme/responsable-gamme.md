@@ -56,6 +56,9 @@ _Avec cette stratégie, vous pouvez multiplier les points de contacts (landing p
 - Tout savoir sur les [pages et la gestion de contenu "SXO"](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html).
 - Tout savoir sur les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
 
+Ci-dessous, une campagne "Carnaval", qui propose différentes promotions sur une sélection de produit. Une landing page avec un template spécifique a été créée pour l'opération.
+![Illustration d'une campagne "Carnaval"](https://aide.altazion.com/fr-fr/ressources/fiche-metier/selection.jpg)
+
 ## Travaillez en équipe aux différentes étapes du process
 Altazion vous offre la possibilité de créer et d'assigner des taches à chacun des membres de votre équipe et de définir le process de validation.
 Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire. 
@@ -69,15 +72,15 @@ tache n°4 : création de la campagne et des offres promotionnelles. Que vous as
 
 ![L'espace personnel du responsable SEO avec la tache de rédaction](https://aide.altazion.com/fr-fr/ressources/taches.jpg)
 
-Tout savoir sur [la création des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html).  
-Tout savoir sur [l'assignation des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html).  
-Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).  
+- Tout savoir sur [la création des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html).  
+- Tout savoir sur [l'assignation des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html).  
+- Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).  
 
 ## Monitorez et optimisez
 En utilisant la déclinaison de produit vous obtenez un reporting figurine par figurine. 
 A remplir en complétant la partie analyse pas encore présente. 
 KPI etc.
 
-### Optimisez votre relation commerciale avec le fournisseur
+## Optimisez la relation fournisseur
 Avec Altazion, travaillez main dans la main avec vos fournisseurs.
 La flexibilité de notre outils vous donne la possibilité de proposer différents types d'offres.
