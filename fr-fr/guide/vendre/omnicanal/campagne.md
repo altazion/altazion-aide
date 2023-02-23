@@ -47,3 +47,5 @@ La sélection de produit permet de regrouper et mettre en avant des produits de 
 _Exemple : pour la fête des pères, le retailer a créé une campagne, propose une sélection de produits variés qui pourront faire office de cadeaux, avec par exemple : -20% sur le vin à partir de 6 bouteilles achetées, les frais de port offerts pour un rasoir électrique, 10% de réduction sur une tondeuse à gazon..._
 
 
+Ci-dessous, une campagne "Carnaval", qui propose différentes promotions sur une sélection de produit. Une landing page avec un template spécifique a été créée pour l'opération.
+![Illustration d'une campagne "Carnaval"](https://aide.altazion.com/fr-fr/ressources/fiche-metier/selection.jpg)

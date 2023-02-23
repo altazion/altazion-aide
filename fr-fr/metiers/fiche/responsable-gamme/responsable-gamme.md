@@ -56,7 +56,7 @@ _Avec cette stratégie, vous pouvez multiplier les points de contacts (landing p
 - Tout savoir sur les [pages et la gestion de contenu "SXO"](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html).
 - Tout savoir sur les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
 
-Ci-dessous, une campagne "Carnaval", qui propose différentes promotions sur une sélection de produit. Une landing page avec un template spécifique a été créée pour l'opération.
+Ci-dessous, une campagne "Carnaval", qui propose différentes promotions sur une sélection de produit. Une landing page avec un template spécifique a été créée pour l'opération. Cette campagne dispose de sa propre url, etc.
 ![Illustration d'une campagne "Carnaval"](https://aide.altazion.com/fr-fr/ressources/fiche-metier/selection.jpg)
 
 ## Travaillez en équipe aux différentes étapes du process

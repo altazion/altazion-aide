@@ -24,3 +24,5 @@ Pour un ciblage avancé et une sélection plus large de produits.
 **Récupération d'un flux externe**  
 Pour travailler avec des catalogues de revendeurs par exemple.
 
+Ci-dessous, une campagne "Carnaval", qui propose différentes promotions sur une sélection de produit. Une landing page avec un template spécifique a été créée pour l'opération.
+![Illustration d'une campagne "Carnaval"](https://aide.altazion.com/fr-fr/ressources/fiche-metier/selection.jpg)
