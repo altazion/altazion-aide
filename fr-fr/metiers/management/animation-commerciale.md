@@ -12,14 +12,14 @@ Dans notre cas :
 Ci-dessous, le score donné par Page Speed Insight (Google) à la page de l'opération carnaval de notre client King-jouet 
 ![image psi](https://aide.altazion.com/fr-fr/ressources/fiche-metier/performance.jpg)
 
-## Une flexibilité et réactivité en magasin 
+## Flexibilité et réactivité en magasin 
 
-## Simplicité d'utilisation 
-- Une seule interface pour les utilisateurs.  
-Avec Office, tous les membres de l'équipe, du responsable e-commerce au vendeur en magasin utilisent la même interfaceUne seule interface pour gérer les campagnes avec différents droits. **Tout le monde parle le même language !**
+## Gestion unifiée - optimisation des process
+- Une seule interface pour les utilisateurs.  Bien évidement, une gestion des droits permet une gestion optimisée.  
+**Tout le monde parle le même language !**
 
 - Répartition des taches, gestion simplifiée.  
-Un système de gestion de taches permet au responsable d'assigner les taches à chaque membre de l'équipe, qui intervient dans son perimètre. 
+Un système de gestion de taches permet au responsable d'assigner les taches à chaque membre de l'équipe, qui intervient dans son perimètre. Sans être un vrai logiciel de gestion de projet, cela permet au manager 
 
 ## Possibilités commerciales presques infinies
 - Campagne unifiée mais choix du canal de vente
