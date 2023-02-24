@@ -21,7 +21,7 @@ Ci-dessous, le score donné par Page Speed Insight (Google) à la page de l'opé
 - Répartition des taches, gestion simplifiée.  
 Un système de gestion de taches permet au responsable d'assigner les taches à chaque membre de l'équipe, qui intervient dans son perimètre. Sans être un vrai logiciel de gestion de projet, cela permet au manager 
 
-## Possibilités commerciales presques infinies
+## Variété d'actions commerciales
 - Campagne unifiée mais choix du canal de vente
 Site ecommerce et/ou magasin
 
