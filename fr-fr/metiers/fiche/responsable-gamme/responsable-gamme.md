@@ -1,11 +1,9 @@
 # Fiche métier : responsable de gamme ou de marque
 
 Chef de produit, chef de gamme, responsable de marque Altazion vous permet de **gérer les gammes**, marques et produits dont vous avez la responsabilité à 360 degrés. 
-
-Altazion est votre partenaire, designé pour vous aider à atteindre vos objectifs. vous donne une grande liberté afin d'atteindre vos objectifs : 
 - Collaborez avec un outils complet mais simple & abordable. Déleguez simplement et suivez l'évolution des taches. 
 - Séduisez et fidélisez votre client en étant présent et pertinent aux différentes étapes de son parcours.
-- Renforcez votre relation avec les marques et les fournisseurs en mettant en avant le potentiel des campagnes et en profitant des outils de reporting avancés proposés par Altazion. 
+- Renforcez votre relation avec les marques et les fournisseurs.
 
 ### Illustration avec un cas pratique 
 _Vous êtes chef de gamme pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Vous allez référencer votre gamme avec votre nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
@@ -22,11 +20,6 @@ Détail, qui n'en est pas un : si le fournisseur propose un seul EAN pour les di
 - les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html) vous permettent d'enrichir vos fiches produit avec du contenu de qualité. Ces attributs serviront aussi de filtres de recherche et aideront au référencement naturel.
 - Ajoutez des documents (label qualité, garantie, mode d'emploi), des visuels, des vidéos pour présenter au mieux votre produit en fonction de la typologie. Ici, une vidéo promotionnelle présentant notre super héros sera intégrée à la fiche produit.  
 _Altazion vous permet de personnaliser à 100% vos fiches produit_.
-
-- Tout savoir sur les [segment](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html).
-- Tout savoir sur les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html).
-- Tout savoir sur les [produits déclinables de type Mère/Fille](https://aide.altazion.com/fr-fr/guide/referencer/articles/declinables.html)
-- Tout savoir sur la [création de produit](https://aide.altazion.com/fr-fr/guide/referencer/articles/index.html).
 
 ## Animez votre gamme
 Avant même de parler de campagnes commerciales, Altazion vous permet de mettre en avant vos produits stars. 
@@ -54,12 +47,6 @@ Dans le cas de l'exemple, la campagne est 100% web. Vous pouvez jouer avec le pr
 
 _Avec cette stratégie, vous pouvez multiplier les points de contacts (landing page marque et Spider-Man, page du segment Super Héros, moteur de recherche, bannières sur la home page ou ailleurs, navigation à facette) et les optimiser (attributs produit, labels "nouveauté" et "exclu web"...). Cela vous permet de vendre, mais aussi de négocier des avantages avec votre fournisseur._
 
-- Tout savoir sur les [campagnes commerciales](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html).
-- Tout savoir sur [l'emershandizing](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html) sur Altazion.
-- Tout savoir sur les mots clés [keywords](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html).
-- Tout savoir sur les [pages et la gestion de contenu "SXO"](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html).
-- Tout savoir sur les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
-
 Ci-dessous, une campagne "Carnaval", qui propose différentes promotions sur une sélection de produit. Une landing page avec un template spécifique a été créée pour l'opération. Cette campagne dispose de sa propre url, etc.
 ![Illustration d'une campagne "Carnaval"](https://aide.altazion.com/fr-fr/ressources/fiche-metier/selection.jpg)
 
@@ -68,11 +55,8 @@ Altazion vous offre la possibilité de créer et d'assigner des taches à chacun
 Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire. 
 Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les transférer depuis son espace personnel. 
 
-**Quelques exemples.**  
-tache n°1 : création du modèle de page marque et segment que vous assignez à l'expert UX - UI design qui peut ensuite la transférer au référent SEO pour validation.    
-Tache N°2 : En parrallèle, préparez la mise en avant du produit (bannières, keywords, mise en avant segment et moteur de recherche) en assignant cette tache au référent emershandizing.  
-tache n°3 : Une fois les pages crées, assignez une tache relative à la création du contenu textuel, que vous pouvez assigner à l'expert de votre équipe avec une validation par vos soins. Le référent SEO ne traite pas suffisament rapidement, vous recevez une alerte dans votre espace personnel et pouvez ainsi le relancer.  
-tache n°4 : création de la campagne et des offres promotionnelles. Que vous assignez à l'assistant chef de gamme...  
+**Exemple**  
+Pour la création du modèle de page marque vous créez et assignez une tache à l'expert UX - UI qui peut ensuite la transférer au référent SEO pour validation.    
 
 ![L'espace personnel du responsable SEO avec la tache de rédaction](https://aide.altazion.com/fr-fr/ressources/taches.jpg)
 
@@ -81,10 +65,23 @@ tache n°4 : création de la campagne et des offres promotionnelles. Que vous as
 - Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).  
 
 ## Monitorez et optimisez
-En utilisant la déclinaison de produit vous obtenez un reporting figurine par figurine. 
-A remplir en complétant la partie analyse pas encore présente. 
-KPI etc.
+Altazion se "plugue" avec vos outils de reporting. Toutes les données sont exportables pour être exploitées.
 
 ## Optimisez la relation fournisseur
 Avec Altazion, travaillez main dans la main avec vos fournisseurs.
-La flexibilité de notre outils vous donne la possibilité de proposer différents types d'offres.
+La flexibilité de notre outils vous donne la possibilité de proposer différents types d'offres pour obtenir des partenariats ou des budgets.
+
+## Liens utiles
+### Structurez & référencez votre gamme 
+- Tout savoir sur les [segment](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html).
+- Tout savoir sur les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html).
+- Tout savoir sur les [produits déclinables de type Mère/Fille](https://aide.altazion.com/fr-fr/guide/referencer/articles/declinables.html)
+- Tout savoir sur la [création de produit](https://aide.altazion.com/fr-fr/guide/referencer/articles/index.html).
+
+### Animez votre gamme
+- Tout savoir sur les [campagnes commerciales](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html).
+- Tout savoir sur [l'emershandizing](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html) sur Altazion.
+- Tout savoir sur les mots clés [keywords](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html).
+- Tout savoir sur les [pages et la gestion de contenu "SXO"](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html).
+- Tout savoir sur les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
+
