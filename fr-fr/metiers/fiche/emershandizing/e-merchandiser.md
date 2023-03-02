@@ -23,9 +23,8 @@ test
 -->
 
 ---- 
-
-<!--
 ![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg)
+<!--
 -->
 
 Altazion vous permet de donner du poids à vos segments et produits en fonction de votre choix.
