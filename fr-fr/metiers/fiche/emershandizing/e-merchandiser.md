@@ -7,7 +7,7 @@ Altazion permet d'intégrer complétement le merchandising à la stratégie comm
 
 ### Illustration avec un cas pratique 
 _Votre entreprise de vente de jouets possède une vraie stratégie Omnicanale. Votre chef de gamme Marvel va référencer le nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne.  
-L'e-merchandiser que vous êtes a un rôle important à jouer dans le cadre de l'opération : 
+L'e-merchandiser que vous êtes a un rôle important à jouer dans le cadre de l'opération :_ 
 
 # Mise en avant des produits et des segments liés
 Avant même de créer la campagne, travaillez sur le produit et ses segments (catégories).
