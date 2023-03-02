@@ -36,7 +36,7 @@ Altazion vous permet de donner du poids à vos segments en fonction des critère
 
 En configurant un segment comme un segment "star", les produits du segment apparaitront en priorité dans les sélections de produits, dans les résultats de recherche...
 
-Vous connaissez les dates de lancement du film, la date de réception du nouveau produit et les points forts de la figurine. 
+ 
 
 ## Créez et gérez vos plans d'animations
 Altazion vous permet de créer des campagnes et séléctions de produit selon des critères temporels.
@@ -56,7 +56,7 @@ Un template a été développé, dans lequel il est prévu 3 espaces à vocation
 
 
 Coté client, retrouvez l'illustration. Ici, il sera possible d'afficher 
-![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/home-zones.jpg)
+![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/home-zones.gif)
 
 **Variez les mises en avant**
 - Bannière
