@@ -18,13 +18,13 @@ Rendez le produit plus visible avec tags "Tête de catégorie", "Nouveauté" et 
 Le produit apparaitra ainsi en haut des pages de segments, avec les stickers "Nouveauté" et "exclusivité".
 
 <!--
-![image carrousel 1](ressources\fiche-metier\tags.jpg) 
+![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg) 
 -->
 
 ---- 
 
 <!--
-![image carrousel 1](ressources\fiche-metier\tags.jpg) 
+![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg) 
 -->
 
 Altazion vous permet de donner du poids à vos segments et produits en fonction de votre choix.
