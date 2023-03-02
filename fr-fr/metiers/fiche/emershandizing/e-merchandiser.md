@@ -17,14 +17,15 @@ Dans Office, rendez vous sur la fiche produit nouvellement créée et définisse
 Rendez le produit plus visible avec tags "Tête de catégorie", "Nouveauté" et le label "exlusivité".
 Le produit apparaitra ainsi en haut des pages de segments, avec les stickers "Nouveauté" et "exclusivité".
 
+![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg)
 <!--
-![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg) 
+test
 -->
 
 ---- 
-
+![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg)
 <!--
-![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg) 
+ 
 -->
 
 Altazion vous permet de donner du poids à vos segments et produits en fonction de votre choix.
