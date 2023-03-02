@@ -28,28 +28,47 @@ test
 test
 -->
 
-Altazion vous permet de donner du poids à vos segments et produits en fonction de votre choix.
-- Ranking manuel ou automatisé des produits
-- Saisonnalité des produits
-- Nouveautés et segments stars
+Altazion vous permet de donner du poids à vos segments en fonction des critères suivants.
+- Saisonnalité de votre activité.
+- Nouveautés.
+- De vos "best sellers".
+- De la stratégie d'entreprise. 
+
+En configurant un segment comme un segment "star", les produits du segment apparaitront en priorité dans les sélections de produits, dans les résultats de recherche...
 
 Vous connaissez les dates de lancement du film, la date de réception du nouveau produit et les points forts de la figurine. 
-# Créez et gérez vos plans d'animations
-**En fonction de critères**
+
+## Créez et gérez vos plans d'animations
+Altazion vous permet de créer des campagnes et séléctions de produit selon des critères temporels.
+Vous pouvez ainsi programmer vos campagnes à l'avance, puis basculer de l'une à l'autre sans avoir besoin de retoucher.
 
 ## Optimisez le parcours client & la conversion 
-Collaborez avec les (responsables de gamme/marque) pour mettre en avant les campagnes commerciales. Optimisez le taux de conversion en travaillant aux différentes étapes du parcours client. 
+**Personnalisez les templates puis intégrez simplement les éléments de merchandising**
+Altazion offre la possibilité de créer et personnaliser les templates des différents types de pages.
+Vous pouvez ainsi définir en avance les zones à vocation de mise en avant de deux types : 
+- pour les campagnes commerciales.
+- Pour les recommandations automatisées (type Nosto)
 
-**Personnalisez les templates**
+_**Commencez par la page d'accueil**_  
+Ci-dessous retrouvez les emplacement personnalisables depuis les campagnes pour une home page d'un de nos clients.
+Un template a été développé, dans lequel il est prévu 3 espaces à vocation commerciale. 
+![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/campagne-office.jpg)
 
-**Intégrez simplement les éléments de mershandizing**
+
+Coté client, retrouvez l'illustration. Ici, il sera possible d'afficher 
+![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/home-zones.jpg)
 
 **Variez les mises en avant**
 - Bannière
 - Vidéo 
 - Code Html
+Altazion propose un large choix d'animation.
 
+## Pages segment
+**Filtres et tri**
+**Espaces commerciaux**
 
+## Moteur de recherche
 
-
+## Landing pages
 ## Analysez et optimisez
