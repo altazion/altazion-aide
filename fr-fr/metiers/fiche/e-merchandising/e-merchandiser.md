@@ -78,10 +78,10 @@ Coté client, retrouvez l'illustration. Ici, il sera possible d'afficher
 ![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/home-zones.gif)
 
 ## Intégrez différentes mises en avant**
-- Bannière
-- Vidéo 
-- Code Html
-- séléction de produit
+- Bannière.
+- Vidéo.
+- Code Html.
+- séléction de produit.
 ...
 Altazion propose un large choix d'animation en fonction de votre besoin. 
 Ici, en home vous aurez une bannière pointant vers une landing présentant une sélection de produits relatifs au nouveau film, qui proposera une vidéo...l'ordre d'apparition des produits aura été défini en donnant du poids au segment star, au produit...
