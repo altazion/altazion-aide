@@ -63,7 +63,7 @@ Ici, en home vous aurez une bannière pointant vers une landing présentant une 
 
 _exemple : la page d'accueil_ 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Optimisez le searchandising
 Altazion propose un moteur de recherche fonctionnel pour répondre à des besoins basiques et efficace, une "base".  
