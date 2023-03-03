@@ -1,4 +1,4 @@
-# Emershandizing 
+# Emerchandising 
 La philosophie d'Altazion est que chaque outil a une utilité principale, pour laquelle il doit être optimisé.  
 [L'architecture technique de la solution](https://aide.altazion.com/fr-fr/guide/architecture.html) a été pensée ainsi. Nous proposons à nos clients un socle optimisé pour la configuration, répondre aux impératifs de la gestion de leur catalogue et de leur activité commerciale mais aussi pour les performances (temps de chargement etc.).
 
