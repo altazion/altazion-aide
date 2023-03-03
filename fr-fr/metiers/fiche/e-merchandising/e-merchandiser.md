@@ -34,7 +34,7 @@ Le produit apparaitra ainsi avec les stickers "Nouveauté" et "exclusivité".
 
 Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html), mots clés liés au super héros et à Marvel afin d'optimiser l'apparition du produit dans le moteur de recherche interne du site. Les mots clés peuvent aussi être utilisés comme facettes de filtres etc.
 
-<iframe width="560" height="315" src="https://youtu.be/DI5JODGsgKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mise en avant du segment
 - Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un segment **segment star**; Ainsi la nouvelle figurine est mise en avant sur la page du segment (page catégorie) qui bénéficie d'un modèle ou template personnalisable (structure, bannière, texte, etc.).
