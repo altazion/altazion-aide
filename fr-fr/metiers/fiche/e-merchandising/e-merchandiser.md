@@ -58,18 +58,12 @@ Vous pouvez ainsi définir en avance les zones à vocation de mise en avant de d
 - pour les campagnes commerciales.
 - Pour les recommandations automatisées (type Nosto)
 
+Altazion propose un large choix d'animations en fonction de votre besoin. 
+Ici, en home vous aurez une bannière pointant vers une landing présentant une sélection de produits relatifs au nouveau film, qui proposera une vidéo...Si vous passez par une solution tierce pour les recommandations produit, les tags, poids du segment pourront êtrep pris en compte pour nourrir l'algorythme et offrir de meilleures recommandations.
+
 _exemple : la page d'accueil_ 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Intégrez différentes mises en avant
-- Bannière.
-- Vidéo.
-- Code Html.
-- sélection de produit.
-...
-Altazion propose un large choix d'animation en fonction de votre besoin. 
-Ici, en home vous aurez une bannière pointant vers une landing présentant une sélection de produits relatifs au nouveau film, qui proposera une vidéo...l'ordre d'apparition des produits aura été défini en donnant du poids au segment star, au produit...
 
 ## Optimisez le searchandising
 Altazion propose un moteur de recherche fonctionnel pour répondre à des besoins basiques et efficace, une "base".  
@@ -84,6 +78,7 @@ Créez par exemple une page "Marvel" avec un template spécifique et proposez un
 
 Ci-dessous la page spécifique aux héros Marvel, avec une url spécifique.
 ![marque marvel](https://aide.altazion.com/fr-fr/ressources/fiche-metier/page-marvel.jpg)
+
 
 # Analysez et optimisez
 En utilisant Hub (voir l'architecture), exportez toutes les données produit, CA, etc. vers les solutions d'analyse de votre choix.
