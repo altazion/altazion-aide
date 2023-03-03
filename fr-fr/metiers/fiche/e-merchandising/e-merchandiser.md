@@ -28,19 +28,12 @@ Dans Office, vous avez la main sur les informations à mettre en avant.
 **Rendez le produit plus visible avec [tags](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html)** "Tête de catégorie", "Nouveauté" et le **label** "exlusivité".
 Le produit apparaitra ainsi en haut des pages de segments, avec les stickers "Nouveauté" et "exclusivité".
 
-![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg)
-<!--
-test
--->
-
 Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html), mots clés liés au super héros et à Marvel afin d'optimiser l'apparition du produit dans le moteur de recherche interne du site. Les mots clés peuvent aussi être utilisés comme facettes de filtres etc.
 ![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/keywords.jpg)
 
----- 
-
 Les Keywords ajoutés dans le back office sont affichés en facette si définis comme tel au préalable.
 
-![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/facette-keywords.jpg)
+<iframe width="560" height="315" src="https://youtu.be/DI5JODGsgKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mise en avant du segment
 - Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un segment **segment star**; Ainsi la nouvelle figurine est mise en avant sur la page du segment (page catégorie) qui bénéficie d'un modèle ou template personnalisable (structure, bannière, texte, etc.).
@@ -64,25 +57,15 @@ Vous pouvez ainsi définir en avance les zones à vocation de mise en avant de d
 - pour les campagnes commerciales.
 - Pour les recommandations automatisées (type Nosto)
 
+_exemple : la page d'accueil_ 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uEkDFpHfE7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-_exemple ; la page d'accueil_  
-Ci-dessous retrouvez les emplacement personnalisables depuis les campagnes pour une home page d'un de nos clients.
-Un template a été développé, dans lequel il est prévu 3 espaces à vocation commerciale. 
-![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/campagne-office.jpg)
-
-Coté client, retrouvez l'illustration. Ici, il sera possible d'afficher les éléments définis dans les templates.
-
-![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/home-zones.gif)
-
-En plus des campagnes commerciales, intégrez à vos templates des espaces de recommandations pour une experience optimisée. 
-
-## Intégrez différentes mises en avant**
+## Intégrez différentes mises en avant
 - Bannière.
 - Vidéo.
 - Code Html.
-- séléction de produit.
+- sélection de produit.
 ...
 Altazion propose un large choix d'animation en fonction de votre besoin. 
 Ici, en home vous aurez une bannière pointant vers une landing présentant une sélection de produits relatifs au nouveau film, qui proposera une vidéo...l'ordre d'apparition des produits aura été défini en donnant du poids au segment star, au produit...
@@ -91,8 +74,6 @@ Ici, en home vous aurez une bannière pointant vers une landing présentant une 
 Altazion propose un moteur de recherche fonctionnel pour répondre à des besoins basiques et efficace, une "base".  
 Nous proposons aussi, via Hub la possibilité d'intégrer des moteurs de recherches aux fonctionnalités avancées comme Algolia ou Doofinder. 
 Ces moteurs, nourris par les différents éléments configurés au niveau du catalogue, comme les segments, les sélections, les marques, mais aussi les [keywords](https://aide.altazion.com/fr-fr/guide/referencer/keywords.html), les produits associés atteignent des niveaux de performances excellents...que vous aurez du mal à retrouver sur des solutions concurrentes.
-
-Ci-dessous un exemple avec Algolia utilisé par un client.
 
 ## Créez des pages et éléments CMS
 - **La page spécifique pour l'opération, pour la gamme ou pour la marque !**
