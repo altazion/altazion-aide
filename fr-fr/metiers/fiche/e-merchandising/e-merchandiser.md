@@ -57,7 +57,6 @@ En configurant le segment principal de votre figurine comme un segment star, les
 
 ![segment](https://aide.altazion.com/fr-fr/ressources/fiche-metier/segment-importance.jpg)
 
-
 # Optimisez le parcours client & la conversion 
 
 ## Créez et gérez vos plans d'animations
@@ -81,6 +80,8 @@ Coté client, retrouvez l'illustration. Ici, il sera possible d'afficher les él
 
 ![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/home-zones.gif)
 
+En plus des campagnes commerciales, intégrez à vos templates des espaces de recommandations pour une experience optimisée. 
+
 ## Intégrez différentes mises en avant**
 - Bannière.
 - Vidéo.
@@ -91,7 +92,6 @@ Altazion propose un large choix d'animation en fonction de votre besoin.
 Ici, en home vous aurez une bannière pointant vers une landing présentant une sélection de produits relatifs au nouveau film, qui proposera une vidéo...l'ordre d'apparition des produits aura été défini en donnant du poids au segment star, au produit...
 
 ## Searchandising
- 
 Altazion propose un moteur de recherche fonctionnel pour répondre à des besoins basiques et efficace, une "base".  
 Nous proposons aussi, via Hub la possibilité d'intégrer des moteurs de recherches aux fonctionnalités avancées comme Algolia ou Doofinder. 
 Ces moteurs, nourris par les différents éléments configurés au niveau du catalogue, comme les segments, les sélections, les marques, mais aussi les [keywords](https://aide.altazion.com/fr-fr/guide/referencer/keywords.html), les produits associés atteignent des niveaux de performances excellents...que vous aurez du mal à retrouver sur des solutions concurrentes.
