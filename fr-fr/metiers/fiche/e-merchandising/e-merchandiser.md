@@ -6,21 +6,21 @@ Altazion permet d'intégrer le merchandising à la stratégie commerciale.
 - Optimisation du parcours client.
 - Analyse et optimisation. 
 
-## Philosophie et fonctionnement général
+## Philosophie et fonctionnement
 La philosophie d'Altazion est que chaque outil a une utilité principale, pour laquelle il doit être optimisé.  
 [L'architecture technique de la solution](https://aide.altazion.com/fr-fr/guide/architecture.html) a été pensée ainsi. Nous proposons à nos clients un socle optimisé pour la configuration, répondre aux impératifs de la gestion de leur catalogue et de leur activité commerciale mais aussi pour les performances (temps de chargement etc.).
 
-Par extension nous ne cherchons pas à nous substituer à des solutions développées pour répondre à des besoins spécifiques, nous préférons proposer leur intégration pour qu'elle soit simple, rapide, performante (en général en utilisant notre middleware hub)
-Altazion propose des performances optimisées.
+Par extension nous ne cherchons pas à nous substituer à des solutions développées pour répondre à des besoins spécifiques, nous préférons proposer leur intégration pour qu'elle soit simple, rapide, performante (en général en utilisant notre middleware hub). 
+
+**Vous pourrez ainsi "pluguer" votre solution de moteur de recherche interne du site, votre solution de recommandation produit type Nosto simplement, sans altérer la performance de votre site.**
 
 ### Illustration avec un cas pratique 
 _Votre entreprise de vente de jouets possède une vraie stratégie Omnicanale. Votre chef de gamme Marvel va référencer le nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne.  
 L'e-merchandiser que vous êtes a un rôle important à jouer dans le cadre de l'opération :_ 
 
-## Mise en avant produit
 Avant même de créer la campagne, travaillez sur le produit et ses segments (catégories).
+## Mise en avant produit
 
-**Mise en avant du produit**
 Dans Office, rendez vous sur la fiche produit nouvellement créée et définissez les informations à mettre en avant.
 Rendez le produit plus visible avec [**tags**](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html) "Tête de catégorie", "Nouveauté" et le **label** "exlusivité".
 Le produit apparaitra ainsi en haut des pages de segments, avec les stickers "Nouveauté" et "exclusivité".
@@ -41,7 +41,7 @@ Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide
 
 ---- 
 
-![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/keywords.jpg)
+![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/facette-keywords.jpg)
 
 ## Mise en avant du segment
 Altazion vous permet de donner du poids à vos segments en fonction des critères suivants.
@@ -50,7 +50,10 @@ Altazion vous permet de donner du poids à vos segments en fonction des critère
 - De vos "best sellers".
 - De la stratégie d'entreprise. 
 
-En configurant un segment Marvel comme un segment "star", les produits du segment apparaitront en priorité dans les sélections de produits, dans les résultats de recherche...
+En configurant le segment principal de votre figurine comme un segment star, les produits du segment apparaitront en priorité dans les sélections de produits, dans les résultats de recherche de votre moteur interne, etc. car Altazion envoie l'information vers les services tiers.
+
+![segment](https://aide.altazion.com/fr-fr/ressources/fiche-metier/segment-importance.jpg)
+
 
 # Optimisez le parcours client & la conversion 
 
@@ -83,11 +86,14 @@ Coté client, retrouvez l'illustration. Ici, il sera possible d'afficher
 Altazion propose un large choix d'animation en fonction de votre besoin. 
 Ici, en home vous aurez une bannière pointant vers une landing présentant une sélection de produits relatifs au nouveau film, qui proposera une vidéo...l'ordre d'apparition des produits aura été défini en donnant du poids au segment star, au produit...
 
-## Searchandizing
+## Searchandising
  
 Altazion propose un moteur de recherche fonctionnel pour répondre à des besoins basiques et efficace, une "base".  
 Nous proposons aussi, via Hub la possibilité d'intégrer des moteurs de recherches aux fonctionnalités avancées comme Algolia ou Doofinder. 
 Ces moteurs, nourris par les différents éléments configurés au niveau du catalogue, comme les segments, les sélections, les marques, mais aussi les [keywords](https://aide.altazion.com/fr-fr/guide/referencer/keywords.html), les produits associés atteignent des niveaux de performances excellents...que vous aurez du mal à retrouver sur des solutions concurrentes.
+
+Ci-dessous un exemple avec Algolia utilisé par un client.
+
 
 ## Eléments CMS
 
