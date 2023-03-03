@@ -64,6 +64,9 @@ Vous pouvez ainsi définir en avance les zones à vocation de mise en avant de d
 - pour les campagnes commerciales.
 - Pour les recommandations automatisées (type Nosto)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uEkDFpHfE7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 _exemple ; la page d'accueil_  
 Ci-dessous retrouvez les emplacement personnalisables depuis les campagnes pour une home page d'un de nos clients.
 Un template a été développé, dans lequel il est prévu 3 espaces à vocation commerciale. 
