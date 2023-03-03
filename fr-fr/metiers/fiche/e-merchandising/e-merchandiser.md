@@ -51,7 +51,7 @@ Altazion vous permet de créer des campagnes et séléctions de produit selon de
 Vous pouvez ainsi programmer vos campagnes à l'avance, puis basculer de l'une à l'autre sans avoir besoin de retoucher. 
 Dans notre cas, vous allez pouvoir planifier la campagne Spiderman durant au moment de la sortie du film.
 
-## Personnalisez vos templates
+## Personnalisez et animez
 **Personnalisez les templates puis intégrez simplement les éléments de merchandising**
 Altazion offre la possibilité de créer et personnaliser les templates des différents types de pages.
 Vous pouvez ainsi définir en avance les zones à vocation de mise en avant de deux types : 
