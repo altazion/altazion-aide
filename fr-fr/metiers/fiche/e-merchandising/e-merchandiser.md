@@ -17,7 +17,7 @@ Altazion propose des performances optimisées.
 _Votre entreprise de vente de jouets possède une vraie stratégie Omnicanale. Votre chef de gamme Marvel va référencer le nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne.  
 L'e-merchandiser que vous êtes a un rôle important à jouer dans le cadre de l'opération :_ 
 
-# Mise en avant des produits et des segments liés
+## Mise en avant produit
 Avant même de créer la campagne, travaillez sur le produit et ses segments (catégories).
 
 **Mise en avant du produit**
@@ -43,7 +43,7 @@ Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide
 
 ![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/keywords.jpg)
 
-**Mise en avant du segment**
+## Mise en avant du segment
 Altazion vous permet de donner du poids à vos segments en fonction des critères suivants.
 - Saisonnalité de votre activité.
 - Nouveautés.
@@ -52,13 +52,12 @@ Altazion vous permet de donner du poids à vos segments en fonction des critère
 
 En configurant un segment Marvel comme un segment "star", les produits du segment apparaitront en priorité dans les sélections de produits, dans les résultats de recherche...
 
+# Optimisez le parcours client & la conversion 
+
 ## Créez et gérez vos plans d'animations
 Altazion vous permet de créer des campagnes et séléctions de produit selon des critères temporels.
 Vous pouvez ainsi programmer vos campagnes à l'avance, puis basculer de l'une à l'autre sans avoir besoin de retoucher. 
 Dans notre cas, vous allez pouvoir planifier la campagne Spiderman durant au moment de la sortie du film.
-
-
-# Optimisez le parcours client & la conversion 
 
 ## Personnalisation des templates
 **Personnalisez les templates puis intégrez simplement les éléments de merchandising**
