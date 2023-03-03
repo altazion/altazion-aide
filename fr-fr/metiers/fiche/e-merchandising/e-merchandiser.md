@@ -37,7 +37,11 @@ test
 -->
 
 Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html), mots clés liés au super héros et à Marvel afin d'optimiser l'apparition du produit dans le moteur de recherche interne du site. Les mots clés peuvent aussi être utilisés comme facettes de filtres etc.
+![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/keywords.jpg)
 
+---- 
+
+![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/keywords.jpg)
 
 **Mise en avant du segment**
 Altazion vous permet de donner du poids à vos segments en fonction des critères suivants.
@@ -89,7 +93,5 @@ Ces moteurs, nourris par les différents éléments configurés au niveau du cat
 ## Eléments CMS
 
 
-## Landing pages
 
-
-## Analysez et optimisez
+# Analysez et optimisez
