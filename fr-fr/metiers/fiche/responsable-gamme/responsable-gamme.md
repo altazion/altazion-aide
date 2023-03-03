@@ -68,7 +68,6 @@ Pour la création du modèle de page marque vous créez et assignez une tache à
 Altazion se "plugue" avec vos outils de reporting. Toutes les données sont exportables pour être exploitées.
 
 ## Optimisez la relation fournisseur
-Avec Altazion, travaillez main dans la main avec vos fournisseurs.
 La flexibilité de notre outils vous donne la possibilité de proposer différents types d'offres pour obtenir des partenariats ou des budgets.
 
 ## Liens utiles
