@@ -22,8 +22,10 @@ Avant même de créer la campagne, travaillez sur le produit et ses segments (ca
 
 ## Mise en avant produit
 
-Dans Office, rendez vous sur la fiche produit nouvellement créée et définissez les informations à mettre en avant.
-Rendez le produit plus visible avec [**tags**](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html) "Tête de catégorie", "Nouveauté" et le **label** "exlusivité".
+Dans Office, vous avez la main sur les informations à mettre en avant.
+**Optimisez la fiche produit en jouant avec les contenus**. Les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html) vous permettent d'enrichir vos fiches produit avec du contenu de qualité. Ces attributs serviront aussi de filtres de recherche et aideront au référencement naturel.
+
+**Rendez le produit plus visible avec [tags](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html)** "Tête de catégorie", "Nouveauté" et le **label** "exlusivité".
 Le produit apparaitra ainsi en haut des pages de segments, avec les stickers "Nouveauté" et "exclusivité".
 
 ![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg)
@@ -92,16 +94,15 @@ Ci-dessous un exemple avec Algolia utilisé par un client.
 ## Créez des pages et éléments CMS
 - **La page spécifique pour l'opération, pour la gamme ou pour la marque !**
 Altazion permet de créer des pages personnalisées, des "landing pages".
-Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
+Créez par exemple une page "Marvel" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
 - La figurine est aussi mise en avant sur une landing page "Spider-Man" à vocation SEO ou SEA dans laquelle une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) liés au super héros Spider-Man sera proposé.
 
-Ci-dessous la page marque Hasbro avec son url et son modèle spécifique.
-![marque hasbro page](https://aide.altazion.com/fr-fr/ressources/fiche-metier/page-marque-hasbro.jpg)
-
-### Utilisez les sélections de produits
-
+Ci-dessous la page spécifique aux héros Marvel, avec une url spécifique.
+![marque marvel](https://aide.altazion.com/fr-fr/ressources/fiche-metier/page-marvel.jpg)
 
 # Analysez et optimisez
+En utilisant Hub (voir l'architecture), exportez toutes les données produit, CA, etc. vers les solutions d'analyse de votre choix.
+**Toutes les données sont exportables, à vous de définir vos KPI pour analyser et optimiser !**
 
 ## Liens utiles
 ### Structurez & référencez votre gamme 
