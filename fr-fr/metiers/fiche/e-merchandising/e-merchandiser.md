@@ -19,6 +19,7 @@ _Votre entreprise de vente de jouets possède une vraie stratégie Omnicanale. V
 L'e-merchandiser que vous êtes a un rôle important à jouer dans le cadre de l'opération :_ 
 
 Avant même de créer la campagne, travaillez sur le produit et ses segments (catégories).
+
 ## Mise en avant produit
 
 Dans Office, rendez vous sur la fiche produit nouvellement créée et définissez les informations à mettre en avant.
@@ -40,6 +41,8 @@ Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide
 ![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/keywords.jpg)
 
 ---- 
+
+Les Keywords ajoutés dans le back office sont affichés en facette si définis comme tel au préalable.
 
 ![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/facette-keywords.jpg)
 
@@ -74,7 +77,8 @@ Ci-dessous retrouvez les emplacement personnalisables depuis les campagnes pour 
 Un template a été développé, dans lequel il est prévu 3 espaces à vocation commerciale. 
 ![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/campagne-office.jpg)
 
-Coté client, retrouvez l'illustration. Ici, il sera possible d'afficher 
+Coté client, retrouvez l'illustration. Ici, il sera possible d'afficher les éléments définis dans les templates.
+
 ![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/home-zones.gif)
 
 ## Intégrez différentes mises en avant**
