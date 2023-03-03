@@ -14,6 +14,8 @@ Par extension nous ne cherchons pas à nous substituer à des solutions dévelop
 
 **Vous pourrez ainsi "pluguer" votre solution de moteur de recherche interne du site, votre solution de recommandation produit type Nosto simplement, sans altérer la performance de votre site.**
 
+![Schema](https://aide.altazion.com/fr-fr/ressources/architecture.png)
+
 ### Illustration avec un cas pratique 
 _Votre entreprise de vente de jouets possède une vraie stratégie Omnicanale. Votre chef de gamme Marvel va référencer le nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne.  
 L'e-merchandiser que vous êtes a un rôle important à jouer dans le cadre de l'opération :_ 
@@ -23,15 +25,14 @@ Avant même de créer la campagne, travaillez sur le produit et ses segments (ca
 ## Mise en avant produit
 
 Dans Office, vous avez la main sur les informations à mettre en avant.
-**Optimisez la fiche produit en jouant avec les contenus**. Les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html) vous permettent d'enrichir vos fiches produit avec du contenu de qualité. Ces attributs serviront aussi de filtres de recherche et aideront au référencement naturel.
+**Optimisez la fiche produit en jouant avec les contenus**. 
+- Ajoutez des images et des vidéos en toute simplicité.  
+- Les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html) vous permettent d'enrichir vos fiches produit avec du contenu de qualité. Ces attributs serviront aussi de filtres de recherche et aideront au référencement naturel.
 
-**Rendez le produit plus visible avec [tags](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html)** "Tête de catégorie", "Nouveauté" et le **label** "exlusivité".
-Le produit apparaitra ainsi en haut des pages de segments, avec les stickers "Nouveauté" et "exclusivité".
+**Rendez le produit plus remarquable dans les sélections et pages segment avec le [tag](https://aide.altazion.com/fr-fr/guide/referencer/tag-label.html)** "Nouveauté" et le **label** "exlusivité".
+Le produit apparaitra ainsi avec les stickers "Nouveauté" et "exclusivité".
 
 Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html), mots clés liés au super héros et à Marvel afin d'optimiser l'apparition du produit dans le moteur de recherche interne du site. Les mots clés peuvent aussi être utilisés comme facettes de filtres etc.
-![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/keywords.jpg)
-
-Les Keywords ajoutés dans le back office sont affichés en facette si définis comme tel au préalable.
 
 <iframe width="560" height="315" src="https://youtu.be/DI5JODGsgKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
