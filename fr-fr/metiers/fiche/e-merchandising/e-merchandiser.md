@@ -34,7 +34,7 @@ Le produit apparaitra ainsi avec les stickers "Nouveauté" et "exclusivité".
 
 Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html), mots clés liés au super héros et à Marvel afin d'optimiser l'apparition du produit dans le moteur de recherche interne du site. Les mots clés peuvent aussi être utilisés comme facettes de filtres etc.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mise en avant du segment
 - Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un segment **segment star**; Ainsi la nouvelle figurine est mise en avant sur la page du segment (page catégorie) qui bénéficie d'un modèle ou template personnalisable (structure, bannière, texte, etc.).
@@ -56,7 +56,7 @@ Dans notre cas, vous allez pouvoir planifier la campagne Spiderman durant au mom
 Altazion offre la possibilité de créer et personnaliser les templates des différents types de pages.
 Vous pouvez ainsi définir en avance les zones à vocation de mise en avant de deux types : 
 - pour les campagnes commerciales.
-- Pour les recommandations automatisées (type Nosto)
+- Pour les recommandations automatisées (type Nosto).
 
 Altazion propose un large choix d'animations en fonction de votre besoin. 
 Ici, en home vous aurez une bannière pointant vers une landing présentant une sélection de produits relatifs au nouveau film, qui proposera une vidéo...Si vous passez par une solution tierce pour les recommandations produit, les tags, poids du segment pourront êtrep pris en compte pour nourrir l'algorythme et offrir de meilleures recommandations.
