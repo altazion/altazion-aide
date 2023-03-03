@@ -31,12 +31,6 @@ Le produit apparaitra ainsi en haut des pages de segments, avec les stickers "No
 test
 -->
 
----- 
-![image carrousel 1](https://aide.altazion.com/fr-fr/ressources/fiche-metier/tags.jpg)
-<!--
-test
--->
-
 Vous utilisez aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html), mots clés liés au super héros et à Marvel afin d'optimiser l'apparition du produit dans le moteur de recherche interne du site. Les mots clés peuvent aussi être utilisés comme facettes de filtres etc.
 ![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/keywords.jpg)
 
@@ -47,24 +41,21 @@ Les Keywords ajoutés dans le back office sont affichés en facette si définis 
 ![keywords](https://aide.altazion.com/fr-fr/ressources/fiche-metier/facette-keywords.jpg)
 
 ## Mise en avant du segment
-Altazion vous permet de donner du poids à vos segments en fonction des critères suivants.
-- Saisonnalité de votre activité.
-- Nouveautés.
-- De vos "best sellers".
-- De la stratégie d'entreprise. 
+- Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un segment **segment star**; Ainsi la nouvelle figurine est mise en avant sur la page du segment (page catégorie) qui bénéficie d'un modèle ou template personnalisable (structure, bannière, texte, etc.).
+_Altazion vous permet de hiérarchiser les Segments et les produits au sein même de ceux-ci !_ 
 
-En configurant le segment principal de votre figurine comme un segment star, les produits du segment apparaitront en priorité dans les sélections de produits, dans les résultats de recherche de votre moteur interne, etc. car Altazion envoie l'information vers les services tiers.
+Les produits du segment apparaitront en priorité dans les sélections de produits, dans les résultats de recherche de votre moteur interne, etc. car Altazion envoie l'information vers les services tiers.
 
 ![segment](https://aide.altazion.com/fr-fr/ressources/fiche-metier/segment-importance.jpg)
 
-# Optimisez le parcours client & la conversion 
+# Optimisez le parcours client
 
 ## Créez et gérez vos plans d'animations
 Altazion vous permet de créer des campagnes et séléctions de produit selon des critères temporels.
 Vous pouvez ainsi programmer vos campagnes à l'avance, puis basculer de l'une à l'autre sans avoir besoin de retoucher. 
 Dans notre cas, vous allez pouvoir planifier la campagne Spiderman durant au moment de la sortie du film.
 
-## Personnalisation des templates
+## Personnalisez vos templates
 **Personnalisez les templates puis intégrez simplement les éléments de merchandising**
 Altazion offre la possibilité de créer et personnaliser les templates des différents types de pages.
 Vous pouvez ainsi définir en avance les zones à vocation de mise en avant de deux types : 
@@ -91,16 +82,36 @@ En plus des campagnes commerciales, intégrez à vos templates des espaces de re
 Altazion propose un large choix d'animation en fonction de votre besoin. 
 Ici, en home vous aurez une bannière pointant vers une landing présentant une sélection de produits relatifs au nouveau film, qui proposera une vidéo...l'ordre d'apparition des produits aura été défini en donnant du poids au segment star, au produit...
 
-## Searchandising
+## Optimisez le searchandising
 Altazion propose un moteur de recherche fonctionnel pour répondre à des besoins basiques et efficace, une "base".  
 Nous proposons aussi, via Hub la possibilité d'intégrer des moteurs de recherches aux fonctionnalités avancées comme Algolia ou Doofinder. 
 Ces moteurs, nourris par les différents éléments configurés au niveau du catalogue, comme les segments, les sélections, les marques, mais aussi les [keywords](https://aide.altazion.com/fr-fr/guide/referencer/keywords.html), les produits associés atteignent des niveaux de performances excellents...que vous aurez du mal à retrouver sur des solutions concurrentes.
 
 Ci-dessous un exemple avec Algolia utilisé par un client.
 
+## Créez des pages et éléments CMS
+- **La page spécifique pour l'opération, pour la gamme ou pour la marque !**
+Altazion permet de créer des pages personnalisées, des "landing pages".
+Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
+- La figurine est aussi mise en avant sur une landing page "Spider-Man" à vocation SEO ou SEA dans laquelle une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) liés au super héros Spider-Man sera proposé.
 
-## Eléments CMS
+Ci-dessous la page marque Hasbro avec son url et son modèle spécifique.
+![marque hasbro page](https://aide.altazion.com/fr-fr/ressources/fiche-metier/page-marque-hasbro.jpg)
 
+### Utilisez les sélections de produits
 
 
 # Analysez et optimisez
+
+## Liens utiles
+### Structurez & référencez votre gamme 
+- Tout savoir sur les [segment](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html).
+- Tout savoir sur les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html).
+- Tout savoir sur les [produits déclinables de type Mère/Fille](https://aide.altazion.com/fr-fr/guide/referencer/articles/declinables.html)
+- Tout savoir sur la [création de produit](https://aide.altazion.com/fr-fr/guide/referencer/articles/index.html).
+
+### Animez votre gamme
+- Tout savoir sur les [campagnes commerciales](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html).
+- Tout savoir sur les mots clés [keywords](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html).
+- Tout savoir sur les [pages et la gestion de contenu "SXO"](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html).
+- Tout savoir sur les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
