@@ -1,13 +1,18 @@
 # Intéraction client en ligne
 Office permet à l'équipe de relation client de suivre le parcours client en ligne et d'intervenir à chaque étape de celui-ci. 
 
+## Fonctionnement d'Altazion
+**Notre architecture est pensée pour que vous puissiez utiliser les meilleures solutions tierces sans perte de performance.**
+Que vous utilisiez une plateforme conversationnelle comme IAdvize ou un chat comme Kommunicate.io, vous
+
+## Illustration concrète
 _Une personne "tête en l'air" ou peu à l'aise avec internet découvre votre site internet et a une question, elle contacte le support client avec le chat en ligne. 
-Suite à un échange, la personne est convaincue par votre service, créé un compte et ajoute des produits à son panier. 
+La personne a été orientée par un collaborateur du support niveau 0 vers un commercial qui a pu échanger et convaincre le prospect qui créé un compte et ajoute des produits à son panier. Durant cette étape, le support a suivi en temps réel le process, puis le prospect a assuré que tout était ok pour la future commande. 
 Au moment de valider la commande elle ne procède pas au paiement. Quelque temps après elle recontacte le support sur le chat pour "retrouver son panier et savoir si sa commande est passée".  
-Grace au suivi des paniers abandonné le support le retrouve et guide l'internaute pour passer la commande. La cliente a indiqué apprécier une marque en particulier, le collaborateur l'a indiqué dans son compte client en remarque. 
-Suite à sa commande, le client s'étonne de ne pas recevoir son colis. Le support consulte l'avancée de celle-ci et constate que le client a sélectionné un point relais.  
-Informé, il va récupérer le colis mais se rend compte que le produit ne convient pas par ticket dans son compte client.
-Le support client retrouve sa commande et lui adresser un bon de retour et éditer un bon d'achat pour une raison commerciale. 
+Grace au suivi des paniers abandonné le support le retrouve et guide l'internaute pour passer la commande. Le client indique apprécier une marque en particulier, le collaborateur l'a indiqué dans son compte client en remarque. 
+Suite à sa commande, le client s'étonne de ne pas recevoir son colis. Le support consulte l'avancée de celle-ci et constate que le client a sélectionné une livraison en point relais.  
+Informé, il va récupérer le colis mais se rend compte que le produit ne convient pas. Il le signale en ouvrant un ticket dans son compte client.
+Le support client retrouve sa commande et lui adresse un bon de retour, édite un bon d'achat pour une raison commerciale. 
 Quelque temps plus tard, le client a déménagé et recontacte le support pour modifier l'adresse et repasser commande...cette fois-ci tout se passe bien car l'historique et les remarques permettent de commander le bon produit._
 
 --> Altazion permet toutes ces actions.
@@ -15,9 +20,9 @@ Quelque temps plus tard, le client a déménagé et recontacte le support pour m
 ## Chat en ligne 
 
 Nous avons déjà intégré la solution https://www.kommunicate.io/ à Altazion. 
-Nous pouvons intégrer toute autre solution de votre choix.  
+Intégrez la solution de votre choix.
 
-## Panier abandonné (à voir si reste là).
+## Panier abandonné
 
 Les paniers abandonnés sont consultables. Cela permet :  
 - Le support client en cas d’échec lors du processus de commande, avec la possibilité de modifier le panier.  
@@ -29,7 +34,7 @@ Le client et l’administrateur ont accès aux informations relatives au compte 
 Cela veut dire que le service de support au client peut agir pour aider le client en réalisant les actions suivantes :  
 - Modification du mot de passe. 
 - Mise à jour des préférences RGPD (avec possibilité de retrait). 
-- Consulter la commande en cours et agir sur celle-ci. 
+- Consulter la commande en cours et agir sur celle-ci (suivi de commande par exemple). 
 - Consulter les anciennes commandes et échanges. 
 - Contacter par courriel (les échanges sont conservés dans l’administration). 
 - Editer des étiquettes de retour. 
@@ -42,5 +47,5 @@ Cela veut dire que le service de support au client peut agir pour aider le clien
 Nous travaillons déjà avec MailJet par API mais pouvons bien évidemment développer au besoin d’autres pont avec des solutions de fidélisation.  
 
 **Données exportables :**  
-Les informations client, y compris le magasin préféré. 
+Les informations client, y compris le magasin préféré sont exportables. 
 L’historique des commandes (montants, dates, produits achetés, mode de livraison…). 
