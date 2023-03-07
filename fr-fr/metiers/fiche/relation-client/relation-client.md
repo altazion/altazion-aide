@@ -15,22 +15,22 @@ Au moment de valider la commande le prospect ne procède pas au paiement. Quelqu
 Grace au **suivi des paniers abandonnés** et au **suivi des commandes** natifs d'Altazion le service support retrouve le panier et guide l'internaute pour passer la commande, qui n'avait pas été validée.   
 Durant l'échange, le client indique apprécier une marque en particulier, le collaborateur l'indique en remarque commerciale dans son compte client._ 
 
-**Suivi de commande**
+**Suivi de commande**  
 _Suite à sa commande, le client s'étonne de ne pas recevoir son colis. Il écrit un mail au support depuis son compte client, en taguant sa commande. 
 Le support consulte l'avancée de celle-ci et constate que le client a sélectionné une livraison en point relais, le colis attend donc le client. 
 Informé, le client récupère son colis._ 
 
-**Gestion de litige**
+**Gestion de litige**  
 _Le client rentre chez lui et découvre que le produit a été endommagé durant le transport. Il contacte de nouveau le support client et ouvre un litige.
 Le support client, utilisant Office et l'onglet de suivi des commandes retrouve sa commande et propose au client plusieurs solutions pour réparer le préjudice. Le client choisi un échange. 
 Le service client créé un bon de retour accessible et imprimable par le client depuis son compte. Le support client décide aussi d'offrir un bon d'achat au client pour une prochaine commande. Après avoir reçu son colis, le client donne un avis positif suite à la bonne gestion._
 
-**Historique et données**
+**Historique et données**  
 Quelque temps plus tard, le client a déménagé et recontacte le support pour modifier l'adresse liés au produit acheté mais ne se souvient plus de la référence. Il souhaite commander des consommables.  
 Le support modifie l'adresse de livraison du client et recommande les consommables de la marque indiquée par le client lors d'un échange précédent.
 Ce dernier commande et remercie le support._
 
-**Altazion permet toutes ces actions.**
+**Altazion permet toutes ces actions.**  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYLFCqUN15M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
