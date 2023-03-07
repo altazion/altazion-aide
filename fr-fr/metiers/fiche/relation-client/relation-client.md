@@ -3,7 +3,7 @@ Office permet à l'équipe de relation client de suivre le parcours client en li
 
 ## Fonctionnement d'Altazion
 **Notre architecture est pensée pour que vous puissiez utiliser les meilleures solutions tierces sans perte de performance.**
-Que vous utilisiez une plateforme conversationnelle comme IAdvize ou un chat comme Kommunicate.io, vous
+Que vous utilisiez une plateforme conversationnelle comme IAdvize ou un chat comme Kommunicate.io, elles s'intègrent simplement par nos/vos développeurs.
 
 ## Illustration concrète
 
