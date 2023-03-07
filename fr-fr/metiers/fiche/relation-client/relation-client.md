@@ -6,16 +6,26 @@ Office permet à l'équipe de relation client de suivre le parcours client en li
 Que vous utilisiez une plateforme conversationnelle comme IAdvize ou un chat comme Kommunicate.io, vous
 
 ## Illustration concrète
+
+**Avant vente**
 _Une personne "tête en l'air" ou peu à l'aise avec internet découvre votre site internet et a une question, elle contacte le support client avec le chat en ligne. 
 La personne a été orientée par un collaborateur du support niveau 0 vers un commercial qui a pu échanger et convaincre le prospect qui créé un compte et ajoute des produits à son panier. Durant cette étape, le support a suivi en temps réel le process, puis le prospect a assuré que tout était ok pour la future commande. 
 Au moment de valider la commande elle ne procède pas au paiement. Quelque temps après elle recontacte le support sur le chat pour "retrouver son panier et savoir si sa commande est passée".  
-Grace au suivi des paniers abandonné le support le retrouve et guide l'internaute pour passer la commande. Le client indique apprécier une marque en particulier, le collaborateur l'a indiqué dans son compte client en remarque. 
-Suite à sa commande, le client s'étonne de ne pas recevoir son colis. Le support consulte l'avancée de celle-ci et constate que le client a sélectionné une livraison en point relais.  
-Informé, il va récupérer le colis mais se rend compte que le produit ne convient pas. Il le signale en ouvrant un ticket dans son compte client.
-Le support client retrouve sa commande et lui adresse un bon de retour, édite un bon d'achat pour une raison commerciale. 
-Quelque temps plus tard, le client a déménagé et recontacte le support pour modifier l'adresse et repasser commande...cette fois-ci tout se passe bien car l'historique et les remarques permettent de commander le bon produit._
+Grace au suivi des paniers abandonné le support le retrouve et guide l'internaute pour passer la commande. Le client indique apprécier une marque en particulier, le collaborateur l'a indiqué dans son compte client en remarque._ 
 
---> Altazion permet toutes ces actions.
+**Suivi de commande**
+_Suite à sa commande, le client s'étonne de ne pas recevoir son colis. Le support consulte l'avancée de celle-ci et constate que le client a sélectionné une livraison en point relais.  
+Informé, il va récupérer le colis. 
+
+**Gestion de litige**
+_Le client rentre chez lui et découvre que le produit a été endommagé durant le transport. Il le signale en ouvrant un ticket dans son compte client.
+Le support client retrouve sa commande et propose au client plusieurs solutions pour gérer la plainte : un avoir, un échange, un remboursement...Le client choisi un échange. Le service client créé un bon de retour accessible et imprimable depuis le compte client et édite un bon d'achat pour motif commercial. Le client reçoit finalement le bon produit et est satisfait de la gestion._
+
+**Historique et données**
+Quelque temps plus tard, le client a déménagé et recontacte le support pour modifier l'adresse et repasser commande de consommables pour le produit acheté mais ne se souvient plus de la référence. 
+Cette fois-ci tout se passe bien car l'historique et les remarques permettent de commander le bon produit._
+
+**Altazion permet toutes ces actions.**
 
 ## Chat en ligne 
 
