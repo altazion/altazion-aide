@@ -1,17 +1,16 @@
-# Intéraction client en ligne
-Office permet à l'équipe de support, relation client d'assister celui-ci à chaque étape de son parcours.
+# Support client
 
 ## Fonctionnement d'Altazion
-Altazion vous propose une solution fiable et complète concernant les données clients, de commandes, le suivi logistique etc. ainsi qu'un grand choix d'actions (gestion des litiges, bons d'achat...) pour satisfaire le client. 
+Altazion vous propose une solution fiable et complète concernant les données clients, de commandes, le suivi logistique etc. ainsi qu'un grand choix d'actions (gestion des litiges, bons d'achat...) pour satisfaire le client à chaque étape de son parcours. 
 Pour les échanges en temps réel, nous n'avons pas vocation à remplacer les solutions solutions conversationnelles avancées (iadvize, Komnicate...), nous intégrons celle de votre choix.
 
 ## Illustration concrète
 
 **Avant vente**  
 _Une personne découvre votre site internet sollicite le chat pour une question technico commerciale.
-La personne est orientée par un collaborateur du support niveau 0 vers un commercial qui peut renseigner le prospect qui créé un compte et ajoute des produits à son panier. Durant cette étape, le support suit en temps réel le process du prospect depuis Office.
+La personne est orientée par un collaborateur du support niveau 0 vers un commercial qui peut renseigner le prospect qui créé un compte et ajoute des produits à son panier. Durant cette étape, le support suit en temps réel le process du prospect depuis Office._
   
-Au moment de valider la commande le prospect ne procède pas au paiement. Quelque temps après il recontacte le support sur le chat pour "retrouver son panier et savoir si sa commande est passée".  
+_Au moment de valider la commande le prospect ne procède pas au paiement. Quelque temps après il recontacte le support sur le chat pour "retrouver son panier et savoir si sa commande est passée".  
 Grace au **suivi des paniers abandonnés** et au **suivi des commandes** natifs d'Altazion le service support retrouve le panier et guide l'internaute pour passer la commande, qui n'avait pas été validée.   
 Durant l'échange, le client indique apprécier une marque en particulier, le collaborateur l'indique en remarque commerciale dans son compte client._ 
 
@@ -37,7 +36,7 @@ Ce dernier commande et remercie le support._
 ## Chat en ligne 
 
 Nous avons déjà intégré la solution https://www.kommunicate.io/ à Altazion. 
-Intégrez la solution de votre choix.
+Vous utilisez une autre solution ? Aucun problème, vous intégrez la solution de votre choix.
 
 ## Panier abandonné
 
@@ -47,7 +46,7 @@ Les paniers abandonnés sont consultables. Cela permet :
 
 ## Support client : compte client 
 
-Le client et l’administrateur ont accès aux informations relatives au compte client.
+Le client et le support ont accès aux informations relatives au compte client.
 Cela veut dire que le service de support au client peut agir pour aider le client en réalisant 
 - Modification du mot de passe. 
 - Mise à jour des préférences RGPD (avec possibilité de retrait). 
@@ -64,6 +63,7 @@ Altazion propose un module dédié à la gestion des litiges.
 L'équipe support client peut ainsi consulter les litiges (et leur statuts) de façon centralisée, en plus de pouvoir consulter chacun d'entre eux dans le compte client.
 
 ## Bons d'achat
+Vous pouvez proposer des bons d'achats à vos clients à des fins commerciales en toute simplicité.
 
 ## Fidélisation 
 
