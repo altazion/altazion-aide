@@ -8,7 +8,7 @@ Altazion permet d'intégrer le merchandising à la stratégie commerciale, donc 
 
 ## Philosophie et fonctionnement
 La philosophie d'Altazion est que chaque outil est optimisé pour une tache. 
-Pour la vente en ligne c'est [Commerce](https://aide.altazion.com/fr-fr/guide/architecture.html), administrable dans Office qui sert de socle technique. Ses performances sont optimisées pour la vente en ligne et n'a pas vocation à se substituer à des solutions développées pour répondre à des besoins spécifiques, par exemple le Searchandizing.  
+Pour la vente en ligne c'est [Commerce](https://aide.altazion.com/fr-fr/guide/architecture.html), administrable dans Office qui sert de socle technique. Ses performances sont optimisées pour la vente en ligne, il n'a pas vocation à se substituer à des solutions développées pour répondre à des besoins spécifiques, par exemple le Searchandizing.  
 Nous préférons proposer leur intégration pour qu'elle soit simple, rapide, performante (en général en utilisant notre middleware hub). 
 
 **Vous êtes ainsi libre de "pluguer" votre solution de moteur de recherche interne du site, votre solution de recommandation produit type Nosto sans altérer la performance de votre site.**
