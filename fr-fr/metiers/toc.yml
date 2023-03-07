@@ -15,7 +15,27 @@
         - name: Optimisez la relation fournisseur
           href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#optimisez-la-relation-fournisseur
     - name: E-Merchandiser
-      href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html  
+      href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html
+      items:
+        - name: Mise en avant produit
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html#mise-en-avant-produit
+        - name: Mise en avant segment
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html#mise-en-avant-du-segment
+        - name: Optimisez le parcours client
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html#optimisez-le-parcours-client
+        - name: Analysez et optimisez
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html#analysez-et-optimisez
+    - name: Support client
+      href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html
+      items:
+        - name: Chat en ligne
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#chat-en-ligne
+        - name: Panier abandonné
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#panier-abandonn%C3%A9
+        - name: Utilisation du compte client
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#support-client-compte-client
+        - name: Fidélisation
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#fid%C3%A9lisation
 
 - name: Documentation décisionnaire
   items: 

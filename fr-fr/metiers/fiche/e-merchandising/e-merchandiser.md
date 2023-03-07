@@ -8,7 +8,7 @@ Altazion permet d'intégrer le merchandising à la stratégie commerciale, donc 
 
 ## Philosophie et fonctionnement
 La philosophie d'Altazion est que chaque outil est optimisé pour une tache. 
-Pour la vente en ligne c'est [Commerce](https://aide.altazion.com/fr-fr/guide/architecture.html), administrable dans Office qui sert de socle technique. Commerce est le socle technique dont les performances sont optimisées pour la vente en ligne et n'a pas vocation à se substituer à des solutions développées pour répondre à des besoins spécifiques, par exemple le Searchandizing. 
+Pour la vente en ligne c'est [Commerce](https://aide.altazion.com/fr-fr/guide/architecture.html), administrable dans Office qui sert de socle technique. Ses performances sont optimisées pour la vente en ligne et n'a pas vocation à se substituer à des solutions développées pour répondre à des besoins spécifiques, par exemple le Searchandizing.  
 Nous préférons proposer leur intégration pour qu'elle soit simple, rapide, performante (en général en utilisant notre middleware hub). 
 
 **Vous êtes ainsi libre de "pluguer" votre solution de moteur de recherche interne du site, votre solution de recommandation produit type Nosto sans altérer la performance de votre site.**
@@ -16,7 +16,7 @@ Nous préférons proposer leur intégration pour qu'elle soit simple, rapide, pe
 ![Schema](https://aide.altazion.com/fr-fr/ressources/architecture.png)
 
 ### Illustration avec un cas pratique 
-_Vous travaillez pour une entreprise de vente de jouets. Votre chef de gamme Marvel va référencer le nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne.  
+_Vous travaillez pour une entreprise de vente de jouets. Votre chef de gamme Marvel va référencer le nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise. Le fournisseur vous a accordé une exclusivité pour la vente en ligne.  
 L'e-merchandiser que vous êtes a un rôle important à jouer dans le cadre de l'opération :_ 
 
 Avant même de créer la campagne, travaillez sur le produit et ses segments (catégories).
@@ -34,7 +34,7 @@ Le produit apparaitra ainsi avec les stickers "Nouveauté" et "exclusivité".
 En utilisant aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html) (mots-clés) liés au super héros et à Marvel vous optimisez l'apparition du produit dans le moteur de recherche interne du site.  
 Les mots clés peuvent aussi être utilisés comme facettes, aussi vous choisissez de les utiliser à cet effet.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mise en avant du segment
 - Le segment Marvel génère un chiffre d'affaires important. Vous décidez donc de le définir comme un segment **segment star**; Ce critère viendra lui aussi nourrir vos solutions tierces (par exemple moteur de recherche et moteur de recommandations) mais aussi dans les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
@@ -62,7 +62,7 @@ Parmis les adaptations possible et réalisées, vous décidez donc d'adapter le 
 
 _exemple : la page d'accueil_ 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Optimisez le searchandising
 Comme expliqué plus haut, si Altazion dispose d'un moteur de recherche fonctionnel nous proposons aussi, via Hub la possibilité d'intégrer des moteurs de recherches aux fonctionnalités avancées comme Algolia ou Doofinder. 
