@@ -36,6 +36,9 @@ Les mots clés peuvent aussi être utilisés comme facettes, aussi vous choisiss
 
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Test avec slideshare
+<iframe align="center" width="560" height="315" src="https://fr.slideshare.net/secret/ud696a7pqyRSp0"frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Mise en avant du segment
 - Le segment Marvel génère un chiffre d'affaires important. Vous décidez donc de le définir comme un segment **segment star**; Ce critère viendra lui aussi nourrir vos solutions tierces (par exemple moteur de recherche et moteur de recommandations) mais aussi dans les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
 _Altazion vous permet de hiérarchiser les Segments et les produits au sein même de ceux-ci !_ 
@@ -63,6 +66,7 @@ Parmis les adaptations possible et réalisées, vous décidez donc d'adapter le 
 _exemple : la page d'accueil_ 
 
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Optimisez le searchandising
 Comme expliqué plus haut, si Altazion dispose d'un moteur de recherche fonctionnel nous proposons aussi, via Hub la possibilité d'intégrer des moteurs de recherches aux fonctionnalités avancées comme Algolia ou Doofinder. 
