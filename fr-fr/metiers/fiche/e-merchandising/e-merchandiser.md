@@ -36,7 +36,8 @@ Les mots clés peuvent aussi être utilisés comme facettes, aussi vous choisiss
 
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Test avec slideshare
+**Test avec slideshare**
+
 <iframe align="center" width="560" height="315" src="https://fr.slideshare.net/secret/ud696a7pqyRSp0"frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mise en avant du segment
