@@ -28,14 +28,14 @@
     - name: Support client
       href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html
       items:
-        - name: Chat en ligne
-          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#chat-en-ligne
-        - name: Panier abandonné
-          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#panier-abandonn%C3%A9
-        - name: Utilisation du compte client
-          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#support-client-compte-client
-        - name: Fidélisation
-          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#fid%C3%A9lisation
+        - name: Avant vente
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#avant-vente
+        - name: Suivi de commande
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#suivi-de-commande
+        - name: Gestion de litige
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#gestion-de-litige
+        - name: Historique et données
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#historique-et-données
 
 - name: Documentation décisionnaire
   items: 
