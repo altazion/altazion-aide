@@ -1,17 +1,36 @@
-# Fiche métier : responsable de gamme ou de marque
+# Responsable e-commerce
 
-Chef de produit, chef de gamme, responsable de marque Altazion vous permet de **gérer les gammes**, marques et produits dont vous avez la responsabilité à 360 degrés. 
-- Collaborez avec un outils complet mais simple & abordable. Déleguez simplement et suivez l'évolution des taches. 
-- Séduisez et fidélisez votre client en étant présent et pertinent aux différentes étapes de son parcours.
-- Renforcez votre relation avec les marques et les fournisseurs.
+## Philosophie et fonctionnement d'Altazion
+La philosophie d'Altazion est que chaque outil est optimisé pour une tache.
+En tant que responsable e-commerce vous allez être amené à travailler / intéragir avec les différents éléments d'Altazion que vous pouvez découvrir [ici](https://aide.altazion.com/fr-fr/guide/architecture.html).
+Vous allez surtout travailler avec **Office**, l'interface d'administration qui intéragit avec **Commerce** qui gère l'e-commerce, **Hub** qui est notre MiddleWare qui vous permet d'intégrer des solutions tierces complexes (en général par API), **Automate** qui réalise les taches routinières (import de stock, export comptable...), ainsi qu'**Orchestrator** outils de gestion de disponibilité en temps réel (stock, paniers) qui travaille pour l'e-commerce mais aussi pour les autres canaux de vente.
 
-### Illustration avec un cas pratique 
-_Vous êtes chef de gamme pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Vous allez référencer votre gamme avec votre nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
+- Cette philosophie permet : 
+- **d'avoir un site e-commerce hyper performant** car chaque élément de l'architecture n'est sollicité que lorsque nécessaire. 
+- **une grande flexibilité dans la personnalisation en fonction des besoins clients**
 
+_Vous êtes libre de "pluguer" des solutions tierces, par exemple le moteur de recherche interne du site, votre solution de recommandation produit type Nosto sans altérer la performance de votre site._
+
+![Schema](https://aide.altazion.com/fr-fr/ressources/architecture.png)
+
+## Illustration avec un cas pratique
+_Vous êtes responsable e-commerce pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Votre responsable de gamme va référencer une nouvelle gamme de figurines liées à un nouveau film.
+Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
+
+## Configurez & Administrez
+**Ajout de solutions tierces**  
+Office vous permet d'ajouter des codes de tracking Analytics, ou encore de lier les boutiques Google My Business mais vous permettra surtout de suivre les bons fonctionnements des solutions tierces ajoutées par API à la solution via Hub. 
+
+Nous préférons proposer leur intégration pour qu'elle soit simple, rapide, performante (en général en utilisant notre **middleware hub**). 
+
+_L'interface permet aussi de controler la bonne réalisation des imports, médiations automatisés. Ex : la mise à jour automatique des stocks, ou les exports vers les aggregateurs de flux type Lengow._ 
+Cela vous donne ainsi la possibilité d'agir rapidement en cas de problème.
 
 ## Structurez & référencez votre gamme 
 **Structurez**  
 Dans le système interne de l'entreprise ce jouet appartient à la **famille** des figurines car le catalogue est géré par typologie de jouet. Ce système interne n'est pas adapté pour l'approche commerciale en ligne. Altazion vous permet de proposer au client ce produit  dans le [**segment**](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html) Superhéros -> Marvel, ce qui est mieux pour l'arborescence du site donc le parcours utilisateur.
+
+### Ici ajouter les infos stocks, paiement, omnicanal (sfs pas possible)
 
 **Référencez vos produits**  
 Vous pouvez au choix référencer votre nouveau produit et sa nouvelle gamme par un import ou par depuis l'interface Office d'Altazion.
@@ -33,7 +52,6 @@ _Avec Altazion, vous pouvez réellement faire ressortir vos produits star. C'est
 
 - Un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) et un autre "exclu web" sont visibles depuis les pages de segment et sur la fiche produit.
 
-
 - **La page spécifique pour l'opération, pour la gamme ou pour la marque !**
 Altazion permet de créer des pages personnalisées, des "landing pages".
 Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
@@ -51,7 +69,7 @@ _Avec cette stratégie, vous pouvez multiplier les points de contacts (landing p
 Ci-dessous, une campagne "Carnaval", qui propose différentes promotions sur une sélection de produit. Une landing page avec un template spécifique a été créée pour l'opération. Cette campagne dispose de sa propre url, etc.
 ![Illustration d'une campagne "Carnaval"](https://aide.altazion.com/fr-fr/ressources/fiche-metier/selection.jpg)
 
-## Travaillez en équipe aux différentes étapes du process
+## Managez
 Altazion vous offre la possibilité de créer et d'assigner des taches à chacun des membres de votre équipe et de définir le process de validation.
 Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire. 
 Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les transférer depuis son espace personnel. 
@@ -59,29 +77,14 @@ Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les
 **Exemple**  
 Pour la création du modèle de page marque vous créez et assignez une tache à l'expert UX - UI qui peut ensuite la transférer au référent SEO pour validation.    
 
-![L'espace personnel du responsable SEO avec la tache de rédaction](https://aide.altazion.com/fr-fr/ressources/taches.jpg)
+## Gerez vos commandes et clients
 
+## Reporting & optimisation
+Toutes les données Altazion sont exportables. Cela permet d'optimiser les solutions d'emerchandising, mais aussi de nourrir vos CRM, ERP, et outils de reporting. 
+
+
+### Liens utiles 
+Les taches  
 - Tout savoir sur [la création des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html).  
 - Tout savoir sur [l'assignation des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html).  
-- Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).  
-
-## Monitorez et optimisez
-Altazion se "plugue" avec vos outils de reporting. Toutes les données sont exportables pour être exploitées.
-
-## Optimisez la relation fournisseur
-La flexibilité de notre outils vous donne la possibilité de proposer différents types d'offres pour obtenir des partenariats ou des budgets.
-
-## Liens utiles
-### Structurez & référencez votre gamme 
-- Tout savoir sur les [segment](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html).
-- Tout savoir sur les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html).
-- Tout savoir sur les [produits déclinables de type Mère/Fille](https://aide.altazion.com/fr-fr/guide/referencer/articles/declinables.html)
-- Tout savoir sur la [création de produit](https://aide.altazion.com/fr-fr/guide/referencer/articles/index.html).
-
-### Animez votre gamme
-- Tout savoir sur les [campagnes commerciales](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html).
-- Tout savoir sur [l'emershandizing](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html) sur Altazion.
-- Tout savoir sur les mots clés [keywords](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html).
-- Tout savoir sur les [pages et la gestion de contenu "SXO"](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html).
-- Tout savoir sur les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
-
+- Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html). 
