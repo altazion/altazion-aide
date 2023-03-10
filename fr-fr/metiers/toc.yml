@@ -36,7 +36,10 @@
           href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#gestion-de-litige
         - name: Historique et données
           href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#historique-et-données
-
+    - name: Responsable e-commerce
+      href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html
+      items:
+        - name: Fonctionnement d'Altazion
 - name: Documentation décisionnaire
   items: 
     - name: Animation commerciale
