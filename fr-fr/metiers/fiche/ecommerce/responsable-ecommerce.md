@@ -52,7 +52,7 @@ Détail, qui n'en est pas un : si le fournisseur propose un seul EAN pour les di
 - Ajoutez des documents (label qualité, garantie, mode d'emploi), des visuels, des vidéos pour présenter au mieux votre produit en fonction de la typologie. Ici, une vidéo promotionnelle présentant notre super héros sera intégrée à la fiche produit.  
 _Altazion vous permet de personnaliser à 100% vos fiches produit_.
 
-## Animez votre catalogue
+## Animez votre site e-commerce
 Avant même de parler de campagnes commerciales, Altazion vous permet de mettre en avant vos produits stars. 
 
 - Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un **segment star**. Les produits du segment star sont mis en avant dans le moteur de recherche interne du site ou dans les sélections de produit. 
@@ -63,29 +63,30 @@ _Avec Altazion, vous pouvez réellement faire ressortir vos produits star. C'est
 
 - Un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) et un autre "exclu web" sont visibles depuis les pages de segment et sur la fiche produit.
 
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - **La page spécifique (avec un template spécifique) pour l'opération, pour la gamme ou pour la marque !**
 Altazion permet de créer des pages personnalisées, des "landing pages".
 Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
 - La figurine est aussi mise en avant sur une landing page "Spider-Man" à vocation SEO ou SEA dans laquelle une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) liés au super héros Spider-Man sera proposé.
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## La clef de voute de l'animation : la campagne omnicanale
+### la campagne pour regrouper les actions
 Utilisez toutes les fonctionnalités présentées ci-dessus dans ** [une campagne commerciale](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html)**.
 Dans le cas de l'exemple, la campagne est 100% web. Vous pouvez jouer avec le pricing, des remises diverses (au panier, au produit, etc.) afficher des contenus et utiliser l'[emerchandising](https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html) (bannières, tags et labels...) dans les endroits clés de votre site...  
 
 _Avec cette stratégie, vous pouvez multiplier les points de contacts (landing page marque et Spider-Man, page du segment Super Héros, moteur de recherche, bannières sur la home page ou ailleurs, navigation à facette) et les optimiser (attributs produit, labels "nouveauté" et "exclu web"...)._
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uEkDFpHfE7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Réagissez en temps réel
+## Soyez réactif
 Alors que la campagne Marvel / Hasbro fonctionne à merveille, vous vérifiez les stocks en temps réel. 
 Dans Office, vous pouvez valider que la mise à jour des stocks s'est déroulée correctement. 
 - Vérifiez aussi que l'export vers Google Shopping ou un aggregateur de flux c'est bien réalisé. Si vous constatez un soucis, vous pouvez rélancer la tache directement.
 - Si un produit est victime de son succès, forcez simplement l'export afin de ne pas faire de publicité sur Google Shopping par exemple.
 
 ## Gérez la relation client
-Altazion permet de gérer la relation client tout au long du cycle de vie. Pour en savoir plus cliquez [ici]()
+Altazion permet de gérer la relation client tout au long du cycle de vie. Chat en ligne, évenement commercial, remarque commerciale, historique client et commande...Altazion permet d'accompagne le client tout au long du cycle de commande. Pour en savoir plus cliquez [ici](https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html).  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYLFCqUN15M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Managez
@@ -95,6 +96,8 @@ Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les
 
 **Exemple**  
 Pour la création du modèle de page marque vous créez et assignez une tache à l'expert UX - UI qui peut ensuite la transférer au référent SEO pour validation.    
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7nG4PzqCJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Reporting & optimisation
 Toutes les données Altazion sont exportables. Cela permet d'optimiser les solutions d'emerchandising, mais aussi de nourrir vos CRM, ERP, et outils de reporting. 
