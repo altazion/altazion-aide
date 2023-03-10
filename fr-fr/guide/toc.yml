@@ -107,6 +107,7 @@
     - name: Gérer les envois
       href: https://aide.altazion.com/fr-fr/guide/expedier/logsitique/index.html
 - name: Fiches métier
+  href: https://aide.altazion.com/fr-fr/metiers/index.html
   items:
     - name: Responsable de gamme
       href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html
@@ -121,5 +122,44 @@
           href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#monitorez-et-optimisez
         - name: Optimisez la relation fournisseur
           href: https://aide.altazion.com/fr-fr/metiers/fiche/responsable-gamme/responsable-gamme.html#optimisez-la-relation-fournisseur
-
+    - name: E-Merchandiser
+      href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html
+      items:
+        - name: Mise en avant produit
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html#mise-en-avant-produit
+        - name: Mise en avant segment
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html#mise-en-avant-du-segment
+        - name: Optimisez le parcours client
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html#optimisez-le-parcours-client
+        - name: Analysez et optimisez
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html#analysez-et-optimisez
+    - name: Support client
+      href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html
+      items:
+        - name: Avant vente
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#avant-vente
+        - name: Suivi de commande
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#suivi-de-commande
+        - name: Gestion de litige
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#gestion-de-litige
+        - name: Historique et données
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html#historique-et-données
+    - name: Responsable e-commerce
+      href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html
+      items:
+        - name: Fonctionnement d'Altazion
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#philosophie-et-fonctionnement-daltazion
+        - name: Configurez Altazion pour la vente en ligne
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#configurez--administrez
+        - name: Gestion catalogue
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#structurez--r%C3%A9f%C3%A9rencez-votre-catalogue
+        - name: Animation commerciale
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#animez-votre-site-e-commerce
+        - name: Gestion relation client
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#g%C3%A9rez-la-relation-client
+        - name: Management - taches
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#managez
+        - name: Reporting
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#reporting--optimisation 
           
+    

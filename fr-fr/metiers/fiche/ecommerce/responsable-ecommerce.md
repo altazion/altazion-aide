@@ -2,11 +2,11 @@
 
 ## Philosophie et fonctionnement d'Altazion
 La philosophie d'Altazion est que chaque outil est optimisé pour une tache.
-En tant que responsable e-commerce vous allez être amené à travailler / intéragir avec les différents éléments d'Altazion que vous pouvez découvrir [ici](https://aide.altazion.com/fr-fr/guide/architecture.html).
-Vous allez surtout travailler avec **Office**, l'interface d'administration qui intéragit avec **Commerce** qui gère l'e-commerce, **Hub** qui est notre MiddleWare qui vous permet d'intégrer des solutions tierces complexes (en général par API), **Automate** qui réalise les taches routinières (import de stock, export comptable...), ainsi qu'**Orchestrator** outils de gestion de disponibilité en temps réel (stock, paniers) qui travaille pour l'e-commerce mais aussi pour les autres canaux de vente.
+En tant que responsable e-commerce vous allez être amené à travailler / intéragir avec les différents éléments d'Altazion que vous pouvez découvrir [ici](https://aide.altazion.com/fr-fr/guide/architecture.html).  
+Vous travaillez surtout avec **Office**, l'interface d'administration qui intéragit avec **Commerce** qui gère l'e-commerce, **Hub** qui est notre MiddleWare qui vous permet d'intégrer des solutions tierces complexes (en général par API), **Automate** qui réalise les taches routinières (import de stock, export comptable...), ainsi qu'**Orchestrator** outils de gestion de disponibilité en temps réel (stock, paniers).
 
 - Cette philosophie permet : 
-- **d'avoir un site e-commerce hyper performant** car chaque élément de l'architecture n'est sollicité que lorsque nécessaire. 
+- **d'avoir un site e-commerce très performant** car chaque élément de l'architecture n'est sollicité que lorsque nécessaire. 
 - **une grande flexibilité dans la personnalisation en fonction des besoins clients**
 
 _Vous êtes libre de "pluguer" des solutions tierces, par exemple le moteur de recherche interne du site, votre solution de recommandation produit type Nosto sans altérer la performance de votre site._
@@ -16,7 +16,7 @@ _Vous êtes libre de "pluguer" des solutions tierces, par exemple le moteur de r
 
 ### Configurez & Administrez
 **Ajout de solutions tierces**  
-Office vous permet d'ajouter des codes de tracking Analytics, ou encore de lier les boutiques Google My Business mais vous permettra surtout de suivre les bons fonctionnements des solutions tierces ajoutées par API à la solution via Hub. 
+Office vous permet d'ajouter des codes de tracking Analytics, ou encore de lier les boutiques Google My Business mais vous permettra surtout de suivre/configurer les solutions tierces ajoutées par API à la solution via Hub. 
 
 Nous préférons proposer leur intégration pour qu'elle soit simple, rapide, performante (en général en utilisant notre **middleware hub**). 
 
@@ -59,17 +59,18 @@ Avant même de parler de campagnes commerciales, Altazion vous permet de mettre 
 _Altazion vous permet de hiérarchiser les Segments et les produits au sein même de ceux-ci !_  
 
 - Spider-Man fait partie des Marvel Avengers, ce produit est donc lié à des [**keywords**](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html) (mots clés) pour optimiser le searchandizing (apparaitre en priorité dans le moteur de recherche)ex : l'internaute cherche "Avengers", grâce au keyword configuré la figurine apparait tout en haut des résultats.   
-_Avec Altazion, vous pouvez réellement faire ressortir vos produits star. C'est intéressant pour vos clients, mais aussi pour négocier avec vos fournisseurs_.
+_Avec Altazion, vous pouvez réellement faire ressortir vos produits stars_.
 
 - Un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) et un autre "exclu web" sont visibles depuis les pages de segment et sur la fiche produit.
 
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- **La page spécifique (avec un template spécifique) pour l'opération, pour la gamme ou pour la marque !**
+### Contenu spécifique, CMS optimisé pour le SEO et l'UX
 Altazion permet de créer des pages personnalisées, des "landing pages".
 Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
 - La figurine est aussi mise en avant sur une landing page "Spider-Man" à vocation SEO ou SEA dans laquelle une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) liés au super héros Spider-Man sera proposé.
 
+Altazion vous offre énormément de possibilités au niveau [CMS et SEO](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/cms.html).
 
 ### la campagne pour regrouper les actions
 Utilisez toutes les fonctionnalités présentées ci-dessus dans ** [une campagne commerciale](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html)**.
@@ -93,7 +94,6 @@ Altazion permet de gérer la relation client tout au long du cycle de vie. Chat 
 Créez et gérez les droits pour vos collaborateurs puis créez et d'assignez des taches à chacun des membres de votre équipe et de définir le process de validation.  
 Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire.   
 Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les transférer depuis son espace personnel.  
-
 **Exemple**  
 Pour la création du modèle de page marque vous créez et assignez une tache à l'expert UX - UI qui peut ensuite la transférer au référent SEO pour validation.    
 

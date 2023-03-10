@@ -40,6 +40,19 @@
       href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html
       items:
         - name: Fonctionnement d'Altazion
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#philosophie-et-fonctionnement-daltazion
+        - name: Configurez Altazion pour la vente en ligne
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#configurez--administrez
+        - name: Gestion catalogue
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#structurez--r%C3%A9f%C3%A9rencez-votre-catalogue
+        - name: Animation commerciale
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#animez-votre-site-e-commerce
+        - name: Gestion relation client
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#g%C3%A9rez-la-relation-client
+        - name: Management - taches
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#managez
+        - name: Reporting
+          href: https://aide.altazion.com/fr-fr/metiers/fiche/ecommerce/responsable-ecommerce.html#reporting--optimisation 
 - name: Documentation décisionnaire
   items: 
     - name: Animation commerciale
