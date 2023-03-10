@@ -13,24 +13,30 @@ _Vous êtes libre de "pluguer" des solutions tierces, par exemple le moteur de r
 
 ![Schema](https://aide.altazion.com/fr-fr/ressources/architecture.png)
 
-## Illustration avec un cas pratique
-_Vous êtes responsable e-commerce pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Votre responsable de gamme va référencer une nouvelle gamme de figurines liées à un nouveau film.
-Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
 
-## Configurez & Administrez
+### Configurez & Administrez
 **Ajout de solutions tierces**  
 Office vous permet d'ajouter des codes de tracking Analytics, ou encore de lier les boutiques Google My Business mais vous permettra surtout de suivre les bons fonctionnements des solutions tierces ajoutées par API à la solution via Hub. 
 
 Nous préférons proposer leur intégration pour qu'elle soit simple, rapide, performante (en général en utilisant notre **middleware hub**). 
 
-_L'interface permet aussi de controler la bonne réalisation des imports, médiations automatisés. Ex : la mise à jour automatique des stocks, ou les exports vers les aggregateurs de flux type Lengow._ 
-Cela vous donne ainsi la possibilité d'agir rapidement en cas de problème.
+_Vous avez donc les moyens de personnaliser les fonctionnalités de votre site e-commerce, par exemple ajouter le bon moteur de recherche interne, la solution de searchandizing, d'interaction client en ligne, etc._
 
-## Structurez & référencez votre gamme 
+_Vous avez aussi la main sur les différents imports et exports, qui vous permettent de gérer en temps réel vos campagnes marketing.
+Ex : la mise à jour automatique des stocks, ou les exports vers les aggregateurs de flux type Lengow._
+
+**Modes de paiements et logistique**
+Gérez les modes de livraison et de réglement simplement depuis Office.
+Vous pouvez définir des règles de gestion au niveau du catalogue, ou produit par produit.
+Les critères sont nombreux pour répondre aux problématiques métiers. Volume, poids, prix...
+
+## Illustration avec un cas pratique
+_Vous êtes responsable e-commerce pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Votre responsable de gamme va référencer une nouvelle gamme de figurines liées à un nouveau film.
+Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
+
+## Structurez & référencez votre catalogue
 **Structurez**  
 Dans le système interne de l'entreprise ce jouet appartient à la **famille** des figurines car le catalogue est géré par typologie de jouet. Ce système interne n'est pas adapté pour l'approche commerciale en ligne. Altazion vous permet de proposer au client ce produit  dans le [**segment**](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html) Superhéros -> Marvel, ce qui est mieux pour l'arborescence du site donc le parcours utilisateur.
-
-### Ici ajouter les infos stocks, paiement, omnicanal (sfs pas possible)
 
 **Référencez vos produits**  
 Vous pouvez au choix référencer votre nouveau produit et sa nouvelle gamme par un import ou par depuis l'interface Office d'Altazion.
@@ -41,10 +47,10 @@ Détail, qui n'en est pas un : si le fournisseur propose un seul EAN pour les di
 - Ajoutez des documents (label qualité, garantie, mode d'emploi), des visuels, des vidéos pour présenter au mieux votre produit en fonction de la typologie. Ici, une vidéo promotionnelle présentant notre super héros sera intégrée à la fiche produit.  
 _Altazion vous permet de personnaliser à 100% vos fiches produit_.
 
-## Animez votre gamme
+## Animez votre catalogue
 Avant même de parler de campagnes commerciales, Altazion vous permet de mettre en avant vos produits stars. 
 
-- Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un segment **segment star**; Ainsi la nouvelle figurine est mise en avant sur la page du segment (page catégorie) qui bénéficie d'un modèle ou template personnalisable (structure, bannière, texte, etc.) Les produits du segment star sont aussi mises en avant dans le moteur de recherche interne. 
+- Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un **segment star**. Les produits du segment star sont mis en avant dans le moteur de recherche interne du site ou dans les sélections de produit. 
 _Altazion vous permet de hiérarchiser les Segments et les produits au sein même de ceux-ci !_  
 
 - Spider-Man fait partie des Marvel Avengers, ce produit est donc lié à des [**keywords**](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html) (mots clés) pour optimiser le searchandizing (apparaitre en priorité dans le moteur de recherche)ex : l'internaute cherche "Avengers", grâce au keyword configuré la figurine apparait tout en haut des résultats.   
@@ -52,36 +58,42 @@ _Avec Altazion, vous pouvez réellement faire ressortir vos produits star. C'est
 
 - Un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) et un autre "exclu web" sont visibles depuis les pages de segment et sur la fiche produit.
 
-- **La page spécifique pour l'opération, pour la gamme ou pour la marque !**
+- **La page spécifique (avec un template spécifique) pour l'opération, pour la gamme ou pour la marque !**
 Altazion permet de créer des pages personnalisées, des "landing pages".
 Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
 - La figurine est aussi mise en avant sur une landing page "Spider-Man" à vocation SEO ou SEA dans laquelle une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) liés au super héros Spider-Man sera proposé.
 
-Ci-dessous la page marque Hasbro avec son url et son modèle spécifique.
-![marque hasbro page](https://aide.altazion.com/fr-fr/ressources/fiche-metier/page-marque-hasbro.jpg)
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## La clef de voute de l'animation : la campagne omnicanale
 Utilisez toutes les fonctionnalités présentées ci-dessus dans ** [une campagne commerciale](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html)**.
-Dans le cas de l'exemple, la campagne est 100% web. Vous pouvez jouer avec le pricing, des remises diverses (au panier, au produit, etc.) afficher des contenus e utiliser l'emershandizing (bannières, tags et labels...) dans les endroits clés de votre site...  
+Dans le cas de l'exemple, la campagne est 100% web. Vous pouvez jouer avec le pricing, des remises diverses (au panier, au produit, etc.) afficher des contenus et utiliser l'[emerchandising](https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html) (bannières, tags et labels...) dans les endroits clés de votre site...  
 
-_Avec cette stratégie, vous pouvez multiplier les points de contacts (landing page marque et Spider-Man, page du segment Super Héros, moteur de recherche, bannières sur la home page ou ailleurs, navigation à facette) et les optimiser (attributs produit, labels "nouveauté" et "exclu web"...). Cela vous permet de vendre, mais aussi de négocier des avantages avec votre fournisseur._
+_Avec cette stratégie, vous pouvez multiplier les points de contacts (landing page marque et Spider-Man, page du segment Super Héros, moteur de recherche, bannières sur la home page ou ailleurs, navigation à facette) et les optimiser (attributs produit, labels "nouveauté" et "exclu web"...)._
 
-Ci-dessous, une campagne "Carnaval", qui propose différentes promotions sur une sélection de produit. Une landing page avec un template spécifique a été créée pour l'opération. Cette campagne dispose de sa propre url, etc.
-![Illustration d'une campagne "Carnaval"](https://aide.altazion.com/fr-fr/ressources/fiche-metier/selection.jpg)
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Réagissez en temps réel
+Alors que la campagne Marvel / Hasbro fonctionne à merveille, vous vérifiez les stocks en temps réel. 
+Dans Office, vous pouvez valider que la mise à jour des stocks s'est déroulée correctement. 
+- Vérifiez aussi que l'export vers Google Shopping ou un aggregateur de flux c'est bien réalisé. Si vous constatez un soucis, vous pouvez rélancer la tache directement.
+- Si un produit est victime de son succès, forcez simplement l'export afin de ne pas faire de publicité sur Google Shopping par exemple.
+
+## Gérez la relation client
+Altazion permet de gérer la relation client tout au long du cycle de vie. Pour en savoir plus cliquez [ici]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYLFCqUN15M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYLFCqUN15M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Managez
 Altazion vous offre la possibilité de créer et d'assigner des taches à chacun des membres de votre équipe et de définir le process de validation.
 Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire. 
 Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les transférer depuis son espace personnel. 
-
 **Exemple**  
 Pour la création du modèle de page marque vous créez et assignez une tache à l'expert UX - UI qui peut ensuite la transférer au référent SEO pour validation.    
 
-## Gerez vos commandes et clients
-
 ## Reporting & optimisation
 Toutes les données Altazion sont exportables. Cela permet d'optimiser les solutions d'emerchandising, mais aussi de nourrir vos CRM, ERP, et outils de reporting. 
-
 
 ### Liens utiles 
 Les taches  
