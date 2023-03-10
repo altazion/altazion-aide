@@ -30,7 +30,12 @@ Gérez les modes de livraison et de réglement simplement depuis Office.
 Vous pouvez définir des règles de gestion au niveau du catalogue, ou produit par produit.
 Les critères sont nombreux pour répondre aux problématiques métiers. Volume, poids, prix...
 
-## Illustration avec un cas pratique
+**Configurez vos paramètres e-commerce**
+Avant même Définissez les types de produits que vous vendez en ligne, les taux de TVA, la structure du catalogue, le fonctionnement des lots etc.  
+
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/TAcnrjAusxA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Gestion : illustration avec un cas pratique
 _Vous êtes responsable e-commerce pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Votre responsable de gamme va référencer une nouvelle gamme de figurines liées à un nouveau film.
 Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
 
@@ -83,20 +88,32 @@ Dans Office, vous pouvez valider que la mise à jour des stocks s'est déroulée
 Altazion permet de gérer la relation client tout au long du cycle de vie. Pour en savoir plus cliquez [ici]()
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYLFCqUN15M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SYLFCqUN15M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Managez
-Altazion vous offre la possibilité de créer et d'assigner des taches à chacun des membres de votre équipe et de définir le process de validation.
-Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire. 
-Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les transférer depuis son espace personnel. 
+Créez et gérez les droits pour vos collaborateurs puis créez et d'assignez des taches à chacun des membres de votre équipe et de définir le process de validation.  
+Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire.   
+Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les transférer depuis son espace personnel.  
+
 **Exemple**  
 Pour la création du modèle de page marque vous créez et assignez une tache à l'expert UX - UI qui peut ensuite la transférer au référent SEO pour validation.    
 
 ## Reporting & optimisation
 Toutes les données Altazion sont exportables. Cela permet d'optimiser les solutions d'emerchandising, mais aussi de nourrir vos CRM, ERP, et outils de reporting. 
 
-### Liens utiles 
-Les taches  
+## Liens utiles
+### Structurez & référencez votre gamme 
+- Tout savoir sur les [segment](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html).
+- Tout savoir sur les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html).
+- Tout savoir sur les [produits déclinables de type Mère/Fille](https://aide.altazion.com/fr-fr/guide/referencer/articles/declinables.html)
+- Tout savoir sur la [création de produit](https://aide.altazion.com/fr-fr/guide/referencer/articles/index.html).
+
+### Animez votre gamme
+- Tout savoir sur les [campagnes commerciales](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html).
+- Tout savoir sur [l'emershandizing](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html) sur Altazion.
+- Tout savoir sur les mots clés [keywords](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html).
+- Tout savoir sur les [pages et la gestion de contenu "SXO"](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html).
+- Tout savoir sur les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
+
+### Gestion d'équipe
 - Tout savoir sur [la création des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html).  
 - Tout savoir sur [l'assignation des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html).  
-- Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html). 
+- Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).  

@@ -1,6 +1,6 @@
 # Fiche métier : responsable de gamme ou de marque
 
-Chef de produit, chef de gamme, responsable de marque Altazion vous permet de **gérer les gammes**, marques et produits dont vous avez la responsabilité à 360 degrés. 
+Chef de produit, chef de gamme, responsable de marque Altazion vous permet de gérez vos produits de A à Z.
 - Collaborez avec un outils complet mais simple & abordable. Déleguez simplement et suivez l'évolution des taches. 
 - Séduisez et fidélisez votre client en étant présent et pertinent aux différentes étapes de son parcours.
 - Renforcez votre relation avec les marques et les fournisseurs.
@@ -8,13 +8,12 @@ Chef de produit, chef de gamme, responsable de marque Altazion vous permet de **
 ### Illustration avec un cas pratique 
 _Vous êtes chef de gamme pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Vous allez référencer votre gamme avec votre nouveau produit "star" : **la nouvelle figurine Spider-Man** de la marque Hasbro, liée au nouveau film de la franchise et faisant partie d'une collection complète. Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
 
-
 ## Structurez & référencez votre gamme 
 **Structurez**  
 Dans le système interne de l'entreprise ce jouet appartient à la **famille** des figurines car le catalogue est géré par typologie de jouet. Ce système interne n'est pas adapté pour l'approche commerciale en ligne. Altazion vous permet de proposer au client ce produit  dans le [**segment**](https://aide.altazion.com/fr-fr/guide/referencer/segments/index.html) Superhéros -> Marvel, ce qui est mieux pour l'arborescence du site donc le parcours utilisateur.
 
 **Référencez vos produits**  
-Vous pouvez au choix référencer votre nouveau produit et sa nouvelle gamme par un import ou par depuis l'interface Office d'Altazion.
+Vous pouvez au choix référencer votre nouveau produit et sa nouvelle gamme par un import ou depuis l'interface Office d'Altazion.
 
 Détail, qui n'en est pas un : si le fournisseur propose un seul EAN pour les différentes figurines de la collection comme cela arrive parfois, il vous est possible de créer des déclinaisons à partir d'un seul et même EAN pour la vente en ligne. Vous créez donc pour la figurine  man une référence "fille".
 
@@ -25,14 +24,15 @@ _Altazion vous permet de personnaliser à 100% vos fiches produit_.
 ## Animez votre gamme
 Avant même de parler de campagnes commerciales, Altazion vous permet de mettre en avant vos produits stars. 
 
-- Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un segment **segment star**; Ainsi la nouvelle figurine est mise en avant sur la page du segment (page catégorie) qui bénéficie d'un modèle ou template personnalisable (structure, bannière, texte, etc.) Les produits du segment star sont aussi mises en avant dans le moteur de recherche interne. 
+- Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un segment **segment star**; Les produits du segment star sont mis en avant dans le moteur de recherche interne ainsi que dans le moteur de recommandation. 
 _Altazion vous permet de hiérarchiser les Segments et les produits au sein même de ceux-ci !_  
 
-- Spider-Man fait partie des Marvel Avengers, ce produit est donc lié à des [**keywords**](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html) (mots clés) pour optimiser le searchandizing (apparaitre en priorité dans le moteur de recherche)ex : l'internaute cherche "Avengers", grâce au keyword configuré la figurine apparait tout en haut des résultats.   
+- Spider-Man fait partie des Marvel Avengers, ce produit est donc lié à des [**keywords**](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html) (mots clés) pour optimiser le searchandising (apparaitre en priorité dans le moteur de recherche)ex : l'internaute cherche "Avengers", grâce au keyword configuré la figurine apparait tout en haut des résultats.   
 _Avec Altazion, vous pouvez réellement faire ressortir vos produits star. C'est intéressant pour vos clients, mais aussi pour négocier avec vos fournisseurs_.
 
 - Un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) et un autre "exclu web" sont visibles depuis les pages de segment et sur la fiche produit.
 
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **La page spécifique pour l'opération, pour la gamme ou pour la marque !**
 Altazion permet de créer des pages personnalisées, des "landing pages".
@@ -61,9 +61,7 @@ Pour la création du modèle de page marque vous créez et assignez une tache à
 
 ![L'espace personnel du responsable SEO avec la tache de rédaction](https://aide.altazion.com/fr-fr/ressources/taches.jpg)
 
-- Tout savoir sur [la création des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html).  
-- Tout savoir sur [l'assignation des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html).  
-- Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).  
+
 
 ## Monitorez et optimisez
 Altazion se "plugue" avec vos outils de reporting. Toutes les données sont exportables pour être exploitées.
@@ -85,3 +83,7 @@ La flexibilité de notre outils vous donne la possibilité de proposer différen
 - Tout savoir sur les [pages et la gestion de contenu "SXO"](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/emershandizing.html).
 - Tout savoir sur les [sélections de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html).
 
+### Gestion d'équipe
+- Tout savoir sur [la création des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/edit-tasks.html).  
+- Tout savoir sur [l'assignation des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/attribuer-task.html).  
+- Tout savoir sur [le traitement des taches](https://aide.altazion.com/fr-fr/guide/configurer/taches/use-tasks.html).  
