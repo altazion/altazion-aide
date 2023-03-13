@@ -25,18 +25,18 @@ _Vous avez donc les moyens de personnaliser les fonctionnalités de votre site e
 _Vous avez aussi la main sur les différents imports et exports, qui vous permettent de gérer en temps réel vos campagnes marketing.
 Ex : la mise à jour automatique des stocks, ou les exports vers les aggregateurs de flux type Lengow._
 
-**Modes de paiements et logistique**
+**Modes de paiements et logistique**  
 Gérez les modes de livraison et de réglement simplement depuis Office.
 Vous pouvez définir des règles de gestion au niveau du catalogue, ou produit par produit.
 Les critères sont nombreux pour répondre aux problématiques métiers. Volume, poids, prix...
 
-**Configurez vos paramètres e-commerce**
-Avant même Définissez les types de produits que vous vendez en ligne, les taux de TVA, la structure du catalogue, le fonctionnement des lots etc.  
+**Configurez vos paramètres e-commerce**  
+Définissez les types de produits que vous vendez en ligne, les taux de TVA, la structure du catalogue, le fonctionnement des lots etc.  
 
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/TAcnrjAusxA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Gestion : illustration avec un cas pratique
-_Vous êtes responsable e-commerce pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Votre responsable de gamme va référencer une nouvelle gamme de figurines liées à un nouveau film.
+_Vous êtes responsable e-commerce pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Votre responsable de gamme va référencer une nouvelle gamme de figurines Spiderman de la marque Hasbro liées à un nouveau film de la franchise Marvel.
 Le fournisseur vous a accordé une exclusivité pour la vente en ligne._
 
 ## Structurez & référencez votre catalogue
@@ -46,7 +46,7 @@ Dans le système interne de l'entreprise ce jouet appartient à la **famille** d
 **Référencez vos produits**  
 Vous pouvez au choix référencer votre nouveau produit et sa nouvelle gamme par un import ou par depuis l'interface Office d'Altazion.
 
-Détail, qui n'en est pas un : si le fournisseur propose un seul EAN pour les différentes figurines de la collection comme cela arrive parfois, il vous est possible de créer des déclinaisons à partir d'un seul et même EAN pour la vente en ligne. Vous créez donc pour la figurine  man une référence "fille".
+Détail, qui n'en est pas un : si le fournisseur propose un seul EAN pour les différentes figurines de la collection comme cela arrive parfois, il vous est possible de créer des déclinaisons à partir d'un seul et même EAN pour la vente en ligne. Vous créez donc pour la figurine  Spider-man une référence "fille".
 
 - les [attributs produit](https://aide.altazion.com/fr-fr\guide\referencer\attributs.html) vous permettent d'enrichir vos fiches produit avec du contenu de qualité. Ces attributs serviront aussi de filtres de recherche et aideront au référencement naturel.
 - Ajoutez des documents (label qualité, garantie, mode d'emploi), des visuels, des vidéos pour présenter au mieux votre produit en fonction de la typologie. Ici, une vidéo promotionnelle présentant notre super héros sera intégrée à la fiche produit.  
@@ -58,7 +58,7 @@ Avant même de parler de campagnes commerciales, Altazion vous permet de mettre 
 - Le segment Marvel génère un chiffre d'affaires important. Dans Altazion, vous pouvez donc le définir comme un **segment star**. Les produits du segment star sont mis en avant dans le moteur de recherche interne du site ou dans les sélections de produit. 
 _Altazion vous permet de hiérarchiser les Segments et les produits au sein même de ceux-ci !_  
 
-- Spider-Man fait partie des Marvel Avengers, ce produit est donc lié à des [**keywords**](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html) (mots clés) pour optimiser le searchandizing (apparaitre en priorité dans le moteur de recherche)ex : l'internaute cherche "Avengers", grâce au keyword configuré la figurine apparait tout en haut des résultats.   
+- Spider-Man fait partie des Marvel Avengers, ce produit est donc lié à des [**keywords**](https://aide.altazion.com/fr-fr\guide\referencer\Keywords.html) (mots clés) pour optimiser le searchandizing (apparaitre en priorité dans le moteur de recherche)ex : l'internaute cherche "Avengers", Ce keyword est envoyé à la solution tierce pour la nourrir, afin que la figurine apparaisse tout en haut des résultats de recherche.   
 _Avec Altazion, vous pouvez réellement faire ressortir vos produits stars_.
 
 - Un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) et un autre "exclu web" sont visibles depuis les pages de segment et sur la fiche produit.
@@ -66,14 +66,14 @@ _Avec Altazion, vous pouvez réellement faire ressortir vos produits stars_.
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Contenu spécifique, CMS optimisé pour le SEO et l'UX
-Altazion permet de créer des pages personnalisées, des "landing pages".
-Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque permet un autre point de contact avec le client. 
+Altazion permet de créer des pages personnalisées, des "landing pages".  
+Créez par exemple une page "Hasbro" avec un template spécifique et proposez une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) à destination des personnes collectionnant spécifiquement cette marque. Cela vous offre un autre point de contact avec le client. 
 - La figurine est aussi mise en avant sur une landing page "Spider-Man" à vocation SEO ou SEA dans laquelle une [sélection de produit](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/selection.html) liés au super héros Spider-Man sera proposé.
 
 Altazion vous offre énormément de possibilités au niveau [CMS et SEO](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/cms.html).
 
 ### la campagne pour regrouper les actions
-Utilisez toutes les fonctionnalités présentées ci-dessus dans ** [une campagne commerciale](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html)**.
+Utilisez toutes les fonctionnalités présentées ci-dessus dans **[une campagne commerciale](https://aide.altazion.com/fr-fr/guide/vendre/omnicanal/campagne.html)**.
 Dans le cas de l'exemple, la campagne est 100% web. Vous pouvez jouer avec le pricing, des remises diverses (au panier, au produit, etc.) afficher des contenus et utiliser l'[emerchandising](https://aide.altazion.com/fr-fr/metiers/fiche/e-merchandising/e-merchandiser.html) (bannières, tags et labels...) dans les endroits clés de votre site...  
 
 _Avec cette stratégie, vous pouvez multiplier les points de contacts (landing page marque et Spider-Man, page du segment Super Héros, moteur de recherche, bannières sur la home page ou ailleurs, navigation à facette) et les optimiser (attributs produit, labels "nouveauté" et "exclu web"...)._
