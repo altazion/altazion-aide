@@ -1,3 +1,5 @@
+- name: Gestion des fonctionnalités
+  href: index.md
 - name: Achats
   href: achats/index.md
   items: 
@@ -225,3 +227,4 @@
     href: ventes/suiviventes.md
   - name: Validation des commandes
     href: ventes/commandeavaliderpos.md
+
