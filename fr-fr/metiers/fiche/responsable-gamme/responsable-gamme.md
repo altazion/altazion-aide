@@ -32,7 +32,7 @@ _Avec Altazion, vous pouvez réellement faire ressortir vos produits star. C'est
 
 - Un [**label "nouveauté"**](https://aide.altazion.com/fr-fr\guide\referencer\tag-label.html) et un autre "exclu web" sont visibles depuis les pages de segment et sur la fiche produit.
 
-<iframe align="center" width="560" height="315" src="https://youtu.be/6_ZQ3smXEHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_ZQ3smXEHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **La page spécifique pour l'opération, pour la gamme ou pour la marque !**
 Altazion permet de créer des pages personnalisées, des "landing pages".

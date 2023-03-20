@@ -33,7 +33,7 @@ Les critères sont nombreux pour répondre aux problématiques métiers. Volume,
 **Configurez vos paramètres e-commerce**  
 Définissez les types de produits que vous vendez en ligne, les taux de TVA, la structure du catalogue, le fonctionnement des lots etc.  
 
-<iframe align="center" width="560" height="315" src="https://youtu.be/tNLMc5LSM1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNLMc5LSM1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Gestion : illustration avec un cas pratique
 _Vous êtes responsable e-commerce pour une entreprise de vente de jouets, votre entreprise a une vraie stratégie Omnicanale. Votre responsable de gamme va référencer une nouvelle gamme de figurines Spiderman de la marque Hasbro liées à un nouveau film de la franchise Marvel.
@@ -88,7 +88,7 @@ Dans Office, vous pouvez valider que la mise à jour des stocks s'est déroulée
 
 ## Gérez la relation client
 Altazion permet de gérer la relation client tout au long du cycle de vie. Chat en ligne, évenement commercial, remarque commerciale, historique client et commande...Altazion permet d'accompagne le client tout au long du cycle de commande. Pour en savoir plus cliquez [ici](https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html).  
-<iframe width="560" height="315" src="https://youtu.be/a1q4hpmaoxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a1q4hpmaoxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Managez
 Créez et gérez les droits pour vos collaborateurs puis créez et d'assignez des taches à chacun des membres de votre équipe et de définir le process de validation.  
@@ -97,7 +97,7 @@ Chaque collaborateur peut ensuite les consulter, les ignorer, les traiter ou les
 **Exemple**  
 Pour la création du modèle de page marque vous créez et assignez une tache à l'expert UX - UI qui peut ensuite la transférer au référent SEO pour validation.    
 
-<iframe width="560" height="315" src="https://youtu.be/3HX1JoivA80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3HX1JoivA80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Reporting & optimisation
 Toutes les données Altazion sont exportables. Cela permet d'optimiser les solutions d'emerchandising, mais aussi de nourrir vos CRM, ERP, et outils de reporting. 
