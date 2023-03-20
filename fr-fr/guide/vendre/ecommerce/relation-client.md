@@ -2,12 +2,12 @@
 
 ## Fonctionnement d'Altazion
 Altazion vous propose une solution fiable et complète concernant les données clients, de commandes, le suivi logistique etc. ainsi qu'un grand choix d'actions (aide au passage de commande, gestion des litiges, bons d'achat...). 
-Pour les échanges en temps réel, nous intégrons celle de votre choix (iadvize, Komnicate...).
+Pour les échanges en temps réel, nous intégrons la solution de votre choix (iadvize, Komnicate...).
 
 ## Illustration concrète
 
 ### Avant vente  
-_Une personne découvre votre site internet sollicite le chat (la solution de votre choix) pour une question technico commerciale.
+_Une personne découvre votre site internet et sollicite le support via le chat (la solution de votre choix) pour une question technico commerciale.
 La personne est orientée par un collaborateur du support niveau 0 vers un commercial qui peut renseigner le prospect qui créé un compte et ajoute des produits à son panier. Durant cette étape, le support suit en temps réel le process du prospect depuis Office._
   
 _Au moment de valider la commande le prospect ne procède pas au paiement. Quelque temps après il recontacte le support sur le chat pour "retrouver son panier et savoir si sa commande est passée".  
@@ -20,7 +20,7 @@ Le support consulte l'avancée de celle-ci et constate que le client a sélectio
 Informé, le client récupère son colis._ 
 
 ### Gestion de litige 
-_Le client rentre chez lui et découvre que le produit a été endommagé durant le transport. Il contacte de nouveau le support client et ouvre un litige.
+_Le client rentre chez lui et découvre que le produit a été endommagé durant le transport. Il contacte de nouveau le support client et ouvre un litige.  
 Le support client, utilisant Office et l'onglet de suivi des commandes retrouve sa commande et propose au client plusieurs solutions pour réparer le préjudice. Le client choisi un échange.   
 Le service client créé un bon de retour accessible et imprimable par le client depuis son compte. Le support client décide aussi d'offrir un bon d'achat au client pour une prochaine commande. Après avoir reçu son colis, le client donne un avis positif suite à la bonne gestion._
 
@@ -31,7 +31,7 @@ Ce dernier commande et remercie le support._
 
 **Altazion permet toutes ces actions.**  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SYLFCqUN15M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/a1q4hpmaoxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Fonctionnalités 
 **Chat en ligne**  
@@ -41,16 +41,16 @@ Vous utilisez une autre solution ? Aucun problème, vous intégrez la solution d
 
 **Panier abandonné**  
 
-Les paniers abandonnés sont consultables. Cela permet :  
-- Le support client en cas d’échec lors du processus de commande, avec la possibilité de modif 
+Les paniers abandonnés sont consultables et exportables. Cela permet :  
+- Le support client en cas d’échec lors du processus de commande, avec la possibilité de modifier le panier.
 - Les relances de panier abandonnés.  
 
 **Support client : compte client**  
 
 Le client et le support ont accès aux informations relatives au compte client.
-Cela veut dire que le service de support au client peut agir pour aider le client en réalisant 
-- Modification du mot de passe. 
-- Mise à jour des préférences RGPD (avec possibilité de retrait). 
+Cela veut dire que le service de support au client peut agir pour aider le client en réalisant :
+- Modifier le mot de passe. 
+- Mêtre à jour des préférences RGPD (avec possibilité de retrait). 
 - Consulter la commande en cours et agir sur celle-ci (suivi de commande par exemple). 
 - Consulter les anciennes commandes et échanges. 
 - Contacter par courriel (les échanges sont conservés dans l’administration). 
@@ -60,14 +60,13 @@ Cela veut dire que le service de support au client peut agir pour aider le clien
 - Consulter et modifier les informations personnelles. 
 
 **Gestion des litiges**  
-Altazion propose un module dédié à la gestion des litiges. 
+Altazion propose un module dédié à la gestion des litiges.  
 L'équipe support client peut ainsi consulter les litiges (et leur statuts) de façon centralisée, en plus de pouvoir consulter chacun d'entre eux dans le compte client.
 
 **Bons d'achat**  
 Vous pouvez proposer des bons d'achats à vos clients à des fins commerciales en toute simplicité.
 
 **Fidélisation**  
-
 Nous travaillons déjà avec MailJet par API mais pouvons bien évidemment développer au besoin d fidélisation.  
 
 **Données exportables :**  

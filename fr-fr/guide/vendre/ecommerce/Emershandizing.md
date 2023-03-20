@@ -34,7 +34,7 @@ Le produit apparaitra ainsi avec les stickers "Nouveauté" et "exclusivité".
 En utilisant aussi différents [Keywords](https://aide.altazion.com/fr-fr/guide/referencer/Keywords.html) (mots-clés) liés au super héros et à Marvel vous optimisez l'apparition du produit dans le moteur de recherche interne du site.  
 Les mots clés peuvent aussi être utilisés comme facettes, aussi vous choisissez de les utiliser à cet effet.
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/watch?v=6_ZQ3smXEHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Test avec slideshare**
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ud696a7pqyRSp0" width="100%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DubuissezHugo/emerchandiserpptx" title="emerchandiser.pptx" target="_blank">emerchandiser.pptx</a> </strong> from <strong><a href="//www.slideshare.net/DubuissezHugo" target="_blank">DubuissezHugo</a></strong> </div>
@@ -65,7 +65,7 @@ Parmis les adaptations possible et réalisées, vous décidez donc d'adapter le 
 
 _exemple : la page d'accueil_ 
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/DI5JODGsgKM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://youtu.be/EsEU7gyTtig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Optimisez le searchandising
