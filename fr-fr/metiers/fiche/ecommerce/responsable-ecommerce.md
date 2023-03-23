@@ -89,6 +89,8 @@ Dans Office, vous pouvez valider que la mise à jour des stocks s'est déroulée
 Altazion permet de gérer la relation client tout au long du cycle de vie. Chat en ligne, évenement commercial, remarque commerciale, historique client et commande...Altazion permet d'accompagne le client tout au long du cycle de commande. Pour en savoir plus cliquez [ici](https://aide.altazion.com/fr-fr/metiers/fiche/relation-client/relation-client.html).  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1q4hpmaoxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Dans Office, vous gérez aussi les litiges et éditez des avoirs, l'onglet [Financier](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/financier.html) vous permet aussi de détecter tout problème de réglement de commandes afin d'annuler les expéditions.
+
 ## Managez
 Créez et gérez les droits pour vos collaborateurs puis créez et d'assignez des taches à chacun des membres de votre équipe et de définir le process de validation.  
 Créer des taches en leur donnant une description, une date limite et un degré d'importance puis assignez les à votre équipe en définissant le destinataire.   

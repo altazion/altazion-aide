@@ -11,7 +11,7 @@ _Une personne découvre votre site internet et sollicite le support via le chat 
 La personne est orientée par un collaborateur du support niveau 0 vers un commercial qui peut renseigner le prospect qui créé un compte et ajoute des produits à son panier. Durant cette étape, le support suit en temps réel le process du prospect depuis Office._
   
 _Au moment de valider la commande le prospect ne procède pas au paiement. Quelque temps après il recontacte le support sur le chat pour "retrouver son panier et savoir si sa commande est passée".  
-Grace au **suivi des paniers abandonnés** et au **suivi des commandes** natifs d'Altazion le service support retrouve le panier et guide l'internaute pour passer la commande, qui n'avait pas été validée.   
+Grace au **suivi des paniers abandonnés** et au **suivi des commandes** natifs d'Altazion le service support retrouve le panier et guide l'internaute pour passer la commande, qui n'avait pas été validée.  Pa sécurité, l'équipe support consulte également l'onglet l'onglet [Financier](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/financier.html) afin de valider qu'aucun paiement n'est passé dans les journaux de transactions. 
 Durant l'échange, le client indique apprécier une marque en particulier, le collaborateur l'indique en remarque commerciale dans son compte client._ 
 
 ### Suivi de commande
@@ -62,6 +62,7 @@ Cela veut dire que le service de support au client peut agir pour aider le clien
 **Gestion des litiges**  
 Altazion propose un module dédié à la gestion des litiges.  
 L'équipe support client peut ainsi consulter les litiges (et leur statuts) de façon centralisée, en plus de pouvoir consulter chacun d'entre eux dans le compte client.
+l'onglet [Financier](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/financier.html) offre également la possibilité de suivre les réglements, d'executer des remboursements, d'emmetre des avoirs et des bons de d'achats.
 
 **Bons d'achat**  
 Vous pouvez proposer des bons d'achats à vos clients à des fins commerciales en toute simplicité.
