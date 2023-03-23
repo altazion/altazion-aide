@@ -93,7 +93,10 @@
         - name: Contenu & SEO
           href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/cms.html
         - name: Intéraction client
-          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/relation-client.html    
+          href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/relation-client.html
+          items:
+            - name: Gestion des avoirs et remboursements
+              href: https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/avoirs.html   
     - name: Vendre en magasin
       href: https://aide.altazion.com\fr-fr/guide/vendre/magasin/index.html
 - name: Préparer et expédier

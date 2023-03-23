@@ -22,7 +22,7 @@ Informé, le client récupère son colis._
 ### Gestion de litige 
 _Le client rentre chez lui et découvre que le produit a été endommagé durant le transport. Il contacte de nouveau le support client et ouvre un litige.  
 Le support client, utilisant Office et l'onglet de suivi des commandes retrouve sa commande et propose au client plusieurs solutions pour réparer le préjudice. Le client choisi un échange.   
-Le service client créé un bon de retour accessible et imprimable par le client depuis son compte. Le support client décide aussi d'offrir un bon d'achat au client pour une prochaine commande. Après avoir reçu son colis, le client donne un avis positif suite à la bonne gestion._
+Le service client créé un bon de retour accessible et imprimable par le client depuis son compte. Le support client décide aussi d'offrir un [avoir](https://aide.altazion.com/fr-fr/guide/vendre/ecommerce/avoirs.html) au client pour une prochaine commande. Après avoir reçu son colis, le client donne un avis positif suite à la bonne gestion._
 
 ### Historique et données  
 Quelque temps plus tard, le client a déménagé et recontacte le support pour modifier l'adresse liés au produit acheté mais ne se souvient plus de la référence. Il souhaite commander des consommables.  
