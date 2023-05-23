@@ -197,6 +197,13 @@
     href: reglements/reglementecommercesogenactif.md
   - name: System Pay
     href: reglements/reglementecommercesystempay.md
+- name: Rh
+  href: rh/index.md
+  items: 
+  - name: Gestion des congés et des absences du personnel
+    href: rh/gestioncongesabsences.md
+  - name: Gestion du personnel
+    href: rh/gestionpersonnel.md
 - name: Systeme
   href: systeme/index.md
   items: 
