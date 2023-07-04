@@ -3,59 +3,56 @@
 <h2>Fonctionnalité en test</h2>
 <div id="enTest">
 <div class="item">
-<h3>1 - Pouvoir visualiser les magasins archivés dans la liste des magasins dans Office</h3>
+<h3>1 - Remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
+<div>Vous pouvez désormais agir en urgence sur une médiation en cours en remplaçant le fichier envoyé. </div><div>Cela permet donc de corriger une erreur dans un fichier sans avoir à attendre la fin de la médiation. </div>
 </div>
 <div class="item">
 <h3>2 - Scan de codes barres produits dans l'application Android</h3>
+<div>Scannez les codes barres des produits avec l'App Android. </div>
 </div>
 <div class="item">
-<h3>3 - Pouvoir remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
+<h3>3 - Nouvelle page de configuration e-commerce</h3>
+<div>La page de configuration e-commerce a été rafraichie pour une meilleure expérience utilisateur. </div>
 </div>
 <div class="item">
-<h3>4 - Nouvelle page de configuration e-commerce</h3>
+<h3>4 - Gestion de retraits dans les stocks magasins</h3>
+<div>Gérez des quantités non disponibles à la vente dans les stocks magasins (articles en vitrines, stocks informatiques incorrects, etc.) </div>
 </div>
 <div class="item">
-<h3>5 - Possibilité de filtrer les médiations actives/non actives dans la liste</h3>
-<div>Dans la liste des médiations affichée dans Altazion Office, vous pouvez désormais utiliser un critère de recherche pour n'afficher que les médiations actives ou inactives. </div>
+<h3>5 - Page de détails du contenu d'un cash-out pour les vendeurs marketplace</h3>
 </div>
 <div class="item">
-<h3>6 - Les disponibilités et la référence produit ajoutées aux points API de suggestions</h3>
-<div>Dans les points APIs &quot;Store &amp; Signage&quot;, &quot;Commerce&quot; ainsi que dans les points API &quot;Hub - Main Api&quot;, les suggestions articles propose maintenant les références articles et la disponibilité produit </div>
+<h3>6 - Optimisations du module Orchestrator</h3>
+<div>Corrections et optimisations dans le module OMS pour faciliter la progression des commandes. </div>
 </div>
 </div>
 <h2>C'est pour bientôt</h2>
 <div id="bientot">
 <div class="item">
-<h3>1 - Page de détails du contenu d'un cash-out pour les vendeurs marketplace </h3>
+<h3>1 - Configuration dans l'interface graphique des workflows de préparation Orchestrator </h3>
+<div>Vous pouvez désormais paramétrer et modifier les processus (workflow) de préparation de commande depuis l'interface graphique dans Office.&nbsp; </div><div>-&gt; Ajouter fonctionnement rapide. </div>
 </div>
 <div class="item">
-<h3>2 - Migration .net standard & .net 6.0 pour les solutions OnPremise </h3>
+<h3>2 - Nouvelle gestion des campagnes et animations commerciales sur e-commerce </h3>
+<div>Le fonctionnement des campagnes et des animations commerciales a été revu pour plus de simplicité d'utilisation. </div>
 </div>
 <div class="item">
-<h3>3 - Migration .net 6.0 pour les modules Altazion Hub/Edge </h3>
-<div>Si vous avez développé des modules pour Altazion Hub ou Altazion Edge, la version de .net a été basculé de .net core 3.1 à .net 6.0. </div>
+<h3>3 - Pouvoir gérer plusieurs enseignes </h3>
+<div><span style="">Il est désormais possible de c</span><span style="">réer et gérer des magasins de différentes enseignes avec un seul compte depuis Office.</span><br> </div><div><br> </div>
 </div>
 <div class="item">
-<h3>4 - Gestion de retraits dans les stocks magasins </h3>
-<div>Gérez des quantités non disponibles à la vente dans les stocks magasins (articles en vitrines, stocks informatiques incorrects, etc.) </div>
-</div>
-<div class="item">
-<h3>5 - Intégration de la plateforme de paiement Adyen </h3>
-</div>
-<div class="item">
-<h3>6 - Optimisations du module Orchestrator </h3>
+<h3>4 - Intégration de la plateforme de paiement Adyen </h3>
+<div>La plateforme de paiement Adyen est intégrée de manière omnicanale dans Altazion.&nbsp; </div><div><ul><li>T<span style="color:rgba(0, 0, 0, 0.9);display:inline !important;">PE.</span> </li><li>Web (ecomm + marketplace). </li><li>Devices d'aide à la vente (bornes &amp; tablettes). </li> </ul> </div><div><br style="box-sizing:border-box;color:rgba(0, 0, 0, 0.9);"><span style="color:rgba(0, 0, 0, 0.9);display:inline !important;">Depuis Office vous pouvez paramétrer les modes de paiement par groupes et par magasin.</span> </div>
 </div>
 </div>
 <h2>A l'étude</h2>
 <div id="etude">
 <div class="item">
-<h3>1 - Configuration dans l'interface graphique des workflows de préparation Orchestrator</h3>
+<h3>1 - Ajouter un lien de suivi dans la zone "colis" pour le popup de suivi de commande magasin</h3>
 </div>
 <div class="item">
-<h3>2 - Ajouter un lien de suivi dans la zone "colis" pour le popup de suivi de commande magasin</h3>
-</div>
-<div class="item">
-<h3>3 - Pouvoir se connecter en impersonnalisant un magasin si on est admin de la solution</h3>
+<h3>2 - Pouvoir se connecter en impersonnalisant un magasin si on est admin de la solution</h3>
+<div><div style="box-sizing:border-box;">Désormais un utilisateur qui dispose des droits d'administrateur peut agir comme un compte magasin.&nbsp; </div><div style="box-sizing:border-box;">--&gt; Fonctionnement ?&nbsp; </div><br> </div>
 </div>
 </div>
 </div>
