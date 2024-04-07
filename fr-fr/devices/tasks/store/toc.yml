@@ -1,0 +1,8 @@
+- name: Le centre d'aide Altazion
+  href: https://aide.altazion.com/fr-fr/
+  items:
+- name: Tâches magasin
+  href: index.md
+  items:
+    - name: Alimentation électrique
+      href: prise-alimentation.md
