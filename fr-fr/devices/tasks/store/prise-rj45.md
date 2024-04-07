@@ -1,0 +1,1 @@
+# Prise réseau type RJ 45
