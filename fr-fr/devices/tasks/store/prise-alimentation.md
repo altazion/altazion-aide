@@ -2,12 +2,13 @@
 
 Vérifiez la présence d'une prise d'alimentation, à proximité de l'endroit d'installation de votre borne / tablette.
 
-- **Vérifiez le type de prise** : sauf demande expresse, nous fournissons des prises au format le plus répandu dans votre pays.
+- **Vérifiez le type de prise** : sauf demande expresse, nous fournissons des prises au format le plus répandu dans votre pays. Vérifiez aussi qu'une connexion à la terre est présente sur votre prise murale. 
 
 |Prise|Lieu d'utilisation|
 |---|---|
-|[Prise E](prise-type-e.png) [Prise F](prise-type-f.png)| Union européene|
+|![Prise E](prise-type-e.png) ![Prise F](prise-type-f.png)| Union européene|
 
+- **Evitez les multiprises** : nos équipements pouvant inclure des multi-prises, nous vous invitons à brancher directement celui-ci sur une prise murale ou un rail électrique.
 
 - **Vérifiez la distance** : nous fournissons par défaut un câble d'environ 3m de long. Si cette dimensions est trop courte, merci de nous le préciser avant envoi afin que nous puissions changer ce câble.
 
