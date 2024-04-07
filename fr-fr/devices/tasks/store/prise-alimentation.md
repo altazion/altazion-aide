@@ -19,4 +19,4 @@ Vérifiez la présence d'une prise d'alimentation, à proximité de l'endroit d'
 
 - **placez votre équipement sur une prise protégée** : les dégâts dûs à un problème de tension n'étant que rarement pris en charge par les garanties constructeurs, veillez à placer votre équipement sur un circuit équipé d'une protection contre les variations d'intensité électrique et protégé des risques de surtensions (foudre, variation de tri-phasé, etc.)
 
-- **associez un onduleur** pour limiter l'impact de coupures de courant, nous vous conseillons de protéger votre équipement par un onduleur.
+- **protégez votre équipement des coupures de courant** pour limiter l'impact de coupures ou de micro-coupures sur la durée de vie de votre matériel, nous vous conseillons de protéger votre équipement par un onduleur avec une batterie minimale de 500VA / 300W.
