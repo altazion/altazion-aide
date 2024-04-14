@@ -1,9 +1,9 @@
 - name: Release Notes
   href: index.md
   items:
-    - name: '23.6'
+    - name: 23.6
       href: 23_6.md
-    - name: '23.5'
+    - name: 23.5
       href: 23_5.md
 - name: Roadmap
   href: roadmap.md
