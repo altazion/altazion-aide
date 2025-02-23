@@ -17,12 +17,12 @@
 <div>La home page d'Altazion Office bénéficie d'un nouveau design. </div><div><br> </div>
 </div>
 <div class='item'>
-<h3>Les disponibilités et la référence produit ajoutées aux points API de suggestions</h3>
-<div>Dans les points APIs &quot;Store &amp; Signage&quot;, &quot;Commerce&quot; ainsi que dans les points API &quot;Hub - Main Api&quot;, les suggestions articles propose maintenant les références articles et la disponibilité produit. </div>
-</div>
-<div class='item'>
 <h3>Filtrer les médiations actives/non actives dans la liste</h3>
 <div>Dans la liste des médiations affichée dans Altazion Office, vous pouvez désormais utiliser un critère de recherche pour n'afficher que les médiations actives ou inactives. </div>
+</div>
+<div class='item'>
+<h3>Les disponibilités et la référence produit ajoutées aux points API de suggestions</h3>
+<div>Dans les points APIs &quot;Store &amp; Signage&quot;, &quot;Commerce&quot; ainsi que dans les points API &quot;Hub - Main Api&quot;, les suggestions articles propose maintenant les références articles et la disponibilité produit. </div>
 </div>
 <div class='item'>
 <h3>Visualiser les magasins archivés dans la liste des magasins dans Office</h3>
@@ -49,16 +49,16 @@
 <div>Gérez des quantités non disponibles à la vente dans les stocks magasins (articles en vitrines, stocks informatiques incorrects, etc.) </div>
 </div>
 <div class='item'>
+<h3>Migration .net standard & .net 6.0 pour les solutions OnPremise</h3>
+<div>Nous avons mis à jour la version .net vers la nouvelle version majeure de .net. qui propose&nbsp;<span>des mises logiciel et sécurité.</span> </div>
+</div>
+<div class='item'>
 <h3>Migration .net 6.0 pour les modules Altazion Hub/Edge</h3>
 <div>Si vous avez développé des modules pour Altazion Hub ou Altazion Edge, la version de .net a été basculé de .net core 3.1 à .net 6.0. </div>
 </div>
 <div class='item'>
 <h3>Optimisations du module Orchestrator</h3>
 <div>Corrections et optimisations dans le module OMS pour faciliter la progression des commandes. </div>
-</div>
-<div class='item'>
-<h3>Migration .net standard & .net 6.0 pour les solutions OnPremise</h3>
-<div>Nous avons mis à jour la version .net vers la nouvelle version majeure de .net. qui propose&nbsp;<span>des mises logiciel et sécurité.</span> </div>
 </div>
 </div>
 </div>
