@@ -3,22 +3,22 @@
 <h2>Fonctionnalité en test</h2>
 <div id="enTest">
 <div class="item">
-<h3>1 - Remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
-<div>Vous pouvez désormais agir en urgence sur une médiation en cours en remplaçant le fichier envoyé. </div><div>Cela permet donc de corriger une erreur dans un fichier sans avoir à attendre la fin de la médiation. </div>
+<h3>1 - Page de détails du contenu d'un cash-out pour les vendeurs marketplace</h3>
 </div>
 <div class="item">
-<h3>2 - Scan de codes barres produits dans l'application Android</h3>
+<h3>2 - Nouvelle page de recherche générale</h3>
+</div>
+<div class="item">
+<h3>3 - Scan de codes barres produits dans l'application Android</h3>
 <div>Scannez les codes barres des produits avec l'App Android. </div>
 </div>
 <div class="item">
-<h3>3 - Nouvelle page de recherche générale</h3>
+<h3>4 - Remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
+<div>Vous pouvez désormais agir en urgence sur une médiation en cours en remplaçant le fichier envoyé. </div><div>Cela permet donc de corriger une erreur dans un fichier sans avoir à attendre la fin de la médiation. </div>
 </div>
 <div class="item">
-<h3>4 - Nouvelle page de configuration e-commerce</h3>
+<h3>5 - Nouvelle page de configuration e-commerce</h3>
 <div>La page de configuration e-commerce a été rafraichie pour une meilleure expérience utilisateur. </div>
-</div>
-<div class="item">
-<h3>5 - Page de détails du contenu d'un cash-out pour les vendeurs marketplace</h3>
 </div>
 </div>
 <h2>C'est pour bientôt</h2>
@@ -43,11 +43,11 @@
 <h2>A l'étude</h2>
 <div id="etude">
 <div class="item">
-<h3>1 - Pouvoir se connecter en impersonnalisant un magasin si on est admin de la solution</h3>
-<div><div style="box-sizing:border-box;">Désormais un utilisateur qui dispose des droits d'administrateur peut agir comme un compte magasin.&nbsp; </div><div style="box-sizing:border-box;">--&gt; Fonctionnement ?&nbsp; </div><br> </div>
+<h3>1 - Ajouter un lien de suivi dans la zone "colis" pour le popup de suivi de commande magasin</h3>
 </div>
 <div class="item">
-<h3>2 - Ajouter un lien de suivi dans la zone "colis" pour le popup de suivi de commande magasin</h3>
+<h3>2 - Pouvoir se connecter en impersonnalisant un magasin si on est admin de la solution</h3>
+<div><div style="box-sizing:border-box;">Désormais un utilisateur qui dispose des droits d'administrateur peut agir comme un compte magasin.&nbsp; </div><div style="box-sizing:border-box;">--&gt; Fonctionnement ?&nbsp; </div><br> </div>
 </div>
 </div>
 </div>
