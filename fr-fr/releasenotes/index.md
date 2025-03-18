@@ -17,8 +17,8 @@
 <div>La home page d'Altazion Office bénéficie d'un nouveau design. </div><div><br> </div>
 </div>
 <div class='item'>
-<h3>Les disponibilités et la référence produit ajoutées aux points API de suggestions</h3>
-<div>Dans les points APIs &quot;Store &amp; Signage&quot;, &quot;Commerce&quot; ainsi que dans les points API &quot;Hub - Main Api&quot;, les suggestions articles propose maintenant les références articles et la disponibilité produit. </div>
+<h3>Les client "guests" ne sont pas bien identifié dans le point api de phygital</h3>
+<div>Correctif, les clients avec le statut &quot;guest&quot; sont dersormais correctment identifiés dans le point API de phygital. </div>
 </div>
 <div class='item'>
 <h3>Filtrer les médiations actives/non actives dans la liste</h3>
@@ -29,8 +29,8 @@
 <div>Vous pouvez désormais visualiser les magasins archivés dans la liste des magasins dans Office en cochant une case dans le menu.<br> </div><div> </div><div> </div>
 </div>
 <div class='item'>
-<h3>Les client "guests" ne sont pas bien identifié dans le point api de phygital</h3>
-<div>Correctif, les clients avec le statut &quot;guest&quot; sont dersormais correctment identifiés dans le point API de phygital. </div>
+<h3>Les disponibilités et la référence produit ajoutées aux points API de suggestions</h3>
+<div>Dans les points APIs &quot;Store &amp; Signage&quot;, &quot;Commerce&quot; ainsi que dans les points API &quot;Hub - Main Api&quot;, les suggestions articles propose maintenant les références articles et la disponibilité produit. </div>
 </div>
 </div>
 </div>

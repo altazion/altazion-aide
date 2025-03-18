@@ -1,0 +1,12 @@
+- name: Tâches magasin
+  items:
+    - name: Alimentation électrique
+      href: prise-alimentation.md
+    - name: Réseau filaire RJ-45
+      href: prise-rj45.md
+    - name: Réseau Wifi
+      href: wifi.md      
+    - name: Perfomance réseau
+      href: speedtest.md      
+    - name: Coordonées pour l'installation
+      href: coordonees-installation.md            
