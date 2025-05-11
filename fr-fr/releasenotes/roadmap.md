@@ -9,12 +9,12 @@
 <h3>2 - Nouvelle page de recherche générale</h3>
 </div>
 <div class="item">
-<h3>3 - Scan de codes barres produits dans l'application Android</h3>
-<div>Scannez les codes barres des produits avec l'App Android. </div>
+<h3>3 - Remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
+<div>Vous pouvez désormais agir en urgence sur une médiation en cours en remplaçant le fichier envoyé. </div><div>Cela permet donc de corriger une erreur dans un fichier sans avoir à attendre la fin de la médiation. </div>
 </div>
 <div class="item">
-<h3>4 - Remplacer un fichier dans une médiation non terminée (en cas d'erreur par exemple)</h3>
-<div>Vous pouvez désormais agir en urgence sur une médiation en cours en remplaçant le fichier envoyé. </div><div>Cela permet donc de corriger une erreur dans un fichier sans avoir à attendre la fin de la médiation. </div>
+<h3>4 - Scan de codes barres produits dans l'application Android</h3>
+<div>Scannez les codes barres des produits avec l'App Android. </div>
 </div>
 <div class="item">
 <h3>5 - Nouvelle page de configuration e-commerce</h3>

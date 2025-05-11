@@ -17,12 +17,12 @@
 <div>La home page d'Altazion Office bénéficie d'un nouveau design. </div><div><br> </div>
 </div>
 <div class='item'>
-<h3>Filtrer les médiations actives/non actives dans la liste</h3>
-<div>Dans la liste des médiations affichée dans Altazion Office, vous pouvez désormais utiliser un critère de recherche pour n'afficher que les médiations actives ou inactives. </div>
-</div>
-<div class='item'>
 <h3>Les disponibilités et la référence produit ajoutées aux points API de suggestions</h3>
 <div>Dans les points APIs &quot;Store &amp; Signage&quot;, &quot;Commerce&quot; ainsi que dans les points API &quot;Hub - Main Api&quot;, les suggestions articles propose maintenant les références articles et la disponibilité produit. </div>
+</div>
+<div class='item'>
+<h3>Filtrer les médiations actives/non actives dans la liste</h3>
+<div>Dans la liste des médiations affichée dans Altazion Office, vous pouvez désormais utiliser un critère de recherche pour n'afficher que les médiations actives ou inactives. </div>
 </div>
 <div class='item'>
 <h3>Visualiser les magasins archivés dans la liste des magasins dans Office</h3>
