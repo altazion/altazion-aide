@@ -149,8 +149,12 @@
     href: logistique/stocksfifo.md
   - name: Saisie de la préparation manuelle
     href: logistique/saisieprepa.md
+  - name: Sources d'approvisionnement et Delivery Optimizer
+    href: logistique/sourcesapprodo.md
   - name: Suivi des stocks
     href: logistique/suivistocks.md
+  - name: Unified Stock
+    href: logistique/unifiedstock.md
 - name: Magasins
   href: magasins/index.md
   items: 
